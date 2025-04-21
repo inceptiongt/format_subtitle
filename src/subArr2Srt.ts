@@ -1,4 +1,4 @@
-import { subtitle_item } from "./index";
+import { resultItem } from "./index";
 
 /**
  * 把 subtitle_item[] 类型的数据转换成 srt 格式的字幕内容
@@ -14,7 +14,7 @@ import { subtitle_item } from "./index";
  * 
 */
 
-export const subArr2Srt = (subArr: subtitle_item[]): string => {
+export const subArr2Srt = (subArr: resultItem[]): string => {
     // 如果数组为空，返回空字符串
     if (subArr.length === 0) {
         return '';
@@ -35,11 +35,10 @@ export const subArr2Srt = (subArr: subtitle_item[]): string => {
     return subArr.map((item, index) => {
         // 计算开始和结束时间
         const startTime = msToSrtTime(item.tStartMs);
-        const endTime = msToSrtTime(item.tStartMs + item.dDurationMs);
+        const endTime = msToSrtTime(item.tEndMs);
         
         // 获取字幕文本（合并所有 segs 中的 utf8 文本）
-        const text = item.segs.map(seg => seg.utf8).join('');
-
+        const text = item.char
         // 返回 srt 格式的字幕块
         return `${index + 1}\n${startTime} --> ${endTime}\n${text}\n`;
     }).join('\n');

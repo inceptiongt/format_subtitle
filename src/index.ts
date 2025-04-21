@@ -17,11 +17,18 @@ export interface subtitle_item {
   }[];
 }
 
+export interface resultItem {
+  tStartMs: number;
+  tEndMs: number;
+  char: string
+}
+
 
 /**
  * 根据字幕的文字内容，按照"完整句子"，重新整理字幕内容
  * @example
- * 输入：
+ * input:
+ * 
  * [ {
     "tStartMs": 11760,
     "dDurationMs": 6640,
@@ -54,7 +61,7 @@ export interface subtitle_item {
     } ]
   }
   
-  输出：
+  output:
     [ {
     "tStartMs": 11760,
     "dDurationMs": ,
@@ -76,15 +83,16 @@ export interface subtitle_item {
   }
   ]
 
-  转换的逻辑是：
-  segs 里是完整的句子，根据字符中的句号、问号等判断
-  tStartMs、dDurationMs需要根据 segs 的内容长度重新计算
+  input中 segs 的字符是一句完整的话的一部分，而 output 中 segs 的字符都是完整的一句话
+  output 中 tStartMs、dDurationMs需要根据 segs 的内容长度重新计算
  *  
  * 
  */
-export const format_subtitle = (subtitle: subtitle_item[]): subtitle_item[] => {
-  // If input is empty, return empty array
-  if (subtitle.length === 0) return [];
+export const format_subtitle = (subtitle: subtitle_item[]) => {
+  const senEnd = ['；','。','？','！']
+  // 逗号也作为句子边界，为了将太长的句子分割
+  const senEdge = [...senEnd,'，']
+
 
   // Helper function to clean text (remove newlines and excess whitespace)
   const cleanText = (text: string): string => {
@@ -95,96 +103,68 @@ export const format_subtitle = (subtitle: subtitle_item[]): subtitle_item[] => {
       .trim();
   };
 
-  // Create an array of all characters with their timing information
-  type CharInfo = { char: string; startMs: number; durationMs: number };
-  const chars: CharInfo[] = [];
-  
-  // Extract characters with timing information
+  const deleteComma = (text: string): string => {
+    return text.endsWith('，') ? text.slice(0, -1) : text;
+  }
+
+  const result: resultItem[] = []
+
+  let resultItem:resultItem = {
+    tStartMs: subtitle[0].tStartMs,
+    tEndMs: 0,
+    char: ''
+  }
+
   for (const item of subtitle) {
-    const startMs = Math.round(item.tStartMs);
-    const durationMs = Math.round(item.dDurationMs);
+    const {tStartMs,dDurationMs} = item
+    const iChar = cleanText(item.segs[0].utf8)
+
+    //正则： 非 senEdge 字符，一个或多个， senEdge 字符
+    const reg = new RegExp(`[^${senEdge.join('')}]+[${senEdge.join('')}]`,'g')
+    let senEdgePart = reg.exec(iChar)    
     
-    let totalChars = 0;
-    for (const seg of item.segs) {
-      const cleanedText = cleanText(seg.utf8);
-      totalChars += cleanedText.length;
-    }
-    
-    // If no characters, skip
-    if (totalChars === 0) continue;
-    
-    // Calculate per-character duration and ensure it's an integer
-    const charDuration = Math.round(durationMs / totalChars);
-    
-    for (const seg of item.segs) {
-      const cleanedText = cleanText(seg.utf8);
-      for (let i = 0; i < cleanedText.length; i++) {
-        chars.push({
-          char: cleanedText[i],
-          startMs: Math.round(startMs + (i * charDuration)),
-          durationMs: charDuration
-        });
-      }
-    }
-  }
-  
-  // Build the text from all characters
-  const allText = chars.map(c => c.char).join('');
-  
-  // Split by sentence endings (。.?!？！) and handle Chinese punctuation
-  // Modified regex to better handle sentence boundaries
-  const sentenceRegex = /([^。？！，；]+[。？！，；])/g;
-  const sentences = allText.match(sentenceRegex) || [];
-  
-  // Group sentences into complete subtitle items
-  const result: subtitle_item[] = [];
-  let currentText = '';
-  let charIndex = 0;
-  
-  for (const sentence of sentences) {
-    // Clean the sentence of any whitespace and remove punctuation at the end
-    const cleanSentence = sentence.trim().replace(/[。？！，；]$/, '');
-    
-    // Skip empty sentences
-    if (!cleanSentence) continue;
-    
-    // Check if adding this sentence would make the subtitle too long
-    // For Chinese text, we use a smaller limit of 10 characters
-    if (currentText && (currentText.length > 10)) {
-      // Save current subtitle with proper timing
-      const sentenceChars = chars.slice(charIndex - currentText.length, charIndex);
-      const startMs = Math.round(sentenceChars[0].startMs);
-      const endMs = Math.round(sentenceChars[sentenceChars.length - 1].startMs + 
-                   sentenceChars[sentenceChars.length - 1].durationMs);
-      
-      result.push({
-        tStartMs: startMs,
-        dDurationMs: Math.round(endMs - startMs),
-        segs: [{ utf8: currentText }]
-      });
-      
-      // Start new subtitle
-      currentText = cleanSentence;
-      charIndex += cleanSentence.length;
+    if (!senEdgePart){
+      resultItem.char += iChar
+      continue
     } else {
-      currentText += cleanSentence;
-      charIndex += cleanSentence.length;
+      while(senEdgePart) {
+        const {lastIndex} = reg
+        resultItem.char += senEdgePart[0]
+        
+        // 字符长度大于 10 或 以句号结尾
+        if(resultItem.char.length > 10 || senEnd.includes(senEdgePart[0].slice(-1))) {
+          const edgeTime = tStartMs+Math.round(dDurationMs*(lastIndex/iChar.length))
+          resultItem.tEndMs = edgeTime
+          
+          result.push({...resultItem, char: deleteComma(resultItem.char)})
+          
+          // 下一个 item 的开始时间是上一个 item 的结束时间
+          resultItem = {
+            tEndMs: 0,
+            tStartMs: edgeTime,
+            char: ''
+          }
+          
+          // 继续匹配
+          senEdgePart = reg.exec(iChar)
+          if(!senEdgePart) {
+            resultItem.char = iChar.slice(lastIndex)
+          }
+        } else {
+          // 继续匹配
+          senEdgePart = reg.exec(iChar)
+          if(!senEdgePart) {
+            resultItem.char += iChar.slice(lastIndex)
+          }
+        }
+        
+      }
+
     }
+
+    
   }
   
-  // Add the last subtitle if it has content
-  if (currentText) {
-    const sentenceChars = chars.slice(charIndex - currentText.length, charIndex);
-    const startMs = Math.round(sentenceChars[0].startMs);
-    const endMs = Math.round(sentenceChars[sentenceChars.length - 1].startMs + 
-                 sentenceChars[sentenceChars.length - 1].durationMs);
-    
-    result.push({
-      tStartMs: startMs,
-      dDurationMs: Math.round(endMs - startMs),
-      segs: [{ utf8: currentText }]
-    });
-  }
   
   return result;
 }
