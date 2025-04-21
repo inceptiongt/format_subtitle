@@ -1,10 +1,10 @@
 # TSDX User Guide
 
-Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
+Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let's get you oriented with what's here and how to use it.
 
-> This TSDX setup is meant for developing libraries (not apps!) that can be published to NPM. If you’re looking to build a Node app, you could use `ts-node-dev`, plain `ts-node`, or simple `tsc`.
+> This TSDX setup is meant for developing libraries (not apps!) that can be published to NPM. If you're looking to build a Node app, you could use `ts-node-dev`, plain `ts-node`, or simple `tsc`.
 
-> If you’re new to TypeScript, checkout [this handy cheatsheet](https://devhints.io/typescript)
+> If you're new to TypeScript, checkout [this handy cheatsheet](https://devhints.io/typescript)
 
 ## Commands
 
@@ -101,3 +101,31 @@ For vanilla CSS, you can include it at the root directory and add it to the `fil
 ## Publishing to NPM
 
 We recommend using [np](https://github.com/sindresorhus/np).
+
+## Command Line Usage
+
+This package provides a command-line interface for converting JSON subtitle files to SRT format.
+
+### Installation
+
+```bash
+npm install -g format-subtitle
+```
+
+### Usage
+
+```bash
+format-subtitle <input> <output>
+```
+
+Where:
+- `<input>` is the path to your input JSON subtitle file
+- `<output>` is the path where you want to save the converted SRT file
+
+### Example
+
+```bash
+format-subtitle input.json output.srt
+```
+
+This will convert the JSON subtitle file `input.json` to SRT format and save it as `output.srt`.
