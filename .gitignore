@@ -5,5 +5,3 @@ dist
 
 .vscode
 .github
-*.srt
-sub_*.json
