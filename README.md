@@ -1,3 +1,43 @@
+# Format Subtitle for Youtube auto translate
+
+## Summarize
+
+This is a TypeScript library that helps convert JSON subtitle files to SRT format, specifically designed for YouTube's auto-translate feature. It provides a simple command-line interface to transform subtitle files, making them compatible with YouTube's subtitle system. The tool is built using TSDX and supports various module formats including CJS, ESModules, and UMD.
+
+## Command Line Usage
+
+This package provides a command-line interface for converting JSON subtitle files to SRT format.
+
+### Installation
+
+```bash
+npm install -g format-subtitle
+```
+
+### Usage
+
+```bash
+format-subtitle <input> [output]
+```
+
+Where:
+- `<input>` is the path to your input JSON subtitle file (required)
+- `[output]` is the path where you want to save the converted SRT file (optional)
+
+If the output path is not provided, the SRT file will be saved in the same directory as the input file, with the same name but with a `.srt` extension.
+
+### Examples
+
+1. With both input and output paths:
+```bash
+format-subtitle input.json output.srt
+```
+
+2. With only input path (output will be automatically generated):
+```bash
+format-subtitle input.json
+# This will create input.srt in the same directory as input.json
+```
 # TSDX User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let's get you oriented with what's here and how to use it.
@@ -101,38 +141,3 @@ For vanilla CSS, you can include it at the root directory and add it to the `fil
 ## Publishing to NPM
 
 We recommend using [np](https://github.com/sindresorhus/np).
-
-## Command Line Usage
-
-This package provides a command-line interface for converting JSON subtitle files to SRT format.
-
-### Installation
-
-```bash
-npm install -g format-subtitle
-```
-
-### Usage
-
-```bash
-format-subtitle <input> [output]
-```
-
-Where:
-- `<input>` is the path to your input JSON subtitle file (required)
-- `[output]` is the path where you want to save the converted SRT file (optional)
-
-If the output path is not provided, the SRT file will be saved in the same directory as the input file, with the same name but with a `.srt` extension.
-
-### Examples
-
-1. With both input and output paths:
-```bash
-format-subtitle input.json output.srt
-```
-
-2. With only input path (output will be automatically generated):
-```bash
-format-subtitle input.json
-# This will create input.srt in the same directory as input.json
-```
