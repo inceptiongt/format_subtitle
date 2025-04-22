@@ -119,8 +119,16 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
     const {tStartMs,dDurationMs} = item
     const iChar = cleanText(item.segs[0].utf8)
 
-    //正则： 非 senEdge 字符，一个或多个， senEdge 字符
-    const reg = new RegExp(`[^${senEdge.join('')}]+[${senEdge.join('')}]`,'g')
+    // 如果字幕为空，则跳过
+    if(iChar === ''){
+      // 更新下一个 item 的时间
+      // resultItem.tStartMs = tStartMs + dDurationMs
+      resultItem.tStartMs = tStartMs
+      continue
+    }
+
+    //正则： 非 senEdge 字符，零个或多个， senEdge 字符
+    const reg = new RegExp(`[^${senEdge.join('')}]*[${senEdge.join('')}]`,'g')
     let senEdgePart = reg.exec(iChar)    
     
     if (!senEdgePart){
