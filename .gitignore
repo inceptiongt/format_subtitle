@@ -7,6 +7,6 @@ dist
 .github
 
 # only ignore .srt and .txt files in root directory
-/*.srt
-/*.txt
+/*_test.srt
+/*_test.md
 

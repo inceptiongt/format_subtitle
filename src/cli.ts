@@ -3,17 +3,18 @@
 import { Command } from 'commander';
 import * as fs from 'fs';
 import * as path from 'path';
-import {format_subtitle, subArr2Srt, subArr2Txt} from './index'
+import {format_subtitle, subArr2Srt, subArr2Md} from './index'
 
 const program = new Command();
 
 program
   .name('format-subtitle')
-  .description('Convert JSON subtitle to SRT or TXT format')
+  .description('Convert JSON subtitle to SRT or MD format')
   .version('0.1.0')
   .argument('<input>', 'input JSON file path')
   .argument('[output]', 'output file path (optional)')
-  .option('-t, --txt', 'output both SRT and TXT formats')
+  .option('-m, --md', 'output both SRT and MD formats')
+  .option('-c, --chapters <chapters>', 'chapters JSON file path')
   .action((input, output, options) => {
     try {
       const jsonContent = fs.readFileSync(input, 'utf-8');
@@ -30,12 +31,31 @@ program
       fs.writeFileSync(srtPath, srtContent, 'utf-8');
       console.log(`Successfully converted ${input} to ${srtPath}`);
       
-      // If -t flag is used, also generate TXT file
-      if (options.txt) {
-        const txtContent = subArr2Txt(subtitleData);
-        const txtPath = `${baseOutputPath}.txt`;
-        fs.writeFileSync(txtPath, txtContent, 'utf-8');
-        console.log(`Successfully converted ${input} to ${txtPath}`);
+      // If -m flag is used, also generate MD file
+      if (options.md) {
+        let chaptersData = null;
+        let chaptersPath = options.chapters;
+        
+        if (!chaptersPath) {
+          // Try to load default chapters file
+          const defaultChaptersPath = path.join(
+            path.dirname(input),
+            `${path.basename(input, path.extname(input))}_chapters.json`
+          );
+          if (fs.existsSync(defaultChaptersPath)) {
+            chaptersPath = defaultChaptersPath;
+          }
+        }
+        
+        if (chaptersPath) {
+          const chaptersContent = fs.readFileSync(chaptersPath, 'utf-8');
+          chaptersData = JSON.parse(chaptersContent);
+        }
+        
+        const mdContent = subArr2Md(subtitleData, chaptersData);
+        const mdPath = `${baseOutputPath}.md`;
+        fs.writeFileSync(mdPath, mdContent, 'utf-8');
+        console.log(`Successfully converted ${input} to ${mdPath}`);
       }
     } catch (error) {
       if (error instanceof Error) {

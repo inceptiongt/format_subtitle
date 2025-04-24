@@ -2,11 +2,11 @@
 
 ## Summarize
 
-This is a TypeScript library that helps convert JSON subtitle files to SRT or TXT format, specifically designed for YouTube's auto-translate feature. It provides a simple command-line interface to transform subtitle files, making them compatible with YouTube's subtitle system or generating plain text files. The tool is built using TSDX and supports various module formats including CJS, ESModules, and UMD.
+This is a TypeScript library that helps convert JSON subtitle files to SRT or MD format, specifically designed for YouTube's auto-translate feature. It provides a simple command-line interface to transform subtitle files, making them compatible with YouTube's subtitle system or generating Markdown files with chapter titles. The tool is built using TSDX and supports various module formats including CJS, ESModules, and UMD.
 
 ## Command Line Usage
 
-This package provides a command-line interface for converting JSON subtitle files to SRT or TXT format.
+This package provides a command-line interface for converting JSON subtitle files to SRT or MD format.
 
 ### Installation
 
@@ -24,9 +24,17 @@ Where:
 - `<input>` is the path to your input JSON subtitle file (required)
 - `[output]` is the path where you want to save the converted file (optional)
 - `[options]` are additional flags:
-  - `-t, --txt`: Output both SRT and TXT formats
+  - `-m, --md`: Output both SRT and MD formats
+  - `-c, --chapters <chapters>`: Path to chapters JSON file (only used when generating MD format)
 
-If the output path is not provided, the files will be saved in the same directory as the input file, with the same name but with `.srt` and `.txt` extensions.
+If the output path is not provided, the files will be saved in the same directory as the input file, with the same name but with `.srt` and `.md` extensions.
+
+When generating MD format with `-m` flag:
+- If `-c` option is provided, the specified chapters file will be used
+- If `-c` option is not provided, the tool will try to load `<input>_chapters.json` from the same directory as the input file
+- If no chapters file is found, the MD output will be generated without chapter information
+
+Note: The chapters file is only used when generating the MD format. It has no effect on the SRT file generation.
 
 ### Examples
 
@@ -38,12 +46,19 @@ format-subtitle input.json
 # This will create input.srt in the same directory as input.json
 ```
 
-2. Convert to both SRT and TXT formats:
+2. Convert to both SRT and MD formats:
 ```bash
-format-subtitle input.json output -t
+format-subtitle input.json output -m
 # or
-format-subtitle input.json -t
-# This will create both input.srt and input.txt in the same directory as input.json
+format-subtitle input.json -m
+# This will create both input.srt and input.md in the same directory as input.json
+```
+
+3. Convert with custom chapters file (only affects MD output):
+```bash
+format-subtitle input.json -m -c custom_chapters.json
+# This will use custom_chapters.json for chapter information in the MD file
+# The SRT file will be generated normally without chapter information
 ```
 
 ## 优化
