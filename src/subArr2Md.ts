@@ -146,5 +146,5 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[]): str
   const pattern = new RegExp(`([${SenEnd.join('')}])\\s*`, 'g');
   
   // Split text into sentences and add newlines after each sentence
-  return text.replace(pattern, '$1\n\n').trim();
+  return text.replace(pattern, '$1\n').trim();
 }
