@@ -92,7 +92,9 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
   const senEnd = ['；','。','？','！']
   // 逗号也作为句子边界，为了将太长的句子分割
   const senEdge = [...senEnd,'，']
-
+  
+  // 详见 readme》优化》一
+  let isEndWithSenEdge = false
 
   // Helper function to clean text (remove newlines and excess whitespace)
   const cleanText = (text: string): string => {
@@ -115,6 +117,7 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
     char: ''
   }
 
+
   for (const item of subtitle) {
     const {tStartMs,dDurationMs} = item
     const iChar = cleanText(item.segs[0].utf8)
@@ -125,6 +128,10 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
       // resultItem.tStartMs = tStartMs + dDurationMs
       resultItem.tStartMs = tStartMs
       continue
+    }
+
+    if(isEndWithSenEdge) {
+      resultItem.tStartMs = tStartMs
     }
 
     //正则： 非 senEdge 字符，零个或多个， senEdge 字符
@@ -151,6 +158,11 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
             tEndMs: 0,
             tStartMs: edgeTime,
             char: ''
+          }
+
+          // 如果 iChar 是已 senEdge 结尾
+          if(lastIndex === iChar.length) {
+            isEndWithSenEdge = true
           }
           
           // 继续匹配

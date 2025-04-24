@@ -38,6 +38,29 @@ format-subtitle input.json output.srt
 format-subtitle input.json
 # This will create input.srt in the same directory as input.json
 ```
+## 优化
+
+### tStartMs 的计算
+
+```
+[{
+    "tStartMs": 674460,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "他们将首次使用坦克，但\n无济于事。"
+    } ]
+  }, {
+    "tStartMs": 682040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "当罗马尼亚加入协约国时，\n东方的布鲁西洛夫攻势、"
+    } ]
+  }] 
+```
+如上述，上一条的 tStartMs + dDurationMs(T1) 不等于下一条的 tStartMs(T2)。
+
+生成新字幕时，上一条正好以句号结尾，生成一条新字幕。这时，新的下一条字幕的 tStartMs 就不应该是 T1，而应该是 T2
+
 # TSDX User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let's get you oriented with what's here and how to use it.
