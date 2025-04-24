@@ -2,11 +2,11 @@
 
 ## Summarize
 
-This is a TypeScript library that helps convert JSON subtitle files to SRT format, specifically designed for YouTube's auto-translate feature. It provides a simple command-line interface to transform subtitle files, making them compatible with YouTube's subtitle system. The tool is built using TSDX and supports various module formats including CJS, ESModules, and UMD.
+This is a TypeScript library that helps convert JSON subtitle files to SRT or TXT format, specifically designed for YouTube's auto-translate feature. It provides a simple command-line interface to transform subtitle files, making them compatible with YouTube's subtitle system or generating plain text files. The tool is built using TSDX and supports various module formats including CJS, ESModules, and UMD.
 
 ## Command Line Usage
 
-This package provides a command-line interface for converting JSON subtitle files to SRT format.
+This package provides a command-line interface for converting JSON subtitle files to SRT or TXT format.
 
 ### Installation
 
@@ -17,27 +17,35 @@ npm install -g format-subtitle
 ### Usage
 
 ```bash
-format-subtitle <input> [output]
+format-subtitle <input> [output] [options]
 ```
 
 Where:
 - `<input>` is the path to your input JSON subtitle file (required)
-- `[output]` is the path where you want to save the converted SRT file (optional)
+- `[output]` is the path where you want to save the converted file (optional)
+- `[options]` are additional flags:
+  - `-t, --txt`: Output both SRT and TXT formats
 
-If the output path is not provided, the SRT file will be saved in the same directory as the input file, with the same name but with a `.srt` extension.
+If the output path is not provided, the files will be saved in the same directory as the input file, with the same name but with `.srt` and `.txt` extensions.
 
 ### Examples
 
-1. With both input and output paths:
+1. Convert to SRT format only (default):
 ```bash
 format-subtitle input.json output.srt
-```
-
-2. With only input path (output will be automatically generated):
-```bash
+# or
 format-subtitle input.json
 # This will create input.srt in the same directory as input.json
 ```
+
+2. Convert to both SRT and TXT formats:
+```bash
+format-subtitle input.json output -t
+# or
+format-subtitle input.json -t
+# This will create both input.srt and input.txt in the same directory as input.json
+```
+
 ## 优化
 
 ### tStartMs 的计算

@@ -5,3 +5,8 @@ dist
 
 .vscode
 .github
+
+# only ignore .srt and .txt files in root directory
+/*.srt
+/*.txt
+

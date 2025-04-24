@@ -1,4 +1,4 @@
-import { resultItem } from "./index";
+import type { resultItem } from "./index";
 
 /**
  * 把 subtitle_item[] 类型的数据转换成 srt 格式的字幕内容
