@@ -166,18 +166,22 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
           // 如果 iChar 是已 SenEdge 结尾
           if(lastIndex === iChar.length) {
             isEndWithSenEdge = true
+            // reg 已经匹配到字符末尾，直接跳出 while 循环。
+            break
           }
           
           // 继续匹配
           senEdgePart = reg.exec(iChar)
           if(!senEdgePart) {
             resultItem.char = iChar.slice(lastIndex)
+            isEndWithSenEdge = false
           }
         } else {
           // 继续匹配
           senEdgePart = reg.exec(iChar)
           if(!senEdgePart) {
             resultItem.char += iChar.slice(lastIndex)
+            isEndWithSenEdge = false
           }
         }
         

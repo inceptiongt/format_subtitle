@@ -65,7 +65,7 @@ format-subtitle input.json -m -c custom_chapters.json
 
 ### tStartMs 的计算
 
-```
+```json
 [{
     "tStartMs": 674460,
     "dDurationMs": 3880,
@@ -83,6 +83,57 @@ format-subtitle input.json -m -c custom_chapters.json
 如上述，上一条的 tStartMs + dDurationMs(T1) 不等于下一条的 tStartMs(T2)。
 
 生成新字幕时，上一条正好以句号结尾，生成一条新字幕。这时，新的下一条字幕的 tStartMs 就不应该是 T1，而应该是 T2
+
+### 同上
+```json
+ [{
+    "tStartMs": 964520,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "该国军队遭到严重瓦解。"
+    } ]
+  }, {
+    "tStartMs": 967680,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "最后，德国及其盟友被认为对战争损失负有全部责任"
+    } ]
+  }, {
+    "tStartMs": 972940,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "，必须支付所有赔款。 德国人民"
+    } ]
+  }, {
+    "tStartMs": 975460,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "认为该条约是一种屈辱\n。"
+    } ]
+  }]
+```
+
+```
+228
+00:16:04,520 --> 00:16:07,680
+该国军队遭到严重瓦解。
+
+229
+- 00:16:07,680 --> 00:16:13,120
++ 00:16:12,940 --> 00:16:13,120
+最后，德国及其盟友被认为对战争损失负有全部责任
+
+230
+00:16:13,120 --> 00:16:14,739
+必须支付所有赔款。
+
+231
+- 00:16:15,460 --> 00:16:19,160
++ 00:16:14,739 --> 00:16:19,160
+德国人民认为该条约是一种屈辱。
+```
+
+229/231 字幕的 startime 出错了。是 isEndWithSenEdge 没有即使 false 导致的。
 
 # TSDX User Guide
 
