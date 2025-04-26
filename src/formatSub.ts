@@ -143,6 +143,7 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
     
     if (!senEdgePart){
       resultItem.char += iChar
+      isEndWithSenEdge = false
       continue
     } else {
       while(senEdgePart) {
