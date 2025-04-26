@@ -79,9 +79,20 @@ chapters = [
         }
 }}
 
-TXT：
+json_english = [
+
+]
+
+markdown:
+
+// chapter
+Rise of nationalism in Europe
+// chinese
 我们从 19 世纪中叶开始，在欧洲，民族主义的兴起削弱了主导力量。
 与法国结盟的撒丁王国击败了奥地利帝国，实现了意大利的统一。
+// english
+1914. The Great Powers of Europe are divided into two rival alliances:......
+
 
 提取每一个utf8字段中的内容，每一个内容占一行。
 再进行合并，使得一句话占一行
@@ -110,41 +121,95 @@ export interface chapter_item {
  * Convert subtitle array to formatted text with chapter titles
  * @param json Subtitle items array
  * @param chapters Chapter items array (optional)
+ * @param json_english English subtitle items array (optional)
  * @returns Formatted text with chapter titles in Markdown format
  */
-export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[]): string => {
+export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json_english?: subtitle_item[]): string => {
   let currentChapterIndex = 0;
+  let result = '';
+  let currentChapterContent = '';
+  let currentChapterEnglishContent = '';
 
-  // Extract all utf8 content and clean up newlines, while inserting chapter titles
-  let text = json.map(item => {
+  // Generate virtual chapters if no chapters provided
+  if (!chapters) {
+    const FIVE_MINUTES = 5 * 60 * 1000; // 5 minutes in milliseconds
+    const lastTime = json[json.length - 1].tStartMs + json[json.length - 1].dDurationMs;
+    const virtualChapters: chapter_item[] = [];
+    
+    for (let time = 0; time < lastTime; time += FIVE_MINUTES) {
+      virtualChapters.push({
+        chapterRenderer: {
+          title: {
+            simpleText: (virtualChapters.length + 1).toString()
+          },
+          timeRangeStartMillis: time
+        }
+      });
+    }
+    chapters = virtualChapters;
+  }
+  
+  // English sentence endings (excluding decimal points and years)
+  // 小数点不匹配，省略号整体匹配
+  const englishPattern = /(?<!\d)([.!?]|\.\.\.)(?!\d)(?!\.)\s*/g;
+  
+  // Process each subtitle item
+  json.forEach((item, index) => {
     const nextTime = item.tStartMs + item.dDurationMs;
-    let result = '';
-
-    // Check if we need to insert a chapter title
+    
+    // Check if we need to start a new chapter
     while (chapters && currentChapterIndex < chapters.length && 
            chapters[currentChapterIndex].chapterRenderer.timeRangeStartMillis <= nextTime) {
+      // If we have content from previous chapter, add it to result
+      if (currentChapterContent) {
+        // Process Chinese content
+        const chinesePattern = new RegExp(`([${SenEnd.join('')}])\\s*`, 'g');
+        result += currentChapterContent.replace(chinesePattern, '$1\n');
+        
+        // Process English content if exists
+        if (currentChapterEnglishContent) {
+          result += '\n\n' + currentChapterEnglishContent.replace(englishPattern, '$1\n');
+        }
+        result += '\n\n';
+      }
+      
+      // Start new chapter
       const chapter = chapters[currentChapterIndex];
       result += `# ${chapter.chapterRenderer.title.simpleText}\n\n`;
       currentChapterIndex++;
+      currentChapterContent = '';
+      currentChapterEnglishContent = '';
     }
 
-    // Add the current line
-    result += item.segs[0].utf8.replace(/\n/g, '');
-    return result;
-  }).join('');
+    // Add Chinese content
+    currentChapterContent += item.segs[0].utf8.replace(/\n/g, '');
+    
+    // Add corresponding English content if available
+    if (json_english && json_english[index]) {
+      currentChapterEnglishContent += json_english[index].segs[0].utf8.replace(/\n/g, '');
+    }
+  });
+
+  // Add the last chapter's content
+  if (currentChapterContent) {
+    // Process Chinese content
+    const chinesePattern = new RegExp(`([${SenEnd.join('')}])\\s*`, 'g');
+    result += currentChapterContent.replace(chinesePattern, '$1\n');
+    
+    // Process English content if exists
+    if (currentChapterEnglishContent) {
+      result += '\n\n' + currentChapterEnglishContent.replace(englishPattern, '$1\n');
+    }
+  }
 
   // Add any remaining chapter titles
   if (chapters) {
     while (currentChapterIndex < chapters.length) {
       const chapter = chapters[currentChapterIndex];
-      text += `\n# ${chapter.chapterRenderer.title.simpleText}\n\n`;
+      result += `\n# ${chapter.chapterRenderer.title.simpleText}\n\n`;
       currentChapterIndex++;
     }
   }
-  
-  // Create regex pattern from SenEnd punctuation marks
-  const pattern = new RegExp(`([${SenEnd.join('')}])\\s*`, 'g');
-  
-  // Split text into sentences and add newlines after each sentence
-  return text.replace(pattern, '$1\n').trim();
+
+  return result.trim();
 }

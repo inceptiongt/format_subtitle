@@ -15,6 +15,7 @@ program
   .argument('[output]', 'output file path (optional)')
   .option('-m, --md', 'output both SRT and MD formats')
   .option('-c, --chapters <chapters>', 'chapters JSON file path')
+  .option('-e, --english <english>', 'English subtitle JSON file path')
   .action((input, output, options) => {
     try {
       const jsonContent = fs.readFileSync(input, 'utf-8');
@@ -51,8 +52,27 @@ program
           const chaptersContent = fs.readFileSync(chaptersPath, 'utf-8');
           chaptersData = JSON.parse(chaptersContent);
         }
+
+        let englishData = null;
+        let englishPath = options.english;
         
-        const mdContent = subArr2Md(subtitleData, chaptersData);
+        if (!englishPath) {
+          // Try to load default English file
+          const defaultEnglishPath = path.join(
+            path.dirname(input),
+            `${path.basename(input, path.extname(input))}_english.json`
+          );
+          if (fs.existsSync(defaultEnglishPath)) {
+            englishPath = defaultEnglishPath;
+          }
+        }
+        
+        if (englishPath) {
+          const englishContent = fs.readFileSync(englishPath, 'utf-8');
+          englishData = JSON.parse(englishContent);
+        }
+        
+        const mdContent = subArr2Md(subtitleData, chaptersData, englishData);
         const mdPath = `${baseOutputPath}.md`;
         fs.writeFileSync(mdPath, mdContent, 'utf-8');
         console.log(`Successfully converted ${input} to ${mdPath}`);

@@ -26,6 +26,7 @@ Where:
 - `[options]` are additional flags:
   - `-m, --md`: Output both SRT and MD formats
   - `-c, --chapters <chapters>`: Path to chapters JSON file (only used when generating MD format)
+  - `-e, --english <english>`: Path to the English subtitle JSON file
 
 If the output path is not provided, the files will be saved in the same directory as the input file, with the same name but with `.srt` and `.md` extensions.
 
@@ -59,6 +60,29 @@ format-subtitle input.json -m
 format-subtitle input.json -m -c custom_chapters.json
 # This will use custom_chapters.json for chapter information in the MD file
 # The SRT file will be generated normally without chapter information
+```
+
+4. Convert to both SRT and MD with chapters and English subtitles:
+```bash
+format-subtitle input.json -m -c chapters.json -e english.json
+# This will use chapters.json for chapter information in the MD file
+# The SRT file will be generated normally without chapter information
+# The English subtitle file will be used for English content in the MD file
+```
+
+5. Convert to both SRT and MD with automatic file detection:
+```bash
+format-subtitle input.json -m
+# This will create both input.srt and input.md in the same directory as input.json
+# The tool will automatically try to find related files:
+# 1. For chapters:
+#   - First tries to use the file specified by `-c` option
+#   - If not specified, looks for `<input>_chapters.json` in the same directory
+#   - If no chapter file is found, generates virtual chapters every 5 minutes
+# 2. For English subtitles:
+#   - First tries to use the file specified by `-e` option
+#   - If not specified, looks for `<input>_english.json` in the same directory
+#   - If no English file is found, generates output without English content
 ```
 
 ## 优化
