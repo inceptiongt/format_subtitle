@@ -1,3 +1,5 @@
+# 1
+
 1914 年，欧洲列强分裂为两个敌对联盟：协约国：法国、英国和俄罗斯，因对欧洲新强国德国的恐惧和猜疑而团结在一起。
 以及三国同盟：害怕被对手包围的德国；
 奥匈帝国，依附于一个脆弱的帝国；
@@ -36,6 +38,48 @@
 “大海竞赛”开始了，双方都试图向北包抄对方。
 一系列冲突导致了第一次伊普尔战役，盟军拼命坚持并阻止德国人突破。
 双方损失都比较惨重。
+
+
+1914. The Great Powers of Europe are divided into two rival alliances:The Triple Entente: France, Britain and Russia,  united by fear and suspicion of Germany, Europe's new strongest power.
+And the Triple Alliance: Germany, which fears encirclement by its rivals; Austro-Hungary,  clinging onto a fragile empire; and Italy, seeking gains at French expense.
+The spark comes on 28th June, in the city of Sarajevo.
+Archduke Franz Ferdinand, heir to the Austro-Hungarian throne,  is assassinated by a 19 year-old Slav nationalist named Gavrilo Princip.
+Austro-Hungary accuses its Balkan rival Serbia of having aided the  assassin, and sends an ultimatum, demanding humiliating concessions.
+Serbia rejects the ultimatum, and Austro-Hungary declares war.
+Within hours Austrian forces are shelling Belgrade.
+The Russian Tsar, Nicholas II, feels honour-bound to defend Serbia,  a fellow Slav nation, and orders the Russian army to mobilise.
+German Emperor Wilhelm II has promised his support to Austro-Hungary.
+He and his generals see conflict with Russia as inevitable – and the sooner the better,  as Russian strength grows year on year.
+Russian mobilisation is used to justify German mobilisation,  followed by a declaration of war on Russia.
+Germany knows war with Russia means war with Russia's ally, France.
+It has developed the Schlieffen Plan to meet this threat of a war on two fronts –  first, its armies will advance rapidly through neutral Belgium  to encircle and destroy French armies near Paris, and win a quick victory.
+Then its forces can move east to deal with Russia, whose huge army will take much longer to mobilise.
+And so Germany declares war on France.
+Six million men are now marching to war across Europe.
+Italy,  however, remains neutral.
+The terms of the Triple Alliance don't bind it to join an offensive war.
+The United States also declares its neutrality.
+President Wilson and  the American public have no desire to get entangled in Europe's war.
+Britain is France's ally, but at first it's not clear if it will join the war against Germany.
+But when German troops invade Belgium, whose neutrality Britain has guaranteed, an ultimatum  is sent from London to Berlin demanding they withdraw.
+It's ignored, and Britain declares war.
+A British Expeditionary Force lands in France, while the German invasion  is held up for crucial days by Belgian resistance at the fortress-city of Liège.
+German troops commit several massacres against Belgian civilians.
+The atrocities are inflated  by Allied propaganda, and help turn public opinion in neutral countries against Germany.
+France, unaware of Germany's great encircling attack, launches Plan XVII,  an offensive into German territory.
+But in the Battle of the Frontiers they're driven back, with enormous losses on both sides.
+The British Expeditionary Force clashes with the German army at Mons.
+But the  British are heavily outnumbered, and soon join the French in retreat.
+The Allies make their stand at the River Marne, 40 miles outside Paris.
+Their desperate counterattack  saves the city and drives the Germans back.
+Both sides suffer a quarter of a million casualties.
+'The Race to the Sea' begins, as both sides try to outflank each other to the north.
+A series of clashes leads to the First Battle of Ypres, where the Allies desperately cling  on and prevent a German break through.
+There are more heavy losses on both sides.
+
+
+# 2
+
 两支军队随后沿着整个 350 英里的前线挖掘，寻求躲避致命的机枪火力和炮弹。
 壕沟战开始了。
 英国军舰在黑尔戈兰湾赢得了战争的第一场海战，击沉了三艘德国巡洋舰。
@@ -69,6 +113,44 @@
 但在太平洋，在智利海岸附近，德国海军上将冯·斯佩的强大东亚分舰队在科罗内尔海战中击沉了两艘英国巡洋舰。
 两艘船都失去了双手。
 五周后，他在福克兰群岛遇到了一支英国海军特遣部队。
+
+
+The two armies then dig-in along the entire 350-mile front,  seeking shelter from deadly machinegun fire and artillery shells.
+Trench warfare has begun.
+British warships win the first naval battle of the war at Heligoland Bight,  sinking three German cruisers.
+Britain has the most powerful navy in the world: 29 modern battleships to Germany's 19.  They now impose a naval blockade on Germany, preventing contraband goods, including food, from  reaching it by sea.
+The aim is to bring Germany's economy to its knees and force it to surrender.
+But a week later, the British cruiser HMS Pathfinder becomes the first victim  in history of a lethal new weapon - the submarine-launched torpedo.
+German submarines, or U-boats, have a surface range of 9000 miles, and can attack undetected  from beneath the waves.
+They herald a deadly new challenge to Britain's command of the seas.
+On the Eastern Front, Russian armies invade East Prussia.
+But they blunder into disaster at the  Battle of Tannenberg, where General von Hindenburg and his Chief of Staff Erich Ludendorff mastermind  a brilliant German victory, taking 90,000 prisoners and destroying an entire Russian army.
+The Russians contribute to their own defeat by transmitting uncoded wireless messages.
+A second massive German victory at Masurian Lakes forces the Russians into retreat.
+In just six weeks, the Russian army suffers nearly a third of a million casualties.
+Meanwhile Austro-Hungary's invasion of Serbia suffers a humiliating reverse at the Battle  of Cer.
+Austro-Hungary's offensive against Russia also ends in disaster and retreat,  with the loss of more than 300,000 men.
+The fortress-town of Przemyśl is cut-off and besieged by the Russians.
+The Germans are forced to come to the rescue, launching a diversionary attack towards Warsaw.
+It leads to weeks of brutal,  winter fighting around the Polish city of Łódź, but there is no clear winner.
+Meanwhile, the Turkish Ottoman Empire has joined the Central Powers, declaring war on  its old enemy, Russia.
+Turkish warships bombard the Russian ports of Odessa and Sevastopol,  while in the Caucasus, Russian troops cross the Turkish frontier.
+Beyond Europe, the war rages on the world's oceans and in far-flung European colonies.
+German troops cross into British East Africa (modern Kenya) and occupy Taveta;  while Allied forces seize the German colony of Togoland (modern Togo).
+But British forces invading German Cameroon are defeated at Garua and Nsanakong...
+while a 3,000 strong force attacking German South-West Africa,  modern Namibia, is captured at Sandfontein.
+A month later, British landings at Tanga end in chaos and defeat at the  hands of a much smaller German force led by Colonel von Lettow-Vorbeck.
+Cut-off from Germany, Lettow-Vorbeck goes on to wage a highly successful  guerilla war against the Allies, tying down huge numbers of troops.
+In Asia, Japan honours its treaty with Britain and declares war on  Germany.
+Japanese forces go on to seize the German naval base at Tsingtao.
+The German colonies of Samoa and New Guinea  surrender to troops from New Zealand and Australia.
+But in the Pacific, off the coast of Chile, German Admiral von Spee's powerful East Asia  squadron sinks two British cruisers at the Battle of Coronel.
+Both ships are lost with all hands.
+Five weeks later, he runs into a British naval task force at the Falkland Islands.
+
+
+# 3
+
 德国五艘巡洋舰中有四艘沉没。
 冯施佩带着他的旗舰沉没了。
 在中东，英国军队控制了奥斯曼帝国的巴士拉港，确保获得为英国舰队提供燃料的重要波斯石油。
@@ -98,7 +180,41 @@
 俄国人损失了多达 200,000 人，其中一半人在寒冷的冬季条件下投降。
 俄国人在对付奥匈帝国时取得了更大的成功：经过四个月的围攻，普热梅希尔市陷落，俄国人俘虏了 100,000 人。
 奥匈帝国的总损失现在达到两百万。
-与此同时，英法两国派军舰前往达达尼尔海峡，威胁土耳其奥斯曼帝国首都君士坦丁堡。
+与此同时，英法两国派军舰前往达达尼尔海峡，
+
+Four of the five German cruisers are sunk.
+Von Spee goes down with his flagship.
+While in the Middle East, British troops seize control of the Ottoman port of Basra,  securing access to the vital Persian oil that fuels the British fleet.
+That winter, Austrian troops finally capture Belgrade,  but the Serbs then counterattack and drive them back once more.
+The fighting in Serbia has already cost around 200,000 casualties on each side.
+In the North Sea, German warships mount a hit-and-run raid against English coastal towns,  shelling Hartlepool, Whitby and Scarborough, and killing more than a hundred civilians.
+On the Western Front, the French launch their first major offensive against the German lines:  but the First Battle of Champagne leads to small gains at a cost of 90,000 casualties.
+While in the Caucasus, an Ottoman offensive through the mountains in midwinter ends in  disaster at Sarikamish.
+Turkish casualties total 60,000, many frozen to death.
+On the Western Front, that first Christmas is marked in some sectors by a short truce,  and games of football in No Man's Land, the killing zone between the trenches.
+January 1915. World War One is just five months old,  and already around one million soldiers have fallen.
+A war that began in the Balkans has engulfed much of the world.
+The Central Powers: Germany, Austria-Hungary, and the Ottoman Empire, fight the Allies:  Britain, France, Russia, Serbia and Montenegro, Belgium, and Japan.
+In Poland and the Baltic, the Russian army has suffered a string of massive defeats,  but continues to battle German and Austro-Hungarian forces.
+Austro-Hungarian troops have also suffered huge losses,  and are humiliated by their failure to defeat Serbia.
+In the Caucasus Mountains, Russian and  Ottoman forces fight each other in freezing winter conditions.
+While on the Western Front, French, British and Belgian troops are dug in  facing the Germans, in trenches stretching from the English Channel to Switzerland.
+As part of the world’s first strategic bombing campaign, Germany sends two giant airships,  known as Zeppelins, to bomb Britain.
+They hit the ports of King's Lynn and Great Yarmouth,  damaging houses and killing 4 civilians.
+At sea, at the Battle of Dogger Bank, the British navy sinks one German cruiser,  but the rest of the German squadron escapes.
+Command of the seas has allowed Britain to impose a naval blockade of Germany,  preventing vital supplies, including food, from reaching the country by sea.
+Germany now retaliates with its own blockade: it declares the waters around the British  Isles to be a war zone, where its U-boats will attack Allied merchant ships without warning.
+Britain relies on imported food to feed its population.
+Germany plans to starve her into surrender.
+On the Eastern Front, German Field Marshal von Hindenburg launches a Winter Offensive,  and inflicts another massive defeat on the Russian army at the Second Battle of Masurian Lakes.
+The Russians lose up to 200,000 men, half of them surrendering amid freezing winter conditions.
+The Russians have more success against Austria-Hungary:  the city of Przemyśl falls after a four-month siege, netting the Russians 100,000 prisoners.
+Austria-Hungary's total losses now reach two million.
+Meanwhile, the British and French send warships to the Dardanelles,  
+
+# 4
+
+威胁土耳其奥斯曼帝国首都君士坦丁堡。
 他们认为，武力的展示将很快使土耳其投降。
 他们炮击狭窄海峡中的土耳其海岸堡垒，但三艘战舰被地雷击沉，另有三艘受损。
 攻击被取消。
@@ -129,6 +245,43 @@
 它是首批配备机枪的飞机之一，该机枪能够通过螺旋桨向前射击，这要归功于一项称为中断装置的新发明。
 盟军飞机的损失迅速增加，这就是众所周知的“福克天灾”。
 意大利受到英国和法国承诺以奥匈帝国为代价获取领土的影响，加入了同盟国，向奥匈帝国宣战，后来又向奥斯曼帝国和德国宣战。
+
+
+to threaten Constantinople, capital of the Turkish  Ottoman Empire.
+They believe a show of force will quickly cause Turkey to surrender.
+They bombard Turkish shore-forts in the narrow straits, but three battleships are sunk by mines,  and three more damaged.
+The attack is called off.
+On the  Western Front, the British attack at Neuve Chapelle,  but the advance is soon halted by German barbed wire and machineguns.
+British and Indian units suffer 11,000 casualties – about a quarter of the attacking force.
+Six weeks later, at the Second Battle of Ypres, the Germans attack with poison gas for the first  time on the Western Front.
+A cloud of lethal chlorine gas forces Allied troops to abandon  their trenches, but the Germans don't have enough reserves ready to exploit the advantage.
+Soldiers on both sides are quickly supplied with crude gas-masks,  as a chemical weapons arms-race begins.
+The Allies land ground troops at Gallipoli, including men of the  Australian and New Zealand Army Corps, the ANZACs.
+Their goal is to take out  the shore forts that are preventing Allied warships reaching Constantinople.
+But they  immediately meet fierce Turkish resistance, and are pinned down close to the shore.
+The day before the landings, the Ottoman Empire begins the systematic deportation  and murder of ethnic Armenians living within its borders.
+The Armenians are a long-persecuted ethnic and religious minority,  suspected of supporting Turkey's enemies.
+Tens of thousands of men, women and children are transported to the  Syrian desert and left to die.
+In all, more than a million Armenians perish.
+The Allies condemn the events as 'a crime against humanity  and civilisation', and promise to hold the perpetrators criminally responsible.
+To this day, the Turkish government disputes the death toll,  and that these events constituted a 'genocide'.
+On the Eastern Front, a joint German / Austro-Hungarian offensive in Galicia  breaks through Russian defences, recapturing Przemyśl and taking 100,000 prisoners.
+It is the beginning of a steady advance against Russian forces.
+At sea, the British passenger-liner Lusitania, sailing from New York to  Liverpool, is torpedoed by a German U-boat off the coast of Ireland without warning.
+1,198 passengers and crew perish, including 128 Americans.
+US President Woodrow Wilson and the American public are outraged.
+But Germany insists the  liner was a fair target, as the British used her to carry military supplies.
+In May, the Allies launch the Second Battle of Artois, in another effort  to break through the German lines.
+The French make the main attack at Vimy Ridge,  while the British launch supporting attacks at Aubers Ridge and Festubert.
+The Allies sustain 130,000 casualties, and advance just a few thousand yards.
+That summer, above the Western Front, the Fokker Eindecker helps Germany win  control of the air.
+It's one of the first aircraft with a machinegun able to fire  forward through its propeller, thanks to a new invention known as interruptor gear.
+Allied aircraft losses mount rapidly, in what becomes known as the 'Fokker Scourge'.
+Italy, swayed by British and French promises of territorial  gains at Austro-Hungarian expense, joins the Allies,  declaring war on Austria-Hungary, and later the Ottoman Empire and Germany.
+
+
+# 5
+
 意大利军队首次进攻伊松佐河沿岸的奥匈帝国阵地，但被击退，损失惨重。
 与此同时，盟军在东线面临危机。
 俄国人已经开始全面撤退，放弃波兰。
@@ -164,6 +317,45 @@
 第一次世界大战本应是一场短暂而光荣的战争。
 但到 1916 年，一场新型的工业化战争导致死亡人数飙升至数百万，而且看不到尽头。
 海军封锁开始导致整个欧洲的食物和燃料短缺……而数以千计的女性进入劳动力市场，取代了数百万被派去战斗的男性。
+
+
+The Italian army makes its first assault against Austro-Hungarian positions along the Isonzo river,  but is repulsed with heavy losses.
+Meanwhile the Allies face a crisis on the Eastern Front.
+The Russians have  begun a general retreat, abandoning Poland.
+German troops enter Warsaw on 5th August.
+Tsar Nicholas II dismisses the army's commander-in-chief, Grand Duke Nicholas,  and takes personal command.
+It will prove disastrous for the Tsar,  as he becomes more and more closely tied to Russian military defeat.
+At Gallipoli, the Allies land reinforcements at Suvla Bay, but neither they nor a series  of fresh attacks by the ANZACs can break the deadlock.
+Conditions for both sides are terrible;  troops are tormented not only by the enemy, but by heat, flies, and sickness.
+In the Atlantic, a German U-boat sinks the liner SS Arabic: 44 are lost, including three Americans.
+In response to further US warnings, Germany ends all attacks on passenger ships.
+On the Western Front, the Allies mount their biggest offensive of the war so far,  designed to smash through the front, and take pressure off their beleaguered Russian ally.
+The French attack in the Third Battle of Artois and Second Battle of Champagne;The British, with the help of poison gas, attack at Loos.
+Despite initial gains, the attacks soon get bogged down, with enormous losses on all sides.
+Allied troops land at Salonika in Greece,  to open a new front against the Central Powers, and bring aid to Serbia.
+But the Allies are too late.
+Bulgaria joins the Central Powers, and their joint offensive overruns Serbia in two months.
+That winter the remnants of the Serbian Army escape through the Albanian mountains.
+Their losses are horrific – by the end of the war a third of  Serbia's army has been killed – the highest proportion of any nation.
+Fierce fighting continues on the Italian front,  as Italian troops launch the Third and Fourth Battles of the Isonzo.
+Austro-Hungarian forces,  though outnumbered, are dug in on the high ground, and impossible to dislodge.
+In the Middle East, a British advance on Baghdad is blocked by Turkish forces at the Battle  of Ctesiphon, 25 miles south of the city.
+The British withdraw to Kut, where they are besieged.
+The Allies abandon the Gallipoli campaign.
+83,000 troops are secretly evacuated without  alerting Turkish forces.
+Not a man is lost.
+It's one of the best executed plans of the war.
+The campaign has cost both sides quarter of a million casualties.1915 is a bad year for the Allies – enormous losses, for no tangible gains.
+But there is no talk of peace – instead all sides prepare for  even bigger offensives in 1916, with new tactics developed from earlier failures.
+All sides still believe a decisive battlefield victory is within grasp.
+World War One was supposed to have been a short and glorious war.
+But by 1916, a new kind of  industrialised warfare had seen the death toll soar into the millions, with no end in sight.
+Naval blockades were beginning to cause shortages of food and fuel across Europe...
+While thousands of women had entered the workforce,  replacing the men sent to fight in their millions.
+
+
+# 6
+
 各方都在为长期战争做准备。
 战争已经进行了一年半，同盟国继续与同盟国作战，保加利亚最近加入。
 在海上，英国保持对德国的海上封锁，阻止进口食品和其他重要原材料。
@@ -197,6 +389,45 @@
 俄罗斯 有 100,000人伤亡，这次袭击未能使任何德国军队从凡尔登的战斗中转移。
 在都柏林，爱尔兰共和党人发动武装反抗英国统治。
 它被称为复活节起义，并在六天的巷战后被镇压。
+
+
+All sides were preparing for a long war.
+The war has raged for a year and a half, as the Allies continue to battle the Central Powers,  recently joined by Bulgaria.
+At sea, the British maintain  their naval blockade of Germany, preventing the import of food and other vital raw materials.
+Germany has retaliated with a U-boat blockade of Britain, but has to limit its attacks to avoid  provoking the neutral USA, whose citizens have already been caught in the crossfire.
+On the Western Front, French, British and Belgian troops are dug in opposite the Germans,  both sides trapped in the bloody stalemate of trench warfare.
+On the Eastern Front, the Russians have ended their long retreat and stabilised the line,  but their army has suffered huge losses.
+On the Italian Front, Italian troops have launched a series of costly,  unsuccessful attacks against strong Austro-Hungarian defences.
+While on the Balkan Front, the Central Powers have overrun Serbia,  whose army is forced to make a bitter retreat through the Albanian mountains.
+Now, on 5th January, Austro-Hungarian troops attack Montenegro.
+They are  delayed at the Battle of Mojkovac, but three weeks later Montenegro is forced to surrender.
+On the Caucasus Front, the Russians launch a surprise winter offensive against  Ottoman Turkish forces.
+Six weeks later, Russian troops occupy the city of Erzurum.
+In April,  they capture the Black Sea port of Trebizond.
+Meanwhile the British transport two motor boats to Lake Tanganyika in Africa.
+They finally arrive after a 10,000-mile trip by sea and land,  and help the British seize control of the strategic lake from local German forces.
+The same month, in German Cameroon, German troops, besieged on Mora mountain for 18 months,  finally surrender to the Allies.
+It marks the end of the Cameroon campaign.
+On the Western Front, the Germans unleash  a devastating assault on the French fortress-town of Verdun.
+German General Erich von Falkenhayn knows France  will defend this symbolic town to the last man.
+His plan, in his own words,  is to 'bleed France white' in its defence.
+It is the strategy of attrition.
+Verdun becomes one of the most terrifying battles of the war: a mincing machine,  where infantry divisions are destroyed almost as fast as they can be fed into the line.
+In Britain, one million men have already volunteered for military service.
+But the government realises it won't be enough, and Britain becomes the  last major power to introduce conscription.
+That spring on the Western Front, British troops are the last to be issued with steel helmets.
+The nature of trench warfare produces a high proportion of head wounds:  the German Stahlhelm, the French Adrian helmet, and the British Mark 1 steel helmet,  offer limited protection from shell splinters and shrapnel.
+Neutral Portugal has been co-operating with the British, which seems to offer  the best chance of holding onto her African colony, Portuguese Angola.
+On 9th March, Germany retaliates by declaring war on Portugal.
+On the Eastern Front, Russia launches an attack near Lake Naroch, to relieve  pressure on the French at Verdun.
+But it's a disaster.
+There are 100,000  Russian casualties, and the attack fails to divert any German troops from the fighting at Verdun.
+In Dublin, Irish republicans launch an armed revolt against British rule.
+It becomes known as the Easter Rising, and is put down after six days of street fighting.
+
+
+# 7
+
 在中东，经过五个月的围困，库特的英军投降。
 汤森德将军带领 9,000 名英国和印度士兵被俘。
 大约一半后来死于饥饿或疾病。
@@ -226,7 +457,42 @@
 萨洛尼卡的盟军试图通过向莫纳斯提尔发动攻势来支持罗马尼亚。
 在塞尔维亚军队领先的情况下，取得了一些进展，但保加利亚顽强的抵抗阻止了突破。
 在西线，冯·法尔肯海恩将军终于取消了对凡尔登的进攻。
-法国军队兑现了他们的指挥官Nivelle 将军的承诺——“Ils ne passeront pas”——他们不会通过……但胜利的代价是惨痛的：365,000 人伤亡。
+法国军队兑现了他们的指挥官Nivelle 将军的承诺——“Ils ne passeront pas”——他们不会通过……
+
+In the Middle East, after a five month siege, British forces at Kut surrender.
+General Townshend leads 9,000 British and Indian soldiers into captivity.
+About half later die from starvation or disease.
+Britain wants Arab support in its fight against the Ottoman Empire,  so it's promised Arab leaders an independent Arab state after the war.
+But now Britain and France secretly sign the Sykes-Picot Agreement, planning,  after the war, to divide the Middle East into British and French zones of control.
+Unaware of this deal, Hussein bin Ali, Sherif of Mecca, leads the Arabs in revolt against Turkish  Ottoman rule: in the Battle of Mecca, his forces seize control of the holy city.
+On the Italian front, Austro-Hungarian forces launch a surprise attack at Asiago.
+Italian defences give way; Austro-Hungarian troops are poised to break through into northern Italy.
+That month, in the North Sea, the German High Seas Fleet clashes with  the British Grand Fleet at the Battle of Jutland.
+In the only major naval battle of the war, the British suffer heavier losses, but claim victory,  as the German fleet withdraws, and does not re-emerge from its base for the rest of the war.
+For the summer of 1916, the Allies have planned major, simultaneous offensives  against the Central Powers from east and west.
+Now they are needed more than ever,  to relieve pressure on the French at Verdun, and the Italians at Asiago.
+The Russians launch their attack first: on the Eastern Front, General Alexei Brusilov  has carefully maintained the element of surprise.
+His troops break through the  enemy lines, in some places advancing 60 miles, and taking 200,000 prisoners.
+This brilliant though costly Russian attack achieves its aim,  as the Central Powers are forced to redeploy troops from other fronts to shore up the line.
+At sea, British cruiser HMS Hampshire, en route to Russia, hits a mine and sinks off Orkney.
+Among the 650 dead is Britain's iconic Secretary of State for War, Lord Kitchener.
+Three days later in the Adriatic, Italian troopship Principe Umberto is sunk by  a German submarine: it's the deadliest sinking of the war, with 1,900 lives lost.
+On the Western Front, Britain and France launch their major  summer offensive: the Battle of the Somme.
+Hopes are high for a breakthrough, but the first day is a disaster:  a long Allied artillery bombardment fails to knock out German defences, and waves of  British infantry are cut down by machinegun fire as they advance into No Man's Land.
+In the space of a few hours, the British suffer  57,000 casualties, a third of them killed.
+It's the worst day in the history of the British army.
+But more attacks are ordered, and the battle will rage for another five months.
+Encouraged by the Russian advance, Romania joins the Allies.
+But despite an initially successful advance into Transylvania,  Romania quickly faces a counter-offensive from German, Bulgarian and Austro-Hungarian forces.
+The Allied force at Salonika tries to support Romania,  by launching their own offensive towards Monastir.
+With Serbian troops in the lead,  there are small gains, but dogged Bulgarian resistance prevents a breakthrough.
+On the Western Front, General von Falkenhayn finally calls off the attack at Verdun.
+The French army has honoured their commander,  General Nivelle's, promise – 'Ils ne passeront pas' – they shall not pass...
+
+
+# 8
+
+但胜利的代价是惨痛的：365,000 人伤亡。
 德国人损失的几乎一样多。
 凡尔登战役仍然是人类历史上最血腥的战役之一。
 Falkenhayn 因在凡尔登战败而被解职，东线的德国英雄冯兴登堡和鲁登道夫接管西线指挥权。
@@ -259,6 +525,44 @@ Falkenhayn 因在凡尔登战败而被解职，东线的德国英雄冯兴登堡
 然后，英国人将他们截获的一份电报交给了美国政府，该电报是德国外交大臣阿瑟·齐默尔曼 (Arthur Zimmermann) 给德国驻墨西哥大使的。
 如果美国和德国最终开战，德国鼓励墨西哥进攻美国。
 所谓的齐默尔曼电报对美国总统威尔逊施加了更大的压力，要求其对德宣战。
+
+
+But victory comes at a terrible price: 365,000 casualties.
+The Germans lose  almost as many.
+Verdun remains one of the bloodiest battles in human history.
+For his defeat at Verdun, Falkenhayn is sacked, and Germany's heroes of  the Eastern Front, von Hindenburg and Ludendorff, take command in the west.
+Meanwhile, the Battle of the Somme continues.
+Near the village of Flers,  the British introduce a new weapon they hope can break the deadlock of the trenches:  it is called the tank.
+But despite some small successes, the first tanks are are too few in  number, and too prone to mechanical failure, to make any real impact.
+On the Eastern Front, Russia's Brusilov Offensive comes to an end.
+Casualty estimates vary wildly, but it's clear both sides have suffered catastrophic losses.
+Neither the Russian nor the Austro-Hungarian army ever fully recovers.
+On the Italian front, heavy fighting rages throughout the autumn, as Italian  forces make repeated, costly assaults against Austro-Hungarian positions along the Isonzo River.
+The Battle of the Somme comes to an end amid autumn rain and mud.
+The Allies have  advanced ten miles at the cost of 600,000 casualties.
+German losses are about 450,000.The Allies reasssure themselves that this is a winning strategy,  because at this rate, Germany will run out of men first.
+Meanwhile, disaster engulfs Romania, as the country is overrun by the Central  Powers.
+Romanian forces suffer a quarter of a million casualties.
+The remnants of its army take position alongside the Russians on the Eastern Front.
+That winter, Franz Josef, Emperor of Austria since 1848, dies.
+He is succeeded by his son Karl.
+In  Britain, Prime Minister Herbert Asquith is forced from office, and succeeded by David Lloyd George....
+While General Joffre is replaced as French commander-in-chief by General Nivelle,  who promises victory through bold, aggressive action.
+Amid the comings and goings, US President Woodrow Wilson's attempts to mediate a peace  settlement come to nothing: neither side is willing to make concessions.
+In 1916, World War One became a war of attrition.
+Both sides began to focus less on winning victory on the battlefield, than grinding down the enemy,  and inflicting such enormous losses they would be forced to surrender.
+In 1917, the strategy will push Europe's major powers to the brink of collapse.
+Germany knows it will lose a long war of attrition against the Allies, who have greater resources.
+So its leaders gamble: they resume unrestricted submarine warfare, believing their U-boats can cut  off Britain's food imports by sea, and starve the country into surrender within six months.
+But the new shoot-on-sight tactics mean neutral American ships will inevitably be  caught in the crossfire, risking America joining the war on the Allied side.
+Just two days into the campaign, the SS Housatonic, an American  steamer carrying wheat from Galveston, Texas to England, is sunk by a U-boat.
+The British then pass to the US government a telegram they've intercepted, from German  foreign secretary Arthur Zimmermann to the German ambassador in Mexico.
+Germany is encouraging Mexico to attack America, if America and Germany end up at war.
+The so-called Zimmermann Telegram puts  yet more pressure on US President Wilson to declare war on Germany.
+
+
+# 9
+
 在俄罗斯，巨大的伤亡和面包短缺导致骚乱……和革命。
 沙皇退位。
 临时政府掌权，承诺继续战争。
@@ -290,7 +594,45 @@ Falkenhayn 因在凡尔登战败而被解职，东线的德国英雄冯兴登堡
 新系统导致损失稳步下降。
 U 型潜艇战的局势正在逆转。
 随着德国对战争的不满情绪不断增长，德国议会国会通过了一项“和平决议”，呼吁“理解与和解的和平”。
-它被德国最高统帅部忽视了，它现在实际上将该国统治为军事独裁统治。
+它被德国最高统帅部忽视了，
+
+In  Russia, enormous casualties and bread shortages lead to riots...
+and revolution.
+The Tsar abdicates.
+A Provisional Government takes charge, pledging  to continue the war.
+But at the front, Russian troops begin to desert en masse.
+After a string of German provocations, the US finally declares war on Germany.
+It brings  immense resources to the Allied cause, but they will take many months to mobilise.
+And the German gamble of unrestricted submarine warfare may still pay off.
+April is the U-boats  most successful month of the war: they sink 886,000 tons of Allied shipping,  an average of 17 ships a day, all packed with urgently-needed food and supplies.
+Britain will face starvation if the U-boats are not defeated soon.
+On the Western Front, the British launch the Battle of Arras - a diversion,  to support a major, upcoming French offensive.
+After heavy fighting, Canadian troops seize the high ground of Vimy Ridge.
+Its a limited Allied victory, but costs 150,000 Allied casualties, to 130,000 German.
+Above the trenches, the first air war has reached new levels of sophistication and deadliness.
+Reconnaissance aircraft are crucial for spotting enemy positions, and directing artillery fire onto  them.
+Scout aircraft, or fighters, try to shoot them down before they can execute their mission.
+New models of aircraft are developed every few months.
+But that spring, the superiority of  German aircraft leads to heavy Allied losses, in what becomes known as 'Bloody April'.
+Three days after the fall of Vimy Ridge,  French General Robert Nivelle launches his main offensive.
+Expectations are high,  but after initial success the advance bogs down and casualties quickly mount on both sides.
+The apparently senseless losses cause morale in the French army to collapse.
+Whole units mutiny, refusing to attack.
+General Nivelle is sacked as French commander-in-chief, and replaced by  General Pétain, hero of Verdun, who promises no more suicidal attacks.
+That summer, at Messines Ridge, the British tunnel under the German lines, and detonate  19 enormous mines under the enemy position.
+It’s the largest man-made explosion in history to date,  and paves the way to a brilliant but highly local British victory.
+In Greece,  King Constantine, who has favoured neutrality, is forced to abdicate, and Greece joins the Allies.
+Russia's Provisional Government orders a new attack, but the July Offensive is a disaster:  the morale and discipline of the Russian army has collapsed.
+It can no longer be relied on  to fight, and the Central Powers' counterattack is almost unopposed.
+At sea, the Allies begin to group their merchant ships into convoys, which sail under naval escort.
+The new system leads to a steady fall in losses.
+The tide is turning in the U-boat war.
+As discontent with the war grows in Germany, the German parliament, the Reichstag,  passes a 'Peace Resolution', calling for 'a peace of understanding and reconciliation'.
+It's ignored by the German High Command,  
+
+# 10
+
+它现在实际上将该国统治为军事独裁统治。
 在比利时，英国人发起了 1917 年的主要攻势，即第三次伊普尔战役。
 它将被记住为 Passchendaele。
 猛烈的炮击、大雨和破损的灌溉渠把战场变成了一片泥海。
@@ -320,7 +662,47 @@ U 型潜艇战的局势正在逆转。
 法国军队正在从兵变中恢复过来；
 意大利战线几乎崩溃了。
 美国的增援似乎还有很长的路要走。
-目前，英国人是该领域唯一有效的盟军……因此，英国人在康布雷发动了历史上第一次大规模坦克袭击。
+目前，英国人是该领域唯一有效的盟军……
+
+which now effectively rules the country as a military dictatorship.
+In Belgium, the British launch their major offensive of 1917, the Third Battle of Ypres.
+It will be remembered as Passchendaele.
+Heavy shelling, rain and broken irrigation channels turn the battlefield into a sea  of mud.
+In these impossible conditions, all hopes of a breakthrough soon fade.
+The attack is called off after 3 months,  by which point the British have suffered 240,000 casualties, the Germans 200,000.On the Italian Front, at the 11th Battle of the Isonzo, Italian and Austro-Hungarian forces batter  each other into exhaustion.
+There are 150,000 Italian casualties, 100,000 Austro-Hungarian.
+That year, 1917, the list of Allied nations grows.
+Brazil...
+Liberia...
+China...
+and Siam...
+all declare war on Germany, as a result of German U-boat attacks,  or to curry favour with the Allies.
+China will contribute many thousands  of labourers, working for the Allies in Europe, the Middle East and Asia.
+That year in the Middle East, British forces avenge their 1916 humiliation at Kut,  by defeating the Ottoman Turks and marching on to occupy Baghdad.
+British forces in Egypt advance across the Sinai Desert,  but are thrown back by Ottoman forces at the First and Second Battles of Gaza.
+In July, Arab rebels capture the strategic Ottoman port of Aqaba.
+They are accompanied  by a British military advisor, Captain T.
+E.
+Lawrence, better known as 'Lawrence of Arabia'.
+That autumn, British foreign secretary Arthur Balfour issues the 'Balfour Declaration',  expressing support for the creation of a national home for the Jews in Palestine.
+The aim is to rally Jewish support for the Allies,  but the declaration contradicts existing pledges to Arab leaders.
+In October, the British finally win at Gaza, clearing the way for an advance into Palestine.
+Six weeks later, General Allenby leads British troops into Jerusalem,  ending 400 years of Ottoman rule.
+With Russian forces in disarray, Germany is able to move troops from the East to the Italian Front.
+At the Battle of Caporetto, they help to smash through the Italian army,  advancing 70 miles and taking quarter of a million prisoners.
+British and French divisions, desperately needed  on the Western Front, have to be redeployed to shore-up the line.
+In Russia, a second revolution brings Lenin's Bolshevik Party  to power.
+He is determined to end Russia's involvement in the war.
+In France, Georges Clemenceau becomes Prime Minister.
+Nicknamed 'the Tiger',  he promises total war, and total victory.
+But for the Allies in late 1917, final victory looks uncertain:  Russia has stopped fighting; French armies are recovering from mutiny;  the Italian front has almost collapsed.
+And American reinforcements still seem a long way off.
+For the time being, the British are the only effective Allied force in the field...
+
+
+# 11
+
+因此，英国人在康布雷发动了历史上第一次大规模坦克袭击。
 第一天，将近 400 辆坦克率先突破德军防线数英里。
 但是随后坦克发生故障或被击毁；
 德军急增援，战利品尽失。
@@ -352,7 +734,43 @@ U 型潜艇战的局势正在逆转。
 战壕之上，第一次空战不断升级。
 现在，双方各有超过 3,000 架飞机在西线服役。
 但到 1918 年，盟军凭借更多的资源赢得了制空权。
-4 月 21 日，德国最著名的飞行员“红男爵”曼弗雷德·冯·里希特霍芬在亚眠附近被击落身亡。
+4 月 21 日
+
+So the British attack at Cambrai, with the first major tank assault in history.
+On the first day, nearly 400 tanks spearhead an advance of several miles through German defences.
+But then the tanks break down or are knocked out;  the Germans rush in reinforcements, and the gains are lost.
+Finland declares independence from Russia.
+Rumania, isolated by the Russian collapse, signs an armistice with the Central Powers.
+Six days later, Russia also signs an armistice.
+The Allied Eastern Front is no more.1917 has seen one major Allied power,  Russia, knocked out of the war – but the arrival of a fresh, new ally, America.
+Germany knows only military victory can now save it from being overwhelmed by Allied resources,  and begins planning one last, massive onslaught, for the spring of 1918.1918. After three and a half years of war, the Allies are in crisis.
+Russia has been rocked by Revolution, and its new  Bolshevik government has signed an armistice with the Central Powers.
+Thousands of German troops will be freed up to fight on the Western Front,  where the carnage of trench warfare has already claimed more than a million lives.
+But Germany is also desperate.
+Britain's long naval blockade has led to shortages and social unrest at home...
+While America's entry into the war brings fresh manpower and vast resources to the Allied cause.
+Germany faces inevitable defeat, unless it can win a quick victory on the Western Front.
+US President Wilson announces his 'Fourteen Points'.
+They outline his vision for a post-war  world, including an end to secret treaties, a reduction in the size of armed forces,  self-determination for the people of the Austro-Hungarian Empire,  and an international organisation to settle future disputes.
+But most European leaders dismiss his ideas as wishful thinking.
+At Brest-Litovsk, Bolshevik Russia signs a peace treaty with the Central Powers.
+Russia gives up vast amounts of territory in exchange for peace.
+Half a million German troops can now be redeployed from the East to the Western Front,  where German General Erich Ludendorff plans an all-out, last-ditch offensive to win the war.
+Ludendorff's Spring Offensive catches the Allies off-guard.
+German stormtroopers, using  new infiltration tactics, help to overwhelm the British 5th Army, which is soon in full retreat.
+The German advance threatens to split the British and French armies,  with disastrous consequences.
+So French General Ferdinand  Foch is appointed Supreme Commander of Allied Forces, to co-ordinate strategy.
+Outside Amiens, British and Australian troops improvise  a defence, and finally halt the German advance.
+The German offensive switches to the north, targeting the Channel ports.
+But the British inflict heavy losses on the Germans, and prevent a breakthrough.
+Above the trenches, the first air war continues to escalate.
+Each side now has more than 3,000 aircraft in service on the Western  Front.
+But by 1918 the Allies have won air superiority, thanks to greater resources.
+On 21st  
+
+# 12
+
+，德国最著名的飞行员“红男爵”曼弗雷德·冯·里希特霍芬在亚眠附近被击落身亡。
 凭借 80 场胜利，他是战争中得分最高的王牌，并被同盟国以全部军事荣誉埋葬。
 英国新成立的“独立轰炸部队”对科隆发起了白天的突袭。
 它标志着英国自己的战略轰炸行动的开始。
@@ -383,7 +801,43 @@ U 型潜艇战的局势正在逆转。
 英国、法国和美国军队到达兴登堡防线，一条加强德国防御的防线，并突破。
 鲁登道夫告知德皇，军事形势不容乐观，德国必须寻求停战。
 德国向美国总统伍德罗·威尔逊提出请求，后者要求德国从所有被占领土撤出，并要求德皇退位。
-在意大利前线，盟军在维托里奥威尼托战役中对奥匈帝国进行了最后一击。
+在意大利前线，盟军在
+
+April, Germany's most famous pilot, Manfred von Richthofen, the 'Red Baron',  is shot down and killed near Amiens.
+With 80 victories, he's the war's highest-scoring ace,  and is buried by the Allies with full military honours.
+Britain's new 'Independent Bombing Force' launches a daylight raid  against Cologne.
+It marks the beginning of Britain's own strategic bombing campaign.
+On the ground, Ludendorff's offensive switches south, targeting the French.
+German troops advance  30 miles, but are halted at the River Marne, just as fresh American divisions enter the line.
+The US 1st Division is the first to see combat, at the Battle of Cantigny.
+Three days later the US 2nd Division wins victory at the Battle of Belleau Wood.
+By now there are nearly a million American soldiers in France, with  10,000 more arriving every day.
+The fourth phase of the German Offensive leads to a 9 mile advance,  but is finally halted by a French counterattack.
+In Italy, Austria-Hungary launches an attack at Asiago and the Piave River,  to support Ludendorff's offensive in France.
+But it's repulsed with heavy losses, and morale amongst the Austro-Hungarian army collapses.
+British and French troops land at Murmansk in northern Russia.
+It's the beginning of Allied  intervention in Russia's Civil War, on the side of so-called 'White', or anti-Bolshevik, forces.
+On the Western Front, the Germans' final attack is defeated in the Second Battle of the Marne.
+Ludendorff's Offensive has cost the Germans more than 600,000  casualties, and has failed to make a decisive breakthrough.
+Germany's final gamble has failed.
+The Allies now go on the attack.
+At the Battle of Amiens, British, Australian,  Canadian and French troops, supported by tanks and aircraft, advance 7 miles in a single day.
+General Ludendorff calls 8th August 'the Black Day of the German army'.
+German troops are exhausted,  hungry and demoralised, and begin to surrender in their thousands.
+The Battle of Amiens begins the Allies' 'Hundred Days Offensive':  trench warfare is over; the Germans are in full retreat.
+In the Balkans, a new Allied offensive at Dobro Pole breaks through Bulgarian positions.
+The  overstretched Bulgarian army collapses, and two weeks later Bulgaria signs an armistice.
+In the Middle East, British-led forces defeat the Turks at the Battle of Megiddo, taking  25,000 prisoners.
+Allied troops soon occupy Damascus and Aleppo.
+On the Western Front, Marshal Foch orders a general attack.
+British, French and American  armies reach the Hindenburg Line, a line of reinforced German defences, and break through.
+Ludendorff informs the Kaiser that the military situation is hopeless,  and that Germany must seek an armistice.
+Germany sends a request to US President Woodrow Wilson,  who, in return, demands German withdrawal from all occupied territory, and the Kaiser's abdication.
+On the Italian Front, the Allies deliver the final blow to Austria-Hungary at the Battle  
+
+# 13
+
+维托里奥威尼托战役中对奥匈帝国进行了最后一击。
 奥匈帝国军队瓦解，俘虏三十万人。
 随着同盟国面临崩溃，奥斯曼帝国与同盟国在穆德罗斯签署停战协议。
 四天后，奥匈帝国在朱斯蒂别墅与盟军签署停战协议。
@@ -415,3 +869,33 @@ U 型潜艇战的局势正在逆转。
 新的国家诞生了；
 世界各地的生活发生了翻天覆地的变化。
 世界再也不一样了。
+
+
+of Vittorio Veneto.
+The Austro-Hungarian army disintegrates, and 300,000 prisoners are taken.
+With the Central Powers facing collapse,  the Ottoman Empire signs an armistice with the Allies at Mudros.
+Four days later, Austria-Hungary signs an armistice with the Allies at Villa Giusti.
+At Kiel, the German High Seas Fleet is ordered to make a suicidal attack  on the British navy, but instead, it mutinies.
+Revolution spreads through Germany.
+The Kaiser abdicates and a German republic is proclaimed.
+On 11th November 1918, a German delegation signs an armistice with  the Allies, inside Marshal Foch's railway carriage at Compiègne.
+It comes into force at 11am, but fighting continues until the last moment.
+American private Henry Gunther is killed charging a German machinegun at 10.59.  He is thought to be the last soldier killed during World War One.
+Three days later, in East Africa, German General Von Lettow-Vorbeck surrenders his  army on the Chambezi River.
+For four years he has tied down huge numbers of Allied troops,  remaining undefeated, while cut-off from home.
+He is still considered one of history's greatest guerrilla leaders.
+The Paris Peace Conference opens at the Palace of Versailles, just outside the French capital.
+Delegates accept a proposal to create a 'League of Nations', to settle future international disputes.
+The Versailles Treaty, signed in June, imposes harsh terms on Germany:  its military is restricted in size, it must pay war reparations to the Allies,  it loses territory to its neighbours, and its colonies are seized by the victors.
+Germany must also accept responsibility for the war  in a 'war guilt' clause – a source of lasting resentment in Germany.
+The boundaries of Europe are redrawn:  Poland re-emerges after a hundred years of foreign rule.
+While Austria, Hungary, Czechoslovakia,  Yugoslavia and an enlarged Romania emerge from the ashes of the Austro-Hungarian empire.
+The Ottoman Empire is dismantled.
+New states, most under European control, are created in the Middle East.
+Here, as in Europe, the seeds of future conflict are sown.
+While in the Far East, former German possessions in China are handed to Japan, to China's outrage.
+World War One claimed the lives of nine and a half million soldiers, 1 in 8 of those who fought.21 million more were wounded.
+7 million civilians also lost their lives.
+Huge areas of Europe were left devastated.
+Old empires vanished; new states were born; lives across the world were transformed.
+The world was never the same again.
