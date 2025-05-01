@@ -21,63 +21,16 @@ json = [{
 
 chapters = [
     {
-        "chapterRenderer": {
-            "title": {
-                "simpleText": "Rise of nationalism in Europe"
-            },
-            "timeRangeStartMillis": 0,
-            "onActiveCommand": {
-                "clickTrackingParams": "CMYBEMaHBiITCJPXk7Gy8IwDFfPCcgkdiuoUyQ==",
-                "setActivePanelItemAction": {
-                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
-                    "itemIndex": 0
-                }
-            },
-            "thumbnail": {
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/QwsVJb-ckqM/hqdefault_0.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLBzIDy4GjNK18ZEPHTopT6c8v-_qg",
-                        "width": 168,
-                        "height": 94
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/QwsVJb-ckqM/hqdefault_0.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLD-j-R5nTc_IYdMtqPdU6oVytVkyw",
-                        "width": 336,
-                        "height": 188
-                    }
-                ]
-            }
-        }
+        "start_time": 0,
+        "title": "Rise of nationalism in Europe",
+        "end_time": 89
     },
     {
-        "chapterRenderer": {
-            "title": {
-                "simpleText": "Triple Entente"
-            },
-            "timeRangeStartMillis": 89000,
-            "onActiveCommand": {
-                "clickTrackingParams": "CMYBEMaHBiITCJPXk7Gy8IwDFfPCcgkdiuoUyQ==",
-                "setActivePanelItemAction": {
-                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
-                    "itemIndex": 1
-                }
-            },
-            "thumbnail": {
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/QwsVJb-ckqM/hqdefault_96966.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLC2sL5upIdG5_G9JknqHcHwom-LtA",
-                        "width": 168,
-                        "height": 94
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/QwsVJb-ckqM/hqdefault_96966.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLCJu-x-n5F5277s7gbEx2GSsh6DuQ",
-                        "width": 336,
-                        "height": 188
-                    }
-                ]
-            }
-        }
-}}
+        "start_time": 89,
+        "title": "Triple Entente",
+        "end_time": 180
+    }
+]
 
 json_english = [
 
@@ -109,12 +62,9 @@ import { SenEnd } from "./formatSub";
  * Interface for chapter information
  */
 export interface chapter_item {
-  chapterRenderer: {
-    title: {
-      simpleText: string;
-    };
-    timeRangeStartMillis: number;
-  };
+  start_time: number;
+  title: string;
+  end_time: number;
 }
 
 /**
@@ -132,18 +82,15 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json
 
   // Generate virtual chapters if no chapters provided
   if (!chapters) {
-    const FIVE_MINUTES = 5 * 60 * 1000; // 5 minutes in milliseconds
-    const lastTime = json[json.length - 1].tStartMs + json[json.length - 1].dDurationMs;
+    const FIVE_MINUTES = 5 * 60; // 5 minutes in seconds
+    const lastTime = (json[json.length - 1].tStartMs + json[json.length - 1].dDurationMs) / 1000; // Convert to seconds
     const virtualChapters: chapter_item[] = [];
     
     for (let time = 0; time < lastTime; time += FIVE_MINUTES) {
       virtualChapters.push({
-        chapterRenderer: {
-          title: {
-            simpleText: (virtualChapters.length + 1).toString()
-          },
-          timeRangeStartMillis: time
-        }
+        start_time: time,
+        title: (virtualChapters.length + 1).toString(),
+        end_time: Math.min(time + FIVE_MINUTES, lastTime)
       });
     }
     chapters = virtualChapters;
@@ -155,11 +102,11 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json
   
   // Process each subtitle item
   json.forEach((item, index) => {
-    const nextTime = item.tStartMs + item.dDurationMs;
+    const currentTimeSeconds = (item.tStartMs + item.dDurationMs) / 1000; // Convert to seconds
     
     // Check if we need to start a new chapter
     while (chapters && currentChapterIndex < chapters.length && 
-           chapters[currentChapterIndex].chapterRenderer.timeRangeStartMillis <= nextTime) {
+           chapters[currentChapterIndex].start_time <= currentTimeSeconds) {
       // If we have content from previous chapter, add it to result
       if (currentChapterContent) {
         // Process Chinese content
@@ -175,7 +122,7 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json
       
       // Start new chapter
       const chapter = chapters[currentChapterIndex];
-      result += `# ${chapter.chapterRenderer.title.simpleText}\n\n`;
+      result += `# ${chapter.title}\n\n`;
       currentChapterIndex++;
       currentChapterContent = '';
       currentChapterEnglishContent = '';
@@ -206,7 +153,7 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json
   if (chapters) {
     while (currentChapterIndex < chapters.length) {
       const chapter = chapters[currentChapterIndex];
-      result += `\n# ${chapter.chapterRenderer.title.simpleText}\n\n`;
+      result += `\n# ${chapter.title}\n\n`;
       currentChapterIndex++;
     }
   }

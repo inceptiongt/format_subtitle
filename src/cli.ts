@@ -18,13 +18,27 @@ program
   .option('-e, --english <english>', 'English subtitle JSON file path')
   .action((input, output, options) => {
     try {
-      const jsonContent = fs.readFileSync(input, 'utf-8');
-      const subtitleData = JSON.parse(jsonContent);
+      // Helper function to get base name without language suffix and extension
+      const getBaseFileName = (filePath: string) => {
+        const fileName = path.basename(filePath);
+        // Remove language suffix and extension (e.g., .zh-Hans-en.json3 or .en.json3)
+        return fileName.replace(/\.(zh-Hans-en|en)\.json3$/, '');
+      };
+
+      // Helper function to parse json3 subtitle file
+      const parseSubtitleFile = (filePath: string) => {
+        const content = fs.readFileSync(filePath, 'utf-8');
+        const data = JSON.parse(content);
+        // Extract events array from json3 format
+        return data.events || data;
+      };
+
+      const subtitleData = parseSubtitleFile(input);
       
       // Get the base output path without extension
       const baseOutputPath = output 
         ? path.join(path.dirname(output), path.basename(output, path.extname(output)))
-        : path.join(path.dirname(input), path.basename(input, path.extname(input)));
+        : path.join(path.dirname(input), getBaseFileName(input));
       
       // Always generate SRT file
       const srtContent = subArr2Srt(format_subtitle(subtitleData));
@@ -38,17 +52,19 @@ program
         let chaptersPath = options.chapters;
         
         if (!chaptersPath) {
-          // Try to load default chapters file
+          // Try to load default chapters file from .info.json
           const defaultChaptersPath = path.join(
             path.dirname(input),
-            `${path.basename(input, path.extname(input))}_chapters.json`
+            `${getBaseFileName(input)}.info.json`
           );
           if (fs.existsSync(defaultChaptersPath)) {
-            chaptersPath = defaultChaptersPath;
+            const infoContent = fs.readFileSync(defaultChaptersPath, 'utf-8');
+            const infoData = JSON.parse(infoContent);
+            if (infoData.chapters) {
+              chaptersData = infoData.chapters;
+            }
           }
-        }
-        
-        if (chaptersPath) {
+        } else {
           const chaptersContent = fs.readFileSync(chaptersPath, 'utf-8');
           chaptersData = JSON.parse(chaptersContent);
         }
@@ -57,10 +73,10 @@ program
         let englishPath = options.english;
         
         if (!englishPath) {
-          // Try to load default English file
+          // Try to load default English file with .en.json3 extension
           const defaultEnglishPath = path.join(
             path.dirname(input),
-            `${path.basename(input, path.extname(input))}_english.json`
+            `${getBaseFileName(input)}.en.json3`
           );
           if (fs.existsSync(defaultEnglishPath)) {
             englishPath = defaultEnglishPath;
@@ -68,8 +84,7 @@ program
         }
         
         if (englishPath) {
-          const englishContent = fs.readFileSync(englishPath, 'utf-8');
-          englishData = JSON.parse(englishContent);
+          englishData = parseSubtitleFile(englishPath);
         }
         
         const mdContent = subArr2Md(subtitleData, chaptersData, englishData);

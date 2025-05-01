@@ -2,7 +2,7 @@
 
 ## Summarize
 
-This is a TypeScript library that helps convert JSON subtitle files to SRT or MD format, specifically designed for YouTube's auto-translate feature. It provides a simple command-line interface to transform subtitle files, making them compatible with YouTube's subtitle system or generating Markdown files with chapter titles. The tool is built using TSDX and supports various module formats including CJS, ESModules, and UMD.
+This is a TypeScript library that helps reorganize and clean up JSON subtitle files, converting them to SRT or MD format. It intelligently combines fragmented subtitle segments into complete sentences, making them more readable and suitable for YouTube's auto-translate feature. The tool analyzes subtitle timing and content to ensure proper sentence breaks and natural flow. It provides a simple command-line interface to transform subtitle files, making them compatible with YouTube's subtitle system or generating Markdown files with chapter titles. The tool is built using TSDX and supports various module formats including CJS, ESModules, and UMD.
 
 ## Command Line Usage
 
@@ -32,39 +32,39 @@ If the output path is not provided, the files will be saved in the same director
 
 When generating MD format with `-m` flag:
 - If `-c` option is provided, the specified chapters file will be used
-- If `-c` option is not provided, the tool will try to load `<input>_chapters.json` from the same directory as the input file
+- If `-c` option is not provided, the tool will try to load `<input>.info.json` from the same directory as the input file
 - If no chapters file is found, the MD output will be generated without chapter information
 
-Note: The chapters file is only used when generating the MD format. It has no effect on the SRT file generation.
+Note: The chapters information is read from the `chapters` field in the .info.json file. It has no effect on the SRT file generation.
 
 ### Examples
 
 1. Convert to SRT format only (default):
 ```bash
-format-subtitle input.json output.srt
+format-subtitle input.zh-Hans-en.json3 output.srt
 # or
-format-subtitle input.json
-# This will create input.srt in the same directory as input.json
+format-subtitle input.zh-Hans-en.json3
+# This will create input.srt in the same directory as input.json3
 ```
 
 2. Convert to both SRT and MD formats:
 ```bash
-format-subtitle input.json output -m
+format-subtitle input.zh-Hans-en.json3 output -m
 # or
-format-subtitle input.json -m
-# This will create both input.srt and input.md in the same directory as input.json
+format-subtitle input.zh-Hans-en.json3 -m
+# This will create both input.srt and input.md in the same directory as input.json3
 ```
 
 3. Convert with custom chapters file (only affects MD output):
 ```bash
-format-subtitle input.json -m -c custom_chapters.json
+format-subtitle input.zh-Hans-en.json3 -m -c custom_chapters.json
 # This will use custom_chapters.json for chapter information in the MD file
 # The SRT file will be generated normally without chapter information
 ```
 
 4. Convert to both SRT and MD with chapters and English subtitles:
 ```bash
-format-subtitle input.json -m -c chapters.json -e english.json
+format-subtitle input.zh-Hans-en.json3 -m -c chapters.json -e english.en.json3
 # This will use chapters.json for chapter information in the MD file
 # The SRT file will be generated normally without chapter information
 # The English subtitle file will be used for English content in the MD file
@@ -72,18 +72,31 @@ format-subtitle input.json -m -c chapters.json -e english.json
 
 5. Convert to both SRT and MD with automatic file detection:
 ```bash
-format-subtitle input.json -m
-# This will create both input.srt and input.md in the same directory as input.json
+format-subtitle input.zh-Hans-en.json3 -m
+# This will create both input.srt and input.md in the same directory as input.json3
 # The tool will automatically try to find related files:
 # 1. For chapters:
 #   - First tries to use the file specified by `-c` option
-#   - If not specified, looks for `<input>_chapters.json` in the same directory
+#   - If not specified, looks for `input.info.json` in the same directory
 #   - If no chapter file is found, generates virtual chapters every 5 minutes
 # 2. For English subtitles:
 #   - First tries to use the file specified by `-e` option
-#   - If not specified, looks for `<input>_english.json` in the same directory
+#   - If not specified, looks for `input.en.json3` in the same directory
 #   - If no English file is found, generates output without English content
 ```
+
+## 获得字幕文件：yt-dlp
+
+`yt-dlp URL --skip-download --write-info-json --sub-langs 'en,zh-Hans-en' --sub-format json3 --write-subs --write-auto-subs -o '%(fulltitle)s - %(channel)s'` 
+
+- `--skip-download`: 跳过视频下载，只下载字幕和元数据
+- `--write-info-json`: 下载视频的元数据并保存为 JSON 文件，info.json
+- `--sub-langs 'en,zh-Hans-en'`: 指定要下载的字幕语言，这里下载英语、从英文自动翻译成的中文字幕
+- `--sub-format json3`: 指定字幕格式为 JSON3 格式
+- `--write-subs`: 下载视频的字幕，保存为文件
+- `--write-auto-subs`: 下载自动生成的字幕，保存为文件
+- `-o '%(fulltitle)s - %(channel)s'`: 设置输出文件名格式，使用视频标题和频道名称
+
 
 ## 优化
 
