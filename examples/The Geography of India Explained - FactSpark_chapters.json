@@ -1,0 +1,176 @@
+[
+    {
+        "chapterRenderer": {
+            "title": {
+                "simpleText": "Intro"
+            },
+            "timeRangeStartMillis": 0,
+            "onActiveCommand": {
+                "clickTrackingParams": "CGYQxocGIhMI0qOn_7OBjQMVu8JyCR0Qlyvi",
+                "setActivePanelItemAction": {
+                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                    "itemIndex": 0
+                }
+            },
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_6866.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLDbs52N-ljzyyJfB76onIpcfMI7wQ",
+                        "width": 168,
+                        "height": 94
+                    },
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_6866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLAu9BdzMyBuEsCqPrW94Bi8tuYUog",
+                        "width": 336,
+                        "height": 188
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "chapterRenderer": {
+            "title": {
+                "simpleText": "The Himalayas"
+            },
+            "timeRangeStartMillis": 35000,
+            "onActiveCommand": {
+                "clickTrackingParams": "CGYQxocGIhMI0qOn_7OBjQMVu8JyCR0Qlyvi",
+                "setActivePanelItemAction": {
+                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                    "itemIndex": 1
+                }
+            },
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_63933.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLAtxlGWEKsuGxLxnLL6Id0aZVpqZQ",
+                        "width": 168,
+                        "height": 94
+                    },
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_63933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLCzI7ZybV5YtkDlJzreQXmuAkTIrg",
+                        "width": 336,
+                        "height": 188
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "chapterRenderer": {
+            "title": {
+                "simpleText": "The Indo-Gangetic Plains"
+            },
+            "timeRangeStartMillis": 204000,
+            "onActiveCommand": {
+                "clickTrackingParams": "CGYQxocGIhMI0qOn_7OBjQMVu8JyCR0Qlyvi",
+                "setActivePanelItemAction": {
+                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                    "itemIndex": 2
+                }
+            },
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_227866.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLCsbgKwUYfEidlBPz7nC6HQZhuiWA",
+                        "width": 168,
+                        "height": 94
+                    },
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_227866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLANhT3M6oSqFoLnn7LHAc9O7xRK4w",
+                        "width": 336,
+                        "height": 188
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "chapterRenderer": {
+            "title": {
+                "simpleText": "The Thar Desert"
+            },
+            "timeRangeStartMillis": 350000,
+            "onActiveCommand": {
+                "clickTrackingParams": "CGYQxocGIhMI0qOn_7OBjQMVu8JyCR0Qlyvi",
+                "setActivePanelItemAction": {
+                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                    "itemIndex": 3
+                }
+            },
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_363833.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLBtNpfiqZJRxw69O8Ma8yMadMTI2w",
+                        "width": 168,
+                        "height": 94
+                    },
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_363833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLAHwjzkMWqCcsTH9xGBB55FukWIgg",
+                        "width": 336,
+                        "height": 188
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "chapterRenderer": {
+            "title": {
+                "simpleText": "The Peninsular"
+            },
+            "timeRangeStartMillis": 509000,
+            "onActiveCommand": {
+                "clickTrackingParams": "CGYQxocGIhMI0qOn_7OBjQMVu8JyCR0Qlyvi",
+                "setActivePanelItemAction": {
+                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                    "itemIndex": 4
+                }
+            },
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_523866.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLBJmipfazOiVfpdx47N6r0w7aYdAw",
+                        "width": 168,
+                        "height": 94
+                    },
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_523866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLD02XuM3hmyKbMCRQksgSXgbohrHw",
+                        "width": 336,
+                        "height": 188
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "chapterRenderer": {
+            "title": {
+                "simpleText": "The Islands"
+            },
+            "timeRangeStartMillis": 630000,
+            "onActiveCommand": {
+                "clickTrackingParams": "CGYQxocGIhMI0qOn_7OBjQMVu8JyCR0Qlyvi",
+                "setActivePanelItemAction": {
+                    "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                    "itemIndex": 5
+                }
+            },
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_631266.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLBisQPCe0TrlqlQxFJCw9j_T97Djg",
+                        "width": 168,
+                        "height": 94
+                    },
+                    {
+                        "url": "https://i.ytimg.com/vi/sxBG1cdWtO4/hqdefault_631266.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLDnBO73PgLTdY76EXzGMSxmkY_qAg",
+                        "width": 336,
+                        "height": 188
+                    }
+                ]
+            }
+        }
+    }
+]
