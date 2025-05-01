@@ -1,0 +1,101 @@
+[{
+    "chapterRenderer": {
+        "title": {
+            "simpleText": "Intro"
+        },
+        "timeRangeStartMillis": 0,
+        "onActiveCommand": {
+            "clickTrackingParams": "CF0QxocGIhMI3-KJv8KBjQMV2eGUCR1VWyiq",
+            "setActivePanelItemAction": {
+                "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                "itemIndex": 0
+            }
+        },
+        "thumbnail": {
+            "thumbnails": [{
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_1933.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLCf8yWxzVEact48qCiuQ_oJ0nKOJg",
+                "width": 168,
+                "height": 94
+            }, {
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_1933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLD_p1cFggZBltcMPsI7Axg5jyG_IA",
+                "width": 336,
+                "height": 188
+            }]
+        }
+    }
+}, {
+    "chapterRenderer": {
+        "title": {
+            "simpleText": "The Geography"
+        },
+        "timeRangeStartMillis": 4000,
+        "onActiveCommand": {
+            "clickTrackingParams": "CF0QxocGIhMI3-KJv8KBjQMV2eGUCR1VWyiq",
+            "setActivePanelItemAction": {
+                "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                "itemIndex": 1
+            }
+        },
+        "thumbnail": {
+            "thumbnails": [{
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_17933.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLDXvM8hZD2I368wcnnRxok_w7sCtQ",
+                "width": 168,
+                "height": 94
+            }, {
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_17933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLB1CNJdB_bn1-SXrlMBqpyEP86EJQ",
+                "width": 336,
+                "height": 188
+            }]
+        }
+    }
+}, {
+    "chapterRenderer": {
+        "title": {
+            "simpleText": "Religion"
+        },
+        "timeRangeStartMillis": 67000,
+        "onActiveCommand": {
+            "clickTrackingParams": "CF0QxocGIhMI3-KJv8KBjQMV2eGUCR1VWyiq",
+            "setActivePanelItemAction": {
+                "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                "itemIndex": 2
+            }
+        },
+        "thumbnail": {
+            "thumbnails": [{
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_74033.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLA5aBWEGqD7ABRr7H3NBV7tHxSDMg",
+                "width": 168,
+                "height": 94
+            }, {
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_74033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLCv0SszzDvkebbZwjNMAsPdNrE4Xw",
+                "width": 336,
+                "height": 188
+            }]
+        }
+    }
+}, {
+    "chapterRenderer": {
+        "title": {
+            "simpleText": "Pollution"
+        },
+        "timeRangeStartMillis": 115000,
+        "onActiveCommand": {
+            "clickTrackingParams": "CF0QxocGIhMI3-KJv8KBjQMV2eGUCR1VWyiq",
+            "setActivePanelItemAction": {
+                "panelTargetId": "engagement-panel-macro-markers-description-chapters",
+                "itemIndex": 3
+            }
+        },
+        "thumbnail": {
+            "thumbnails": [{
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_141933.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=\u0026rs=AOn4CLAfvPFH8er00ZDC-shxRoqieYuw5g",
+                "width": 168,
+                "height": 94
+            }, {
+                "url": "https://i.ytimg.com/vi/VrpNOkrJnas/hqdefault_141933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB\u0026rs=AOn4CLD2_ttcIybfN9vZXu2jKyZ3cMkqBw",
+                "width": 336,
+                "height": 188
+            }]
+        }
+    }
+}]
