@@ -1,0 +1,757 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 89,
+    "dDurationMs": 5921,
+    "segs": [ {
+      "utf8": "15世纪中叶，\n欧洲人还不知道中部非洲和南部非洲。"
+    } ]
+  }, {
+    "tStartMs": 6010,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "然而，几个世纪以来，阿拉伯人一直经营着\n穿越广阔撒哈拉沙漠的贸易路线，将"
+    } ]
+  }, {
+    "tStartMs": 11500,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "黄金、象牙和奴隶运送到地中海\n。"
+    } ]
+  }, {
+    "tStartMs": 16260,
+    "dDurationMs": 3852,
+    "segs": [ {
+      "utf8": "欧洲对来自亚洲的有利可图的贸易路线更感兴趣\n，"
+    } ]
+  }, {
+    "tStartMs": 20120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "尤其是丝绸和香料的进口。"
+    } ]
+  }, {
+    "tStartMs": 23560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "但奥斯曼帝国的扩张威胁着\n这些网络。"
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "此外，伊比利亚半岛的王国\n还着眼于探索通往亚洲的新海上航线，以"
+    } ]
+  }, {
+    "tStartMs": 33630,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "垄断利润丰厚的市场。"
+    } ]
+  }, {
+    "tStartMs": 40640,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "葡萄牙率先发明了卡拉维尔帆船； 这是\n一艘重量轻、用途广泛的船只，可以"
+    } ]
+  }, {
+    "tStartMs": 46559,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "加速对非洲海岸的探索。"
+    } ]
+  }, {
+    "tStartMs": 50370,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "该国建立海上贸易站\n作为陆上贸易路线的替代，"
+    } ]
+  }, {
+    "tStartMs": 56260,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "特别是为了获取高利润的\n奴隶贸易。"
+    } ]
+  }, {
+    "tStartMs": 60110,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "1498年，瓦斯科·达·伽马到达印度。"
+    } ]
+  }, {
+    "tStartMs": 63920,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "葡萄牙在印度洋的势力迅速增强，\n并主宰了香料贸易。 根据《托尔德西利亚斯条约》，由于两国达成协议，划定各自的势力范围，"
+    } ]
+  }, {
+    "tStartMs": 69160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "该国变得富裕起来，并且不再面临\n来自西班牙帝国的竞争"
+    } ]
+  }, {
+    "tStartMs": 72920,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 80060,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "因此，西班牙将重点关注美洲大陆。"
+    } ]
+  }, {
+    "tStartMs": 87360,
+    "dDurationMs": 5999,
+    "segs": [ {
+      "utf8": "1580年，西班牙国王控制\n葡萄牙，成立伊比利亚联盟。"
+    } ]
+  }, {
+    "tStartMs": 93360,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "新兴海上强国荷兰利用这一形势夺取了葡萄牙的殖民地。"
+    } ]
+  }, {
+    "tStartMs": 100000,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "葡萄牙最终恢复独立，\n并试图重新控制非洲的企业。"
+    } ]
+  }, {
+    "tStartMs": 105820,
+    "dDurationMs": 6299,
+    "segs": [ {
+      "utf8": "但该国现在面临着来自\n非洲沿海新兴欧洲列强的竞争。"
+    } ]
+  }, {
+    "tStartMs": 112120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "此后\n的几个世纪里，"
+    } ]
+  }, {
+    "tStartMs": 115520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "各国都管理着自己的贸易路线，局势保持相对稳定。"
+    } ]
+  }, {
+    "tStartMs": 119040,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "奴隶贸易成为最赚钱的生意。"
+    } ]
+  }, {
+    "tStartMs": 122060,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "欧洲船只在非洲购买奴隶，然后将其\n运到美洲换取黄金和"
+    } ]
+  }, {
+    "tStartMs": 128260,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "糖、咖啡等当地产品。"
+    } ]
+  }, {
+    "tStartMs": 133769,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "从 18 世纪中叶开始，反奴隶运动\n在欧洲蓬勃发展，并逐渐导致"
+    } ]
+  }, {
+    "tStartMs": 139340,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "人口贩卖和奴隶制减少。"
+    } ]
+  }, {
+    "tStartMs": 142710,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "在美国，一项将被释放的奴隶遣返回\n非洲的项目正在进行中。"
+    } ]
+  }, {
+    "tStartMs": 147530,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "建立了一个殖民地，允许\n数千名前奴隶返回。"
+    } ]
+  }, {
+    "tStartMs": 152640,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "尽管与当地居民存在冲突\n，利比里亚还是于 1847 年获得独立。"
+    } ]
+  }, {
+    "tStartMs": 159300,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "几年后，法国和埃及开通了苏伊士运河，开辟了一条通往亚洲的更短的新海上航线。"
+    } ]
+  }, {
+    "tStartMs": 167390,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "在非洲殖民地，人们的兴趣转向\n试图获得可耕地，以便种植"
+    } ]
+  }, {
+    "tStartMs": 172320,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "主要供应欧洲\n市场的农产品。"
+    } ]
+  }, {
+    "tStartMs": 176340,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "在探索这片土地的过程中，殖民者发现\n这片大陆资源丰富，"
+    } ]
+  }, {
+    "tStartMs": 180840,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "激起了当时正处于工业发展阶段的欧洲列强的胃口\n。"
+    } ]
+  }, {
+    "tStartMs": 189280,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "由于欧洲国家之间的竞争，紧张局势加剧\n。"
+    } ]
+  }, {
+    "tStartMs": 193020,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "1884年，柏林召开了一次会议来\n规范殖民统治。"
+    } ]
+  }, {
+    "tStartMs": 198460,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "比利时国王利奥波德二世私人拥有欧洲\n大陆中心一块广阔而鲜为人知的地区。"
+    } ]
+  }, {
+    "tStartMs": 205489,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "德国、西班牙和意大利占领了这些领土，\n而英国则获得了埃及。"
+    } ]
+  }, {
+    "tStartMs": 211060,
+    "dDurationMs": 5409,
+    "segs": [ {
+      "utf8": "从此以后，各国可以对其\n实际占领的任何土地提出主权要求。"
+    } ]
+  }, {
+    "tStartMs": 216469,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "欧洲国家凭借其优越的\n军事技术，展开了一场争夺"
+    } ]
+  }, {
+    "tStartMs": 221430,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "最大领土控制权的竞赛，\n牺牲了当地的王国和帝国。"
+    } ]
+  }, {
+    "tStartMs": 227420,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "大多数情况下，土地被盗并重新分配\n给欧洲定居者。"
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "土著人需要纳税，但却\n没有钱缴纳。"
+    } ]
+  }, {
+    "tStartMs": 236400,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "因此，他们发现自己不得不在田间\n或矿井里工作，这成为一种强迫劳动。"
+    } ]
+  }, {
+    "tStartMs": 245820,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "控制着厄立特里亚和索马里的意大利\n未能征服阿比西尼亚帝国，后者"
+    } ]
+  }, {
+    "tStartMs": 251720,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "获得国际社会对主权\n国家的承认。 在欧洲大陆南部"
+    } ]
+  }, {
+    "tStartMs": 255340,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "发现钻石和黄金后\n，"
+    } ]
+  }, {
+    "tStartMs": 259340,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "大英帝国扩张并占领了德兰士瓦州和奥兰治州，"
+    } ]
+  }, {
+    "tStartMs": 264240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这两个州都是由布尔人建立的，布尔人"
+    } ]
+  }, {
+    "tStartMs": 267040,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "主要为\n英国人到来后逃离的荷兰定居者的后裔。"
+    } ]
+  }, {
+    "tStartMs": 272520,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "1908年，利奥波德二世国王将刚果割让给比利时。"
+    } ]
+  }, {
+    "tStartMs": 276940,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "两年后，经过长期谈判，\n非洲大陆南部的英国殖民地"
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "获得独立，成立了南非联邦\n。"
+    } ]
+  }, {
+    "tStartMs": 285810,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "这个新国家\n成为一个自治领，将"
+    } ]
+  }, {
+    "tStartMs": 290180,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "某些权力移交给英国王室，从而继续与大英帝国保持联系。"
+    } ]
+  }, {
+    "tStartMs": 296620,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "第一次世界大战期间，数十万\n来自殖民地的士兵"
+    } ]
+  }, {
+    "tStartMs": 300820,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "被派往欧洲和非洲前线。"
+    } ]
+  }, {
+    "tStartMs": 303770,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "英国、法国、比利时和\n南非接管了德国殖民地。"
+    } ]
+  }, {
+    "tStartMs": 309789,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "战争结束后，\n埃及爆发了分离主义革命。"
+    } ]
+  }, {
+    "tStartMs": 313600,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "英国被迫承认其\n保护国地位的结束，"
+    } ]
+  }, {
+    "tStartMs": 317560,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "但该国通过保持军事存在保留了对苏伊士运河的控制权。"
+    } ]
+  }, {
+    "tStartMs": 322800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "1935年，法西斯意大利再次试图征服阿比西尼亚。"
+    } ]
+  }, {
+    "tStartMs": 327840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "此次意大利军队虽然成功\n逐步夺取了领土，"
+    } ]
+  }, {
+    "tStartMs": 331840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "但阿比西尼亚始终没有签署停战协议。"
+    } ]
+  }, {
+    "tStartMs": 335300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "第二次世界大战在欧洲爆发，"
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "数十万非洲人再次被卷入不同战线的战斗。"
+    } ]
+  }, {
+    "tStartMs": 342280,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "与纳粹德国结盟的意大利失去了其\n在欧洲大陆的殖民地。"
+    } ]
+  }, {
+    "tStartMs": 350460,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "二战结束后，阿比西尼亚成为埃塞俄比亚\n并恢复主权。"
+    } ]
+  }, {
+    "tStartMs": 356169,
+    "dDurationMs": 5531,
+    "segs": [ {
+      "utf8": "联合国举行会谈，讨论\n其他意大利殖民地的未来。"
+    } ]
+  }, {
+    "tStartMs": 361700,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "随着欧洲国家因战争而衰弱，\n美国开始向其靠拢。"
+    } ]
+  }, {
+    "tStartMs": 365819,
+    "dDurationMs": 5211,
+    "segs": [ {
+      "utf8": "由于担心苏联和共产主义\n在世界范围内崛起，美国支持"
+    } ]
+  }, {
+    "tStartMs": 371030,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "殖民地独立并加入\n联合国。"
+    } ]
+  }, {
+    "tStartMs": 374820,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "当马达加斯加爆发\n反抗法国占领者的起义时，它遭到了残酷的镇压。"
+    } ]
+  }, {
+    "tStartMs": 380750,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "意大利最终控制索马里\n十年，而利比亚则获得独立。"
+    } ]
+  }, {
+    "tStartMs": 386860,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "肯尼亚也开始了一场"
+    } ]
+  }, {
+    "tStartMs": 389900,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "持续8年的反殖民起义，造成许多平民伤亡。"
+    } ]
+  }, {
+    "tStartMs": 397640,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "1952年，埃及军队推翻\n君主制，开始推行反殖民政策。"
+    } ]
+  }, {
+    "tStartMs": 404040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "一方面，该国\n与苏联联系，提供武器。"
+    } ]
+  }, {
+    "tStartMs": 408440,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "另一方面，它提供军事支持，帮助阿尔及利亚民族主义者反抗法国的占领。"
+    } ]
+  }, {
+    "tStartMs": 414860,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "埃及还声称控制苏丹，并将苏伊士运河国有化，赶走了法国和英国。"
+    } ]
+  }, {
+    "tStartMs": 421349,
+    "dDurationMs": 5171,
+    "segs": [ {
+      "utf8": "作为回应，他们与以色列联合策划了\n对埃及的突然袭击。 这次"
+    } ]
+  }, {
+    "tStartMs": 426520,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "进攻取得了成功，但在\n苏联发出核战争威胁后被停止。"
+    } ]
+  }, {
+    "tStartMs": 432000,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "随后美国介入并下令结束\n进攻。"
+    } ]
+  }, {
+    "tStartMs": 435640,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "这一事件标志着英国和法国\n对欧洲大陆统治的结束。"
+    } ]
+  }, {
+    "tStartMs": 444040,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "法国和英国意识到失去权力，\n试图缓和政策"
+    } ]
+  }, {
+    "tStartMs": 448860,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "并保持对欧洲大陆的影响力。"
+    } ]
+  }, {
+    "tStartMs": 451440,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "英国支持苏丹独立，\n以防止该国受到埃及的控制。"
+    } ]
+  }, {
+    "tStartMs": 456820,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "同年，深陷阿尔及利亚战乱的法国\n"
+    } ]
+  }, {
+    "tStartMs": 460280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "承认摩洛哥和突尼斯独立，以避免暴力蔓延。"
+    } ]
+  }, {
+    "tStartMs": 465560,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "英国准备承认\n其殖民地的独立，"
+    } ]
+  }, {
+    "tStartMs": 469140,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "在某些情况下，如果新政府加入"
+    } ]
+  }, {
+    "tStartMs": 472380,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "\n由英国王室领导的政府间组织英联邦，英国也会承认。"
+    } ]
+  }, {
+    "tStartMs": 476580,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "法国则试图建立法非\n共同体。 除几内亚外，"
+    } ]
+  }, {
+    "tStartMs": 481020,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "所有殖民地都接受了该提议\n，几内亚随后获得独立。"
+    } ]
+  }, {
+    "tStartMs": 486560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "1960 年，新一波殖民地获得独立，\n结束了这一项目。"
+    } ]
+  }, {
+    "tStartMs": 492320,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "法国撤军但仍然使用\n非洲金融共同体法郎货币维持对该地区的经济控制。"
+    } ]
+  }, {
+    "tStartMs": 499020,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "同年，比属刚果也获得\n独立，改称刚果-利奥波德维尔。"
+    } ]
+  }, {
+    "tStartMs": 508500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "法国不惜一切代价试图维持对阿尔及利亚的控制\n。"
+    } ]
+  }, {
+    "tStartMs": 512580,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "但对当地民众的暴力镇压和屠杀，\n"
+    } ]
+  }, {
+    "tStartMs": 515820,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "使他们失去了法国人民和国际社会的支持。"
+    } ]
+  }, {
+    "tStartMs": 520600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "尽管\n"
+    } ]
+  }, {
+    "tStartMs": 523520,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "阿尔及利亚分裂主义势力自身也存在暴力行为，但他们仍然利用外交手段在联合国赢得辩论。"
+    } ]
+  }, {
+    "tStartMs": 530320,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "法国起初采取防御态度，尝试采取空椅子政策，"
+    } ]
+  }, {
+    "tStartMs": 534340,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "并于 1962 年被迫承认阿尔及利亚独立。 在欧洲"
+    } ]
+  }, {
+    "tStartMs": 543380,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "大陆的南部，当英国\n失去最后的殖民地时，"
+    } ]
+  }, {
+    "tStartMs": 546920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "葡萄牙也陷入了困境。"
+    } ]
+  }, {
+    "tStartMs": 549720,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "尽管葡萄牙人对安哥拉进行了大规模投资并大量\n移民，但"
+    } ]
+  }, {
+    "tStartMs": 554180,
+    "dDurationMs": 7030,
+    "segs": [ {
+      "utf8": "战争仍然爆发并蔓延到其他殖民地，导致\n该国在军事上投入大量资金。"
+    } ]
+  }, {
+    "tStartMs": 561210,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "最后，葡萄牙的一场革命推翻了\n政权。"
+    } ]
+  }, {
+    "tStartMs": 564980,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "新政府承认殖民地的独立，"
+    } ]
+  }, {
+    "tStartMs": 568360,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "并组织紧急遣返其定居者。"
+    } ]
+  }, {
+    "tStartMs": 575760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "在北部，摩洛哥向西班牙施压，要求其退出\n西撒哈拉。"
+    } ]
+  }, {
+    "tStartMs": 579920,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "当西班牙人最终撤离时，他们占领了\n解放区的三分之二的土地。"
+    } ]
+  }, {
+    "tStartMs": 584590,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "虽然欧洲国家\n在非洲已经不存在了，但南罗得西亚是唯一一个"
+    } ]
+  }, {
+    "tStartMs": 590120,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "由英国殖民者获得独立的国家，而英国\n殖民者希望自己建立一个"
+    } ]
+  }, {
+    "tStartMs": 595150,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "由白人统治的国家。"
+    } ]
+  }, {
+    "tStartMs": 596950,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "该国未得到联合国承认，并\n承受着巨大的国际压力。"
+    } ]
+  }, {
+    "tStartMs": 601460,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "1980年，津巴布韦屈服，成立过渡政府\n。"
+    } ]
+  }, {
+    "tStartMs": 607600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "尽管欧洲在非洲的存在已经结束，但非洲"
+    } ]
+  }, {
+    "tStartMs": 610360,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "大陆仍将面临各种形式的新殖民主义。"
+    } ]
+  }, {
+    "tStartMs": 615300,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "世界大国和跨国公司影响\n非洲国家，有时甚至破坏其稳定，"
+    } ]
+  }, {
+    "tStartMs": 620320,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "目的是以牺牲\n当地人民为代价来获取财富和巨额利润。"
+    } ]
+  } ]
+}

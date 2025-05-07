@@ -1,0 +1,757 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 89,
+    "dDurationMs": 5921,
+    "segs": [ {
+      "utf8": "In the middle of the 15th century, central\nand southern Africa is still unknown to Europe."
+    } ]
+  }, {
+    "tStartMs": 6010,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "However, for centuries the Arabs operated\ntrade routes crossing the vast Sahara desert"
+    } ]
+  }, {
+    "tStartMs": 11500,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "transporting to the Mediterranean gold, ivory\nand slaves."
+    } ]
+  }, {
+    "tStartMs": 16260,
+    "dDurationMs": 3852,
+    "segs": [ {
+      "utf8": "Europe is more interested in profitable trade\nroutes from Asia,"
+    } ]
+  }, {
+    "tStartMs": 20120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "especially the import of silk and spices."
+    } ]
+  }, {
+    "tStartMs": 23560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "But the expansion of the Ottoman Empire threatens\nthese networks."
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "Furthermore, the kingdoms of the Iberian Peninsula\nset their sights on discovering new sea routes"
+    } ]
+  }, {
+    "tStartMs": 33630,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "to Asia to corner the lucrative markets."
+    } ]
+  }, {
+    "tStartMs": 40640,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "Portugal takes the lead by inventing the Caravelle;\na lightweight, versatile vessel allowing it"
+    } ]
+  }, {
+    "tStartMs": 46559,
+    "dDurationMs": 3811,
+    "segs": [ {
+      "utf8": "to accelerate exploration of the African coast."
+    } ]
+  }, {
+    "tStartMs": 50370,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "The country establishes maritime trading posts\nas an alternative to overland trade routes,"
+    } ]
+  }, {
+    "tStartMs": 56260,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "especially to capture the highly profitable\nslave trade."
+    } ]
+  }, {
+    "tStartMs": 60110,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "In 1498, Vasco da Gama reaches India."
+    } ]
+  }, {
+    "tStartMs": 63920,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Portugal rapidly grows in power in the Indian\nOcean and dominates the spice trade."
+    } ]
+  }, {
+    "tStartMs": 69160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The country grows rich and faces no competition\nfrom the Spanish Empire"
+    } ]
+  }, {
+    "tStartMs": 72920,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "as the two reach an agreement to define their zones of influence, as per the Treaty of Tordesillas."
+    } ]
+  }, {
+    "tStartMs": 80060,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Spain therefore focuses on the American continent."
+    } ]
+  }, {
+    "tStartMs": 87360,
+    "dDurationMs": 5999,
+    "segs": [ {
+      "utf8": "In 1580, the king of Spain takes control of\nPortugal to form the Iberian Union."
+    } ]
+  }, {
+    "tStartMs": 93360,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "The new maritime power, the Netherlands, takes advantage of the situation to seize Portuguese colonies."
+    } ]
+  }, {
+    "tStartMs": 100000,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Portugal finally regains its independence\nand tries to regain control of businesses in Africa."
+    } ]
+  }, {
+    "tStartMs": 105820,
+    "dDurationMs": 6299,
+    "segs": [ {
+      "utf8": "But the country now faces competition from\nnew European powers settling along the African coast."
+    } ]
+  }, {
+    "tStartMs": 112120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "The situation then remains relatively stable\nfor centuries,"
+    } ]
+  }, {
+    "tStartMs": 115520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "with each country managing its own trade routes."
+    } ]
+  }, {
+    "tStartMs": 119040,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Slave trade becomes the most profitable business."
+    } ]
+  }, {
+    "tStartMs": 122060,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "European ships buy slaves in Africa whom they\nexchange in America for gold and local products"
+    } ]
+  }, {
+    "tStartMs": 128260,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "such as sugar and coffee."
+    } ]
+  }, {
+    "tStartMs": 133769,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "From the mid-18th century, anti-slavery movements\ngain momentum in Europe and gradually lead"
+    } ]
+  }, {
+    "tStartMs": 139340,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "to a fall in human trafficking and slavery."
+    } ]
+  }, {
+    "tStartMs": 142710,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "In the US, a project to repatriate freed slaves\nto Africa gets underway."
+    } ]
+  }, {
+    "tStartMs": 147530,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "A colony is established allowing the return\nof thousands of former slaves."
+    } ]
+  }, {
+    "tStartMs": 152640,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "Although there are conflicts with indigenous\npopulations, Liberia becomes independent in 1847."
+    } ]
+  }, {
+    "tStartMs": 159300,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "A few years later, France and Egypt inaugurate the Suez Canal, opening a new shorter sea route to Asia."
+    } ]
+  }, {
+    "tStartMs": 167390,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "In the African colonies, interest turns towards\ntrying to gain arable land in order to grow"
+    } ]
+  }, {
+    "tStartMs": 172320,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "agricultural products primarily for European\nmarkets."
+    } ]
+  }, {
+    "tStartMs": 176340,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "While exploring the land, colonists discover\nthe continent is rich in resources,"
+    } ]
+  }, {
+    "tStartMs": 180840,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "stirring the appetite of European powers in the midst\nof industrial development."
+    } ]
+  }, {
+    "tStartMs": 189280,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Tensions flare because of competition between\nEuropean nations."
+    } ]
+  }, {
+    "tStartMs": 193020,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "In 1884, a conference is held in Berlin to\nregulate colonization."
+    } ]
+  }, {
+    "tStartMs": 198460,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "King Leopold II of Belgium gets personal possession\nof a large, little-known area in the heart of the continent."
+    } ]
+  }, {
+    "tStartMs": 205489,
+    "dDurationMs": 5571,
+    "segs": [ {
+      "utf8": "Germany, Spain and Italy seize territories,\nwhile the UK receives Egypt."
+    } ]
+  }, {
+    "tStartMs": 211060,
+    "dDurationMs": 5409,
+    "segs": [ {
+      "utf8": "Henceforth, countries can stake claim to any\nland they physically occupy."
+    } ]
+  }, {
+    "tStartMs": 216469,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "European nations, boosted by their superior\nmilitary technology, engage in a race for"
+    } ]
+  }, {
+    "tStartMs": 221430,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "control of the largest possible territory\nat the expense of local kingdoms and empires."
+    } ]
+  }, {
+    "tStartMs": 227420,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "In most cases, land is stolen and redistributed\nto European settlers."
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Indigenous people are subject to taxes, but\nhave no money to pay them."
+    } ]
+  }, {
+    "tStartMs": 236400,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "So they find themselves working in the fields\nor in mines, which become a form of forced labor."
+    } ]
+  }, {
+    "tStartMs": 245820,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "Italy, which controls Eritrea and Somalia,\nfails to conquer the empire of Abyssinia which"
+    } ]
+  }, {
+    "tStartMs": 251720,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "gains international recognition as a sovereign\nnation."
+    } ]
+  }, {
+    "tStartMs": 255340,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "After the discovery of diamonds and gold in\nthe south of the continent,"
+    } ]
+  }, {
+    "tStartMs": 259340,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "the British empire expands to take over the states of Transvaal and Orange,"
+    } ]
+  }, {
+    "tStartMs": 264240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "both of which were founded by the Boers"
+    } ]
+  }, {
+    "tStartMs": 267040,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "mainly descendants of Dutch settlers\nwho fled following the arrival of the British."
+    } ]
+  }, {
+    "tStartMs": 272520,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "In 1908, King Leopold II cedes Congo to Belgium."
+    } ]
+  }, {
+    "tStartMs": 276940,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "Two years later, after long negotiations,\nsouthern British colonies of the continent"
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "gain independence, forming the Union of South\nAfrica."
+    } ]
+  }, {
+    "tStartMs": 285810,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "The new country remains linked to the British\nempire by becoming a dominion,"
+    } ]
+  }, {
+    "tStartMs": 290180,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "ceding certain powers to the British crown."
+    } ]
+  }, {
+    "tStartMs": 296620,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "During the World War I, hundreds of thousands\nof men from the colonies"
+    } ]
+  }, {
+    "tStartMs": 300820,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "are sent to European and African frontlines."
+    } ]
+  }, {
+    "tStartMs": 303770,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "The United Kingdom, France, Belgium and South\nAfrica take over the German colonies."
+    } ]
+  }, {
+    "tStartMs": 309789,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "At the end of the war, a separatist revolution\nbreaks out in Egypt."
+    } ]
+  }, {
+    "tStartMs": 313600,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "The UK is forced to recognize the end of its\nprotectorate status,"
+    } ]
+  }, {
+    "tStartMs": 317560,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "but the country retains control of the Suez Canal by maintaining a military presence."
+    } ]
+  }, {
+    "tStartMs": 322800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "In 1935, fascist Italy again tries to conquer Abyssinia."
+    } ]
+  }, {
+    "tStartMs": 327840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This time the Italian army is successful in\ngradually seizing territories,"
+    } ]
+  }, {
+    "tStartMs": 331840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "but Abyssinia would never sign an armistice."
+    } ]
+  }, {
+    "tStartMs": 335300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "World War II breaks out in Europe, and again,"
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "hundreds of thousands of Africans are involved in fighting on different fronts."
+    } ]
+  }, {
+    "tStartMs": 342280,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Italy, allied with Nazi Germany, loses its\ncolonies on the continent."
+    } ]
+  }, {
+    "tStartMs": 350460,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "At the end of WWII, Abyssinia becomes Ethiopia\nand regains its sovereignty."
+    } ]
+  }, {
+    "tStartMs": 356169,
+    "dDurationMs": 5531,
+    "segs": [ {
+      "utf8": "Talks are held at the United Nations to discuss\nthe future of other Italian colonies."
+    } ]
+  }, {
+    "tStartMs": 361700,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "With European nations weakened by war, the\nUnited States leans in."
+    } ]
+  }, {
+    "tStartMs": 365819,
+    "dDurationMs": 5211,
+    "segs": [ {
+      "utf8": "Fearing the rise of the Soviet Union and communism\nin the world, the country supports the independence"
+    } ]
+  }, {
+    "tStartMs": 371030,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "of colonies and their admission to the United\nNation."
+    } ]
+  }, {
+    "tStartMs": 374820,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "When an insurrection breaks out in Madagascar\nagainst French occupiers, it is brutally suppressed."
+    } ]
+  }, {
+    "tStartMs": 380750,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "Italy eventually gets control of Somalia for\nanother 10 years, while Libya becomes independent."
+    } ]
+  }, {
+    "tStartMs": 386860,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Kenya also begins an anti-colonial uprising"
+    } ]
+  }, {
+    "tStartMs": 389900,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "that would last 8 years and result in many civilian victims."
+    } ]
+  }, {
+    "tStartMs": 397640,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "In 1952, the Egyptian army overthrows the\nmonarchy and begins anti-colonial policies."
+    } ]
+  }, {
+    "tStartMs": 404040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "On the one hand, the country makes contact\nwith the Soviet Union to provide arms."
+    } ]
+  }, {
+    "tStartMs": 408440,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "On the other, it provides military support to aid Algerian nationalists against the French occupation."
+    } ]
+  }, {
+    "tStartMs": 414860,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Egypt also claims control of Sudan, and nationalizes the Suez Canal, chasing away the French and the British."
+    } ]
+  }, {
+    "tStartMs": 421349,
+    "dDurationMs": 5171,
+    "segs": [ {
+      "utf8": "In response, they combine with Israel to organize\na surprise attack on Egypt."
+    } ]
+  }, {
+    "tStartMs": 426520,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "The offensive is a success, but is stopped\nafter the USSR’s threat of nuclear war."
+    } ]
+  }, {
+    "tStartMs": 432000,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "The US then steps in and orders an end to\nthe offensive."
+    } ]
+  }, {
+    "tStartMs": 435640,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "The event marks the end of the British and French \ndomination on the continent."
+    } ]
+  }, {
+    "tStartMs": 444040,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Aware of losing their grip on power, France\nand the UK try to moderate their policy"
+    } ]
+  }, {
+    "tStartMs": 448860,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and maintain influence on the continent."
+    } ]
+  }, {
+    "tStartMs": 451440,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "Britain supports the independence of Sudan\nto prevent the country coming under Egyptian control."
+    } ]
+  }, {
+    "tStartMs": 456820,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "The same year, France, which is mired in war\nin Algeria,"
+    } ]
+  }, {
+    "tStartMs": 460280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "recognizes the independence of Morocco and Tunisia to avoid the spread of violence."
+    } ]
+  }, {
+    "tStartMs": 465560,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "The UK is ready to recognize the independence\nof its colonies,"
+    } ]
+  }, {
+    "tStartMs": 469140,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "in some cases if the new governments join the Commonwealth,"
+    } ]
+  }, {
+    "tStartMs": 472380,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "an intergovernmental\norganization headed by the British crown."
+    } ]
+  }, {
+    "tStartMs": 476580,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "France for its part tries to set up a Franco-African\ncommunity."
+    } ]
+  }, {
+    "tStartMs": 481020,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "All colonies accept the proposal with the\nexception of Guinea, which then gains independence."
+    } ]
+  }, {
+    "tStartMs": 486560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "In 1960, a new wave of colonies gaining independence\nends this project."
+    } ]
+  }, {
+    "tStartMs": 492320,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "France withdraws but maintains economic control\nover the region with the CFA franc currencies."
+    } ]
+  }, {
+    "tStartMs": 499020,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "The same year, the Belgian Congo also gets\nindependence and becomes the Congo-Leopoldville."
+    } ]
+  }, {
+    "tStartMs": 508500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "France tries to maintain control over Algeria\nat all costs."
+    } ]
+  }, {
+    "tStartMs": 512580,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "But violent repression and massacres of local\npopulations"
+    } ]
+  }, {
+    "tStartMs": 515820,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "makes them lose support of the French people and the international community."
+    } ]
+  }, {
+    "tStartMs": 520600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Despite violence committed by some of its\nown forces,"
+    } ]
+  }, {
+    "tStartMs": 523520,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Algerian separatists take the advantage by playing the diplomatic card and gaining debates at the UN."
+    } ]
+  }, {
+    "tStartMs": 530320,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "France, defensive at first, tries the empty-chair policy,"
+    } ]
+  }, {
+    "tStartMs": 534340,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and in 1962 finds itself forced to recognize the independence of Algeria."
+    } ]
+  }, {
+    "tStartMs": 543380,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "South of the continent, while the British\nlose their last colonies,"
+    } ]
+  }, {
+    "tStartMs": 546920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Portugal also finds itself in trouble."
+    } ]
+  }, {
+    "tStartMs": 549720,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Despite large investments and significant\nmigration of Portuguese to Angola,"
+    } ]
+  }, {
+    "tStartMs": 554180,
+    "dDurationMs": 7030,
+    "segs": [ {
+      "utf8": "war breaks out and spreads into other colonies, causing\nthe country to invest heavily in military efforts."
+    } ]
+  }, {
+    "tStartMs": 561210,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Finally, a revolution in Portugal overthrows\nthe regime."
+    } ]
+  }, {
+    "tStartMs": 564980,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "The new government recognizes the independence of the colonies"
+    } ]
+  }, {
+    "tStartMs": 568360,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "and organizes emergency repatriation of its settlers."
+    } ]
+  }, {
+    "tStartMs": 575760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "To the north, Morocco pressures Spain to quit\nthe Western Sahara."
+    } ]
+  }, {
+    "tStartMs": 579920,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "When the Spanish finally depart, it captures\ntwo thirds of the liberated country."
+    } ]
+  }, {
+    "tStartMs": 584590,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "While European nations are no longer present\nin Africa, Southern Rhodesia is the only country"
+    } ]
+  }, {
+    "tStartMs": 590120,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "whose independence was obtained by British\ncolonists who hope to themselves found a country"
+    } ]
+  }, {
+    "tStartMs": 595150,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "ruled by white people."
+    } ]
+  }, {
+    "tStartMs": 596950,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "The country is not recognized in the UN and\ncomes under great international pressure."
+    } ]
+  }, {
+    "tStartMs": 601460,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "In 1980, it yields and a transitional government\nis set up to form Zimbabwe."
+    } ]
+  }, {
+    "tStartMs": 607600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Despite the end of European presence in Africa,"
+    } ]
+  }, {
+    "tStartMs": 610360,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "the continent will still have to face various forms of neo-colonialism."
+    } ]
+  }, {
+    "tStartMs": 615300,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "World powers and multinationals influence\nand sometimes destabilize African countries"
+    } ]
+  }, {
+    "tStartMs": 620320,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "with the aim of gaining its wealth and generating\nhuge profits at the expense of local populations."
+    } ]
+  } ]
+}
