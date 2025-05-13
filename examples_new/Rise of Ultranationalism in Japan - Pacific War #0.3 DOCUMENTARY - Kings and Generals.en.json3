@@ -1,0 +1,967 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 12080,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "By the start of the 20th Century, Japan had turned \nfrom a pre-industrialized isolationist state into  "
+    } ]
+  }, {
+    "tStartMs": 18960,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "a modernized regional power, defeating both the \nChinese and Russian Empires, annexing Korea and  "
+    } ]
+  }, {
+    "tStartMs": 25120,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Taiwan, and expanding their sphere of influence \nacross East Asia. But after the death of Emperor  "
+    } ]
+  }, {
+    "tStartMs": 31760,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Meiji, new problems would arise, opportunities \nwould be taken and Japan would continue to expand  "
+    } ]
+  }, {
+    "tStartMs": 38720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "and develop itself as a rising great power. Today, \nwe’re going to continue analyzing the evolution of  "
+    } ]
+  }, {
+    "tStartMs": 45280,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "the Japanese Empire during the Taishō and Early \nShōwa eras, covering its role in the Great War,  "
+    } ]
+  }, {
+    "tStartMs": 51440,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "subsequent expansionist developments, and \nthe start of its trajectory towards fascism  "
+    } ]
+  }, {
+    "tStartMs": 56800,
+    "dDurationMs": 1474,
+    "segs": [ {
+      "utf8": "and the Pacific War. Unfortunately, not every \nevent and fun detail can be told in a 20-minute  "
+    } ]
+  }, {
+    "tStartMs": 58274,
+    "dDurationMs": 158,
+    "segs": [ {
+      "utf8": "video. And in order to alleviate that, we decided \nto create a new podcast that will cover the events  "
+    } ]
+  }, {
+    "tStartMs": 58433,
+    "dDurationMs": 143,
+    "segs": [ {
+      "utf8": "of the Pacific War every Tuesday for 4 years \nto accompany these videos. You can find these  "
+    } ]
+  }, {
+    "tStartMs": 58576,
+    "dDurationMs": 158,
+    "segs": [ {
+      "utf8": "1-hour episodes with interesting additions in the \ndescription and pinned comment. Consider following  "
+    } ]
+  }, {
+    "tStartMs": 58734,
+    "dDurationMs": 2626,
+    "segs": [ {
+      "utf8": "and leaving a review - it helps immensely!\n2021 is coming to the end and one of the  "
+    } ]
+  }, {
+    "tStartMs": 61360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "highlights of the year for us was Blinkist, \nboth for being our loyal partner and because  "
+    } ]
+  }, {
+    "tStartMs": 65680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "it is a platform we have used to learn from \ndozens of non-fiction books during the year.  "
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Preservation of knowledge is one of the noblest \nhuman pursuits and Blinkist is all about  "
+    } ]
+  }, {
+    "tStartMs": 74320,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "preserving and sharing knowledge by making it \neasily digestible even for the busiest among us.  "
+    } ]
+  }, {
+    "tStartMs": 79360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Blinkist takes the most interesting and relevant \nnon-fictional books and turns them into 15-minute  "
+    } ]
+  }, {
+    "tStartMs": 84320,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "audios – blinks. More than 3000 titles are \nalready available which means that you can learn  "
+    } ]
+  }, {
+    "tStartMs": 89680,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "on the go, learn fast, and always improve your \nknowledge, no matter how time-constrained you are.  "
+    } ]
+  }, {
+    "tStartMs": 94880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Blinkist titles range from Entrepreneurship to \nPhilosophy, from Psychology to Politics, but most  "
+    } ]
+  }, {
+    "tStartMs": 100480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "importantly for us, there are 100s of historical \nbooks that you can listen to! Imagine learning  "
+    } ]
+  }, {
+    "tStartMs": 105440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "the most important facts of 4 books in just 1 \nhour! If you are interested in the history of  "
+    } ]
+  }, {
+    "tStartMs": 110400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the Pacific War you got to listen to Liza Mundy’s \nCode Girls about the thousands of American women  "
+    } ]
+  }, {
+    "tStartMs": 115760,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "who worked as code breakers during World War II, \nwhile our favorite War: How Conflict Shaped Us by  "
+    } ]
+  }, {
+    "tStartMs": 121440,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Margaret MacMillan’s describes the nature of the \nhuman conflict. New titles are added all the time!  "
+    } ]
+  }, {
+    "tStartMs": 127200,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Support our channel and your growth - get yourself \npremium access to knowledge! the first 100 people  "
+    } ]
+  }, {
+    "tStartMs": 133040,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "to go to blinkist.com/kingsandgenerals are going \nto get unlimited access for 1 week to try it out."
+    } ]
+  }, {
+    "tStartMs": 149360,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "It is July 30, 1912. Emperor Meiji is dead, \nhis family is mourning him, and his heir is  "
+    } ]
+  }, {
+    "tStartMs": 156880,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "preparing to ascend to the Chrysanthemum Throne \nas Emperor Taishō. For the past four decades,  "
+    } ]
+  }, {
+    "tStartMs": 163920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Meiji had overseen the modernization and \nindustrialization of the Japanese Empire,  "
+    } ]
+  }, {
+    "tStartMs": 169120,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "which underwent an extensive political, economic \nand social revolution. On his funeral, a massive  "
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "procession gathered to pay homage to the Emperor \nthat had brought a new era for Japan. Of this  "
+    } ]
+  }, {
+    "tStartMs": 182320,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "event, the New York Times wrote that “the contrast \nbetween that which preceded the funeral car and  "
+    } ]
+  }, {
+    "tStartMs": 188800,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "that which followed it was striking indeed. Before \nit went old Japan; after it came new Japan”.  "
+    } ]
+  }, {
+    "tStartMs": 196640,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "And in this new Japan, many differences could \nbe already noticed, such as a great economic  "
+    } ]
+  }, {
+    "tStartMs": 202960,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "growth in many sectors, aided by the financial \npower of the Zaibatsu business conglomerates  "
+    } ]
+  }, {
+    "tStartMs": 208880,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "and by the introduction of electric power; a heavy \ngovernment investment in engineering, industry and  "
+    } ]
+  }, {
+    "tStartMs": 215040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "railway building that resulted in the rapid \nindustrialization of Japan; the establishment  "
+    } ]
+  }, {
+    "tStartMs": 220400,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "of a Western-based education system; and the \ncomplete modernization of the Army and Navy. "
+    } ]
+  }, {
+    "tStartMs": 227440,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Yet the death of Meiji would also spark a \npolitical crisis in the Japanese Empire,  "
+    } ]
+  }, {
+    "tStartMs": 232880,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "as the Meiji Constitution was written in such \na way that the military had dominance over  "
+    } ]
+  }, {
+    "tStartMs": 238560,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "the civilian government: if the IJA or the IJN \nrefused to appoint a minister for the new cabinet,  "
+    } ]
+  }, {
+    "tStartMs": 245680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "then the cabinet couldn’t be formed and \nthe government would be interrupted.  "
+    } ]
+  }, {
+    "tStartMs": 250480,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "When this happened two times in 1912 and 1913, \nthe acting Prime Ministers were forced to resign.  "
+    } ]
+  }, {
+    "tStartMs": 258480,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "In response, the public was outraged due to \nthe military manipulation of the cabinet,  "
+    } ]
+  }, {
+    "tStartMs": 263920,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "and soon, demands against the oligarchic \nsystem of the Japanese Empire began to emerge. "
+    } ]
+  }, {
+    "tStartMs": 270000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "But the political uprisings would \nhave to temporarily take a break,  "
+    } ]
+  }, {
+    "tStartMs": 273840,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "as in Europe, the First World War broke out in \n1914 between the Central Powers and the Entente.  "
+    } ]
+  }, {
+    "tStartMs": 280960,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "As a consequence of the Anglo-Japanese Treaty, \nJapan entered the war on the side of the Entente,  "
+    } ]
+  }, {
+    "tStartMs": 287040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "seizing the opportunity to expand its sphere \nof influence in China and the Pacific,  "
+    } ]
+  }, {
+    "tStartMs": 292240,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "where the German Empire had colonial possessions. \nWhile Australia and New Zealand launched invasions  "
+    } ]
+  }, {
+    "tStartMs": 298640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "against German Samoa and German New Guinea, \nVice-Admiral Sadakichi Kato of the 2nd Fleet  "
+    } ]
+  }, {
+    "tStartMs": 304640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "started the blockade of the German colony \nof Tsingtao and Vice-Admiral Yamaya Tanin  "
+    } ]
+  }, {
+    "tStartMs": 309920,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "of the South Seas Squadron started to pursue \nthe fleeing German East Asia Squadron towards  "
+    } ]
+  }, {
+    "tStartMs": 315680,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "the Marshall Islands. Quickly, the IJN seized the \nMariana, Caroline, Palau and Marshall Islands with  "
+    } ]
+  }, {
+    "tStartMs": 322880,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "virtually no resistance, and the IJA landed \non Shandong to start the Siege of Tsingtao.  "
+    } ]
+  }, {
+    "tStartMs": 329600,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "After two months, Tsingtao fell on November 7, and \nthe city was occupied by Japanese troops. The IJN  "
+    } ]
+  }, {
+    "tStartMs": 337280,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "would also continue to support naval operations \nin the Pacific against German raiders and,  "
+    } ]
+  }, {
+    "tStartMs": 342880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "eventually, it would even send squadrons into the \nMediterranean to help the Entente in the region. "
+    } ]
+  }, {
+    "tStartMs": 348960,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "During the war, Japan increasingly filled orders \nfor needed war material for its European allies.  "
+    } ]
+  }, {
+    "tStartMs": 355760,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "The wartime boom helped to diversify the \ncountry's industry, increase its exports,  "
+    } ]
+  }, {
+    "tStartMs": 361440,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "and transform Japan from a debtor to a \ncreditor nation for the first time, although  "
+    } ]
+  }, {
+    "tStartMs": 366560,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "this industrial boom also led to a rapid inflation \nand the outbreak of rice riots throughout Japan.  "
+    } ]
+  }, {
+    "tStartMs": 374080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Meanwhile in China, the Empire attempted \nto consolidate its position in the region  "
+    } ]
+  }, {
+    "tStartMs": 379040,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "by presenting the Twenty-One Demands to Chinese \nPresident Yuan Shikai in 1915. These demands  "
+    } ]
+  }, {
+    "tStartMs": 386720,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "essentially transformed China into a Japanese \nprotectorate, and in response, the Japanese earned  "
+    } ]
+  }, {
+    "tStartMs": 392800,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "the international condemnations of their allies, \nparticularly from the United States. In the end,  "
+    } ]
+  }, {
+    "tStartMs": 399120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Japan withdrew the demands, but it would \ncontinue to extend its influence in China  "
+    } ]
+  }, {
+    "tStartMs": 404560,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "via more subtle means. The Fall of the Russian \nEmpire in 1917 also saw the Japanese wanting to  "
+    } ]
+  }, {
+    "tStartMs": 411760,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "increase their influence in the region with \nan intervention in Siberia, landing almost  "
+    } ]
+  }, {
+    "tStartMs": 416800,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "70000 men under the orders of General Otani \nKikuzo and penetrating as far west as Lake Baikal.  "
+    } ]
+  }, {
+    "tStartMs": 424400,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "In 1919, as the British and American expeditionary \nforces withdrew, the Japanese decided to stay for  "
+    } ]
+  }, {
+    "tStartMs": 431760,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "three more years with the objective of creating \nan anti-Bolshevik buffer state in Siberia;  "
+    } ]
+  }, {
+    "tStartMs": 437600,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "an enterprise that would fail, costing a \nlot of money for the Empire. That same year,  "
+    } ]
+  }, {
+    "tStartMs": 443760,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Japan’s representative, Saionji Kinmochi, sat \nalongside the “Big Four” at the Paris Peace  "
+    } ]
+  }, {
+    "tStartMs": 449520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Conference. As a result of the peace treaties, \nthe Japanese Empire gained a permanent seat on  "
+    } ]
+  }, {
+    "tStartMs": 455520,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "the Council of the League of Nations, annexed \nthe German leased territories in Shandong  "
+    } ]
+  }, {
+    "tStartMs": 461200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and was granted the South Seas Mandate \nover the Pacific islands they had occupied. "
+    } ]
+  }, {
+    "tStartMs": 466800,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "After the war ended, the Japanese \nEmpire emerged as a naval powerhouse,  "
+    } ]
+  }, {
+    "tStartMs": 471680,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "having the third largest navy in the world \nand learning important anti-submarine warfare  "
+    } ]
+  }, {
+    "tStartMs": 477600,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "techniques and technologies that contributed \nto future Japanese submarine developments.  "
+    } ]
+  }, {
+    "tStartMs": 483920,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Back home, the political strife ended with \nthe adoption of a two-party political system  "
+    } ]
+  }, {
+    "tStartMs": 489840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "known as the Taishō Democracy. But the failure of \nthe Siberian Intervention and the termination of  "
+    } ]
+  }, {
+    "tStartMs": 496240,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "the Anglo-Japanese Treaty would leave Japan alone \nand weakened, forcing the Empire to adopt a more  "
+    } ]
+  }, {
+    "tStartMs": 503520,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "neutral attitude towards China and to sign the \nWashington Naval Treaty of 1922 and the subsequent  "
+    } ]
+  }, {
+    "tStartMs": 511280,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "London Naval Treaty of 1930, that established an \ninternational capital ship ratio, limited the size  "
+    } ]
+  }, {
+    "tStartMs": 518320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "and armaments of capital ships and forced Japan \nto return the leased territories in Shandong.  "
+    } ]
+  }, {
+    "tStartMs": 525120,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Furthermore, the national debt started to grow \nagain because of the renewed export competition,  "
+    } ]
+  }, {
+    "tStartMs": 531120,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "the Great Kantō earthquake of 1923 devastated \nthe capital, a Communist Party dangerous to  "
+    } ]
+  }, {
+    "tStartMs": 537840,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "current regime was founded, and the rise of \nthe tenant farmer movement led to the outbreak  "
+    } ]
+  }, {
+    "tStartMs": 543520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "of social unrest. Although the communists \nand the tenants were brutally repressed,  "
+    } ]
+  }, {
+    "tStartMs": 549040,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "thus ending the threats they posed, economic \nand political pressures forced the government  "
+    } ]
+  }, {
+    "tStartMs": 554720,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "to enact the Peace Preservation Law of 1925 \nthat essentially criminalized socialism,  "
+    } ]
+  }, {
+    "tStartMs": 561040,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "communism, republicanism, and democracy. This \nwas the end of the Taishō Democracy, with Emperor  "
+    } ]
+  }, {
+    "tStartMs": 567760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Taishō dying himself the next year. Upon the \ndeath of his father, Prince Hirohito ascended  "
+    } ]
+  }, {
+    "tStartMs": 573680,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "to the Chrysanthemum Throne on December 25, 1926.\nHirohito would have a rough start as Emperor, with  "
+    } ]
+  }, {
+    "tStartMs": 581680,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "the outbreak of the Shōwa Financial Crisis in the \nfirst year of rule. Many businesses went bankrupt,  "
+    } ]
+  }, {
+    "tStartMs": 588480,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "exports decreased, silk and rice prices plummeted, \nand unemployment skyrocketed. The situation  "
+    } ]
+  }, {
+    "tStartMs": 595760,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "worsened with the Great Depression of 1929, but \nJapan’s Finance Minister, Takahashi Korekiyo,  "
+    } ]
+  }, {
+    "tStartMs": 602560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "would start working to devalue the currency \nand to provide economic relief, measures that  "
+    } ]
+  }, {
+    "tStartMs": 608160,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "would be very successful. The four major Zaibatsu \nalso managed to avoid great losses in the panic,  "
+    } ]
+  }, {
+    "tStartMs": 615120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "leading to their domination over every field \nof Japanese industry in the following years.  "
+    } ]
+  }, {
+    "tStartMs": 620880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "In the countryside, the establishment of \nnohonshugi organizations led to the emergence  "
+    } ]
+  }, {
+    "tStartMs": 626640,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "of emperor-centered ultranationalism and Japanese \nfascism. The nohonshugi won increasing support  "
+    } ]
+  }, {
+    "tStartMs": 633680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "because they offered solutions to the economic \nproblems of the rural countryside: it was their  "
+    } ]
+  }, {
+    "tStartMs": 639360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "practical program of cooperatives and credit \nassociations, not their ideology, that accounted  "
+    } ]
+  }, {
+    "tStartMs": 645360,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "for their growing popularity and local influence.\nThis new Japanese nationalism leaned on the  "
+    } ]
+  }, {
+    "tStartMs": 651680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Bushidō moral code and the idea of racial \nsuperiority over other Asian nations.  "
+    } ]
+  }, {
+    "tStartMs": 658160,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "It was aimed against Western criticism and \nrestrictions on Japanese immigration. In the  "
+    } ]
+  }, {
+    "tStartMs": 663920,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "military itself, an ultranationalist faction known \nas the Kōdōha was formed by General Sadao Araki,  "
+    } ]
+  }, {
+    "tStartMs": 671120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "seeking to purge the corruption in the government \nby establishing a militaristic administration run  "
+    } ]
+  }, {
+    "tStartMs": 676800,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "by Emperor Hirohito himself. Moreover, the Kōdōha \ndisliked modernization and the economic control of  "
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "the Zaibatsu, and also wanted to crush communism \nonce and for all by attacking the Soviet Union  "
+    } ]
+  }, {
+    "tStartMs": 690480,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "and expanding into Siberia. Opposed to them was \nthe more moderate Tōseiha faction, which was also  "
+    } ]
+  }, {
+    "tStartMs": 697120,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "right-wing, but acknowledged that the IJA needed \nthe support of the Zaibatsu and the continuation  "
+    } ]
+  }, {
+    "tStartMs": 703360,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "of a modernization process to wage global war.\nMeanwhile in Manchuria, the Kwantung Army had  "
+    } ]
+  }, {
+    "tStartMs": 710320,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "been established back in 1919 to defend the \nLiaodong Peninsula and the South Manchurian  "
+    } ]
+  }, {
+    "tStartMs": 716080,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Railway. In the following decade, this army would \nbecome a stronghold for the Kōdōha, advocating for  "
+    } ]
+  }, {
+    "tStartMs": 723120,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "a more aggressive expansionist policy in mainland \nAsia and going so far as to plot the assassination  "
+    } ]
+  }, {
+    "tStartMs": 730000,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "of the Manchurian warlord Zhang Zuolin. In 1931, \nseeking the perfect excuse to expand into the  "
+    } ]
+  }, {
+    "tStartMs": 738160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "rich region of Manchuria, the Kwantung leaders \npurposely sabotaged the Japanese-controlled  "
+    } ]
+  }, {
+    "tStartMs": 744160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "railway to blame the Chinese garrison nearby \nand thus start a conflict in the region.  "
+    } ]
+  }, {
+    "tStartMs": 750720,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "On September 18, the plan of the Kwantung Army \nwas executed and the Mukden Incident soon sparked  "
+    } ]
+  }, {
+    "tStartMs": 758000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "a full-blown Japanese Invasion of Manchuria. Soon, \nevery city along the South Manchurian Railway fell  "
+    } ]
+  }, {
+    "tStartMs": 765040,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "into Japanese hands, and by October, the Kwantung \nArmy had occupied the Jilin, Taonan, Yanbian and  "
+    } ]
+  }, {
+    "tStartMs": 772400,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Eastern Liaoning areas. Although initially shocked \nby the insubordination, the government was now  "
+    } ]
+  }, {
+    "tStartMs": 778800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "impressed by the quick victories in Manchuria and \nwas starting to send reinforcements on their way.  "
+    } ]
+  }, {
+    "tStartMs": 785440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "In the following months, the Jiangqiao and \nJinzhou Campaigns secured the Western Liaoning  "
+    } ]
+  }, {
+    "tStartMs": 791120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "and Qiqihar areas, and the fall of Harbin finally \ndestroyed the remaining resistance in the region.  "
+    } ]
+  }, {
+    "tStartMs": 797680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "With Manchuria firmly under Japanese control, \nthe Kwantung army established the Manchukuo  "
+    } ]
+  }, {
+    "tStartMs": 803520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "puppet state and started a pacification \ncampaign that allowed them to control the  "
+    } ]
+  }, {
+    "tStartMs": 808560,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "political administration of this new state. \nDespite its insubordination, the Kwantung  "
+    } ]
+  }, {
+    "tStartMs": 814560,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Army would be rewarded for its great success, \nestablishing a new era of gekokujo inside the IJA.  "
+    } ]
+  }, {
+    "tStartMs": 822240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "In response to the Western condemnation \nof the Japanese aggression, the League  "
+    } ]
+  }, {
+    "tStartMs": 826640,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "of Nations ordered the Lytton Commission to \ninvestigate the incident, which prompted Japan  "
+    } ]
+  }, {
+    "tStartMs": 832000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "to exit the League of Nations, a decision that was \ninfluenced by the military and the nationalists. "
+    } ]
+  }, {
+    "tStartMs": 838640,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "By 1933, Takahashi’s policies had managed to bring \nJapan to an economic recovery; but the next year,  "
+    } ]
+  }, {
+    "tStartMs": 846320,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the Finance Minister reduced military \nspending to avoid inflation, which resulted  "
+    } ]
+  }, {
+    "tStartMs": 851360,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "in a strong negative response from the strong \nmilitaristic fascism that was rising in Japan.  "
+    } ]
+  }, {
+    "tStartMs": 858000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "As the military’s dominance over the government \ncontinued to grow after the May 15 Incident,  "
+    } ]
+  }, {
+    "tStartMs": 863760,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "the country saw the emergence of right-wing \nadmirals that wanted unlimited naval growth  "
+    } ]
+  }, {
+    "tStartMs": 869440,
+    "dDurationMs": 9280,
+    "segs": [ {
+      "utf8": "and the Empire started to dream about a Greater \nEast Asia Co-Prosperity Sphere. From 1933 to 1936,  "
+    } ]
+  }, {
+    "tStartMs": 878720,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "the Japanese would use proxy armies in Inner \nMongolia with the objective of creating a  "
+    } ]
+  }, {
+    "tStartMs": 883840,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Mongolian buffer state next to Manchukuo. The \nsuccesses in the provinces of Jehol and Chahar  "
+    } ]
+  }, {
+    "tStartMs": 890640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "allowed for the establishment of the Inner \nMongolian Autonomous Government, a Japanese puppet  "
+    } ]
+  }, {
+    "tStartMs": 895920,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "state under the rule of Prince Demchugdongrub. \nSince 1934, the retirement of General Araki led  "
+    } ]
+  }, {
+    "tStartMs": 903840,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "to the decline in influence of the Kōdōha faction, \nculminating in the February 26 Incident of 1936,  "
+    } ]
+  }, {
+    "tStartMs": 911360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "an attempted coup d’état by Kōdōha followers. The \ncoup resulted in the death of several government  "
+    } ]
+  }, {
+    "tStartMs": 917360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "members and Tōseiha followers, including \nMinister Takahashi and General Jōtarō Watanabe,  "
+    } ]
+  }, {
+    "tStartMs": 923760,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "yet Hirohito opposed the coup and the uprising was \ncrushed after two days. The following months saw  "
+    } ]
+  }, {
+    "tStartMs": 930480,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the purging of the Kōdōha, the abandonment of \nthe London Naval Treaty and a rise of tensions  "
+    } ]
+  }, {
+    "tStartMs": 936320,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "with China that would inevitably lead to war.\nNext week our coverage of the prelude to the  "
+    } ]
+  }, {
+    "tStartMs": 942880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Pacific War will continue - we are going \nto turn to the other side of the Pacific  "
+    } ]
+  }, {
+    "tStartMs": 947520,
+    "dDurationMs": 10240,
+    "segs": [ {
+      "utf8": "to look at the United States, its objectives in \nEast Asia and the consequences of World War I,  "
+    } ]
+  }, {
+    "tStartMs": 978320,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "so make sure you are subscribed and have pressed \nthe bell button to see the next video in the  "
+    } ]
+  }, {
+    "tStartMs": 983440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "series. Please, consider liking, commenting, and \nsharing - it helps immensely. Our videos would be  "
+    } ]
+  }, {
+    "tStartMs": 988960,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "impossible without our kind patrons and youtube \nchannel members, whose ranks you can join via the  "
+    } ]
+  }, {
+    "tStartMs": 994640,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "links in the description to know our schedule, get \nearly access to our videos, access our discord,  "
+    } ]
+  }, {
+    "tStartMs": 1000560,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "and much more. This is the Kings and Generals \nchannel, and we will catch you on the next one."
+    } ]
+  } ]
+}
