@@ -1,0 +1,9691 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "  （吹口哨）嘿，哟！"
+    } ]
+  }, {
+    "tStartMs": 4966,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "下面。"
+    } ]
+  }, {
+    "tStartMs": 9199,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "哟，怎么了？"
+    } ]
+  }, {
+    "tStartMs": 10633,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "嘿，我这里有你要找的东西\n。"
+    } ]
+  }, {
+    "tStartMs": 15800,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "你就是那个想要建造"
+    } ]
+  }, {
+    "tStartMs": 16633,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "旧星舰飞机沟槽的人，对吗？"
+    } ]
+  }, {
+    "tStartMs": 19699,
+    "dDurationMs": 134,
+    "segs": [ {
+      "utf8": "不？"
+    } ]
+  }, {
+    "tStartMs": 22433,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "好吧，既然你来了，我"
+    } ]
+  }, {
+    "tStartMs": 24100,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "无论如何都会向你展示如何去做。"
+    } ]
+  }, {
+    "tStartMs": 25666,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "今天，我们将逐步介绍\n"
+    } ]
+  }, {
+    "tStartMs": 28133,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "建造大型地下\n火焰沟的过程。"
+    } ]
+  }, {
+    "tStartMs": 30933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "为了让事情变得更"
+    } ]
+  }, {
+    "tStartMs": 32166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "有趣一点，我们将\n在沼泽中进行。"
+    } ]
+  }, {
+    "tStartMs": 35033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "之后，我们将\n了解是什么让这个"
+    } ]
+  }, {
+    "tStartMs": 36966,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "每分钟 250,000 加仑的\n喷水系统如此独特。"
+    } ]
+  }, {
+    "tStartMs": 41133,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "当我们将此与\n"
+    } ]
+  }, {
+    "tStartMs": 43233,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "过去 66 年太空探索中其他人所做的事情进行比较时，\n您可能会想，"
+    } ]
+  }, {
+    "tStartMs": 47233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "SpaceX 是如何第一个\n实现这一目标的？"
+    } ]
+  }, {
+    "tStartMs": 49899,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "考虑到这项技术是\n在"
+    } ]
+  }, {
+    "tStartMs": 52766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "太空竞赛开始的同一年获得专利的，很难\n相信没有人"
+    } ]
+  }, {
+    "tStartMs": 55466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "尝试过将其\n用于此目的。"
+    } ]
+  }, {
+    "tStartMs": 57933,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "谁知道呢？"
+    } ]
+  }, {
+    "tStartMs": 59033,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "也许他们永远不会。"
+    } ]
+  }, {
+    "tStartMs": 60366,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "因为如果我告诉你，\n"
+    } ]
+  }, {
+    "tStartMs": 63566,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "与"
+    } ]
+  }, {
+    "tStartMs": 65599,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "他们为全新\n星际飞船发射台开发的疯狂系统相比，这实际上是中等水平的天才呢？"
+    } ]
+  }, {
+    "tStartMs": 77266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "是的，你可能想坐下来，因为\n我们有很多事情要讲。"
+    } ]
+  }, {
+    "tStartMs": 80633,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "我叫扎克·戈尔登，这是"
+    } ]
+  }, {
+    "tStartMs": 82400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "另一部《CSI 星际基地深度\n调查》。"
+    } ]
+  }, {
+    "tStartMs": 85533,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "（音乐播放）"
+    } ]
+  }, {
+    "tStartMs": 101433,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "嘿，大家好。"
+    } ]
+  }, {
+    "tStartMs": 102033,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "欢迎并感谢您加入我们。"
+    } ]
+  }, {
+    "tStartMs": 104233,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "你知道，当谈到开发\n一种全新的运载火箭时，"
+    } ]
+  }, {
+    "tStartMs": 107066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "无论你是一家初创公司还是\n一家传统的发射提供商，"
+    } ]
+  }, {
+    "tStartMs": 110066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "\n你都"
+    } ]
+  }, {
+    "tStartMs": 112433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "必须在\n此过程中解决一系列重大的工程挑战。"
+    } ]
+  }, {
+    "tStartMs": 114500,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "首先，您需要开发\n一种发动机以及一种"
+    } ]
+  }, {
+    "tStartMs": 116366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "在类似飞行的条件下对其进行测试的可靠方法\n。"
+    } ]
+  }, {
+    "tStartMs": 119066,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "然后，您需要开发可实现"
+    } ]
+  }, {
+    "tStartMs": 120033,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "快速\n大规模生产的制造工艺。"
+    } ]
+  }, {
+    "tStartMs": 122666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "通常情况下，您可能必须\n开发"
+    } ]
+  }, {
+    "tStartMs": 125333,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "专门针对真空操作进行调整的第二台发动机。"
+    } ]
+  }, {
+    "tStartMs": 127633,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "您需要一个第二级运载火箭将有效\n载荷送入轨道，并需要"
+    } ]
+  }, {
+    "tStartMs": 130266,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "一个或有时多个第一级\n助推器来提供"
+    } ]
+  }, {
+    "tStartMs": 134733,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "将第二\n级火箭抬离地面并"
+    } ]
+  }, {
+    "tStartMs": 137733,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "推动其穿过低层大气所需的初始推力。"
+    } ]
+  }, {
+    "tStartMs": 139599,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "就像发动机一样，您需要\n开发"
+    } ]
+  }, {
+    "tStartMs": 142800,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "用于制造这些车辆并\n在地面上进行测试的设施和系统。"
+    } ]
+  }, {
+    "tStartMs": 146400,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "要测试和发射这些飞行器，\n您需要一个推进剂储存"
+    } ]
+  }, {
+    "tStartMs": 149466,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "和分配系统、一种\n水平或垂直"
+    } ]
+  }, {
+    "tStartMs": 153266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "整合飞行器和有效载荷的方法、一个"
+    } ]
+  }, {
+    "tStartMs": 155766,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "运输系统，\n当然还有一个发射台。"
+    } ]
+  }, {
+    "tStartMs": 159066,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "由于需要应对如此多的复杂工程\n挑战，而"
+    } ]
+  }, {
+    "tStartMs": 162133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "手头的资源又有限，因此\n寻找"
+    } ]
+  }, {
+    "tStartMs": 165133,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "一切机会采用现有的\n解决方案（即经过验证的"
+    } ]
+  }, {
+    "tStartMs": 169033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "方法），然后"
+    } ]
+  }, {
+    "tStartMs": 170866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "根据您的特定需求以适当的规模进行整合是很自然的。"
+    } ]
+  }, {
+    "tStartMs": 173266,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "现在，该视频的重点\n是水力喷淋系统。"
+    } ]
+  }, {
+    "tStartMs": 176266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "当您考虑\n开发"
+    } ]
+  }, {
+    "tStartMs": 178500,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "发射台所需的所有组件时，水喷系统\n基本上只是整个发射系统中一个小而"
+    } ]
+  }, {
+    "tStartMs": 182433,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "重要的子组件\n。"
+    } ]
+  }, {
+    "tStartMs": 185333,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "它也恰好是那些\n极易"
+    } ]
+  }, {
+    "tStartMs": 187833,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "遵循行业标准并"
+    } ]
+  }, {
+    "tStartMs": 189733,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "做其他人正在做的事情的领域之一。"
+    } ]
+  }, {
+    "tStartMs": 191566,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "当然，每个发射台都会根据飞行器的要求，\n拥有自己独特的火焰"
+    } ]
+  }, {
+    "tStartMs": 194166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "导流板和喷水系统设计"
+    } ]
+  }, {
+    "tStartMs": 196666,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 198366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "但实际上将\n水输送到发射台的方法"
+    } ]
+  }, {
+    "tStartMs": 201066,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "几乎总是\n采用以下两种方式之一。"
+    } ]
+  }, {
+    "tStartMs": 204733,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "好吧，除非你是 SpaceX。"
+    } ]
+  }, {
+    "tStartMs": 206766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "抛开他们所做的其他很酷的事情不谈\n，提出"
+    } ]
+  }, {
+    "tStartMs": 209166,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "创新的喷水灭火系统设计\n是他们的强项。"
+    } ]
+  }, {
+    "tStartMs": 212699,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "他们已经三次在不同场合做过这样的事情了\n，而最近一次"
+    } ]
+  }, {
+    "tStartMs": 215833,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "是"
+    } ]
+  }, {
+    "tStartMs": 217400,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "我所见过的他们想出的最疯狂的想法之一\n。"
+    } ]
+  }, {
+    "tStartMs": 219966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "但在我们讨论\n他们为"
+    } ]
+  }, {
+    "tStartMs": 222633,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "全新星际飞船发射台设计的疯狂系统之前，我们"
+    } ]
+  }, {
+    "tStartMs": 224466,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "需要了解我们是如何走到这一步的。"
+    } ]
+  }, {
+    "tStartMs": 226533,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "这让我们来到了\n梅西号的试验场，这里是"
+    } ]
+  }, {
+    "tStartMs": 229066,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "第一条\n星际飞船火焰沟的所在地。"
+    } ]
+  }, {
+    "tStartMs": 232199,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "我原本计划\n以"
+    } ]
+  }, {
+    "tStartMs": 234800,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "Massey 试验场演变的简要历史开始这一集\n，但在撰写摘要的过程中"
+    } ]
+  }, {
+    "tStartMs": 238099,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "，它最终\n变成了一整集。"
+    } ]
+  }, {
+    "tStartMs": 241966,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "因此，如果您错过了，请务必\n在这里查看。"
+    } ]
+  }, {
+    "tStartMs": 245033,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "现在，在我们开始之前，让我先"
+    } ]
+  }, {
+    "tStartMs": 246699,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "解决一个显而易见的问题。"
+    } ]
+  }, {
+    "tStartMs": 248666,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "我知道你们中的一些人可能会想，"
+    } ]
+  }, {
+    "tStartMs": 251033,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "等等，SpaceX 不是去年就启用了这个\n火焰沟吗？"
+    } ]
+  }, {
+    "tStartMs": 254433,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "为什么要等到现在才报道呢？"
+    } ]
+  }, {
+    "tStartMs": 256633,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "嗯，说实话，这一集\n已经筹备了大约"
+    } ]
+  }, {
+    "tStartMs": 259166,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "一年半的时间，并且多次被\n"
+    } ]
+  }, {
+    "tStartMs": 262333,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "其他我觉得\n更具时效性的话题打断。"
+    } ]
+  }, {
+    "tStartMs": 265466,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "但在我看来，\n随着 SpaceX 的"
+    } ]
+  }, {
+    "tStartMs": 269566,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 270666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "第二代星际飞船发射台即将完工，这一点现在变得更加重要。"
+    } ]
+  }, {
+    "tStartMs": 273266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "为了真正理解是什么\n让它在复杂程度上实现如此巨大的飞跃"
+    } ]
+  }, {
+    "tStartMs": 276066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "，我们需要了解"
+    } ]
+  }, {
+    "tStartMs": 277966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "之前的重要步骤。"
+    } ]
+  }, {
+    "tStartMs": 280066,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "现在，话虽如此，您可能会想到，\n"
+    } ]
+  }, {
+    "tStartMs": 282466,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 284766,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "经过这么长时间，要跟踪我计划涵盖的所有小细节将极其困难。"
+    } ]
+  }, {
+    "tStartMs": 287966,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "嗯，我确实有很多工具可以\n帮助我保持井然有序，但"
+    } ]
+  }, {
+    "tStartMs": 290600,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "也许其中最重要的\n工具是我的互联网浏览器。"
+    } ]
+  }, {
+    "tStartMs": 293933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "多年来，我"
+    } ]
+  }, {
+    "tStartMs": 295399,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "尝试过几乎所有\n现有的互联网浏览器。"
+    } ]
+  }, {
+    "tStartMs": 298033,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "但自从我发现了 Opera 之后，我就无法想象\n使用其他任何东西，这"
+    } ]
+  }, {
+    "tStartMs": 301333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "就是为什么我很高兴与他们合作制作\n这一集。"
+    } ]
+  }, {
+    "tStartMs": 304133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "我最喜欢的 Opera 功能之一是\n标签岛，它允许"
+    } ]
+  }, {
+    "tStartMs": 307133,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "您将相关的标签分组在一起。"
+    } ]
+  }, {
+    "tStartMs": 309166,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "例如，在我为这一集创建的工作区中\n，我有"
+    } ]
+  }, {
+    "tStartMs": 312433,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "大量与"
+    } ]
+  }, {
+    "tStartMs": 313899,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我一直在研究的不同主题相关的标签。"
+    } ]
+  }, {
+    "tStartMs": 315800,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "由于标签太多，\n"
+    } ]
+  }, {
+    "tStartMs": 317966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "当我寻找\n特定内容时，导航会变得相当困难。"
+    } ]
+  }, {
+    "tStartMs": 320300,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "但通过 Opera 的标签岛，我可以\n将与"
+    } ]
+  }, {
+    "tStartMs": 323566,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "斯坦尼斯航天中心、卡纳维拉尔角、\n各种施工"
+    } ]
+  }, {
+    "tStartMs": 326633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "过程和设备规格表相关的所有内容"
+    } ]
+  }, {
+    "tStartMs": 329100,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "分组到\n各自的标签岛中。"
+    } ]
+  }, {
+    "tStartMs": 331433,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "然后，当我在不同主题之间导航时，我可以\n通过折叠或"
+    } ]
+  }, {
+    "tStartMs": 334633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "扩展它们立即使混乱变得有序\n。"
+    } ]
+  }, {
+    "tStartMs": 337566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "得益于出色的分屏\n功能，我可以将我的剧集"
+    } ]
+  }, {
+    "tStartMs": 340366,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "脚本显示在屏幕的一侧，\n同时将"
+    } ]
+  }, {
+    "tStartMs": 343399,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "我正在使用的研究网站显示\n在屏幕的另一侧。"
+    } ]
+  }, {
+    "tStartMs": 345866,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这样就无需\n使用多个"
+    } ]
+  }, {
+    "tStartMs": 347433,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "窗口，因为使用多个窗口可能会\n分散注意力。"
+    } ]
+  }, {
+    "tStartMs": 350033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "如果我\n在"
+    } ]
+  }, {
+    "tStartMs": 352266,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "研究各种文章时遇到需要更多信息的内容，\n我可以使用快捷键"
+    } ]
+  }, {
+    "tStartMs": 354966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "来访问\n免费的内置 AI 工具 ARIA。"
+    } ]
+  }, {
+    "tStartMs": 358699,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "ARIA 可以"
+    } ]
+  }, {
+    "tStartMs": 360566,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "在您的浏览器中快速总结和扩展任何主题。"
+    } ]
+  }, {
+    "tStartMs": 362966,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "ARIA 还具有强大的图像识别\n能力，可以让我"
+    } ]
+  }, {
+    "tStartMs": 366366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "上传任何图像并要求它\n识别对象。"
+    } ]
+  }, {
+    "tStartMs": 369600,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "这为我节省了无数\n的研究时间。"
+    } ]
+  }, {
+    "tStartMs": 371800,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "如果您和我一样，那么如果有背景音乐，长时间的\n工作效率就会更高"
+    } ]
+  }, {
+    "tStartMs": 374966,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 377133,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "使用内置音乐播放器，我可以\n从七个不同的"
+    } ]
+  }, {
+    "tStartMs": 379666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "流媒体平台（如 Apple Music）中进行选择，"
+    } ]
+  }, {
+    "tStartMs": 381266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "并选出我最喜欢的播放列表。"
+    } ]
+  }, {
+    "tStartMs": 383600,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "为了在不中断浏览的情况下控制音乐\n，我可以分离"
+    } ]
+  }, {
+    "tStartMs": 386466,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "浮动播放器并将其放置在"
+    } ]
+  }, {
+    "tStartMs": 388533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "浏览器窗口内部或外部的任何位置。   当我深入制作这些剧集时，"
+    } ]
+  }, {
+    "tStartMs": 390966,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这些功能对于帮助\n我保持思路清晰至关重要"
+    } ]
+  }, {
+    "tStartMs": 393666,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 396033,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "因此，如果您是那些\n同时打开 500 个浏览器标签的人之一"
+    } ]
+  }, {
+    "tStartMs": 398933,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "，那么现在是时候\n升级了。"
+    } ]
+  }, {
+    "tStartMs": 402066,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "点击说明中的链接立即下载 Opera\n"
+    } ]
+  }, {
+    "tStartMs": 403666,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "并\n亲自检查。"
+    } ]
+  }, {
+    "tStartMs": 406166,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "好了，好了，让我们"
+    } ]
+  }, {
+    "tStartMs": 407366,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "开始今天的深入调查。"
+    } ]
+  }, {
+    "tStartMs": 412266,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "当负责设计\n测试和基础设施的团队"
+    } ]
+  }, {
+    "tStartMs": 414933,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "开始计划将船舶静态\n点火测试从发射场移开时"
+    } ]
+  }, {
+    "tStartMs": 417533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "，他们知道\n必须采取不同的做法。   现在"
+    } ]
+  }, {
+    "tStartMs": 420933,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "是时候从这个\n版本一测试台升级了。"
+    } ]
+  }, {
+    "tStartMs": 423666,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "首先，他们\n再也无法承担从平面上方八米处发射六台"
+    } ]
+  }, {
+    "tStartMs": 426466,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "极其强大的液体燃料火箭"
+    } ]
+  }, {
+    "tStartMs": 428233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "发动机的费用\n。"
+    } ]
+  }, {
+    "tStartMs": 431133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "这不仅不利于\n建立一个无需翻新"
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "就能处理数百次静态\n火灾的测试台，"
+    } ]
+  }, {
+    "tStartMs": 436800,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "而且在这个小型远程测试设施中根本没有足够的空间\n来 360 度喷出火焰"
+    } ]
+  }, {
+    "tStartMs": 439766,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 443566,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "因此，他们需要一种可靠的方法来将\n火焰从"
+    } ]
+  }, {
+    "tStartMs": 446833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "车辆上转移开，这意味着他们必须"
+    } ]
+  }, {
+    "tStartMs": 448466,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "采用某种类型的火焰转向器。"
+    } ]
+  }, {
+    "tStartMs": 451066,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "大多数火焰转向器都建在\n地面以上，并包括一个"
+    } ]
+  }, {
+    "tStartMs": 453933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "用于支撑车辆的大型凸起结构\n。"
+    } ]
+  }, {
+    "tStartMs": 456500,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "SpaceX 过去在佛罗里达州 LC39A 的星际飞船试验台原始设计中就已经考虑过这种类型\n的试验台"
+    } ]
+  }, {
+    "tStartMs": 459266,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 460966,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 464166,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "但是，这类高架结构存在很大的后勤问题，\n"
+    } ]
+  }, {
+    "tStartMs": 466566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "因为它们需要\n大型起重机"
+    } ]
+  }, {
+    "tStartMs": 468833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "将车辆吊上和\n吊下测试台。"
+    } ]
+  }, {
+    "tStartMs": 471433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这是他们当时\n已经在做的事情"
+    } ]
+  }, {
+    "tStartMs": 472933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "，但他们想摆脱它。"
+    } ]
+  }, {
+    "tStartMs": 475233,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "为了满足这一重要的设计约束，\n他们需要一个"
+    } ]
+  }, {
+    "tStartMs": 477866,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "地面测试台，这意味着\n火焰导流板"
+    } ]
+  }, {
+    "tStartMs": 480666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "需要位于火焰沟的地下。"
+    } ]
+  }, {
+    "tStartMs": 483066,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "他们\n"
+    } ]
+  }, {
+    "tStartMs": 484733,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "在麦格雷戈\n测试中心已经积累了丰富的这方面经验。"
+    } ]
+  }, {
+    "tStartMs": 487566,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "但是，\n在距离内陆 250 英里、"
+    } ]
+  }, {
+    "tStartMs": 491233,
+    "dDurationMs": 3966,
+    "segs": [ {
+      "utf8": "粘性土质紧密、\n自然稳定性高的地方修建地下火焰沟"
+    } ]
+  }, {
+    "tStartMs": 495199,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "与在这里修建火焰沟有很大不同。   博卡奇卡"
+    } ]
+  }, {
+    "tStartMs": 497933,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "位于一片低洼的沿海平原，有\n沼泽、潮滩、沙质"
+    } ]
+  }, {
+    "tStartMs": 502100,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "土壤，海拔仅略高于\n海平面，总体而言，它"
+    } ]
+  }, {
+    "tStartMs": 505899,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "无疑是建造重型工业建筑最不\n理想的地点之一"
+    } ]
+  }, {
+    "tStartMs": 508333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 511133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "正如 SpaceX 多次发现的那样\n，如果不"
+    } ]
+  }, {
+    "tStartMs": 514066,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "进行大量的地基工作\n来稳定土壤，那么在"
+    } ]
+  }, {
+    "tStartMs": 517366,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "这里建造的任何建筑物"
+    } ]
+  }, {
+    "tStartMs": 519399,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "几乎肯定会在以后出现问题。   由于"
+    } ]
+  }, {
+    "tStartMs": 522066,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "梅西号的试验场完全被水包围，因此\n面临着独特的挑战"
+    } ]
+  }, {
+    "tStartMs": 524933,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 527866,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "由于无法对该地点进行岩土工程\n或地下水调查"
+    } ]
+  }, {
+    "tStartMs": 530766,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "，我们无法确定\n地下水位有多深。"
+    } ]
+  }, {
+    "tStartMs": 534233,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "但通常情况下，像这样的地区的\n地下水位极浅，"
+    } ]
+  }, {
+    "tStartMs": 538100,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "可能仅\n低于地表三英尺。"
+    } ]
+  }, {
+    "tStartMs": 540833,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "\n在暴雨期间"
+    } ]
+  }, {
+    "tStartMs": 543200,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "以及涨潮和退潮期间，地下水位深度会发生变化。"
+    } ]
+  }, {
+    "tStartMs": 546233,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "这对地下结构来说是一个重大问题\n，"
+    } ]
+  }, {
+    "tStartMs": 549633,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "特别是当该结构"
+    } ]
+  }, {
+    "tStartMs": 550799,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "本质上是一个巨大的空\n游泳池时。"
+    } ]
+  }, {
+    "tStartMs": 553600,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "如果您\n在"
+    } ]
+  }, {
+    "tStartMs": 555933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "土壤水饱和的地区建造地下游泳池，而不采取\n措施改善地面"
+    } ]
+  }, {
+    "tStartMs": 558866,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "条件，那么很有可能\n您有"
+    } ]
+  }, {
+    "tStartMs": 561433,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "一天醒来时会发现一个相当\n不愉快的意外。"
+    } ]
+  }, {
+    "tStartMs": 565066,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "拥有后院游泳池的人可能"
+    } ]
+  }, {
+    "tStartMs": 567033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "对游泳池爆裂现象很熟悉。"
+    } ]
+  }, {
+    "tStartMs": 569466,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "如果是这样，希望您\n通过接受有关"
+    } ]
+  }, {
+    "tStartMs": 572266,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "如何预防的教育而不是通过\n个人经验来了解情况。"
+    } ]
+  }, {
+    "tStartMs": 575333,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "当地下水的静水压力对泳池外壳施加向上的压力时，就会发生泳池爆裂\n"
+    } ]
+  }, {
+    "tStartMs": 578966,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 581366,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "如果水池是空的或部分\n充满，"
+    } ]
+  }, {
+    "tStartMs": 583966,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "浮力可以将其抬\n离地面。"
+    } ]
+  }, {
+    "tStartMs": 586399,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "这通常发生在\n大雨或快速融雪之后。"
+    } ]
+  }, {
+    "tStartMs": 589933,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "现在，这种尺寸的火箭的火焰沟\n显然"
+    } ]
+  }, {
+    "tStartMs": 593133,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "比\n一个简单的游泳池要大得多。"
+    } ]
+  }, {
+    "tStartMs": 595933,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "但事实上，它是\n由数千吨"
+    } ]
+  }, {
+    "tStartMs": 598233,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "混凝土建造而成，但这并不意味着它能够免受\n静水压力的影响。"
+    } ]
+  }, {
+    "tStartMs": 601833,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "正是由于这样的担忧\n，多年来"
+    } ]
+  }, {
+    "tStartMs": 604799,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "许多人认为 SpaceX 不可能\n"
+    } ]
+  }, {
+    "tStartMs": 606666,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "\n在星际基地建造火焰沟。"
+    } ]
+  }, {
+    "tStartMs": 609133,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "事实上，只要你找到\n正确的方法，它"
+    } ]
+  }, {
+    "tStartMs": 612066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "实际上相当容易实现。"
+    } ]
+  }, {
+    "tStartMs": 614133,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "因此，在梅西建造星舰火焰沟的第一步，也是最重要的\n一步，"
+    } ]
+  }, {
+    "tStartMs": 617533,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "\n就是稳定土壤。"
+    } ]
+  }, {
+    "tStartMs": 624533,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "SpaceX 使用的典型解决方案\n"
+    } ]
+  }, {
+    "tStartMs": 627633,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 630566,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "\n是使用"
+    } ]
+  }, {
+    "tStartMs": 633966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "连续飞行螺旋钻（简称\nCFA 打桩）来增加必须支撑数百甚至数千吨的结构下方土壤的承重能力。"
+    } ]
+  }, {
+    "tStartMs": 637366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "在梅西号试验场，这些\nCFA 桩用于"
+    } ]
+  }, {
+    "tStartMs": 640133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "建造\n星舰和助推器低温"
+    } ]
+  }, {
+    "tStartMs": 643133,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "测试站的基础，以及"
+    } ]
+  }, {
+    "tStartMs": 645000,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "大型液氧储罐的基础。"
+    } ]
+  }, {
+    "tStartMs": 647466,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "这些 CFA 桩不仅有助于提高\n承载能力，"
+    } ]
+  }, {
+    "tStartMs": 650766,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "使其超出原生土壤的\n承受能力，而且还有助于"
+    } ]
+  }, {
+    "tStartMs": 653866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "将结构锚固到地面并"
+    } ]
+  }, {
+    "tStartMs": 655766,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "抵抗\n上升力。"
+    } ]
+  }, {
+    "tStartMs": 658700,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "虽然这无疑是\n一个可行的解决方案，但"
+    } ]
+  }, {
+    "tStartMs": 661666,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "它本身并不能消除地下水\n饱和问题，这"
+    } ]
+  }, {
+    "tStartMs": 665033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "在施工过程中仍然是一个问题\n。"
+    } ]
+  }, {
+    "tStartMs": 667299,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "您最不希望发生的事情就是在挖掘过程中地下水\n渗透过"
+    } ]
+  }, {
+    "tStartMs": 670033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "侧壁或渗过"
+    } ]
+  }, {
+    "tStartMs": 671866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "沟渠底部。"
+    } ]
+  }, {
+    "tStartMs": 673966,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "为了解决这种情况，土木工程\n师决定采用一种"
+    } ]
+  }, {
+    "tStartMs": 677033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "相当常见的地面修复工艺，"
+    } ]
+  }, {
+    "tStartMs": 679333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "称为深层土壤混合，\n简称 DSM。"
+    } ]
+  }, {
+    "tStartMs": 683066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "DSM 是一种在软土中提供沉降\n控制和增加"
+    } ]
+  }, {
+    "tStartMs": 686266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "承载能力的方法。"
+    } ]
+  }, {
+    "tStartMs": 688933,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 691366,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "如果您家里碰巧\n有这种"
+    } ]
+  }, {
+    "tStartMs": 693799,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "精神病生物，那么许多人可能都有过亲身经历\n。"
+    } ]
+  }, {
+    "tStartMs": 696366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我所指的材料\n当然是猫砂。"
+    } ]
+  }, {
+    "tStartMs": 699366,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "猫砂的主要成分之一"
+    } ]
+  }, {
+    "tStartMs": 700633,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "是一种叫做膨润土的物质。"
+    } ]
+  }, {
+    "tStartMs": 703533,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "膨润土\n具有"
+    } ]
+  }, {
+    "tStartMs": 706399,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "吸收水分\n和液体的能力，是猫砂的理想基材。"
+    } ]
+  }, {
+    "tStartMs": 709133,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "当与液体接触时，膨润土\n可以吸收高达"
+    } ]
+  }, {
+    "tStartMs": 712833,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "其自身重量 3.5 倍的液体，形成坚硬的团块"
+    } ]
+  }, {
+    "tStartMs": 714733,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "，然后可以轻松地将其铲起。"
+    } ]
+  }, {
+    "tStartMs": 717200,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "当用于土壤修复应用时，\n膨润土可以形成"
+    } ]
+  }, {
+    "tStartMs": 720733,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "不透水的硬化土壤层\n，防止水"
+    } ]
+  }, {
+    "tStartMs": 723633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "渗透到\n挖掘区域。"
+    } ]
+  }, {
+    "tStartMs": 726166,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "2023 年 11 月中旬，\n现场泥浆搅拌"
+    } ]
+  }, {
+    "tStartMs": 729633,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "厂的设备开始抵达 Massey 的"
+    } ]
+  }, {
+    "tStartMs": 731433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "前哨站，同时还有 70 大袋\n膨润土。"
+    } ]
+  }, {
+    "tStartMs": 734966,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "每个袋子重 3,000\n磅，即 1 1⁄2 吨。"
+    } ]
+  }, {
+    "tStartMs": 739100,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "总计超过100吨。"
+    } ]
+  }, {
+    "tStartMs": 741233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "12月初，为期\n近两个月的将"
+    } ]
+  }, {
+    "tStartMs": 744066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这种膨润土拌入\n土壤的工作开始了。"
+    } ]
+  }, {
+    "tStartMs": 746500,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "让我们看看\n这个过程是如何进行的。   从"
+    } ]
+  }, {
+    "tStartMs": 748666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "混合厂开始，将\n钠"
+    } ]
+  }, {
+    "tStartMs": 751266,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "基膨润土大袋与水混合，"
+    } ]
+  }, {
+    "tStartMs": 753033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "形成粘稠的泥浆状浆液。"
+    } ]
+  }, {
+    "tStartMs": 755299,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "使用旋转钻机，将专用的\n混合叶片连接"
+    } ]
+  }, {
+    "tStartMs": 758633,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "到空心旋转方钻杆上。"
+    } ]
+  }, {
+    "tStartMs": 761000,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "在竖井的顶部，有一根软管，\n用于供应"
+    } ]
+  }, {
+    "tStartMs": 763833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "从\n混合厂泵送过来的泥浆。   混合叶片"
+    } ]
+  }, {
+    "tStartMs": 766299,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "中的装置\n"
+    } ]
+  }, {
+    "tStartMs": 769233,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "通过在排出浆料时将其注入气流中来使浆料雾化\n。"
+    } ]
+  }, {
+    "tStartMs": 772966,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "一旦搅拌叶片开始\n切割土壤，雾化的"
+    } ]
+  }, {
+    "tStartMs": 775500,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "浆液有助于松动土壤并\n减少"
+    } ]
+  }, {
+    "tStartMs": 778666,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "穿透\n各个层次材料所需的向下的力。"
+    } ]
+  }, {
+    "tStartMs": 781433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "当膨润土在\n这样的压力下注入时，它"
+    } ]
+  }, {
+    "tStartMs": 784000,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "实际上会扩散到比柱子的直径更远的地方\n。"
+    } ]
+  }, {
+    "tStartMs": 786700,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "这种注入膨润土的土壤混合物\n通常被称为土壤"
+    } ]
+  }, {
+    "tStartMs": 790366,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "混凝土，一旦干燥，它就会起到\n屏障的作用，防止"
+    } ]
+  }, {
+    "tStartMs": 793633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "地下水渗透。"
+    } ]
+  }, {
+    "tStartMs": 795633,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "根据 BG45 钻机的配置\n，我们"
+    } ]
+  }, {
+    "tStartMs": 799033,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "估计这些\n土混凝土柱"
+    } ]
+  }, {
+    "tStartMs": 801266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "可能延伸到地下 72 英尺深\n。"
+    } ]
+  }, {
+    "tStartMs": 804133,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这大约距离"
+    } ]
+  }, {
+    "tStartMs": 806033,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "火焰沟的最终底部 22 英尺。"
+    } ]
+  }, {
+    "tStartMs": 807866,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "通常，这些柱子会\n"
+    } ]
+  }, {
+    "tStartMs": 810366,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "根据其所支撑的结构的需要，按照某种预定的模式进行钻孔\n。"
+    } ]
+  }, {
+    "tStartMs": 813633,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "在这种情况下，根据我们在行动进行的两个月\n"
+    } ]
+  }, {
+    "tStartMs": 816533,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "期间每周进行的 RGV 空中飞越情况\n"
+    } ]
+  }, {
+    "tStartMs": 819733,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "，我们能够确定的是，\n这些柱子似乎覆盖了火焰沟"
+    } ]
+  }, {
+    "tStartMs": 822666,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "的整个表面积\n。"
+    } ]
+  }, {
+    "tStartMs": 825299,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "这些柱子还延伸到了\n战壕壁的覆盖范围之外，"
+    } ]
+  }, {
+    "tStartMs": 828266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我们很快就能看到。"
+    } ]
+  }, {
+    "tStartMs": 830266,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "虽然很难验证，但我相信\n他们回去并"
+    } ]
+  }, {
+    "tStartMs": 832966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "在每行之间钻了额外的列\n。"
+    } ]
+  }, {
+    "tStartMs": 835733,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "通过重叠柱子，他们有效地\n创建了一个"
+    } ]
+  }, {
+    "tStartMs": 839633,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "长 230 英尺、宽 69 英尺、"
+    } ]
+  }, {
+    "tStartMs": 842633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "深 72 英尺的巨大土质混凝土块。"
+    } ]
+  }, {
+    "tStartMs": 845233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "好了，现在我们已经完成了\n初步的地面准备，"
+    } ]
+  }, {
+    "tStartMs": 848033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "让我们继续进行实际的火焰沟。"
+    } ]
+  }, {
+    "tStartMs": 850333,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "当我浏览上一节中的图像时，您可能已经注意到，\n"
+    } ]
+  }, {
+    "tStartMs": 852333,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "\n火焰沟壁的建造"
+    } ]
+  }, {
+    "tStartMs": 855066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "实际上早在"
+    } ]
+  }, {
+    "tStartMs": 857066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "深层土壤混合过程\n完成之前就开始了。"
+    } ]
+  }, {
+    "tStartMs": 859633,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "通过重叠这两项操作，\n他们将"
+    } ]
+  }, {
+    "tStartMs": 863000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "\n这个新测试台的建造时间缩短了近两个月。"
+    } ]
+  }, {
+    "tStartMs": 865700,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "如果他们不这样做，发射场的运营就会\n遭受重大"
+    } ]
+  }, {
+    "tStartMs": 868133,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "挫折\n。"
+    } ]
+  }, {
+    "tStartMs": 870666,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "正如我在《Massey 的进化》一集中提到的那样\n，SpaceX"
+    } ]
+  }, {
+    "tStartMs": 873466,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "依靠这个试验台\n尽快投入使用，"
+    } ]
+  }, {
+    "tStartMs": 876100,
+    "dDurationMs": 3266,
+    "segs": [ {
+      "utf8": "以便他们能够拆除\n亚轨道试验台并"
+    } ]
+  }, {
+    "tStartMs": 879366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "开始建造第二个\n轨道发射台。"
+    } ]
+  }, {
+    "tStartMs": 882166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "他们只计划使用\n"
+    } ]
+  }, {
+    "tStartMs": 884666,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "当前一代的星际飞船执行一定数量的任务，\n下一代飞船将"
+    } ]
+  }, {
+    "tStartMs": 888166,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "与\n原来的发射装置不兼容。"
+    } ]
+  }, {
+    "tStartMs": 890766,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "因此，\n新发射台必须及时准备"
+    } ]
+  }, {
+    "tStartMs": 893433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "好，以便第一艘 V3 飞船\n和助推器能够顺利飞行，这一点至关重要。"
+    } ]
+  }, {
+    "tStartMs": 896433,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "为了避免未来\n发射计划被推迟"
+    } ]
+  }, {
+    "tStartMs": 899066,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "一年半以上的风险，\n他们设法"
+    } ]
+  }, {
+    "tStartMs": 901966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "通过尽可能\n重叠各种"
+    } ]
+  }, {
+    "tStartMs": 904766,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "施工作业的方法来缩短施工时间\n。"
+    } ]
+  }, {
+    "tStartMs": 907633,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "我只能想象，平衡\n所有这些相互依赖的"
+    } ]
+  }, {
+    "tStartMs": 910066,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "活动"
+    } ]
+  }, {
+    "tStartMs": 911833,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "对于项目\n管理团队来说可能是一场噩梦。   火焰沟北半部的"
+    } ]
+  }, {
+    "tStartMs": 913666,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "深层土壤搅拌过程完成后\n"
+    } ]
+  }, {
+    "tStartMs": 916000,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "，就该"
+    } ]
+  }, {
+    "tStartMs": 917899,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "开始建造隔墙了。"
+    } ]
+  }, {
+    "tStartMs": 923466,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "\n这些连续的防水"
+    } ]
+  }, {
+    "tStartMs": 926899,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "且结构坚固的墙壁通常被称为泥浆墙，是\n通过挖掘深而"
+    } ]
+  }, {
+    "tStartMs": 930500,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "窄的沟渠并用\n钢筋混凝土或泥浆填充而建造的。"
+    } ]
+  }, {
+    "tStartMs": 934033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "它们内置于面板中以确保\n连续性，并且经常在具"
+    } ]
+  }, {
+    "tStartMs": 937266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "有挑战性的土壤条件下\n或靠近水的地方使用以"
+    } ]
+  }, {
+    "tStartMs": 939766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "提供稳定性并防止\n地下水渗漏。"
+    } ]
+  }, {
+    "tStartMs": 942566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这些墙有很多用途\n，但一些更"
+    } ]
+  }, {
+    "tStartMs": 945266,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "常见的用途是支撑高层建筑的深\n地下室或地下"
+    } ]
+  }, {
+    "tStartMs": 948333,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "停车场结构\n。"
+    } ]
+  }, {
+    "tStartMs": 950566,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "您还可以发现它们用于形成\n大型地下"
+    } ]
+  }, {
+    "tStartMs": 953266,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "隧道的墙壁，它们通常是大坝\n建设的关键组成部分，"
+    } ]
+  }, {
+    "tStartMs": 956766,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "它们充当截水墙\n以防止水渗入"
+    } ]
+  }, {
+    "tStartMs": 959899,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "大坝下方或作为\n溢洪道的结构支撑。"
+    } ]
+  }, {
+    "tStartMs": 963233,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "2023 年 12 月 12 日，工人们开始\n安装"
+    } ]
+  }, {
+    "tStartMs": 966733,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "第一座\n导墙的模板。"
+    } ]
+  }, {
+    "tStartMs": 969000,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "顾名思义，这些导\n墙用于保持"
+    } ]
+  }, {
+    "tStartMs": 971666,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "挖掘工具正确对齐，\n以确保隔墙"
+    } ]
+  }, {
+    "tStartMs": 973933,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "\n以直线建造。"
+    } ]
+  }, {
+    "tStartMs": 976799,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "以人类为尺度，你可以看到为墙壁\n挖出的沟渠"
+    } ]
+  }, {
+    "tStartMs": 979600,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "实际上相当浅。"
+    } ]
+  }, {
+    "tStartMs": 981433,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "它们通常深度约为三\n到五英尺。"
+    } ]
+  }, {
+    "tStartMs": 984333,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "一旦模板就位，\n就会在两侧浇筑混凝土。"
+    } ]
+  }, {
+    "tStartMs": 987799,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "等到其硬化到可接受的\n程度后，拆除模板，"
+    } ]
+  }, {
+    "tStartMs": 990566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "并"
+    } ]
+  }, {
+    "tStartMs": 992233,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "用泥土暂时填充墙壁之间的空隙。"
+    } ]
+  }, {
+    "tStartMs": 994466,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "我认为这只是为了减少"
+    } ]
+  }, {
+    "tStartMs": 995700,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "人们掉进战壕的可能性\n。"
+    } ]
+  }, {
+    "tStartMs": 997899,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "与此同时，另一支队伍\n正忙着组装"
+    } ]
+  }, {
+    "tStartMs": 1000533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "巨大的钢筋笼，这些钢筋笼"
+    } ]
+  }, {
+    "tStartMs": 1002133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "稍后将用于加固墙壁。   该"
+    } ]
+  }, {
+    "tStartMs": 1004266,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "过程的下一步是开始\n挖掘"
+    } ]
+  }, {
+    "tStartMs": 1007000,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "比钢筋笼宽度稍宽的墙壁部分\n。"
+    } ]
+  }, {
+    "tStartMs": 1010100,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "为此，他们使用液压抓斗"
+    } ]
+  }, {
+    "tStartMs": 1011799,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "挖掘机，也\n称为抓斗。"
+    } ]
+  }, {
+    "tStartMs": 1014766,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "抓斗悬挂在\n起重机上并放入"
+    } ]
+  }, {
+    "tStartMs": 1017633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "导墙之间以开始移除材料。"
+    } ]
+  }, {
+    "tStartMs": 1019766,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "为了确保墙壁尽可能笔直\n，液压抓斗"
+    } ]
+  }, {
+    "tStartMs": 1022466,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "配有转向板，转向板\n推压"
+    } ]
+  }, {
+    "tStartMs": 1024566,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "导墙以控制\n其下降时的对齐。   然后，"
+    } ]
+  }, {
+    "tStartMs": 1027366,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "新挖出的沟槽的壁\n将被用来继续"
+    } ]
+  }, {
+    "tStartMs": 1030233,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "引导工具继续\n前进。"
+    } ]
+  }, {
+    "tStartMs": 1032533,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "值得注意的是，\n沟渠的墙壁位于"
+    } ]
+  }, {
+    "tStartMs": 1034966,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "土溪块的足迹范围内。"
+    } ]
+  }, {
+    "tStartMs": 1036933,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "正如我之前提到的，这可以防止\n"
+    } ]
+  }, {
+    "tStartMs": 1039533,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "在移除材料时水渗透到墙壁中。"
+    } ]
+  }, {
+    "tStartMs": 1041666,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "作为额外的预防措施，在\n挖掘过程中，将浓稠的"
+    } ]
+  }, {
+    "tStartMs": 1045333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "膨润土泥浆泵\n入孔中。"
+    } ]
+  }, {
+    "tStartMs": 1047833,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "泥浆的密度有助于\n暂时加固"
+    } ]
+  }, {
+    "tStartMs": 1050700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "沟槽的壁，防止其\n坍塌。"
+    } ]
+  }, {
+    "tStartMs": 1053066,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "如果抓斗能够到达\n地球较硬的基岩层，那么"
+    } ]
+  }, {
+    "tStartMs": 1055966,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "可以将抓斗挖掘机\n换成液压铣刨切割"
+    } ]
+  }, {
+    "tStartMs": 1058833,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "工具，直到能够\n穿透它。"
+    } ]
+  }, {
+    "tStartMs": 1061833,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "据我所知，这\n对于"
+    } ]
+  }, {
+    "tStartMs": 1064099,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "这项特定工作来说似乎没有必要，但我认为\n仍然值得一提。"
+    } ]
+  }, {
+    "tStartMs": 1067333,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "这样，如果您决定\n在后院建造其中一个，您"
+    } ]
+  }, {
+    "tStartMs": 1070066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "就知道如何处理这种特殊\n情况。"
+    } ]
+  }, {
+    "tStartMs": 1072533,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "达到所需深度后，\n如图所示，将端部止动板"
+    } ]
+  }, {
+    "tStartMs": 1075733,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "降低到\n沟槽底部并"
+    } ]
+  }, {
+    "tStartMs": 1078466,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "靠在两侧的墙壁上。"
+    } ]
+  }, {
+    "tStartMs": 1080266,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "这些在相邻区域之间形成了平滑的屏障\n。"
+    } ]
+  }, {
+    "tStartMs": 1083133,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "接下来，将巨大的钢筋笼\n小心地放入洞中。"
+    } ]
+  }, {
+    "tStartMs": 1086166,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "这些笼子大约有 100 英尺长，\n这意味着墙板"
+    } ]
+  }, {
+    "tStartMs": 1089266,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "延伸到巨大的土溪下方约 32 英尺\n。"
+    } ]
+  }, {
+    "tStartMs": 1092766,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "距离战壕底部 40 英尺\n。"
+    } ]
+  }, {
+    "tStartMs": 1095766,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "钢筋笼不是\n放置在孔底"
+    } ]
+  }, {
+    "tStartMs": 1098233,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "，而是用金属梁悬挂，\n笼子的顶部将"
+    } ]
+  }, {
+    "tStartMs": 1101666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "保持暴露，以便稍后将额外的钢筋\n绑入其中，"
+    } ]
+  }, {
+    "tStartMs": 1104766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "用于地面结构。"
+    } ]
+  }, {
+    "tStartMs": 1106700,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "一旦固定，混凝土就会被注入\n洞底。"
+    } ]
+  }, {
+    "tStartMs": 1110200,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "当浇注较重的混凝土时，\n它会取代泥浆"
+    } ]
+  }, {
+    "tStartMs": 1113233,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "混合物，而泥浆混合物会不断"
+    } ]
+  }, {
+    "tStartMs": 1114599,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "被吸出，直到只剩下混凝土。"
+    } ]
+  }, {
+    "tStartMs": 1117233,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "在等待\n第一块墙板的混凝土"
+    } ]
+  }, {
+    "tStartMs": 1119333,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "变硬时，他们将跳过"
+    } ]
+  }, {
+    "tStartMs": 1120866,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "第二个区域并开始挖掘\n第三个区域。"
+    } ]
+  }, {
+    "tStartMs": 1123666,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "这种模式一直持续到"
+    } ]
+  }, {
+    "tStartMs": 1124933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "他们到达导墙的末端。"
+    } ]
+  }, {
+    "tStartMs": 1126966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "此时，第\n一块和第三块面板的混凝土应该已经"
+    } ]
+  }, {
+    "tStartMs": 1129766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "硬化到足够的\n程度，他们可以"
+    } ]
+  }, {
+    "tStartMs": 1131533,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "回来开始建造偶数\n块面板了。"
+    } ]
+  }, {
+    "tStartMs": 1133933,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "在挖掘\n两个已完成面板之间的区域时，"
+    } ]
+  }, {
+    "tStartMs": 1136700,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "重要的是确保在进行下一步之前\n彻底清洁任一面墙的边缘"
+    } ]
+  }, {
+    "tStartMs": 1139299,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1141566,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "如果有任何土壤粘在\n墙壁边缘，那么可能会"
+    } ]
+  }, {
+    "tStartMs": 1144166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "导致面板之间出现缝隙。"
+    } ]
+  }, {
+    "tStartMs": 1146066,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "这就是我之前提到的那些端部止动板"
+    } ]
+  }, {
+    "tStartMs": 1147433,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "\n发挥作用的地方。"
+    } ]
+  }, {
+    "tStartMs": 1149700,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "无需使用抓斗刮擦\n混凝土"
+    } ]
+  }, {
+    "tStartMs": 1152033,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "墙，端部止动装置会在"
+    } ]
+  }, {
+    "tStartMs": 1154666,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "硬化混凝土\n和土壤之间形成空隙。"
+    } ]
+  }, {
+    "tStartMs": 1157233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "作为额外的好处，端部\n止动板可以"
+    } ]
+  }, {
+    "tStartMs": 1159433,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "设计成插入\n挖掘工具的侧面。"
+    } ]
+  }, {
+    "tStartMs": 1162233,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "这样，当打开翻盖时，\n它就可以沿着"
+    } ]
+  }, {
+    "tStartMs": 1165099,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "钢梁刮擦，而不是混凝土。"
+    } ]
+  }, {
+    "tStartMs": 1167333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "一旦区域完全挖掘完毕，"
+    } ]
+  }, {
+    "tStartMs": 1169033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "就可以移除末端挡板。"
+    } ]
+  }, {
+    "tStartMs": 1170900,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "端部止动器的另一个好处是，\n它们可以设计成像"
+    } ]
+  }, {
+    "tStartMs": 1173833,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "这样的 T 形，这样一旦\n将其移除，就会"
+    } ]
+  }, {
+    "tStartMs": 1177133,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "在先前\n完成的面板中间留下一个槽。"
+    } ]
+  }, {
+    "tStartMs": 1179966,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "因此，当混凝土\n倒入第二区域时，它将"
+    } ]
+  }, {
+    "tStartMs": 1182966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "填充两侧的槽并\n形成互锁面板。"
+    } ]
+  }, {
+    "tStartMs": 1186533,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "这减少了\n墙壁被"
+    } ]
+  }, {
+    "tStartMs": 1188799,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "推向沟渠中间的可能性。"
+    } ]
+  }, {
+    "tStartMs": 1190466,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "此时，我认为墙体周边的土混凝土\n"
+    } ]
+  }, {
+    "tStartMs": 1193066,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "不再发挥作用，\n但墙内的砌块"
+    } ]
+  }, {
+    "tStartMs": 1195900,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "将防止水\n从下方渗出。"
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "虽然 Ryan Hanson 的空间中的这些动画\n"
+    } ]
+  }, {
+    "tStartMs": 1202433,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "对于可视化这一过程非常有帮助，但\n如果我们想要更"
+    } ]
+  }, {
+    "tStartMs": 1205599,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "准确，我们会展示深层土壤\n混合和地下水隔墙"
+    } ]
+  }, {
+    "tStartMs": 1208533,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "施工过程相互重叠\n。"
+    } ]
+  }, {
+    "tStartMs": 1211366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "相反，我们按顺序展示\n"
+    } ]
+  }, {
+    "tStartMs": 1213533,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "如果 SpaceX"
+    } ]
+  }, {
+    "tStartMs": 1215099,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "不急于\n完成这项工作，它们将如何建造。"
+    } ]
+  }, {
+    "tStartMs": 1217833,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "一旦战壕北侧的墙壁\n"
+    } ]
+  }, {
+    "tStartMs": 1219933,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "完工，就该\n开始建造火焰战壕"
+    } ]
+  }, {
+    "tStartMs": 1221833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "的地上部分了\n。"
+    } ]
+  }, {
+    "tStartMs": 1226766,
+    "dDurationMs": 33,
+    "segs": [ {
+      "utf8": "（轻音乐）"
+    } ]
+  }, {
+    "tStartMs": 1227900,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "二月中旬，大约\n在项目开始三个月后"
+    } ]
+  }, {
+    "tStartMs": 1230233,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "，工作人员开始"
+    } ]
+  }, {
+    "tStartMs": 1232033,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "在沟渠口处开凿方形开口\n。"
+    } ]
+  }, {
+    "tStartMs": 1234000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "第一步是在嘴巴的位置浇注\n一个六英寸厚的"
+    } ]
+  }, {
+    "tStartMs": 1236000,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "非加固方形垫\n。"
+    } ]
+  }, {
+    "tStartMs": 1238766,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "这通常被称为\n盲层或工作层，"
+    } ]
+  }, {
+    "tStartMs": 1242200,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "主要用于创建平坦均匀的"
+    } ]
+  }, {
+    "tStartMs": 1244133,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "表面以形成地梁。"
+    } ]
+  }, {
+    "tStartMs": 1246333,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "正如我之前提到的，您可以看到隔墙的\n钢筋笼末端"
+    } ]
+  }, {
+    "tStartMs": 1249200,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "\n穿过工作层，从而"
+    } ]
+  }, {
+    "tStartMs": 1251933,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "使墙体在结构上\n与地梁连接在一起。"
+    } ]
+  }, {
+    "tStartMs": 1254700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "在添加钢筋笼之前，他们\n必须将所有钢"
+    } ]
+  }, {
+    "tStartMs": 1257433,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "嵌入板放置在混凝土外面，这些嵌入板稍后会"
+    } ]
+  }, {
+    "tStartMs": 1259200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "暴露在外。"
+    } ]
+  }, {
+    "tStartMs": 1261633,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "嵌入板用作将\n附加"
+    } ]
+  }, {
+    "tStartMs": 1264366,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "钢支撑结构焊接到墙上的配合面。"
+    } ]
+  }, {
+    "tStartMs": 1266233,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "另一种方法是\n在混凝土硬化后将锚栓钻入混凝土中"
+    } ]
+  }, {
+    "tStartMs": 1268933,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "，但如果可以避免的话，这种方法就不太理想了\n。"
+    } ]
+  }, {
+    "tStartMs": 1272166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "如您所见，开口的"
+    } ]
+  }, {
+    "tStartMs": 1273566,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "每个角落都有四个大嵌入板\n。"
+    } ]
+  }, {
+    "tStartMs": 1275666,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "这是"
+    } ]
+  }, {
+    "tStartMs": 1276866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "静态火架基座\n稍后要安装的地方。"
+    } ]
+  }, {
+    "tStartMs": 1278933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这里不太显眼的是"
+    } ]
+  }, {
+    "tStartMs": 1280633,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "安装在\n模板墙一半高度的长嵌入板。"
+    } ]
+  }, {
+    "tStartMs": 1283066,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这些后来被用来安装\n栏杆，"
+    } ]
+  }, {
+    "tStartMs": 1285299,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "当滑动平台延伸到沟渠口时，它会越过栏杆移动"
+    } ]
+  }, {
+    "tStartMs": 1287033,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1289066,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "还有一些额外的板在开口的\n"
+    } ]
+  }, {
+    "tStartMs": 1290799,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "顶部和底部边缘周围形成边缘\n。"
+    } ]
+  }, {
+    "tStartMs": 1292933,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "我们稍后会进一步讨论这些问题。"
+    } ]
+  }, {
+    "tStartMs": 1294766,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "为安装船用QD型龙门架，\n在地梁南侧设有四块埋板"
+    } ]
+  }, {
+    "tStartMs": 1297766,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 1299766,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "最后，沟槽顶部平台的第一部分有八块嵌入板\n"
+    } ]
+  }, {
+    "tStartMs": 1302900,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "，我"
+    } ]
+  }, {
+    "tStartMs": 1304833,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "还没弄清楚它们的用途。"
+    } ]
+  }, {
+    "tStartMs": 1306733,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "一切准备就绪后，他们\n就可以用混凝土填充这些部分，"
+    } ]
+  }, {
+    "tStartMs": 1309299,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "然后继续挖掘\n沟渠的其余部分。"
+    } ]
+  }, {
+    "tStartMs": 1311966,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "对于下一部分，他们建造了\n剩余的屋顶和沟渠"
+    } ]
+  }, {
+    "tStartMs": 1315000,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "侧壁的地梁\n。"
+    } ]
+  }, {
+    "tStartMs": 1317166,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "就像沟渠的入口一样\n，这始于"
+    } ]
+  }, {
+    "tStartMs": 1318966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "\n两面墙顶部的六英寸桩帽。   直到最近"
+    } ]
+  }, {
+    "tStartMs": 1322133,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我们才意识到一个有趣的细节：\n"
+    } ]
+  }, {
+    "tStartMs": 1324933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "沟渠的顶部并不\n像我们最初认为的那样平坦。"
+    } ]
+  }, {
+    "tStartMs": 1328500,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "由于钢筋下方有黄色防潮层\n，您可以"
+    } ]
+  }, {
+    "tStartMs": 1331099,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "看到它在"
+    } ]
+  }, {
+    "tStartMs": 1332599,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "屋顶与墙壁相接的边缘向下倾斜。"
+    } ]
+  }, {
+    "tStartMs": 1334533,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这种倾斜的过渡可能是\n为了减少"
+    } ]
+  }, {
+    "tStartMs": 1337333,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "\n墙壁"
+    } ]
+  }, {
+    "tStartMs": 1339133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "和天花板连接处的应力集中，并使\n力分布更均匀。"
+    } ]
+  }, {
+    "tStartMs": 1342333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "它还应有助于促进\n蒸汽和"
+    } ]
+  }, {
+    "tStartMs": 1345166,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "废气更顺畅地流出沟槽，并最大限度地减少表面的"
+    } ]
+  }, {
+    "tStartMs": 1347433,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "直接冲击和侵蚀\n。"
+    } ]
+  }, {
+    "tStartMs": 1350366,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "与屋顶的第一部分一样，\n有用于延伸平台导轨的嵌入板"
+    } ]
+  }, {
+    "tStartMs": 1353133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1355433,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "您可以看到方形\n嵌入物的图案也得到了延伸。"
+    } ]
+  }, {
+    "tStartMs": 1358733,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "鉴于这些地方从未安装过任何东西\n，它可能"
+    } ]
+  }, {
+    "tStartMs": 1361333,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "与支撑\n沟渠的顶部有关。"
+    } ]
+  }, {
+    "tStartMs": 1363633,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "我确信评论中的某个人会对这里发生的"
+    } ]
+  }, {
+    "tStartMs": 1364933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "事情有更好的了解\n。"
+    } ]
+  }, {
+    "tStartMs": 1367166,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "除了屋顶之外，他们还完成了\n沟渠"
+    } ]
+  }, {
+    "tStartMs": 1369866,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "出口处墙壁的地梁。"
+    } ]
+  }, {
+    "tStartMs": 1371900,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "这些木梁有几英尺厚\n，并有杆子"
+    } ]
+  }, {
+    "tStartMs": 1373833,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "竖起来，以便\n安装安全栏杆。"
+    } ]
+  }, {
+    "tStartMs": 1376466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "另一个值得指出的细节是，沟渠远端\n没有地下"
+    } ]
+  }, {
+    "tStartMs": 1379166,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "隔墙\n。"
+    } ]
+  }, {
+    "tStartMs": 1382000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "相反，只有表面水平的"
+    } ]
+  }, {
+    "tStartMs": 1383566,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "梁将两侧连接\n在一起。"
+    } ]
+  }, {
+    "tStartMs": 1385866,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "这使得\n以后安装雨水管道变得容易得多。"
+    } ]
+  }, {
+    "tStartMs": 1388933,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "\n该项目的这一阶段耗时整整一个月，一旦"
+    } ]
+  }, {
+    "tStartMs": 1391900,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "屋顶梁变得足够坚硬，\n能够支撑自身的重量，"
+    } ]
+  }, {
+    "tStartMs": 1394633,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "他们终于可以开始"
+    } ]
+  }, {
+    "tStartMs": 1395700,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "挖掘沟槽内部了。"
+    } ]
+  }, {
+    "tStartMs": 1400900,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "第一步是将沟槽内壁工作层上的\n所有混凝土全部挖出"
+    } ]
+  }, {
+    "tStartMs": 1403400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1406333,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "这包括在沟槽口放置方形垫块，\n并"
+    } ]
+  }, {
+    "tStartMs": 1409466,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "削去沿着地梁的条带\n以消除任何悬垂部分。"
+    } ]
+  }, {
+    "tStartMs": 1412966,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "由于深层土壤混合过程，通往\n沟渠的坡道"
+    } ]
+  }, {
+    "tStartMs": 1415700,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "比\n原生土壤稳定得多。"
+    } ]
+  }, {
+    "tStartMs": 1418766,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "尽管硬化的土壤混凝土\n可能有点"
+    } ]
+  }, {
+    "tStartMs": 1421033,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "难以挖出，但从好的\n方面来看，它为挖掘机的行驶创造了一个干燥、"
+    } ]
+  }, {
+    "tStartMs": 1424666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "稳定的表面\n。"
+    } ]
+  }, {
+    "tStartMs": 1426866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "从沟槽中取出的致密材料\n也非常适合"
+    } ]
+  }, {
+    "tStartMs": 1429866,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "用作墙壁周围的回填材料\n。"
+    } ]
+  }, {
+    "tStartMs": 1432933,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "当我们放大时，你可以很\n清楚地看到，如果你不知道它来自哪里，块状土壤"
+    } ]
+  }, {
+    "tStartMs": 1435599,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "几乎会被误认为是砾石"
+    } ]
+  }, {
+    "tStartMs": 1437133,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 1438766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这些废料还被用来建造一条"
+    } ]
+  }, {
+    "tStartMs": 1440466,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "通往\n沟渠口的车道。"
+    } ]
+  }, {
+    "tStartMs": 1442833,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "值得一提的是，在建造南半部隔墙的导墙时，坡道下方的区域\n也经历了"
+    } ]
+  }, {
+    "tStartMs": 1445266,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "相同的深层土壤混合过程\n"
+    } ]
+  }, {
+    "tStartMs": 1448233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1450833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这是很好的预见，可以防止\n车道"
+    } ]
+  }, {
+    "tStartMs": 1453433,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "随着时间的推移在 Starship 来回移动的\n重型测试台的重量下沉"
+    } ]
+  }, {
+    "tStartMs": 1456233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1458733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "我确信你们中的一些人现在\n可能正在家里"
+    } ]
+  }, {
+    "tStartMs": 1460266,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "遇到同样的问题\n。"
+    } ]
+  }, {
+    "tStartMs": 1463266,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "无论如何，在到达沟渠底部之前\n，斜坡"
+    } ]
+  }, {
+    "tStartMs": 1465566,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "会变平，然后逐渐\n下降到地面。"
+    } ]
+  }, {
+    "tStartMs": 1468066,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "现在我们可以看到\n沟渠的最终深度，这让我们真正"
+    } ]
+  }, {
+    "tStartMs": 1470866,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "了解"
+    } ]
+  }, {
+    "tStartMs": 1472400,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "他们建造的这些隔墙有多么深。"
+    } ]
+  }, {
+    "tStartMs": 1474566,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "正如你所见，设计这个设计的人"
+    } ]
+  }, {
+    "tStartMs": 1476166,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "绝对不是在胡闹。"
+    } ]
+  }, {
+    "tStartMs": 1479066,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "我不是土木工程师，但我\n想说，他们可能"
+    } ]
+  }, {
+    "tStartMs": 1481133,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "对此进行了过度设计，以确保绝对\n"
+    } ]
+  }, {
+    "tStartMs": 1484433,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "不可能将这个超大尺寸的浴缸"
+    } ]
+  }, {
+    "tStartMs": 1486066,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "抬出地面。"
+    } ]
+  }, {
+    "tStartMs": 1488066,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "挖掘工作完成后，\n下一步是安装"
+    } ]
+  }, {
+    "tStartMs": 1490566,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "\n喷水系统的地下管道。"
+    } ]
+  }, {
+    "tStartMs": 1493366,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "虽然它们不如垫子 A 的\n增压坐浴盆系统中使用的管道那么大"
+    } ]
+  }, {
+    "tStartMs": 1495900,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "，但它们\n仍然相当大。   向火焰桶"
+    } ]
+  }, {
+    "tStartMs": 1499066,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "供油的管道有两组\n，"
+    } ]
+  }, {
+    "tStartMs": 1501700,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "大管道直径为 48 英寸，"
+    } ]
+  }, {
+    "tStartMs": 1504033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "小管道\n直径为 30 英寸。"
+    } ]
+  }, {
+    "tStartMs": 1506933,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "斜坡道修建完成后，在\n"
+    } ]
+  }, {
+    "tStartMs": 1509933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 1511433,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "延伸至\n坡底的沟渠末端的地梁下方挖设涵洞。"
+    } ]
+  }, {
+    "tStartMs": 1513633,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "用于喷水系统的大型管道\n被安装在这个"
+    } ]
+  }, {
+    "tStartMs": 1516099,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "涵洞中，然后在我们\n有机会看到它们之前就被埋了。"
+    } ]
+  }, {
+    "tStartMs": 1519366,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "还有一根额外的管道\n用于将"
+    } ]
+  }, {
+    "tStartMs": 1520866,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "水从沟渠中抽出，\n这里没有显示。   斜坡底部"
+    } ]
+  }, {
+    "tStartMs": 1523433,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "采用平坦台阶的部分原因\n是"
+    } ]
+  }, {
+    "tStartMs": 1526000,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "为了能够\n完全覆盖大型水管，而不是"
+    } ]
+  }, {
+    "tStartMs": 1528666,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "像\n其他情况那样伸出地面。"
+    } ]
+  }, {
+    "tStartMs": 1531233,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "管道安装到位后，他们\n就可以开始"
+    } ]
+  }, {
+    "tStartMs": 1533700,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "为地板、台阶和出口坡道铺设钢筋了。"
+    } ]
+  }, {
+    "tStartMs": 1536766,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "您可能已经猜到了，在\n用混凝土填充之前，"
+    } ]
+  }, {
+    "tStartMs": 1539333,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "在沟槽底部添加了长钉嵌入板\n。"
+    } ]
+  }, {
+    "tStartMs": 1542433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "我们无法看到这个过程，\n但我们可以相当肯定地说"
+    } ]
+  }, {
+    "tStartMs": 1545166,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "这些是存在的。"
+    } ]
+  }, {
+    "tStartMs": 1547099,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "我们几分钟后再讨论这个问题\n。"
+    } ]
+  }, {
+    "tStartMs": 1548933,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "在火焰沟混凝土施工的同时\n，其他"
+    } ]
+  }, {
+    "tStartMs": 1551666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "施工队也在同时建造"
+    } ]
+  }, {
+    "tStartMs": 1553466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "几个重型钢\n支撑结构。"
+    } ]
+  }, {
+    "tStartMs": 1556099,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "让我们快速地讨论一下每一个。"
+    } ]
+  }, {
+    "tStartMs": 1560766,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "首先是大型移动静态\n火焰试验台，它"
+    } ]
+  }, {
+    "tStartMs": 1563666,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "\n允许"
+    } ]
+  }, {
+    "tStartMs": 1566766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "舰船"
+    } ]
+  }, {
+    "tStartMs": 1568200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "在火焰沟\n和巨型舱之间来回运输，从而消除了在试验现场使用起重机的需要。"
+    } ]
+  }, {
+    "tStartMs": 1570533,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "我在《梅西的进化》一集中已经对该结构的特征做了相当深入的解释\n"
+    } ]
+  }, {
+    "tStartMs": 1573333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1575633,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "因此，我们不再在这里重复，而是"
+    } ]
+  }, {
+    "tStartMs": 1577833,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "从船舶\nQD 龙门架开始。"
+    } ]
+  }, {
+    "tStartMs": 1580066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "该结构容纳了"
+    } ]
+  }, {
+    "tStartMs": 1581333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "通往船舶的所有管道。"
+    } ]
+  }, {
+    "tStartMs": 1583000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "所有这些都是"
+    } ]
+  }, {
+    "tStartMs": 1584400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "在将其抬到腿上之前预先安装在地面上的\n。"
+    } ]
+  }, {
+    "tStartMs": 1586900,
+    "dDurationMs": 2266,
+    "segs": [ {
+      "utf8": "一旦完成，它就会被运送\n到沟槽，然后被抬到"
+    } ]
+  }, {
+    "tStartMs": 1589166,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我们几分钟前提到的嵌入板的顶部\n。   尽快"
+    } ]
+  }, {
+    "tStartMs": 1592099,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "安装这个装置非常重要，\n"
+    } ]
+  }, {
+    "tStartMs": 1594799,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "以便 GSE 工作人员能够完成油库\n所有低温和"
+    } ]
+  }, {
+    "tStartMs": 1597566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "高压气体系统的连接\n。"
+    } ]
+  }, {
+    "tStartMs": 1599833,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "当时，我真的希望这个\n结构能够被"
+    } ]
+  }, {
+    "tStartMs": 1602233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "屏蔽覆盖，就像\n"
+    } ]
+  }, {
+    "tStartMs": 1604466,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "发射场低温测试站的 QD 船一样\n。"
+    } ]
+  }, {
+    "tStartMs": 1606933,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "但正如我在 Massey 的进化论一集中所说的那样\n，我认为他们"
+    } ]
+  }, {
+    "tStartMs": 1609866,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "从未想到它会成为必要。"
+    } ]
+  }, {
+    "tStartMs": 1611866,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "现在回想起来，\n"
+    } ]
+  }, {
+    "tStartMs": 1615166,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "考虑到 36 号船爆炸后发生的情况，将其描述为重型结构可能有点夸张。"
+    } ]
+  }, {
+    "tStartMs": 1617033,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1620299,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "（枪声）"
+    } ]
+  }, {
+    "tStartMs": 1624033,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "事实证明，它远没有\n看上去那么坚固，但"
+    } ]
+  }, {
+    "tStartMs": 1626833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "即使有屏蔽，我"
+    } ]
+  }, {
+    "tStartMs": 1628233,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "认为它也不会表现得更好。"
+    } ]
+  }, {
+    "tStartMs": 1630099,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "接下来是滑动服务平台，\n它是"
+    } ]
+  }, {
+    "tStartMs": 1632566,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "静态火灾\n试验台运行的关键部件，"
+    } ]
+  }, {
+    "tStartMs": 1635333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "无需使用起重机将"
+    } ]
+  }, {
+    "tStartMs": 1636900,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "船舶吊上吊下试验台。"
+    } ]
+  }, {
+    "tStartMs": 1638700,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "这个矩形平台相当\n简单，由"
+    } ]
+  }, {
+    "tStartMs": 1641933,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "两侧各两根工字梁组成，并由八根"
+    } ]
+  }, {
+    "tStartMs": 1643633,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "横梁将它们连接在一起。   周围"
+    } ]
+  }, {
+    "tStartMs": 1645266,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "还安装了较小的方形梁\n，"
+    } ]
+  }, {
+    "tStartMs": 1648166,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "作为甲板的框架。"
+    } ]
+  }, {
+    "tStartMs": 1650233,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "在平台的一端，有\n更高的横梁，用于形成"
+    } ]
+  }, {
+    "tStartMs": 1653333,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "路缘，以防止 SPMT\n驶过边缘。"
+    } ]
+  }, {
+    "tStartMs": 1655833,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "结构框架完成后\n，将波纹"
+    } ]
+  }, {
+    "tStartMs": 1658433,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "地板安装在\n中心，并"
+    } ]
+  }, {
+    "tStartMs": 1660633,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "用钢筋固定，然后\n用混凝土填充甲板。"
+    } ]
+  }, {
+    "tStartMs": 1662866,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "\n在"
+    } ]
+  }, {
+    "tStartMs": 1665500,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "36 号船事故中，除了少数"
+    } ]
+  }, {
+    "tStartMs": 1667933,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "混凝土破裂而\n需要更换的区域外，大部分情况都保持得相当好。"
+    } ]
+  }, {
+    "tStartMs": 1670366,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "幸运的是，\n"
+    } ]
+  }, {
+    "tStartMs": 1672966,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "只要\n钢架没有损坏，这种设计就很容易修复。"
+    } ]
+  }, {
+    "tStartMs": 1675933,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我们很长时间都无法弄清楚的一件事\n是"
+    } ]
+  }, {
+    "tStartMs": 1678599,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "用于将平台"
+    } ]
+  }, {
+    "tStartMs": 1680333,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "在沟槽开口处来回移动的机制\n。"
+    } ]
+  }, {
+    "tStartMs": 1682599,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "您可以看到，屋顶平台上的栏杆\n基本上只是"
+    } ]
+  }, {
+    "tStartMs": 1685533,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "一根焊接在\n钢嵌入条上的方管。"
+    } ]
+  }, {
+    "tStartMs": 1688200,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "它延伸到\n沟渠口的两侧，"
+    } ]
+  }, {
+    "tStartMs": 1691066,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "轨道安装在垂直钢板上，\n"
+    } ]
+  }, {
+    "tStartMs": 1693799,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "顶部有基本上是铁路枕木的东西。"
+    } ]
+  }, {
+    "tStartMs": 1696066,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "车轮安装在\n平台底部的轨道上，"
+    } ]
+  }, {
+    "tStartMs": 1699066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "可能与\n火车上的车轮类似。"
+    } ]
+  }, {
+    "tStartMs": 1701799,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "我们无法证实这一点，\n因为它们是"
+    } ]
+  }, {
+    "tStartMs": 1704333,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "在\n拍摄这张照片和"
+    } ]
+  }, {
+    "tStartMs": 1707833,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "平台被吊装到位之间的 19 天内安装的。"
+    } ]
+  }, {
+    "tStartMs": 1709700,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "由于最近发生的一起不幸事件，\n我们终于能够"
+    } ]
+  }, {
+    "tStartMs": 1712433,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "弄清楚平台是如何"
+    } ]
+  }, {
+    "tStartMs": 1713533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "在轨道上来回移动的。"
+    } ]
+  }, {
+    "tStartMs": 1715766,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "我想你可以说这是"
+    } ]
+  }, {
+    "tStartMs": 1717200,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "\n36 号船爆炸事件带来的一件积极的事情。"
+    } ]
+  }, {
+    "tStartMs": 1720000,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "在那次事故发生之前，该\n结构的这个小角落"
+    } ]
+  }, {
+    "tStartMs": 1722433,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "一直被\n船舶 QD 龙门架"
+    } ]
+  }, {
+    "tStartMs": 1724966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "和通往\n屋顶平台的前脚台阶遮挡。"
+    } ]
+  }, {
+    "tStartMs": 1727400,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "如果不飞过飞船\nQD 龙门架或"
+    } ]
+  }, {
+    "tStartMs": 1729966,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "直接位于其上方，几乎\n不可能看到。"
+    } ]
+  }, {
+    "tStartMs": 1733066,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "直到最近，RGV Aerial 的 Mauricio\n才尝试"
+    } ]
+  }, {
+    "tStartMs": 1736533,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "这样做，因为河流的形状\n使​​得从南侧看到风景非常困难，"
+    } ]
+  }, {
+    "tStartMs": 1739266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "因为这样就有"
+    } ]
+  }, {
+    "tStartMs": 1740833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "穿越墨西哥的风险\n。"
+    } ]
+  }, {
+    "tStartMs": 1743266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "但经过仔细的穿针引线，\n他终于拍到了"
+    } ]
+  }, {
+    "tStartMs": 1746066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我\n等待了一年多的完美照片。"
+    } ]
+  }, {
+    "tStartMs": 1748866,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "因此，多亏了这些极其罕见的\n角度，我们发现"
+    } ]
+  }, {
+    "tStartMs": 1752000,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "平台两侧安装了两个马达。"
+    } ]
+  }, {
+    "tStartMs": 1753866,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "正如你所见，它们已被彻底\n摧毁，但残骸"
+    } ]
+  }, {
+    "tStartMs": 1757433,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "足以让我们将两者联系\n起来。"
+    } ]
+  }, {
+    "tStartMs": 1759900,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "通过减少 TFR 限制和\n升级镜头，Mauricio"
+    } ]
+  }, {
+    "tStartMs": 1763366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "能够捕捉到\n"
+    } ]
+  }, {
+    "tStartMs": 1765266,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "安装在\n平台侧面的横梁的高质量图像。"
+    } ]
+  }, {
+    "tStartMs": 1767766,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "在这里您可以看到\n横梁底部有牙齿，这"
+    } ]
+  }, {
+    "tStartMs": 1770633,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "有助于我们最终解开这个谜团。"
+    } ]
+  }, {
+    "tStartMs": 1772700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这是一种典型的齿条和小齿轮\n机构，您可能会在"
+    } ]
+  }, {
+    "tStartMs": 1775700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "3D 打印机或自动\n滑动门上看到它。   从这个角度"
+    } ]
+  }, {
+    "tStartMs": 1777933,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我们终于应该可以看到\n轮子了，"
+    } ]
+  }, {
+    "tStartMs": 1780166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "但不幸的是，它们被\n某种护板覆盖着。"
+    } ]
+  }, {
+    "tStartMs": 1783266,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "在平台远端附近，\n有一个 U 形支架"
+    } ]
+  }, {
+    "tStartMs": 1785700,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "悬挂在\n安装车轮的底部导轨上。   在"
+    } ]
+  }, {
+    "tStartMs": 1787866,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "小齿轮马达下方，您可以看到一个"
+    } ]
+  }, {
+    "tStartMs": 1789566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "位于支架上的线性执行器。"
+    } ]
+  }, {
+    "tStartMs": 1791933,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "一旦平台完全展开\n在沟槽口上方，"
+    } ]
+  }, {
+    "tStartMs": 1794733,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "该执行器就会通过\nU 形夹支架上的孔向外延伸，"
+    } ]
+  }, {
+    "tStartMs": 1797266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "将其锁定到位。"
+    } ]
+  }, {
+    "tStartMs": 1799266,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "这可以防止"
+    } ]
+  }, {
+    "tStartMs": 1800533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "SPMT\n驶上平台时平台滑动。"
+    } ]
+  }, {
+    "tStartMs": 1802966,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "我怀疑 SPMT 车轮是否\n真的会移动"
+    } ]
+  }, {
+    "tStartMs": 1805400,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "平台，但"
+    } ]
+  }, {
+    "tStartMs": 1807266,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "在这种情况下，安全总比后悔好。"
+    } ]
+  }, {
+    "tStartMs": 1809866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "你知道，尽管这一集\n晚了一年半，但"
+    } ]
+  }, {
+    "tStartMs": 1812866,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "实际上效果很好，因为\n它给了我们时间来"
+    } ]
+  }, {
+    "tStartMs": 1815066,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "弄清楚一些较小的细节。"
+    } ]
+  }, {
+    "tStartMs": 1817166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "我无法告诉你我多久才\n在发布一集之后弄清楚一些事情，"
+    } ]
+  }, {
+    "tStartMs": 1819666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "并且从来没有方便的"
+    } ]
+  }, {
+    "tStartMs": 1821333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "时间回去并在以后提及它们。"
+    } ]
+  }, {
+    "tStartMs": 1823500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "无论如何，在滑动屋顶平台之后，\n我们终于有了"
+    } ]
+  }, {
+    "tStartMs": 1826400,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "火焰导流斗的支撑框架\n，该框架是"
+    } ]
+  }, {
+    "tStartMs": 1829066,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "在 SpaceX 的 McGregor 测试"
+    } ]
+  }, {
+    "tStartMs": 1831099,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "设施制造的，然后\n运往星际基地。"
+    } ]
+  }, {
+    "tStartMs": 1833733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "框架的下部支撑着"
+    } ]
+  }, {
+    "tStartMs": 1835266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "水淋管歧管的弯曲部分\n。"
+    } ]
+  }, {
+    "tStartMs": 1838033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "如您所见，SpeedCore 壁板有四个\n部分，"
+    } ]
+  }, {
+    "tStartMs": 1841166,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "沿曲线有切口，以便六个 U 形\n肋条能够插入到位。"
+    } ]
+  }, {
+    "tStartMs": 1845433,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "对于此应用，SpeedCore 是现浇\n"
+    } ]
+  }, {
+    "tStartMs": 1848533,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "传统钢筋混凝土\n剪力墙的更好替代品。"
+    } ]
+  }, {
+    "tStartMs": 1852200,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "在垂直支架的内部，"
+    } ]
+  }, {
+    "tStartMs": 1853900,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "您可以看到焊接\n到内壁的螺柱。"
+    } ]
+  }, {
+    "tStartMs": 1856099,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "它们充当剪力连接件，在\n"
+    } ]
+  }, {
+    "tStartMs": 1859266,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "钢筋和混凝土之间传递力，以确保墙体\n作为一个统一的系统。"
+    } ]
+  }, {
+    "tStartMs": 1862966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "空心钢框架本身就\n可以轻松支撑火焰"
+    } ]
+  }, {
+    "tStartMs": 1865533,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "桶，但混凝土\n填充使其"
+    } ]
+  }, {
+    "tStartMs": 1868633,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "比普通混凝土墙坚固得多，即使\n不使用钢筋。"
+    } ]
+  }, {
+    "tStartMs": 1871933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "除了 Pad A 集成塔的柱子之外\n，这是 Starbase"
+    } ]
+  }, {
+    "tStartMs": 1874833,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "首次使用 SpeedCore 结构\n。"
+    } ]
+  }, {
+    "tStartMs": 1877266,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "但在发现\n它的用途非常广泛之后，他们很快就"
+    } ]
+  }, {
+    "tStartMs": 1880333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "开始更频繁地使用它。"
+    } ]
+  }, {
+    "tStartMs": 1882433,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "当麦格雷戈建造新的\n垂直猛禽试验台时"
+    } ]
+  }, {
+    "tStartMs": 1884766,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "，他们希望能够"
+    } ]
+  }, {
+    "tStartMs": 1886400,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "并排测试两架猛禽。"
+    } ]
+  }, {
+    "tStartMs": 1889233,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "他们已经在\n水平试验台和 2020 年建造的"
+    } ]
+  }, {
+    "tStartMs": 1892066,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "第一个垂直试验台上进行了此项工作。\n"
+    } ]
+  }, {
+    "tStartMs": 1894533,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "但我认为这些结构可能\n无法提供足够的"
+    } ]
+  }, {
+    "tStartMs": 1896900,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "保护来抵御偶尔发生的\n发动机撞击。"
+    } ]
+  }, {
+    "tStartMs": 1899133,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "因此这一次，为了保护\n相邻的测试单元和所有"
+    } ]
+  }, {
+    "tStartMs": 1902333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "GSE 设备，他们"
+    } ]
+  }, {
+    "tStartMs": 1904033,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "用 SpeedCore 墙建造了收容箱。"
+    } ]
+  }, {
+    "tStartMs": 1906266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "现在想想，其实\n有点好笑的是，"
+    } ]
+  }, {
+    "tStartMs": 1908466,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "麦格雷戈的工程师们在这里\n为保护 GSE"
+    } ]
+  }, {
+    "tStartMs": 1911066,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "设备付出的努力比在梅西的要多得多。"
+    } ]
+  }, {
+    "tStartMs": 1913299,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "无论如何，在安装 U 形支撑\n梁后，在每个肋条的"
+    } ]
+  }, {
+    "tStartMs": 1916033,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "末端之间焊接较小的梁"
+    } ]
+  }, {
+    "tStartMs": 1917566,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "以增加稳定性。"
+    } ]
+  }, {
+    "tStartMs": 1919966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "下部支架组装完成后，\n他们现在准备将"
+    } ]
+  }, {
+    "tStartMs": 1922633,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "其安装在沟槽底部，\n这将是一次"
+    } ]
+  }, {
+    "tStartMs": 1925366,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "非常有趣的操作。"
+    } ]
+  }, {
+    "tStartMs": 1927533,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "从上方看，你会发现\n它"
+    } ]
+  }, {
+    "tStartMs": 1930400,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "比海沟口更长、更宽。"
+    } ]
+  }, {
+    "tStartMs": 1932333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "因此，要将这个结构安装\n到开口处"
+    } ]
+  }, {
+    "tStartMs": 1934433,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "需要相当高\n的技巧。"
+    } ]
+  }, {
+    "tStartMs": 1937533,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "使用两台起重机协同工作，\n将支架"
+    } ]
+  }, {
+    "tStartMs": 1940233,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "倾斜到一侧，然后旋转，以便\n它能够穿过孔。"
+    } ]
+  }, {
+    "tStartMs": 1944233,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "一旦它脱离了地梁，\n它就会向"
+    } ]
+  }, {
+    "tStartMs": 1946766,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "相反的方向旋转，然后倾斜\n回正确的方向。"
+    } ]
+  }, {
+    "tStartMs": 1950366,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "在赢得俄罗斯方块锦标赛的最后一个级别后\n，"
+    } ]
+  }, {
+    "tStartMs": 1953233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "每个墙壁部分的整个周边\n都会"
+    } ]
+  }, {
+    "tStartMs": 1955066,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "被焊接到\n嵌入板上。"
+    } ]
+  }, {
+    "tStartMs": 1957400,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "为了支撑\n火焰分流器桶的倾斜部分，"
+    } ]
+  }, {
+    "tStartMs": 1960299,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "有四个三角形的壁"
+    } ]
+  }, {
+    "tStartMs": 1961733,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "靠在沟槽的后壁上。"
+    } ]
+  }, {
+    "tStartMs": 1963733,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "每个三角形支撑\n均由四个"
+    } ]
+  }, {
+    "tStartMs": 1966033,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "独立的速度核心部分"
+    } ]
+  }, {
+    "tStartMs": 1967866,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "堆叠并焊接在一起构成。"
+    } ]
+  }, {
+    "tStartMs": 1970000,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "接下来，将平板焊接到"
+    } ]
+  }, {
+    "tStartMs": 1971533,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "每面墙的正面和背面。"
+    } ]
+  }, {
+    "tStartMs": 1973933,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "为了清楚起见，\n在这张图片中它们是仰卧的。"
+    } ]
+  }, {
+    "tStartMs": 1977066,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "每面墙的顶部都留空，"
+    } ]
+  }, {
+    "tStartMs": 1978799,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "以便他们\n用水泥填充结构。"
+    } ]
+  }, {
+    "tStartMs": 1980966,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "最外面的两面墙上安装了四个"
+    } ]
+  }, {
+    "tStartMs": 1982500,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "水平检修平台。"
+    } ]
+  }, {
+    "tStartMs": 1984799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "每个楼层之间都有梯子，\n以便他们检查建筑"
+    } ]
+  }, {
+    "tStartMs": 1987000,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "结构的不同部分。"
+    } ]
+  }, {
+    "tStartMs": 1988666,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "对于内墙，检修"
+    } ]
+  }, {
+    "tStartMs": 1989966,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "平台是单独组装的。   将"
+    } ]
+  }, {
+    "tStartMs": 1991966,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "每个部分翻转\n到正确的方向后，"
+    } ]
+  }, {
+    "tStartMs": 1994933,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "三角形框架被逐一抬入\n沟槽。"
+    } ]
+  }, {
+    "tStartMs": 1998200,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "其余三个检修平台"
+    } ]
+  }, {
+    "tStartMs": 2000233,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "位于每个三角形\n墙体部分之间。"
+    } ]
+  }, {
+    "tStartMs": 2003133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "一旦将所有这些永久焊接\n到嵌入板上，"
+    } ]
+  }, {
+    "tStartMs": 2005866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "上部支架支撑就会安装\n到支撑墙上。"
+    } ]
+  }, {
+    "tStartMs": 2008900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "它们比下部\n支架部分小得多，因此"
+    } ]
+  }, {
+    "tStartMs": 2011666,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "能够在麦格雷戈完全组装，\n而不是在现场组装。"
+    } ]
+  }, {
+    "tStartMs": 2014833,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "但考虑到它们的尺寸，还需要\n起重机进行"
+    } ]
+  }, {
+    "tStartMs": 2017966,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "串联提升才能将它们穿过\n沟渠的开口。"
+    } ]
+  }, {
+    "tStartMs": 2021066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "我确信将它们\n通过开口移动到位而不"
+    } ]
+  }, {
+    "tStartMs": 2023233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "与墙壁和支撑"
+    } ]
+  }, {
+    "tStartMs": 2024866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "框架相撞是一项相当平衡的动作。   将"
+    } ]
+  }, {
+    "tStartMs": 2027533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "支架的各个部分焊接\n到支撑框架上后，"
+    } ]
+  }, {
+    "tStartMs": 2030433,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "他们终于可以\n用水泥填充速度核心壁了。   这个谜题的"
+    } ]
+  }, {
+    "tStartMs": 2033366,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "最后一个也是最重要的部分\n是真正的"
+    } ]
+  }, {
+    "tStartMs": 2036066,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "火焰桶，它\n"
+    } ]
+  }, {
+    "tStartMs": 2039066,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "在被运送到星际基地之前被分成三个巨大的部分建造。"
+    } ]
+  }, {
+    "tStartMs": 2041133,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "必须重申的是，如果没有\n"
+    } ]
+  }, {
+    "tStartMs": 2043500,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "麦格雷戈工厂的支持，他们\n不可能如此迅速地完成这个"
+    } ]
+  }, {
+    "tStartMs": 2045966,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "项目。"
+    } ]
+  }, {
+    "tStartMs": 2048133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "我认为现场组装这个很容易就需要\n额外两个月的时间"
+    } ]
+  }, {
+    "tStartMs": 2050366,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "，这是\n他们无法承受的。"
+    } ]
+  }, {
+    "tStartMs": 2056633,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "2024 年 3 月，三根巨大的管道"
+    } ]
+  }, {
+    "tStartMs": 2058966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "歧管行程 460 英里\n到达星际基地。"
+    } ]
+  }, {
+    "tStartMs": 2062300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "感谢 Starship Gazer 在他们到达时恰逢其时，出现在了\n正确的地点"
+    } ]
+  }, {
+    "tStartMs": 2064866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "，我们才"
+    } ]
+  }, {
+    "tStartMs": 2066733,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "得以看到一些相当令人惊叹的细节。"
+    } ]
+  }, {
+    "tStartMs": 2068966,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "两个外部歧管部分\n均由 26 根直径为 8 英寸的管道构成"
+    } ]
+  }, {
+    "tStartMs": 2072333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "\n，而"
+    } ]
+  }, {
+    "tStartMs": 2074433,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "中心部分稍小\n，由 14 根管道构成。"
+    } ]
+  }, {
+    "tStartMs": 2077500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "每个部分的底部都有一个供给歧管，\n"
+    } ]
+  }, {
+    "tStartMs": 2080400,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "上面穿有交替排列的孔。"
+    } ]
+  }, {
+    "tStartMs": 2082266,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "管道通过孔插入几英寸，\n然后"
+    } ]
+  }, {
+    "tStartMs": 2084866,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "焊接到\n歧管的外部。"
+    } ]
+  }, {
+    "tStartMs": 2087266,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "此后，通过沿整个长度焊接两侧，将每根管道永久地\n连接到其相邻管道上，"
+    } ]
+  }, {
+    "tStartMs": 2090366,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 2092533,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "以消除\n可能存在的任何间隙。"
+    } ]
+  }, {
+    "tStartMs": 2095466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "每个管道的顶部都有\n一个螺纹口。"
+    } ]
+  }, {
+    "tStartMs": 2097966,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "我们最初认为这些可能只是\n为了清理目的，或者"
+    } ]
+  }, {
+    "tStartMs": 2101033,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "在管道焊接时让气体逸出的通风口\n。"
+    } ]
+  }, {
+    "tStartMs": 2103933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "但考虑到它们上面的塑料盖\n，很可能"
+    } ]
+  }, {
+    "tStartMs": 2106833,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 2108733,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "后来在这些位置安装了压力传感器或额外的喷嘴。"
+    } ]
+  }, {
+    "tStartMs": 2110699,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "如果它们存在，这些喷嘴"
+    } ]
+  }, {
+    "tStartMs": 2112266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "可能与这里显示的喷嘴类似。"
+    } ]
+  }, {
+    "tStartMs": 2114733,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "\n较小水"
+    } ]
+  }, {
+    "tStartMs": 2116733,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "歧管的侧面有额外的端口，其中可能也安装了喷嘴\n。"
+    } ]
+  }, {
+    "tStartMs": 2120133,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "老实说，我只是不明白为什么这\n是必要的，所以"
+    } ]
+  }, {
+    "tStartMs": 2122800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "如果\n这里发生了其他事情，我不会感到惊讶。"
+    } ]
+  }, {
+    "tStartMs": 2125500,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "麦格雷戈制造团队\n留给他们在现场做的一件事"
+    } ]
+  }, {
+    "tStartMs": 2127966,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就是在管道上钻孔以安装\n喷水装置。"
+    } ]
+  }, {
+    "tStartMs": 2131466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "他们到达后不久，管道\n上就被涂上了三种颜色的图案，"
+    } ]
+  }, {
+    "tStartMs": 2134433,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "以指示每个部分需要\n钻孔的密度"
+    } ]
+  }, {
+    "tStartMs": 2136366,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 2138466,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "例如，在红色区域中，\n可能每三英寸有一个孔"
+    } ]
+  }, {
+    "tStartMs": 2141500,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "，蓝色区域可能每两英寸有一个孔，"
+    } ]
+  }, {
+    "tStartMs": 2143866,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "黄色区域可能每一英寸有一个孔\n。"
+    } ]
+  }, {
+    "tStartMs": 2146366,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "他们很可能\n在每根管道上钻了两排孔，以"
+    } ]
+  }, {
+    "tStartMs": 2149366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "形成重叠的喷雾模式，"
+    } ]
+  }, {
+    "tStartMs": 2151166,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "而不是直接向外喷射。"
+    } ]
+  }, {
+    "tStartMs": 2153166,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "我可以想象，所有\n没有油漆的区域要么没有"
+    } ]
+  }, {
+    "tStartMs": 2156133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "钻孔，\n要么"
+    } ]
+  }, {
+    "tStartMs": 2158566,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "孔与孔之间的间隔最大，可能\n有六英寸或更大。"
+    } ]
+  }, {
+    "tStartMs": 2162066,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "我们很快会再讨论这个问题。"
+    } ]
+  }, {
+    "tStartMs": 2163866,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "所有孔都打好后\n，他们"
+    } ]
+  }, {
+    "tStartMs": 2165566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "终于可以安装\n火焰桶了。"
+    } ]
+  }, {
+    "tStartMs": 2167566,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "大约七天后，"
+    } ]
+  }, {
+    "tStartMs": 2169400,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "三部分被抬\n入沟渠。   首先安装"
+    } ]
+  }, {
+    "tStartMs": 2171366,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "两个侧面部分\n，"
+    } ]
+  }, {
+    "tStartMs": 2173366,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "然后安装一根管道来连接\n两个水歧管。"
+    } ]
+  }, {
+    "tStartMs": 2175800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "中间部分\n在后面被降低并"
+    } ]
+  }, {
+    "tStartMs": 2177800,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "位于\n添加的管道部分的顶部和前面。"
+    } ]
+  }, {
+    "tStartMs": 2180866,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "为了将铲斗固定到位，将其"
+    } ]
+  }, {
+    "tStartMs": 2182699,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "焊接到\n支撑架的横梁上。"
+    } ]
+  }, {
+    "tStartMs": 2185099,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "考虑到\n他们可能将其安装"
+    } ]
+  }, {
+    "tStartMs": 2187533,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "在\n12 个 U 形梁的每一侧，因此焊接工作量相当大。"
+    } ]
+  }, {
+    "tStartMs": 2190733,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "这时这些检修平台就\n派上用场了，这样他们就可以"
+    } ]
+  }, {
+    "tStartMs": 2193199,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "轻松地爬到"
+    } ]
+  }, {
+    "tStartMs": 2194566,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "需要进行所有焊接的区域。"
+    } ]
+  }, {
+    "tStartMs": 2196466,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "这也有助于定期\n维护和检查。"
+    } ]
+  }, {
+    "tStartMs": 2199900,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "关于铲斗设计需要注意的一个重要细节\n是，"
+    } ]
+  }, {
+    "tStartMs": 2202533,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "两侧部分由\n较大的 48 英寸管道供水，而"
+    } ]
+  }, {
+    "tStartMs": 2206500,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "中间部分则连接到\n较小的 30 英寸管道。"
+    } ]
+  }, {
+    "tStartMs": 2209699,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "实际上，\n供应到"
+    } ]
+  }, {
+    "tStartMs": 2212266,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "歧管每个部分的水量是相同的，但考虑到\n两个外侧部分"
+    } ]
+  }, {
+    "tStartMs": 2215333,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "均有 26 根管道，而中心部分\n有 14 根，因此"
+    } ]
+  }, {
+    "tStartMs": 2219699,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 2221466,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "两个侧部分中每个管道排出的水量将减少 36%。"
+    } ]
+  }, {
+    "tStartMs": 2223466,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "这意味着我们预计\n"
+    } ]
+  }, {
+    "tStartMs": 2226900,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "中间部分的孔数将比\n两个外部部分的孔数多 156%。"
+    } ]
+  }, {
+    "tStartMs": 2229433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "这是有道理的，因为它将\n有一个 RVAC 和三个中央"
+    } ]
+  }, {
+    "tStartMs": 2232333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "发动机在其上点火，而"
+    } ]
+  }, {
+    "tStartMs": 2234066,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "侧面部分将各有一个 RVAC。   话"
+    } ]
+  }, {
+    "tStartMs": 2236233,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "虽如此，尽管我们\n无法看到可见油漆部分的完整图案"
+    } ]
+  }, {
+    "tStartMs": 2238633,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "\n，但我们仍然可以"
+    } ]
+  }, {
+    "tStartMs": 2241566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "对它的外观做出合理的猜测。"
+    } ]
+  }, {
+    "tStartMs": 2243533,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "当我们叠加发动机的位置时\n，更容易将"
+    } ]
+  }, {
+    "tStartMs": 2246433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "其想象为\n基于发动机位置的热图。"
+    } ]
+  }, {
+    "tStartMs": 2249266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "确保\n"
+    } ]
+  }, {
+    "tStartMs": 2251666,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "\n与"
+    } ]
+  }, {
+    "tStartMs": 2253933,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "各个排气羽流相互作用最大的区域流出更多的水非常重要，\n这样可以最大限度地增加"
+    } ]
+  }, {
+    "tStartMs": 2256266,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "吸收\n和散发的热量。"
+    } ]
+  }, {
+    "tStartMs": 2259533,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "无论如何，在这些部件\n被吊装到位后不到一周，"
+    } ]
+  }, {
+    "tStartMs": 2262366,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "大概当他们仍在将\n铲斗焊接到"
+    } ]
+  }, {
+    "tStartMs": 2264866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "支架上时，26 号船就被推到\nMassey 公司去调试新的"
+    } ]
+  }, {
+    "tStartMs": 2268066,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "测试台，但它最终会\n在火焰沟上放置"
+    } ]
+  }, {
+    "tStartMs": 2270733,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "近一个月，直到所有的"
+    } ]
+  }, {
+    "tStartMs": 2272566,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "推进剂分配系统都\n准备好。"
+    } ]
+  }, {
+    "tStartMs": 2274466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "与此同时，他们在沟渠中安装了"
+    } ]
+  }, {
+    "tStartMs": 2275933,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "供水系统的最后一个组件\n。"
+    } ]
+  }, {
+    "tStartMs": 2278066,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "为此，他们建造了一个箱子，放置"
+    } ]
+  }, {
+    "tStartMs": 2279766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "在战壕的左前角。"
+    } ]
+  }, {
+    "tStartMs": 2281800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "虽然我们无法确认，但盒子下面很可能有\n一个小坑，"
+    } ]
+  }, {
+    "tStartMs": 2284900,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "可以收集水并使其膨胀。"
+    } ]
+  }, {
+    "tStartMs": 2287099,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "该盒子有两个隔间，\n一个用于放置泵，"
+    } ]
+  }, {
+    "tStartMs": 2289266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "另一个可能包含\n过滤系统。"
+    } ]
+  }, {
+    "tStartMs": 2291866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这样，每次测试后，他们就可以将"
+    } ]
+  }, {
+    "tStartMs": 2293366,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "干净的水回收到\n储水箱中。"
+    } ]
+  }, {
+    "tStartMs": 2295900,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "我认为，为了使其正常工作，\n整个沟渠底部"
+    } ]
+  }, {
+    "tStartMs": 2298666,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "必须\n向前角倾斜。"
+    } ]
+  }, {
+    "tStartMs": 2301533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "但即使不是这样，他们每次\n仍然应该"
+    } ]
+  }, {
+    "tStartMs": 2303566,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "能够排出大部分水\n。"
+    } ]
+  }, {
+    "tStartMs": 2306199,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "从开始到结束，"
+    } ]
+  }, {
+    "tStartMs": 2308099,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "火焰沟的建造只用了\n不到六个月的时间。   如果他们不允许某些操作相互重叠，"
+    } ]
+  }, {
+    "tStartMs": 2310666,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "这项工作很容易就会花费 8\n到 12 个月的时间"
+    } ]
+  }, {
+    "tStartMs": 2313266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 2315766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "现在，在我们详细介绍\n第一种类型的喷水"
+    } ]
+  }, {
+    "tStartMs": 2318166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "灭火系统之前，让我们先快速"
+    } ]
+  }, {
+    "tStartMs": 2319833,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "回顾一下喷水灭火\n系统设计的历史。"
+    } ]
+  }, {
+    "tStartMs": 2322900,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "现在，我不会把重点放在\n喷淋系统的排放侧"
+    } ]
+  }, {
+    "tStartMs": 2325566,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "，也就是火焰转向器以及\n雨鸟和"
+    } ]
+  }, {
+    "tStartMs": 2329866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "水喷嘴的布置上，因为有\n太多不同的变化，"
+    } ]
+  }, {
+    "tStartMs": 2332866,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "这会花费比它本身更多的时间。"
+    } ]
+  }, {
+    "tStartMs": 2335033,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "相反，我们将重点关注\n供水方法，这也是"
+    } ]
+  }, {
+    "tStartMs": 2338300,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "梅西大学这个系统如此独特的原因。"
+    } ]
+  }, {
+    "tStartMs": 2341033,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "如果你觉得这听起来很无聊，\n那是因为它确实很无聊。"
+    } ]
+  }, {
+    "tStartMs": 2343966,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "过去60年来，"
+    } ]
+  }, {
+    "tStartMs": 2345433,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "这个领域并没有太多的创新。"
+    } ]
+  }, {
+    "tStartMs": 2347666,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "供水系统的基本目标\n是瞬间"
+    } ]
+  }, {
+    "tStartMs": 2350866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "向"
+    } ]
+  }, {
+    "tStartMs": 2352766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "火焰分流器和消声\n系统供应大量的水。"
+    } ]
+  }, {
+    "tStartMs": 2358966,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "如果您在街上随便问一个人，\n他们会用什么"
+    } ]
+  }, {
+    "tStartMs": 2361599,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "\n在不到一分钟的时间内输送数十万加仑的水"
+    } ]
+  }, {
+    "tStartMs": 2364366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "，最常见的回答"
+    } ]
+  }, {
+    "tStartMs": 2366333,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "就是大型机械水泵。"
+    } ]
+  }, {
+    "tStartMs": 2368500,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "这是有道理的，因为\n大多数市政供水"
+    } ]
+  }, {
+    "tStartMs": 2371333,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "系统都使用工业高流量\n离心泵或涡轮泵同时为"
+    } ]
+  }, {
+    "tStartMs": 2375466,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "数千个家庭和企业供水\n。"
+    } ]
+  }, {
+    "tStartMs": 2378466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "虽然这可能是水力喷淋系统最不理想的\n方法"
+    } ]
+  }, {
+    "tStartMs": 2381166,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "，但事实上历史上工业水泵就"
+    } ]
+  }, {
+    "tStartMs": 2383233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "曾被用于此目的\n。"
+    } ]
+  }, {
+    "tStartMs": 2385333,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "最好的例子就是\n位于"
+    } ]
+  }, {
+    "tStartMs": 2389400,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "密西西比州斯坦尼斯航天中心臭名昭著的 B1 和 B2 试验台。"
+    } ]
+  }, {
+    "tStartMs": 2391433,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "这些测试台的泵站\n位于四分之一"
+    } ]
+  }, {
+    "tStartMs": 2394466,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "英里外，毗邻一个容量为 6600 万\n加仑的水库。   2015 年"
+    } ]
+  }, {
+    "tStartMs": 2398500,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "完成部分升级后\n，该设施能够"
+    } ]
+  }, {
+    "tStartMs": 2402033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 2404966,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "通过一条\n八英尺长的管道每分钟供应 330,000 加仑的水。"
+    } ]
+  }, {
+    "tStartMs": 2407866,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "想想看，\n这个水库的容量足以"
+    } ]
+  }, {
+    "tStartMs": 2410866,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "让洪水系统连续运行三个"
+    } ]
+  }, {
+    "tStartMs": 2412866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "半小时，这有点\n荒谬。"
+    } ]
+  }, {
+    "tStartMs": 2416000,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "这意味着您可以在实际排空水库之前连续进行 260\n秒的静态火力测试"
+    } ]
+  }, {
+    "tStartMs": 2419366,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 2421800,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "为了满足这一需求，该设施\n使用了 13 台高压"
+    } ]
+  }, {
+    "tStartMs": 2425033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "水泵，这些水泵能够"
+    } ]
+  }, {
+    "tStartMs": 2426866,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "\n以 300 PSI 的压力每分钟排出超过 33,000 加仑的水。"
+    } ]
+  }, {
+    "tStartMs": 2431633,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "其对电力的要求\n同样令人印象深刻。"
+    } ]
+  }, {
+    "tStartMs": 2434433,
+    "dDurationMs": 3733,
+    "segs": [ {
+      "utf8": "这些泵由大型 Nordberg\nB16 柴油发动机驱动，"
+    } ]
+  }, {
+    "tStartMs": 2438166,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "您可以在这张图片中看到\n设施内部的情况。"
+    } ]
+  }, {
+    "tStartMs": 2440633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "如果我提到的规格是正确的，\n那么泵的"
+    } ]
+  }, {
+    "tStartMs": 2443133,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "运行功率约为其最大输出功率的 75%"
+    } ]
+  }, {
+    "tStartMs": 2445366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "，这\n对于重型机械来说是相当标准的。"
+    } ]
+  }, {
+    "tStartMs": 2448266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "这有助于减少设备磨损，\n"
+    } ]
+  }, {
+    "tStartMs": 2450199,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "同时增加\n一点冗余。"
+    } ]
+  }, {
+    "tStartMs": 2452766,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "话虽如此，我相信您\n可能可以想象，这是一个"
+    } ]
+  }, {
+    "tStartMs": 2455533,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "运行和维护成本非常高的系统\n。"
+    } ]
+  }, {
+    "tStartMs": 2457833,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "除此之外，使用泵驱动系统的一大缺点\n是"
+    } ]
+  }, {
+    "tStartMs": 2461066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "可能发生机械故障。   系统越大，发生"
+    } ]
+  }, {
+    "tStartMs": 2462966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "此类故障的可能性就\n越大。"
+    } ]
+  }, {
+    "tStartMs": 2466266,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "为了更好地理解这一点，SLS 的\n喷水系统以"
+    } ]
+  }, {
+    "tStartMs": 2468666,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "\n每分钟 900,000 加仑的速度运行。"
+    } ]
+  }, {
+    "tStartMs": 2472466,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "要使离心泵达到同样的性能\n，"
+    } ]
+  }, {
+    "tStartMs": 2475166,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "这些泵的总功率\n需要"
+    } ]
+  }, {
+    "tStartMs": 2476866,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "达到 80 到\n100,000 马力之间。"
+    } ]
+  }, {
+    "tStartMs": 2480166,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "因此，如果使用与斯坦尼斯号相同的组件来操作该喷淋\n系统"
+    } ]
+  }, {
+    "tStartMs": 2482566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "，则需要\n34 台泵和发电机，并且"
+    } ]
+  }, {
+    "tStartMs": 2486166,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "设施面积将扩大\n2.1 倍以上。"
+    } ]
+  }, {
+    "tStartMs": 2489166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "发射过程中失去多个泵\n可能会导致"
+    } ]
+  }, {
+    "tStartMs": 2492066,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "火焰偏转器、\n发射台其他区域以及有效"
+    } ]
+  }, {
+    "tStartMs": 2495566,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "载荷受损，具体取决于\n设备的敏感度。"
+    } ]
+  }, {
+    "tStartMs": 2498733,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "导致此类泵出现机械问题的一个因素\n"
+    } ]
+  }, {
+    "tStartMs": 2501133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "是\n"
+    } ]
+  }, {
+    "tStartMs": 2504133,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "极其强大的火箭发动机产生的振动环境。"
+    } ]
+  }, {
+    "tStartMs": 2506199,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "这就是为什么大多数\n使用柴油"
+    } ]
+  }, {
+    "tStartMs": 2508766,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "泵作为喷水系统的设施都将"
+    } ]
+  }, {
+    "tStartMs": 2510733,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "其设置在远离\n发射台的地方的原因之一。"
+    } ]
+  }, {
+    "tStartMs": 2512966,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "在卡纳维拉尔角，有多个\n泵站为各个"
+    } ]
+  }, {
+    "tStartMs": 2515766,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "发射台供水，其中许多\n已经不再使用。"
+    } ]
+  }, {
+    "tStartMs": 2518866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "例如，一号泵站为\n"
+    } ]
+  }, {
+    "tStartMs": 2520766,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "五号、\n六号、十七号、十八号和二十六号发射台供水。SLC"
+    } ]
+  }, {
+    "tStartMs": 2525733,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "-40 和 SLC-41 共用"
+    } ]
+  }, {
+    "tStartMs": 2528766,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "七号泵站，位于\n两个发射台的中间。"
+    } ]
+  }, {
+    "tStartMs": 2531566,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "从进入空间站的水歧管来看\n，它可能"
+    } ]
+  }, {
+    "tStartMs": 2534333,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "有六个柴油驱动的泵，\n为两个发射台供水。"
+    } ]
+  }, {
+    "tStartMs": 2537466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "因此，这仅略低于"
+    } ]
+  }, {
+    "tStartMs": 2539466,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "斯坦尼斯系统尺寸和容量的一半。"
+    } ]
+  }, {
+    "tStartMs": 2542166,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "由于\n泵驱动系统的成本和风险，它们"
+    } ]
+  }, {
+    "tStartMs": 2545533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "不太可能被用作"
+    } ]
+  }, {
+    "tStartMs": 2547166,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "现代喷灌系统的直接水源\n。"
+    } ]
+  }, {
+    "tStartMs": 2549766,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "除了我已经提到的那些之外，\n我"
+    } ]
+  }, {
+    "tStartMs": 2552366,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "发现目前采用\n这种系统的唯一其他设施是"
+    } ]
+  }, {
+    "tStartMs": 2555266,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "哈萨克斯坦的拜科努尔航天发射场。"
+    } ]
+  }, {
+    "tStartMs": 2557599,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我确信\n印度和中国可能也有一些，但"
+    } ]
+  }, {
+    "tStartMs": 2560266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "祝你好运找到有关这些信息。"
+    } ]
+  }, {
+    "tStartMs": 2562933,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "在大多数情况下，业内似乎已经形成了\n一种不言而喻的共识"
+    } ]
+  }, {
+    "tStartMs": 2565733,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "，\n大多数发射提供商都"
+    } ]
+  }, {
+    "tStartMs": 2568866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "认为，如果可以利用重力来输送大量的水，那么\n使用昂贵的机械"
+    } ]
+  }, {
+    "tStartMs": 2572066,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "泵来输送大量的水是没有意义的，\n"
+    } ]
+  }, {
+    "tStartMs": 2575266,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "而且成本只是其中的一小部分。"
+    } ]
+  }, {
+    "tStartMs": 2577633,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "因此，在世界各地的大多数发射场\n，你都会"
+    } ]
+  }, {
+    "tStartMs": 2580433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "在"
+    } ]
+  }, {
+    "tStartMs": 2581933,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "发射台附近的某个地方发现一座大型水塔。"
+    } ]
+  }, {
+    "tStartMs": 2586866,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "在弗吉尼亚州的瓦洛普斯发射中心\n，你"
+    } ]
+  }, {
+    "tStartMs": 2589033,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "可以在萤火虫\n阿尔法发射台找到一个。"
+    } ]
+  }, {
+    "tStartMs": 2592133,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Rocky Lab 有两座水塔，一座\n用于电子发射台，另一座全新的"
+    } ]
+  }, {
+    "tStartMs": 2595966,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "水塔用于中子发射台。"
+    } ]
+  }, {
+    "tStartMs": 2598099,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "阿丽亚娜航天公司"
+    } ]
+  }, {
+    "tStartMs": 2599933,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "在法属圭亚那\n航天中心的阿丽亚娜 5 号发射台上也安装了一台。"
+    } ]
+  }, {
+    "tStartMs": 2602199,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "当然，还有\n卡纳维拉尔角，"
+    } ]
+  }, {
+    "tStartMs": 2604233,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "也就是地球上最繁忙的发射场\n。"
+    } ]
+  }, {
+    "tStartMs": 2607000,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "当我为这一集做研究时，\n我预计会"
+    } ]
+  }, {
+    "tStartMs": 2609866,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "在这里看到比实际发现的更多的水塔\n。"
+    } ]
+  }, {
+    "tStartMs": 2612733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "但我认为这是因为其中一些\n发射台根本没有使用洪水系统，比如"
+    } ]
+  }, {
+    "tStartMs": 2616599,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "ULA\n在 Delta IV Heavy 退役前发射它的 LC37 发射台"
+    } ]
+  }, {
+    "tStartMs": 2618733,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 2621666,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "我相信\n如果我错了，评论中一定会有人纠正我，但说"
+    } ]
+  }, {
+    "tStartMs": 2624233,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "实话，我\n发现这一点还是有点惊讶。"
+    } ]
+  }, {
+    "tStartMs": 2626566,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "除少数例外，并且不包括\n2021 年之后的任何情况，"
+    } ]
+  }, {
+    "tStartMs": 2630866,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "所有已知具有\n雨淋系统的垫子要么使用"
+    } ]
+  }, {
+    "tStartMs": 2633733,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "工业泵站，要么\n在现场设有水塔。"
+    } ]
+  }, {
+    "tStartMs": 2637133,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "其中最引人注目的是\n39B 发射中心。"
+    } ]
+  }, {
+    "tStartMs": 2639966,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "该水塔是在航天飞机计划开始时安装的\n"
+    } ]
+  }, {
+    "tStartMs": 2642166,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "，现在正用于 SLS。   39A"
+    } ]
+  }, {
+    "tStartMs": 2645366,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "处有一座相同的水塔\n，目前仍部分"
+    } ]
+  }, {
+    "tStartMs": 2648699,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "用于猎鹰 9 号的发射。"
+    } ]
+  }, {
+    "tStartMs": 2650766,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "这些系统\n由于其简单性而极其可靠，这"
+    } ]
+  }, {
+    "tStartMs": 2653966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "就是为什么它们成为"
+    } ]
+  }, {
+    "tStartMs": 2655599,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "为喷淋系统供水的最常用方法。"
+    } ]
+  }, {
+    "tStartMs": 2657733,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "那么让我们快速了解一下\n它们的工作原理。"
+    } ]
+  }, {
+    "tStartMs": 2660133,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "以 39B 处的塔为例，\n有一根大管道"
+    } ]
+  }, {
+    "tStartMs": 2663599,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "从储水箱下来，然后\n分成几根小"
+    } ]
+  }, {
+    "tStartMs": 2666366,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "管道，分别通向\n喷淋系统的不同部分。"
+    } ]
+  }, {
+    "tStartMs": 2668933,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "在塔的底部，主供水管道\n被分成两半，然后"
+    } ]
+  }, {
+    "tStartMs": 2672000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "分成两侧三个较小的\n管道。"
+    } ]
+  }, {
+    "tStartMs": 2674900,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "每根管道都有一个控制阀，\n经过控制阀后，管道"
+    } ]
+  }, {
+    "tStartMs": 2678033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "又汇入两条\n通往平台的主供水管道。"
+    } ]
+  }, {
+    "tStartMs": 2681599,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "其中一条管线为\n火焰转向器顶部的雨鸟"
+    } ]
+  }, {
+    "tStartMs": 2684333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "和"
+    } ]
+  }, {
+    "tStartMs": 2686166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "从沟槽侧面伸出的中间立管供水。"
+    } ]
+  }, {
+    "tStartMs": 2688133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "该燃料通过移动\n发射器输送至"
+    } ]
+  }, {
+    "tStartMs": 2690866,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "每个 SRB\n和主发动机下方的喷嘴。"
+    } ]
+  }, {
+    "tStartMs": 2694166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "它们共同形成了一个\n双层系统，可以"
+    } ]
+  }, {
+    "tStartMs": 2696266,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "抑制噪音并冷却\n排气羽流。"
+    } ]
+  }, {
+    "tStartMs": 2699066,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "第二个供给源分布"
+    } ]
+  }, {
+    "tStartMs": 2700900,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "在中间立管两侧的另外两个立管之间\n。"
+    } ]
+  }, {
+    "tStartMs": 2703199,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "它们还连接到\n移动发射器的底部，并为发射甲板"
+    } ]
+  }, {
+    "tStartMs": 2706366,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "上的五个雨鸟喷嘴供油\n。"
+    } ]
+  }, {
+    "tStartMs": 2708566,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "这些主要是为了保护\n移动"
+    } ]
+  }, {
+    "tStartMs": 2710833,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "发射平台的表面，以免"
+    } ]
+  }, {
+    "tStartMs": 2712466,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "升空后被 SRB 熔化。"
+    } ]
+  }, {
+    "tStartMs": 2714833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "当他们准备开始\n向发射台送水时，他们"
+    } ]
+  }, {
+    "tStartMs": 2717333,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "只需打开"
+    } ]
+  }, {
+    "tStartMs": 2718733,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "水塔底部歧管上的阀门。"
+    } ]
+  }, {
+    "tStartMs": 2720500,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "水的流速\n由打开的阀门数量控制，"
+    } ]
+  }, {
+    "tStartMs": 2723533,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "因此每侧基本上有三种\n设置。"
+    } ]
+  }, {
+    "tStartMs": 2726333,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "当您知道要寻找什么时，您\n实际上可以看到"
+    } ]
+  }, {
+    "tStartMs": 2728366,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "第二和第三个阀门打开的那一刻。"
+    } ]
+  }, {
+    "tStartMs": 2730566,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "供应到发射台的水的压力\n"
+    } ]
+  }, {
+    "tStartMs": 2733166,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "取决于\n储存容器的高度。"
+    } ]
+  }, {
+    "tStartMs": 2735566,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "39A 和 B 座塔楼\n均高 290 英尺。"
+    } ]
+  }, {
+    "tStartMs": 2739833,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "39A 处的塔最大容量\n为 300,000 加仑，而"
+    } ]
+  }, {
+    "tStartMs": 2744266,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "39B 处的塔最大容量可容纳近\n450,000 加仑。"
+    } ]
+  }, {
+    "tStartMs": 2748266,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "这在一定程度上要归功于\n塔和"
+    } ]
+  }, {
+    "tStartMs": 2751066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "储水容器的结构升级，使其能够容纳"
+    } ]
+  }, {
+    "tStartMs": 2753066,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "额外的 150,000 加仑的水。"
+    } ]
+  }, {
+    "tStartMs": 2756066,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "更大、更强大的火箭需要"
+    } ]
+  }, {
+    "tStartMs": 2758233,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "更多的水来完成相同的任务。"
+    } ]
+  }, {
+    "tStartMs": 2760766,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "在 SLS 的情况下，所有这些水"
+    } ]
+  }, {
+    "tStartMs": 2762599,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "会在不到 30 秒的时间内释放出来。"
+    } ]
+  }, {
+    "tStartMs": 2765066,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "令人惊讶的是，这仍然不足以\n抑制阿尔忒弥斯 1 号任务"
+    } ]
+  }, {
+    "tStartMs": 2767766,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "期间 SRB 产生的巨大过压\n。"
+    } ]
+  }, {
+    "tStartMs": 2771333,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "蓝色起源位于 LC36 的新格伦发射台\n拥有"
+    } ]
+  }, {
+    "tStartMs": 2774933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "航天工业中最高的水塔，"
+    } ]
+  }, {
+    "tStartMs": 2776266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "高 351 英尺。"
+    } ]
+  }, {
+    "tStartMs": 2779566,
+    "dDurationMs": 4067,
+    "segs": [ {
+      "utf8": "61 英尺的差异又增加了\n26 PSI，使"
+    } ]
+  }, {
+    "tStartMs": 2783633,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 2784733,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "重力供水系统的静水压力上升到 152\nPSI，即 10.5 巴。"
+    } ]
+  }, {
+    "tStartMs": 2789900,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "考虑到 SLS 的\n推力比新格伦高出近 2.5 倍，我"
+    } ]
+  }, {
+    "tStartMs": 2793733,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "想知道这座塔是否实际上"
+    } ]
+  }, {
+    "tStartMs": 2795033,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "更适合 39B，反之亦然。"
+    } ]
+  }, {
+    "tStartMs": 2798133,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "好的，现在我们\n知道了"
+    } ]
+  }, {
+    "tStartMs": 2799666,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "其他地方是如何做到这一点的，让我们\n来看看 SpaceX。"
+    } ]
+  }, {
+    "tStartMs": 2802833,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "（欢快的音乐）自从\n2002 年 3 月 SpaceX 成立以来，他们"
+    } ]
+  }, {
+    "tStartMs": 2809033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "总是想方设法"
+    } ]
+  }, {
+    "tStartMs": 2811033,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "打破常规。"
+    } ]
+  }, {
+    "tStartMs": 2813699,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "因此，当他们意识到\n世界上几乎所有的发射提供商都"
+    } ]
+  }, {
+    "tStartMs": 2816699,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "同意运行\n喷淋系统的最佳方式是使用"
+    } ]
+  }, {
+    "tStartMs": 2820533,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "工业水泵或巨型\n水塔时，我只能想象"
+    } ]
+  }, {
+    "tStartMs": 2824566,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "对话可能会是\n这样的。"
+    } ]
+  }, {
+    "tStartMs": 2827400,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "好吧，水灾似乎\n很简单。"
+    } ]
+  }, {
+    "tStartMs": 2830633,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "我们将继续使用\n现有的系统。"
+    } ]
+  }, {
+    "tStartMs": 2833300,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "因此，除非有人有\n要补充的内容，否则我们将"
+    } ]
+  }, {
+    "tStartMs": 2835466,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "继续进行强力\nGSE 设计审查。"
+    } ]
+  }, {
+    "tStartMs": 2839699,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "好吧，看，每个人都已经"
+    } ]
+  }, {
+    "tStartMs": 2841466,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "知道我对这种情况的立场了。"
+    } ]
+  }, {
+    "tStartMs": 2843866,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "我们正在尝试前往火星，好吗？"
+    } ]
+  }, {
+    "tStartMs": 2845966,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "我们不会"
+    } ]
+  }, {
+    "tStartMs": 2847900,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "追随其他人的脚步\n。"
+    } ]
+  }, {
+    "tStartMs": 2850766,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "好的，所以我说，（嘟）那个。   现在"
+    } ]
+  }, {
+    "tStartMs": 2854099,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "让我们集中精力让猎鹰 9 号变得可靠\n，但最终"
+    } ]
+  }, {
+    "tStartMs": 2857599,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "我们需要对水进行创新。"
+    } ]
+  }, {
+    "tStartMs": 2862366,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "正如我之前提到的，\nSpaceX"
+    } ]
+  }, {
+    "tStartMs": 2866133,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "在泰坦IV计划结束后获得的LC-40发射台\n最初设计采用"
+    } ]
+  }, {
+    "tStartMs": 2869466,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "\n与LC-41共享的泵驱动系统。"
+    } ]
+  }, {
+    "tStartMs": 2872433,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "现有系统运行良好，\n足以让"
+    } ]
+  }, {
+    "tStartMs": 2874766,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "猎鹰 9 号顺利启动，但他们最终会\n找到一个方便的"
+    } ]
+  }, {
+    "tStartMs": 2877633,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "机会\n用其他系统来取代它。"
+    } ]
+  }, {
+    "tStartMs": 2880033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "（引擎轰鸣）"
+    } ]
+  }, {
+    "tStartMs": 2886866,
+    "dDurationMs": 6534,
+    "segs": [ {
+      "utf8": "（风声）2016 年 AMOS-6 异常事件发生后不久\n，发射"
+    } ]
+  }, {
+    "tStartMs": 2893400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "台上的大部分基础设施遭到损坏，\n原有系统"
+    } ]
+  }, {
+    "tStartMs": 2896400,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "升级为使用高压\n气体驱动系统。"
+    } ]
+  }, {
+    "tStartMs": 2899366,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "据我所知，水仍然\n由七号泵站供应"
+    } ]
+  }, {
+    "tStartMs": 2901633,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "，但不是直接\n进入喷淋系统，而是"
+    } ]
+  }, {
+    "tStartMs": 2905066,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "储存在\n位于发射台附近的四个水平水箱中。"
+    } ]
+  }, {
+    "tStartMs": 2908400,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "您可以看到水箱后面有\n几排高压"
+    } ]
+  }, {
+    "tStartMs": 2911166,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "气瓶代替水泵。"
+    } ]
+  }, {
+    "tStartMs": 2913333,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "为了预充系统，使用如图所示的高压泵将液氮\n泵入该"
+    } ]
+  }, {
+    "tStartMs": 2916333,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "汽化器\n。"
+    } ]
+  }, {
+    "tStartMs": 2919833,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "在此过程中产生的高压气体（压力\n"
+    } ]
+  }, {
+    "tStartMs": 2922666,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "大概在 2 到\n3,000 PSI 之间）被储存在"
+    } ]
+  }, {
+    "tStartMs": 2926066,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "气缸组中，直到准备\n释放为止。"
+    } ]
+  }, {
+    "tStartMs": 2928633,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这一过程很可能"
+    } ]
+  }, {
+    "tStartMs": 2930133,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "在发射前几个小时甚至几天发生\n。"
+    } ]
+  }, {
+    "tStartMs": 2933066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "这是一个相当缓慢的气体生成系统。"
+    } ]
+  }, {
+    "tStartMs": 2935466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "点火前几秒钟，气体\n被释放到水箱中，"
+    } ]
+  }, {
+    "tStartMs": 2938433,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "并立即开始\n通过"
+    } ]
+  }, {
+    "tStartMs": 2941099,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "车辆下方的喷水系统和"
+    } ]
+  }, {
+    "tStartMs": 2942866,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "喷水台两侧的雨水管将水排出。"
+    } ]
+  }, {
+    "tStartMs": 2945233,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "对于 SpaceX 的第二个运行\n发射台，即位于"
+    } ]
+  }, {
+    "tStartMs": 2948300,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "范登堡 4 号航天发射中心，其大部分"
+    } ]
+  }, {
+    "tStartMs": 2950533,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "供水系统都是一个谜。"
+    } ]
+  }, {
+    "tStartMs": 2952599,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "根据埃里克·伯杰在《重返大气层》一书中提到的一个故事\n"
+    } ]
+  }, {
+    "tStartMs": 2955166,
+    "dDurationMs": 3933,
+    "segs": [ {
+      "utf8": "，SLC4 的水\n由"
+    } ]
+  }, {
+    "tStartMs": 2959166,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "远离发射场的工业泵站供应。"
+    } ]
+  }, {
+    "tStartMs": 2961333,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "但我没能找到它，"
+    } ]
+  }, {
+    "tStartMs": 2962533,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "我想这并不奇怪。"
+    } ]
+  }, {
+    "tStartMs": 2964733,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "当该地点首次活跃起来时，沟渠\n内有一个水系统，"
+    } ]
+  }, {
+    "tStartMs": 2967366,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 2968933,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "在点火前几分钟就开始倾倒水。"
+    } ]
+  }, {
+    "tStartMs": 2970633,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "我认为这是为了在沟渠底部形成\n一个大水池"
+    } ]
+  }, {
+    "tStartMs": 2973266,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "，发动机一点燃，水池\n就会立即"
+    } ]
+  }, {
+    "tStartMs": 2974866,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "喷出\n。   沟槽出口"
+    } ]
+  }, {
+    "tStartMs": 2977166,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "上方有额外的喷嘴，可\n"
+    } ]
+  }, {
+    "tStartMs": 2979666,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "将水喷入排气羽流中。"
+    } ]
+  }, {
+    "tStartMs": 2981800,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "对于实际的发射台，有雨"
+    } ]
+  }, {
+    "tStartMs": 2983833,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "鸟喷嘴指向\n飞行器的底部。"
+    } ]
+  }, {
+    "tStartMs": 2986400,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "在 2018 年 Iridium Next 4 发射后，\n他们在背板两侧增加了额外的雨"
+    } ]
+  }, {
+    "tStartMs": 2990633,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "鸟，"
+    } ]
+  }, {
+    "tStartMs": 2992566,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "这些雨鸟会\n在升空前不久启动。"
+    } ]
+  }, {
+    "tStartMs": 2994866,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "这些似乎与\nLC40 的气体动力系统类似，其中"
+    } ]
+  }, {
+    "tStartMs": 2998266,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "储存在高压气瓶中的氮气\n用于将"
+    } ]
+  }, {
+    "tStartMs": 3001566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "水从雨鸟伸出的储水箱中挤出"
+    } ]
+  }, {
+    "tStartMs": 3003066,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 3004666,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "所以这就像是两个独立的\n系统合二为一。"
+    } ]
+  }, {
+    "tStartMs": 3007133,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "SpaceX 的第三个猎鹰 9 号发射场 39A 发射台"
+    } ]
+  }, {
+    "tStartMs": 3009033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "实际上也有两个独立的\n系统。"
+    } ]
+  }, {
+    "tStartMs": 3012400,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "雨鸟由预先存在的\n水塔供水，但"
+    } ]
+  }, {
+    "tStartMs": 3015433,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "火焰沟上方的喷水系统\n由机组人员通道塔旁边的一个小型气动系统供水"
+    } ]
+  }, {
+    "tStartMs": 3018666,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 3021266,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "老实说，我不确定为什么\n有必要这么做。"
+    } ]
+  }, {
+    "tStartMs": 3023666,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "水塔应具有"
+    } ]
+  }, {
+    "tStartMs": 3025199,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "足够的容量来供应这两个系统。"
+    } ]
+  }, {
+    "tStartMs": 3027500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "所以这可能\n与猎鹰重型火箭有关。"
+    } ]
+  }, {
+    "tStartMs": 3029966,
+    "dDurationMs": 3967,
+    "segs": [ {
+      "utf8": "2019 年，另一个与 SLC40 尺寸相似的气动驱动系统\n"
+    } ]
+  }, {
+    "tStartMs": 3033933,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "安装在 39A 发射台，\n最初计划将其"
+    } ]
+  }, {
+    "tStartMs": 3038166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "用作第一艘星际飞船试验台。   当然，"
+    } ]
+  }, {
+    "tStartMs": 3040500,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "它从未真正被使用过\n，"
+    } ]
+  }, {
+    "tStartMs": 3042699,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "最终被拆除并\n送往星际基地。"
+    } ]
+  }, {
+    "tStartMs": 3045333,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "在回收了所有\n可用部件后，他们在第一次综合飞行测试后创建了一个"
+    } ]
+  }, {
+    "tStartMs": 3048199,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "功能更强大的系统版本"
+    } ]
+  }, {
+    "tStartMs": 3049733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 3052099,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "奇怪的是，\n这里使用的高压气瓶数量"
+    } ]
+  }, {
+    "tStartMs": 3054866,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "明显少于\nLC40 的系统。   但"
+    } ]
+  }, {
+    "tStartMs": 3057333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "我真的不知道该如何\n理解这一点。"
+    } ]
+  }, {
+    "tStartMs": 3060066,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "无论如何，这样的系统有很多优点\n。"
+    } ]
+  }, {
+    "tStartMs": 3063000,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "首先，你不需要一个\n巨大的水塔。"
+    } ]
+  }, {
+    "tStartMs": 3065466,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "如果您将来决定升级系统"
+    } ]
+  }, {
+    "tStartMs": 3067033,
+    "dDurationMs": 2066,
+    "segs": [ {
+      "utf8": "，只需添加\n更多水箱即可。"
+    } ]
+  }, {
+    "tStartMs": 3069766,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "如果要提高最大\n排放压力，可以"
+    } ]
+  }, {
+    "tStartMs": 3072699,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "增加\n储气系统的容量。"
+    } ]
+  }, {
+    "tStartMs": 3075466,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "有了水塔，您就必须\n建造更高的塔来"
+    } ]
+  }, {
+    "tStartMs": 3078500,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": "增加静水压力。"
+    } ]
+  }, {
+    "tStartMs": 3080533,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "由于预充电过程\n提前数小时甚至数天进行"
+    } ]
+  }, {
+    "tStartMs": 3084166,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "，因此\n在需要时即可使用。"
+    } ]
+  }, {
+    "tStartMs": 3087066,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "由于不涉及泵，\n您不必担心"
+    } ]
+  }, {
+    "tStartMs": 3089300,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "机械部件\n在运行过程中出现故障。"
+    } ]
+  }, {
+    "tStartMs": 3091733,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "如果阀门没有打开，你就只能\n中止发射。"
+    } ]
+  }, {
+    "tStartMs": 3095333,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "因此，当在马西建造\n星际飞船试验台时"
+    } ]
+  }, {
+    "tStartMs": 3097933,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "，我们最初预计"
+    } ]
+  }, {
+    "tStartMs": 3099733,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "他们会再次使用相同的系统。"
+    } ]
+  }, {
+    "tStartMs": 3101800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "但似乎有人\n对"
+    } ]
+  }, {
+    "tStartMs": 3104800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "预充气所有 145 个\n高压气瓶所需的时间感到非常不满，"
+    } ]
+  }, {
+    "tStartMs": 3108866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "并且不再有耐心\n进行该操作。"
+    } ]
+  }, {
+    "tStartMs": 3111233,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "这一次，他们想要\n加入一个可以即时完成的主动气体"
+    } ]
+  }, {
+    "tStartMs": 3114000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "生成系统\n。"
+    } ]
+  }, {
+    "tStartMs": 3119699,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "2024 年 2 月，\n供水"
+    } ]
+  }, {
+    "tStartMs": 3122900,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "系统的主要部件开始运抵 Massy's。"
+    } ]
+  }, {
+    "tStartMs": 3125133,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "其中包括三个使用率较低的"
+    } ]
+  }, {
+    "tStartMs": 3128033,
+    "dDurationMs": 3267,
+    "segs": [ {
+      "utf8": "水箱，每个水箱的容量\n为 89,400 加仑。"
+    } ]
+  }, {
+    "tStartMs": 3131866,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "这些确实看起来曾经\n有过辉煌的"
+    } ]
+  }, {
+    "tStartMs": 3133500,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "时期，但只要稍微刷点\n油漆就能修复。"
+    } ]
+  }, {
+    "tStartMs": 3136599,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "水箱旁边是三台\n相对较小的水泵、一个"
+    } ]
+  }, {
+    "tStartMs": 3140033,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "立式液氮储罐、\n九个高压"
+    } ]
+  }, {
+    "tStartMs": 3143066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "储气瓶、四根\n热交换管。"
+    } ]
+  }, {
+    "tStartMs": 3145966,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "这些壳管式热交换器\n用于将热量从"
+    } ]
+  }, {
+    "tStartMs": 3148866,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "一种流体传递到另一种流体，是"
+    } ]
+  }, {
+    "tStartMs": 3151166,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "该系统的关键部件，所以让我们\n来看看它们。   这些热交换器由"
+    } ]
+  }, {
+    "tStartMs": 3153766,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "六个子组件\n组成。"
+    } ]
+  }, {
+    "tStartMs": 3156666,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "首先我们有壳，它是一个\n圆柱形容器，"
+    } ]
+  }, {
+    "tStartMs": 3159400,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "两端各有两个法兰，以\n允许水"
+    } ]
+  }, {
+    "tStartMs": 3161866,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "从一侧进入壳并\n从另一端流出。"
+    } ]
+  }, {
+    "tStartMs": 3164533,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "壳内有一束平行的\n管子，它们弯曲并"
+    } ]
+  }, {
+    "tStartMs": 3167866,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "环绕，因此它们在\n壳的开口端开始和结束。"
+    } ]
+  }, {
+    "tStartMs": 3171233,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "它们附着在穿孔\n管板上。"
+    } ]
+  }, {
+    "tStartMs": 3173699,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "管板夹在\n壳体和集管之间，"
+    } ]
+  }, {
+    "tStartMs": 3176433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "其底部有一个入口法兰\n，"
+    } ]
+  }, {
+    "tStartMs": 3178733,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "顶部有一个用于\n第二种流体的出口法兰。"
+    } ]
+  }, {
+    "tStartMs": 3181033,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "在这种情况下，第二种流体\n将是氮气。"
+    } ]
+  }, {
+    "tStartMs": 3183699,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "为了分离进出\n流体，集管中间有一个隔墙，将"
+    } ]
+  }, {
+    "tStartMs": 3186533,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 3188166,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "容器分成两个腔室。"
+    } ]
+  }, {
+    "tStartMs": 3190166,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "进入下室后，\n低温液氮"
+    } ]
+  }, {
+    "tStartMs": 3193300,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "被迫通过\n浸没在温水中的管子。"
+    } ]
+  }, {
+    "tStartMs": 3196233,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "当液氮流过管道时，水中的热量\n被传递"
+    } ]
+  }, {
+    "tStartMs": 3199133,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "到液氮中，\n导致液氮沸腾。"
+    } ]
+  }, {
+    "tStartMs": 3202066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "当氮气流\n过管道时，"
+    } ]
+  }, {
+    "tStartMs": 3204800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "液体已完全蒸发，并"
+    } ]
+  }, {
+    "tStartMs": 3206766,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "以气体形式从集管的上腔排出。"
+    } ]
+  }, {
+    "tStartMs": 3209266,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "最后一个组件是穿孔\n挡板，它们"
+    } ]
+  }, {
+    "tStartMs": 3212166,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "均匀分布在壳体内部。"
+    } ]
+  }, {
+    "tStartMs": 3214300,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "挡板引导水以锯齿\n形流过管道，"
+    } ]
+  }, {
+    "tStartMs": 3217433,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "从而增加湍流并"
+    } ]
+  }, {
+    "tStartMs": 3218933,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "提高传热效率。"
+    } ]
+  }, {
+    "tStartMs": 3220766,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "每个大型水循环"
+    } ]
+  }, {
+    "tStartMs": 3222800,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "低温汽化器的重量都略\n超过 30,000 磅。"
+    } ]
+  }, {
+    "tStartMs": 3226300,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "它们比我在\n网上能找到的任何东西都要大得多，但"
+    } ]
+  }, {
+    "tStartMs": 3229333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "知道它们的重量可以让我们\n"
+    } ]
+  }, {
+    "tStartMs": 3231433,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "通过从"
+    } ]
+  }, {
+    "tStartMs": 3233366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "较小模型的已知规格推断出其性能。"
+    } ]
+  }, {
+    "tStartMs": 3235766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "但这以后会变得更加重要。"
+    } ]
+  }, {
+    "tStartMs": 3237833,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "话虽如此，每个装置每分钟\n应该能够"
+    } ]
+  }, {
+    "tStartMs": 3239833,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "处理多达 16,000 加仑\n的水。"
+    } ]
+  }, {
+    "tStartMs": 3242833,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "液氮"
+    } ]
+  }, {
+    "tStartMs": 3244233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "由立式\n储罐供给汽化器。"
+    } ]
+  }, {
+    "tStartMs": 3246733,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "\n每个容器顶部排出的氮气被"
+    } ]
+  }, {
+    "tStartMs": 3249966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "汇入一个公共歧管，"
+    } ]
+  }, {
+    "tStartMs": 3251933,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "然后被引导至\n水箱下方。"
+    } ]
+  }, {
+    "tStartMs": 3254366,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "每个水箱旁边都有\n一个气体分配歧管，"
+    } ]
+  }, {
+    "tStartMs": 3257133,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "它可以将氮气"
+    } ]
+  }, {
+    "tStartMs": 3258599,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "送入水箱或通过通风口排出。"
+    } ]
+  }, {
+    "tStartMs": 3261333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "供应到每个储罐的气体\n被分配到两个"
+    } ]
+  }, {
+    "tStartMs": 3264033,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "直径较小的管道中，然后再重新组合\n到较大的管道​​中。"
+    } ]
+  }, {
+    "tStartMs": 3267599,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "其功能类似于"
+    } ]
+  }, {
+    "tStartMs": 3269066,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "我们在水塔示例中讨论的阀门\n。   还有"
+    } ]
+  }, {
+    "tStartMs": 3271366,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "另一对用于通风口的分流阀\n。"
+    } ]
+  }, {
+    "tStartMs": 3274433,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "\n第一个水箱的排水歧管与火焰桶"
+    } ]
+  }, {
+    "tStartMs": 3277266,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "中部的 30 英寸管道相连\n。"
+    } ]
+  }, {
+    "tStartMs": 3280066,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "中间的水箱\n直接连接到 48"
+    } ]
+  }, {
+    "tStartMs": 3282333,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "英寸的管道，为\n两个外部部分供水。"
+    } ]
+  }, {
+    "tStartMs": 3285933,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "最后，最后一个水箱连接\n到热交换器，"
+    } ]
+  }, {
+    "tStartMs": 3289300,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "为\n气体生成系统提供工艺用水。"
+    } ]
+  }, {
+    "tStartMs": 3292666,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "在进水歧管的末端，\n有一个U形管"
+    } ]
+  }, {
+    "tStartMs": 3295666,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "与出水歧管相连。"
+    } ]
+  }, {
+    "tStartMs": 3297933,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "这使得部分水可以\n绕过热交换器。"
+    } ]
+  }, {
+    "tStartMs": 3300533,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "我们稍后会进一步讨论这个问题。   然后，"
+    } ]
+  }, {
+    "tStartMs": 3301966,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "热交换器排出的水\n被连接到与"
+    } ]
+  }, {
+    "tStartMs": 3304699,
+    "dDurationMs": 2234,
+    "segs": [ {
+      "utf8": "中间水箱相同的 48 英寸管道。"
+    } ]
+  }, {
+    "tStartMs": 3307766,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "在三个排放歧管上，\n各有一个大的主"
+    } ]
+  }, {
+    "tStartMs": 3310599,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "阀和一个较小的旁通阀，该旁通阀\n可能仅用于"
+    } ]
+  }, {
+    "tStartMs": 3314233,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "进入火焰桶的管道的初始淹没\n。"
+    } ]
+  }, {
+    "tStartMs": 3316766,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "那么这一切是如何运作的呢？"
+    } ]
+  }, {
+    "tStartMs": 3318666,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你们中的一些人可能已经\n"
+    } ]
+  }, {
+    "tStartMs": 3320966,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "根据我\n对组件的描述弄清楚了一般概念。"
+    } ]
+  }, {
+    "tStartMs": 3323000,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "但对于其他人来说，最简单的\n解释方式就是从头到尾"
+    } ]
+  }, {
+    "tStartMs": 3326166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "介绍整个过程\n。"
+    } ]
+  }, {
+    "tStartMs": 3329433,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "（欢快的音乐）"
+    } ]
+  }, {
+    "tStartMs": 3331366,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "当油罐车到达运送水时，\n第一个泵用于将"
+    } ]
+  }, {
+    "tStartMs": 3334533,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "油罐车中的水卸载到\n三个大型储水箱中。"
+    } ]
+  }, {
+    "tStartMs": 3338033,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "有一个公共歧管连接\n到所有三个水箱，因此"
+    } ]
+  }, {
+    "tStartMs": 3340766,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "它们同时被充满。"
+    } ]
+  }, {
+    "tStartMs": 3342866,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "如果一个水箱中的水量较多\n，那么在注水过程中，它会慢慢"
+    } ]
+  }, {
+    "tStartMs": 3345666,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "与其他水箱中的水量达到平衡\n。"
+    } ]
+  }, {
+    "tStartMs": 3348166,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "据我所知，只要\n水箱中有水，"
+    } ]
+  }, {
+    "tStartMs": 3351366,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "排放管线就会一直被淹没\n，"
+    } ]
+  }, {
+    "tStartMs": 3353833,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "一直到主\n阀和旁通阀。"
+    } ]
+  }, {
+    "tStartMs": 3356400,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "为了帮助启动系统，\n"
+    } ]
+  }, {
+    "tStartMs": 3359500,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "在喷淋\n系统启动之前，水箱会预先加压。"
+    } ]
+  }, {
+    "tStartMs": 3362066,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "为此，他们利用相同的\n高压氮气供应，将"
+    } ]
+  }, {
+    "tStartMs": 3365000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "其输送到现场的所有低温"
+    } ]
+  }, {
+    "tStartMs": 3366500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "储罐和几乎每个\n气动阀门。"
+    } ]
+  }, {
+    "tStartMs": 3370333,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "我不会深入解释这一部分，\n因为我在"
+    } ]
+  }, {
+    "tStartMs": 3372633,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Massey 的进化一集中已经介绍过了。"
+    } ]
+  }, {
+    "tStartMs": 3374533,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "该氮气管线与水箱"
+    } ]
+  }, {
+    "tStartMs": 3376333,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "下方较大的气体歧管并排运行\n。"
+    } ]
+  }, {
+    "tStartMs": 3378766,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "在分支到每个\n单独的阀门歧管后，"
+    } ]
+  }, {
+    "tStartMs": 3381800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "它分成两个较小的管道，"
+    } ]
+  }, {
+    "tStartMs": 3383766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "连接在第一\n对红色阀门之后。   此时"
+    } ]
+  }, {
+    "tStartMs": 3386599,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "两组红色阀门都会关闭\n，因此"
+    } ]
+  }, {
+    "tStartMs": 3389500,
+    "dDurationMs": 3466,
+    "segs": [ {
+      "utf8": "打开这些微小的黄色阀门后，\n氮气会慢慢注入"
+    } ]
+  }, {
+    "tStartMs": 3392966,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "罐中，直到达到\n所需的压力。"
+    } ]
+  }, {
+    "tStartMs": 3395533,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "这个压力刚好足以\n启动系统。"
+    } ]
+  }, {
+    "tStartMs": 3398633,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "现在，回到水泵。"
+    } ]
+  }, {
+    "tStartMs": 3400133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "剩下的两个泵从\n"
+    } ]
+  }, {
+    "tStartMs": 3402866,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "第一个水箱主阀之前的位置抽水。"
+    } ]
+  }, {
+    "tStartMs": 3404866,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "然后将这些水泵\n回水箱。"
+    } ]
+  }, {
+    "tStartMs": 3407466,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "据我所知，这是用来在引入液氮之前通过热交换器\n循环少量水"
+    } ]
+  }, {
+    "tStartMs": 3410500,
+    "dDurationMs": 1266,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 3411766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 3413733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "老实说，\n由于几分钟前"
+    } ]
+  }, {
+    "tStartMs": 3416433,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "我提到过 U 形旁路，我不太确定这是否有效\n。"
+    } ]
+  }, {
+    "tStartMs": 3419300,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "似乎没有阀门可以"
+    } ]
+  }, {
+    "tStartMs": 3420666,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "阻止水流\n过该旁路。"
+    } ]
+  }, {
+    "tStartMs": 3423133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "如果没有这个，我怀疑水\n更有可能通过"
+    } ]
+  }, {
+    "tStartMs": 3425866,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "旁路而不是通过\n热交换器。"
+    } ]
+  }, {
+    "tStartMs": 3428533,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "我认为，\n"
+    } ]
+  }, {
+    "tStartMs": 3430866,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "在这条路径不再是\n阻力最小的路径之前，可能需要达到某个最低流速。"
+    } ]
+  }, {
+    "tStartMs": 3434099,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "在系统准备\n启动之前不久，"
+    } ]
+  }, {
+    "tStartMs": 3436733,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "每个排放歧管上的旁通阀\n应打开，以允许"
+    } ]
+  }, {
+    "tStartMs": 3439766,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "水开始淹没管道。"
+    } ]
+  }, {
+    "tStartMs": 3441766,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "他们可能不想\n提前太久打开它，"
+    } ]
+  }, {
+    "tStartMs": 3443800,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "因为由于罐子距离桶顶有几米远，火焰最终会\n从火焰桶上的孔中流出"
+    } ]
+  }, {
+    "tStartMs": 3446233,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 3448133,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 3451066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "打开第一个水箱上的旁通阀\n就足以让"
+    } ]
+  }, {
+    "tStartMs": 3453800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "水开始在汽化器中循环\n。"
+    } ]
+  }, {
+    "tStartMs": 3456533,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "这有点令人困惑，因为我\n很确定它可以完成"
+    } ]
+  }, {
+    "tStartMs": 3459033,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "与水泵相同的工作，但\n"
+    } ]
+  }, {
+    "tStartMs": 3462366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "如果管道直径较大，它可能会更有效。"
+    } ]
+  }, {
+    "tStartMs": 3464733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "所以我可能在这里遗漏了一些东西，\n因为我不明白"
+    } ]
+  }, {
+    "tStartMs": 3467566,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "为什么这些泵是必要的。"
+    } ]
+  }, {
+    "tStartMs": 3469666,
+    "dDurationMs": 3134,
+    "segs": [ {
+      "utf8": "无论如何，此后，\n这些气瓶中储存的高压氮气"
+    } ]
+  }, {
+    "tStartMs": 3472800,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "用于对\n液氮储罐加压。"
+    } ]
+  }, {
+    "tStartMs": 3476599,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "这样就无需\n使用泵来使"
+    } ]
+  }, {
+    "tStartMs": 3478333,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "液氮\n在线圈中循环。"
+    } ]
+  }, {
+    "tStartMs": 3480666,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "一旦打开\n罐体排放侧的隔离阀"
+    } ]
+  }, {
+    "tStartMs": 3482966,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "，液氮就会开始"
+    } ]
+  }, {
+    "tStartMs": 3484633,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "流入每个热交换器。"
+    } ]
+  }, {
+    "tStartMs": 3487166,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "液氮一进入\n盘管，就会被热水阀"
+    } ]
+  }, {
+    "tStartMs": 3490166,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "加热而立即开始沸腾\n。"
+    } ]
+  }, {
+    "tStartMs": 3493800,
+    "dDurationMs": 4233,
+    "segs": [ {
+      "utf8": "液氮的膨胀率为 694 比 1\n，因此这种快速"
+    } ]
+  }, {
+    "tStartMs": 3498033,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "汽化会产生\n大量的气体。"
+    } ]
+  }, {
+    "tStartMs": 3501699,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "与您的自然直觉相反，这种"
+    } ]
+  }, {
+    "tStartMs": 3503733,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "扩张不会导致\n压力增加。"
+    } ]
+  }, {
+    "tStartMs": 3506666,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "相反，离开汽化器的气体压力\n将"
+    } ]
+  }, {
+    "tStartMs": 3509533,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "与进入管道的液体压力相同\n。"
+    } ]
+  }, {
+    "tStartMs": 3512066,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "这就是为什么"
+    } ]
+  }, {
+    "tStartMs": 3513533,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "保持\n液氮罐内恒定压力非常重要。"
+    } ]
+  }, {
+    "tStartMs": 3516233,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "我认为一旦该反应开始，\n所有三个主水阀都"
+    } ]
+  }, {
+    "tStartMs": 3519199,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "应该打开，并且旁通"
+    } ]
+  }, {
+    "tStartMs": 3521033,
+    "dDurationMs": 1566,
+    "segs": [ {
+      "utf8": "阀随后将关闭。"
+    } ]
+  }, {
+    "tStartMs": 3523033,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "从此时起，第一辆坦克将"
+    } ]
+  }, {
+    "tStartMs": 3524833,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "基本驱动整个系统。"
+    } ]
+  }, {
+    "tStartMs": 3527266,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "随着水流过汽化器回路的速度\n"
+    } ]
+  }, {
+    "tStartMs": 3529466,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "迅速增加到\n每分钟约 80,000 加仑，"
+    } ]
+  }, {
+    "tStartMs": 3533933,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "同时液氮流速"
+    } ]
+  }, {
+    "tStartMs": 3535066,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "也应\n与水成比例增加。"
+    } ]
+  }, {
+    "tStartMs": 3536866,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "因此该系统能够\n产生足够的气体"
+    } ]
+  }, {
+    "tStartMs": 3538766,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "来维持水箱内的压力\n。"
+    } ]
+  }, {
+    "tStartMs": 3540933,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "我认为这种主动气体生成系统的一个主要好处\n是"
+    } ]
+  }, {
+    "tStartMs": 3544433,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "它允许他们精确"
+    } ]
+  }, {
+    "tStartMs": 3545733,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "控制\n流向火焰桶的水流。"
+    } ]
+  }, {
+    "tStartMs": 3548466,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "对于像 LC39B 这样的重力驱动系统\n，您只有"
+    } ]
+  }, {
+    "tStartMs": 3551966,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "三种设置：低、中、\n高，这"
+    } ]
+  }, {
+    "tStartMs": 3555033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "取决于\n打开的阀门数量。"
+    } ]
+  }, {
+    "tStartMs": 3557333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "在这里，它们有多种方法"
+    } ]
+  }, {
+    "tStartMs": 3558566,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "来控制水流。"
+    } ]
+  }, {
+    "tStartMs": 3560333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "为了实现更精确的控制，他们可以\n调节压力，"
+    } ]
+  }, {
+    "tStartMs": 3563166,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "从而调节进入热交换器的液氮流速，\n"
+    } ]
+  }, {
+    "tStartMs": 3566099,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "以控制产生的气体量\n。"
+    } ]
+  }, {
+    "tStartMs": 3568033,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "通过一些调整，他们可能可以将火焰桶\n中所需的精确压力"
+    } ]
+  }, {
+    "tStartMs": 3570966,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "\n调低至 1 PSI 以内。"
+    } ]
+  }, {
+    "tStartMs": 3574366,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "他们甚至可以"
+    } ]
+  }, {
+    "tStartMs": 3575566,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "通过发动机来控制油门的快慢。"
+    } ]
+  }, {
+    "tStartMs": 3577466,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "为了快速升高或\n降低压力，他们可以打开"
+    } ]
+  }, {
+    "tStartMs": 3581400,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "气体排放歧管上的一个、两个或三个安全阀，\n并且在每个"
+    } ]
+  }, {
+    "tStartMs": 3585233,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "储罐上，他们可以打开一个或两个\n主供应阀以及一个"
+    } ]
+  }, {
+    "tStartMs": 3589333,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "用于通风口的分流阀。"
+    } ]
+  }, {
+    "tStartMs": 3591500,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "最后，\n每个水箱上都有安全阀。"
+    } ]
+  }, {
+    "tStartMs": 3594833,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "所以总的来说，这就像六种不同的\n流量设置，但我"
+    } ]
+  }, {
+    "tStartMs": 3597733,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "不确定它们是否真的以这种方式使用。"
+    } ]
+  }, {
+    "tStartMs": 3599633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "当他们准备切断系统电源时\n，"
+    } ]
+  }, {
+    "tStartMs": 3602333,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我刚才提到的所有减压孔都会\n打开，以快速释放"
+    } ]
+  }, {
+    "tStartMs": 3605033,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "水箱中的压力，直到可以安全地"
+    } ]
+  }, {
+    "tStartMs": 3606866,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "关闭主排水阀。"
+    } ]
+  }, {
+    "tStartMs": 3609066,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "最后，\n"
+    } ]
+  }, {
+    "tStartMs": 3612000,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "在飞船所有六台发动机\n停止运转几秒钟后，Deutsch 系统才会关闭。"
+    } ]
+  }, {
+    "tStartMs": 3615333,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "如果我们将其与 A 台的系统进行比较\n，那么我们可以"
+    } ]
+  }, {
+    "tStartMs": 3618166,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "假设它需要大约 15 秒\n才能完全停止。"
+    } ]
+  }, {
+    "tStartMs": 3621766,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "因此，沟渠底部会残留大量的"
+    } ]
+  }, {
+    "tStartMs": 3623466,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "水\n。"
+    } ]
+  }, {
+    "tStartMs": 3625966,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "使用火焰桶底部的污水泵\n，将剩余的"
+    } ]
+  }, {
+    "tStartMs": 3628633,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "水过滤并泵回\n储水箱。"
+    } ]
+  }, {
+    "tStartMs": 3631699,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "就像卸货站的泵一样"
+    } ]
+  }, {
+    "tStartMs": 3633000,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "，它可以同时填充所有三个油箱\n。"
+    } ]
+  }, {
+    "tStartMs": 3636400,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "当 SpaceX 最终\n在 2024 年 6 月启用该系统时，当时"
+    } ]
+  }, {
+    "tStartMs": 3640066,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "处于不同完工阶段的所有星际飞船都\n"
+    } ]
+  }, {
+    "tStartMs": 3642533,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "可以松\n一口气了，不再需要从平面上方八米处"
+    } ]
+  }, {
+    "tStartMs": 3645933,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "发射六台极其强大的火箭"
+    } ]
+  }, {
+    "tStartMs": 3647900,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "发动机\n。"
+    } ]
+  }, {
+    "tStartMs": 3650500,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "通过将羽流从飞船上移开\n，他们不再"
+    } ]
+  }, {
+    "tStartMs": 3653433,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "需要担心冲击波和"
+    } ]
+  }, {
+    "tStartMs": 3655500,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "碎片反弹到\n飞船裙部造成的损坏。"
+    } ]
+  }, {
+    "tStartMs": 3658433,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "同样重要的是，他们现在\n能够进行更长时间的"
+    } ]
+  }, {
+    "tStartMs": 3661166,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "测试，而不必担心"
+    } ]
+  }, {
+    "tStartMs": 3662933,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "\n在此过程中损坏混凝土喷砂表面。"
+    } ]
+  }, {
+    "tStartMs": 3665933,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "也许我最喜欢的\n是能够"
+    } ]
+  }, {
+    "tStartMs": 3668766,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "\n在静态点火测试期间清晰地看到车辆的裙部"
+    } ]
+  }, {
+    "tStartMs": 3671400,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "，让我们能够以慢动作\n观看点火"
+    } ]
+  }, {
+    "tStartMs": 3673533,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "顺序和发动机的运转\n。"
+    } ]
+  }, {
+    "tStartMs": 3676533,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "这与\n亚轨道"
+    } ]
+  }, {
+    "tStartMs": 3679099,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "试验台的操作相比有了巨大的进步，而且将会\n变得更好。"
+    } ]
+  }, {
+    "tStartMs": 3684900,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "从2025年1月开始，SpaceX\n对"
+    } ]
+  }, {
+    "tStartMs": 3688333,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "火焰沟和喷水系统进行了一系列升级。"
+    } ]
+  }, {
+    "tStartMs": 3690766,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "首先，他们更换了\n液氮"
+    } ]
+  }, {
+    "tStartMs": 3692266,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "罐，并在原处安装了一个更大的液氮\n罐。"
+    } ]
+  }, {
+    "tStartMs": 3695333,
+    "dDurationMs": 2933,
+    "segs": [ {
+      "utf8": "虽然不知道每个水箱的具体容量\n，但它似乎比原来的"
+    } ]
+  }, {
+    "tStartMs": 3698266,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "大约大四到五倍\n。"
+    } ]
+  }, {
+    "tStartMs": 3701300,
+    "dDurationMs": 2566,
+    "segs": [ {
+      "utf8": "大约在同一时间，他们还增加了\n"
+    } ]
+  }, {
+    "tStartMs": 3703866,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "\n用于给油箱充气的高压气瓶的数量。"
+    } ]
+  }, {
+    "tStartMs": 3706599,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "如果您曾经好奇过，\n他们怎么会突然从"
+    } ]
+  }, {
+    "tStartMs": 3708766,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "进行 7 秒静态点火\n测试转变为进行"
+    } ]
+  }, {
+    "tStartMs": 3711733,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "长达 60 秒的长时间测试\n，那么，现在您知道了。"
+    } ]
+  }, {
+    "tStartMs": 3715866,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "原来的液氮罐\n不够大，无法让他们"
+    } ]
+  }, {
+    "tStartMs": 3718566,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "充分利用"
+    } ]
+  }, {
+    "tStartMs": 3720233,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "三个罐之间储存的水容量。"
+    } ]
+  }, {
+    "tStartMs": 3722533,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "另一件有趣的事情是，\n他们有空间容纳五个"
+    } ]
+  }, {
+    "tStartMs": 3725366,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "热交换器，但最终"
+    } ]
+  }, {
+    "tStartMs": 3727533,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "在它\n与其他热交换器连接之前就将其移除了。"
+    } ]
+  }, {
+    "tStartMs": 3729966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "根据最近从\n该设施南侧拍摄的图像，"
+    } ]
+  }, {
+    "tStartMs": 3733066,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "我们可以看到，在剩下的四个热交换器中，只有\n三个在流动氮气"
+    } ]
+  }, {
+    "tStartMs": 3735800,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 3737733,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "因此，第四个基本上被\n用作热交换器的旁路"
+    } ]
+  }, {
+    "tStartMs": 3740533,
+    "dDurationMs": 1933,
+    "segs": [ {
+      "utf8": "，从而"
+    } ]
+  }, {
+    "tStartMs": 3742466,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "将产生的气体总量减少了 25%。"
+    } ]
+  }, {
+    "tStartMs": 3745433,
+    "dDurationMs": 2766,
+    "segs": [ {
+      "utf8": "如果我不得不猜测的话，他们可能是\n在意识到他们"
+    } ]
+  }, {
+    "tStartMs": 3748199,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 3749866,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "在系统初始测试期间产生的气体远远超过需要量后才这样做的。"
+    } ]
+  }, {
+    "tStartMs": 3751633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "这个热交换器没有被\n完全拆除的原因"
+    } ]
+  }, {
+    "tStartMs": 3754199,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "可能是为了保持流向火焰桶\n"
+    } ]
+  }, {
+    "tStartMs": 3756866,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "外部所需的水流速\n。"
+    } ]
+  }, {
+    "tStartMs": 3759566,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "如果每个热交换器每分钟可\n处理大约 15,000 加仑，"
+    } ]
+  }, {
+    "tStartMs": 3762233,
+    "dDurationMs": 3633,
+    "segs": [ {
+      "utf8": "而旁通管\n每分钟只能处理 30,000 加仑"
+    } ]
+  }, {
+    "tStartMs": 3765866,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "，那么完全移除该\n热交换器将"
+    } ]
+  }, {
+    "tStartMs": 3769066,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "使其处理速度限制在\n每分钟最多 75,000 加仑。"
+    } ]
+  }, {
+    "tStartMs": 3771966,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "为了保持每分钟 90,000 加仑的速度，\n他们需要保留这个速度"
+    } ]
+  }, {
+    "tStartMs": 3774733,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "或增加旁路的尺寸。"
+    } ]
+  }, {
+    "tStartMs": 3777766,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "我认为他们没有选择这条\n路线的原因是为了允许他们"
+    } ]
+  }, {
+    "tStartMs": 3780166,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 3781599,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "在必要时快速升级系统的天然气发电能力\n。"
+    } ]
+  }, {
+    "tStartMs": 3784233,
+    "dDurationMs": 2233,
+    "segs": [ {
+      "utf8": "我有一种感觉，当他们开始\n测试配备"
+    } ]
+  }, {
+    "tStartMs": 3786466,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "升级版 Raptor 3 发动机的车辆时，可能\n最终需要第四个"
+    } ]
+  }, {
+    "tStartMs": 3789433,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "热交换器来提高\n系统压力，以匹配"
+    } ]
+  }, {
+    "tStartMs": 3792500,
+    "dDurationMs": 1766,
+    "segs": [ {
+      "utf8": "V3 船舶 14% 的推力增加。"
+    } ]
+  }, {
+    "tStartMs": 3794933,
+    "dDurationMs": 2533,
+    "segs": [ {
+      "utf8": "\n当他们最终开始"
+    } ]
+  }, {
+    "tStartMs": 3797466,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "在第四版飞船上安装六个 R-VAC 时，他们可能需要全部五个\n。"
+    } ]
+  }, {
+    "tStartMs": 3800333,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "推力增加 68%\n很可能需要"
+    } ]
+  }, {
+    "tStartMs": 3803733,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "对火焰桶外部的整体图案进行一些调整\n"
+    } ]
+  }, {
+    "tStartMs": 3806099,
+    "dDurationMs": 2734,
+    "segs": [ {
+      "utf8": "，甚至可能需要提高\n水容量。"
+    } ]
+  }, {
+    "tStartMs": 3809599,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "说到升级，2025 年 3 月，\n在"
+    } ]
+  }, {
+    "tStartMs": 3813433,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "对新的火焰沟进行第五次静态点火测试后，\nSpaceX 意识到他们"
+    } ]
+  }, {
+    "tStartMs": 3816333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "可能需要在沟口周围增加一些"
+    } ]
+  }, {
+    "tStartMs": 3817566,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "保护\n。"
+    } ]
+  }, {
+    "tStartMs": 3819400,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "尽管排气羽流没有\n直接接触墙壁，但"
+    } ]
+  }, {
+    "tStartMs": 3822066,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "穿过的火柱"
+    } ]
+  }, {
+    "tStartMs": 3823333,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "也可能是地狱之门。"
+    } ]
+  }, {
+    "tStartMs": 3825033,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "屋顶平台的混凝土和轨道"
+    } ]
+  }, {
+    "tStartMs": 3826699,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "受到\n相当强烈的加热。"
+    } ]
+  }, {
+    "tStartMs": 3829766,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "幸运的是，他们在形成沟槽口时就提前做好了计划，\n"
+    } ]
+  }, {
+    "tStartMs": 3832266,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "在开口的顶部和底部边缘添加了钢嵌入条"
+    } ]
+  }, {
+    "tStartMs": 3833933,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 3836500,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "这样他们就可以轻松地安装\n保护钢板来覆盖"
+    } ]
+  }, {
+    "tStartMs": 3838866,
+    "dDurationMs": 2467,
+    "segs": [ {
+      "utf8": "\n正面和背面所有裸露的混凝土。"
+    } ]
+  }, {
+    "tStartMs": 3842033,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "在侧面，他们在轨道"
+    } ]
+  }, {
+    "tStartMs": 3843699,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "安装支架上安装了防护罩\n。"
+    } ]
+  }, {
+    "tStartMs": 3846633,
+    "dDurationMs": 2133,
+    "segs": [ {
+      "utf8": "最后，他们在\n每根铁轨的下方加了一根管道。"
+    } ]
+  }, {
+    "tStartMs": 3849533,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "就像火焰桶一样，它们\n上面也有孔，"
+    } ]
+  }, {
+    "tStartMs": 3852133,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "可以向\n轨道喷水以保持轨道凉爽。"
+    } ]
+  }, {
+    "tStartMs": 3854766,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "你最不希望发生的事情是，\n"
+    } ]
+  }, {
+    "tStartMs": 3857066,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "在他们修复因强烈热循环而损坏的栏杆时，船最终被困在试验台上"
+    } ]
+  }, {
+    "tStartMs": 3858966,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 3861233,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "您实际上可以\n在"
+    } ]
+  }, {
+    "tStartMs": 3863266,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "35 号舰的单引擎静态点火测试期间看到这些喷嘴喷射。"
+    } ]
+  }, {
+    "tStartMs": 3865966,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "这些管道中的每一根都连接到沟槽"
+    } ]
+  }, {
+    "tStartMs": 3867366,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "底部的水歧管上\n。"
+    } ]
+  }, {
+    "tStartMs": 3869766,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 3871500,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "我已经等待了\n一年多的时间，这个风衣又迎来了一次重大升级。   但那"
+    } ]
+  }, {
+    "tStartMs": 3873133,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "件事还没有发生。"
+    } ]
+  }, {
+    "tStartMs": 3875366,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "尽管喷淋系统似乎\n确实能很好地"
+    } ]
+  }, {
+    "tStartMs": 3877666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "冷却废气羽流，但\n"
+    } ]
+  }, {
+    "tStartMs": 3879733,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "在这些测试中产生的蒸汽仍然\n非常热。"
+    } ]
+  }, {
+    "tStartMs": 3882833,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "随着时间的推移，这将导致沟槽\n"
+    } ]
+  }, {
+    "tStartMs": 3884366,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "裸露的混凝土壁剥落损坏\n。"
+    } ]
+  }, {
+    "tStartMs": 3887099,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "经过不到 10 次静态火灾测试后，\n您已经可以看到"
+    } ]
+  }, {
+    "tStartMs": 3889933,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "混凝土碎片脱落的位置。"
+    } ]
+  }, {
+    "tStartMs": 3892066,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "我确信我们在这里看到的部分\n是"
+    } ]
+  }, {
+    "tStartMs": 3894666,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "施工过程中形成的自然表面纹理，\n但不是全部。"
+    } ]
+  }, {
+    "tStartMs": 3898433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "与\n他们"
+    } ]
+  }, {
+    "tStartMs": 3900733,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "在 2021 年初在集成塔底部安装的防护罩类似，\n我一直希望这些去年"
+    } ]
+  }, {
+    "tStartMs": 3903933,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "放置在位置一侧的钢板\n"
+    } ]
+  }, {
+    "tStartMs": 3906833,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "表明他们最终会对\n"
+    } ]
+  }, {
+    "tStartMs": 3909133,
+    "dDurationMs": 2433,
+    "segs": [ {
+      "utf8": "火焰沟的墙壁做同样的事情，但这\n还没有发生。"
+    } ]
+  }, {
+    "tStartMs": 3912500,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "当谈到减少\n未来昂贵维修的可能性时"
+    } ]
+  }, {
+    "tStartMs": 3914966,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "，这似乎是可行的方法。"
+    } ]
+  }, {
+    "tStartMs": 3917233,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "说到昂贵的维修，\n在新的"
+    } ]
+  }, {
+    "tStartMs": 3921133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "火焰沟投入使用一年零十三天后，墨菲\n定律实现了它的诺言，"
+    } ]
+  }, {
+    "tStartMs": 3924266,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "投出了一个\n没人能预料到的恶魔曲线球。"
+    } ]
+  }, {
+    "tStartMs": 3930633,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "正如大家现在所知，\n梅西大学的所有基础设施都不是"
+    } ]
+  }, {
+    "tStartMs": 3933400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "为抵御这种\n异常现象而设计的。"
+    } ]
+  }, {
+    "tStartMs": 3935966,
+    "dDurationMs": 3367,
+    "segs": [ {
+      "utf8": "在\n36 号舰爆炸之后，"
+    } ]
+  }, {
+    "tStartMs": 3939333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "这种火焰桶设计的一个小缺陷变得\n非常明显。"
+    } ]
+  }, {
+    "tStartMs": 3945233,
+    "dDurationMs": 2966,
+    "segs": [ {
+      "utf8": "通过星际之门拍摄的这些图像\n，我们可以看到，"
+    } ]
+  }, {
+    "tStartMs": 3948199,
+    "dDurationMs": 3934,
+    "segs": [ {
+      "utf8": "36 号飞船在爆炸时，\n其几台发动机和"
+    } ]
+  }, {
+    "tStartMs": 3952133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "整个推力球都碎裂开来，掉进了火焰沟里。"
+    } ]
+  }, {
+    "tStartMs": 3954666,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "当多台两吨重的发动机\n撞击火焰"
+    } ]
+  }, {
+    "tStartMs": 3956733,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "桶时，必然会造成一些\n附带损害。"
+    } ]
+  }, {
+    "tStartMs": 3959933,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "由于这些火焰桶的\n组装方式，"
+    } ]
+  }, {
+    "tStartMs": 3962566,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "修理起来并不容易，或者至少不是\n以最理想的方式进行。"
+    } ]
+  }, {
+    "tStartMs": 3966533,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "举个例子，假设\n其中一个 RVAX"
+    } ]
+  }, {
+    "tStartMs": 3969033,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "部分压碎了\n该区域的其中一根管道。"
+    } ]
+  }, {
+    "tStartMs": 3971400,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "那么您可能最终"
+    } ]
+  }, {
+    "tStartMs": 3972633,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "需要更换整段管道。"
+    } ]
+  }, {
+    "tStartMs": 3974866,
+    "dDurationMs": 2867,
+    "segs": [ {
+      "utf8": "我将把它简化为移除\n一根管道，因为这样"
+    } ]
+  }, {
+    "tStartMs": 3977733,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "更容易让人\n理解这一点。"
+    } ]
+  }, {
+    "tStartMs": 3980033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "切割此部分时，可以\n很容易地沿着"
+    } ]
+  }, {
+    "tStartMs": 3983166,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "管道的圆周进行切割，\n并切割将"
+    } ]
+  }, {
+    "tStartMs": 3985333,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "其固定到\n支架上的井。"
+    } ]
+  }, {
+    "tStartMs": 3987533,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "但将它与两个相邻的"
+    } ]
+  }, {
+    "tStartMs": 3989033,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "管道分开时可能会\n遇到一些问题。"
+    } ]
+  }, {
+    "tStartMs": 3991933,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "我不确定这些焊接实际上有多深\n，但"
+    } ]
+  }, {
+    "tStartMs": 3994599,
+    "dDurationMs": 2767,
+    "segs": [ {
+      "utf8": "在不损坏良好管道的情况下进行干净切割可能很困难\n。"
+    } ]
+  }, {
+    "tStartMs": 3998000,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "但我想这取决于\n你使用什么样的工具来完成它。"
+    } ]
+  }, {
+    "tStartMs": 4001033,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "您可以将切口偏移到\n距离焊缝几毫米的地方，"
+    } ]
+  }, {
+    "tStartMs": 4004166,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "然后将剩余的部分全部削掉\n"
+    } ]
+  }, {
+    "tStartMs": 4005833,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "，但这将\n是一个相当复杂的过程。"
+    } ]
+  }, {
+    "tStartMs": 4008966,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "现在，当您添加新的"
+    } ]
+  }, {
+    "tStartMs": 4010366,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "管道部分时，又会出现另一个问题。"
+    } ]
+  }, {
+    "tStartMs": 4012733,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "再次，您可以轻松地在\n大部分圆周上进行焊接"
+    } ]
+  }, {
+    "tStartMs": 4015433,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "，但两侧大约有 15\n度，"
+    } ]
+  }, {
+    "tStartMs": 4018599,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "基本上无法到达。"
+    } ]
+  }, {
+    "tStartMs": 4020633,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "为了避免这种情况，您必须将\n整个管道长度"
+    } ]
+  }, {
+    "tStartMs": 4023266,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "一直移除到\n它连接到"
+    } ]
+  }, {
+    "tStartMs": 4025766,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "歧管之前，以便您可以"
+    } ]
+  }, {
+    "tStartMs": 4027233,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "接触到\n管道的整个周长。"
+    } ]
+  }, {
+    "tStartMs": 4029333,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "在我看来，这种方法\n最有意义，假设您"
+    } ]
+  }, {
+    "tStartMs": 4032300,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "能够将其移除而不会损坏\n其邻居。"
+    } ]
+  }, {
+    "tStartMs": 4034866,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "但他们并没有切除整个\n管道部分，而是只切除了"
+    } ]
+  }, {
+    "tStartMs": 4037933,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": ""
+    } ]
+  }, {
+    "tStartMs": 4039233,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "朝上的受损部分。"
+    } ]
+  }, {
+    "tStartMs": 4041666,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "然后，他们从麦格雷戈连夜送来的备用管道上切下相同的部分\n"
+    } ]
+  }, {
+    "tStartMs": 4044333,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "，然后\n用它们来修补"
+    } ]
+  }, {
+    "tStartMs": 4047433,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "从火焰桶上拆下的区域。"
+    } ]
+  }, {
+    "tStartMs": 4049900,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "老实说，我确信这没问题，但如果不是亲眼所见，我\n永远不会相信这一点"
+    } ]
+  }, {
+    "tStartMs": 4053099,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "。   通过我们 GV 航拍机的适时拍摄，"
+    } ]
+  }, {
+    "tStartMs": 4054900,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "您实际上可以看到它们\n执行此操作的过程"
+    } ]
+  }, {
+    "tStartMs": 4057266,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "。"
+    } ]
+  }, {
+    "tStartMs": 4059533,
+    "dDurationMs": 2033,
+    "segs": [ {
+      "utf8": "虽然这听起来有点疯狂，但我确信这样进行"
+    } ]
+  }, {
+    "tStartMs": 4061566,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "修复是有原因的\n。"
+    } ]
+  }, {
+    "tStartMs": 4063766,
+    "dDurationMs": 3034,
+    "segs": [ {
+      "utf8": "如果你近距离观察，它可能看起来非常丑陋\n，但只要它能"
+    } ]
+  }, {
+    "tStartMs": 4066800,
+    "dDurationMs": 1966,
+    "segs": [ {
+      "utf8": "完成工作，我想这才是\n最重要的。"
+    } ]
+  }, {
+    "tStartMs": 4069866,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "好消息是，未来再次发生此类事件的可能性"
+    } ]
+  }, {
+    "tStartMs": 4071933,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "\n极低。"
+    } ]
+  }, {
+    "tStartMs": 4075066,
+    "dDurationMs": 2934,
+    "segs": [ {
+      "utf8": "总的来说，这个喷水系统的设计\n非常棒，"
+    } ]
+  }, {
+    "tStartMs": 4078266,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "我真的很惊讶以前\n没有人"
+    } ]
+  }, {
+    "tStartMs": 4080000,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "尝试过\n这样的东西。"
+    } ]
+  }, {
+    "tStartMs": 4082599,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "热交换器并不是什么新\n技术，但据我"
+    } ]
+  }, {
+    "tStartMs": 4085900,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "所知，它们从未\n以这种方式应用过"
+    } ]
+  }, {
+    "tStartMs": 4087533,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "，这就是为什么这个系统\n如此独特。   麦格雷戈的 GSE 工程师"
+    } ]
+  }, {
+    "tStartMs": 4090466,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "显然对其性能非常满意，\n"
+    } ]
+  }, {
+    "tStartMs": 4094033,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "决定将该系统\n用于自己，这并不"
+    } ]
+  }, {
+    "tStartMs": 4097233,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "奇怪，因为他们是该"
+    } ]
+  }, {
+    "tStartMs": 4098566,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "系统的最初设计者。"
+    } ]
+  }, {
+    "tStartMs": 4103899,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "麦格雷戈测试设施\n就像一座洪水博物馆。"
+    } ]
+  }, {
+    "tStartMs": 4107133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "猎鹰9号试验台和三脚架\n共用一个水塔，"
+    } ]
+  }, {
+    "tStartMs": 4110466,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "猎鹰9号第二阶段试验"
+    } ]
+  }, {
+    "tStartMs": 4112133,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "台也有自己的水塔。"
+    } ]
+  }, {
+    "tStartMs": 4114766,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "梅林试验台有一个大型水池，"
+    } ]
+  }, {
+    "tStartMs": 4116800,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "配有用于填充垂直\n储罐的泵。"
+    } ]
+  }, {
+    "tStartMs": 4119366,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "它们要么使用重力，要么使用气体注入\n来为火焰"
+    } ]
+  }, {
+    "tStartMs": 4122566,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "桶提供燃料，但很难说。"
+    } ]
+  }, {
+    "tStartMs": 4125133,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "水平猛禽试验台是一个谜，\n但垂直试验"
+    } ]
+  }, {
+    "tStartMs": 4128166,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "台使用水平罐和\n高压气瓶。"
+    } ]
+  }, {
+    "tStartMs": 4131733,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "最后，当 SpaceX 于 2024 年 7 月开始建造\n两个全新的垂直"
+    } ]
+  }, {
+    "tStartMs": 4134966,
+    "dDurationMs": 3634,
+    "segs": [ {
+      "utf8": "猛禽试验台时，\n两个火焰沟都"
+    } ]
+  }, {
+    "tStartMs": 4138600,
+    "dDurationMs": 1466,
+    "segs": [ {
+      "utf8": "配备了与"
+    } ]
+  }, {
+    "tStartMs": 4140066,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "为 Masseys 开发的系统几乎相同的系统。"
+    } ]
+  }, {
+    "tStartMs": 4142633,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Raptor 试验台的沟槽\n更深，"
+    } ]
+  }, {
+    "tStartMs": 4145633,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "火焰桶也更高一些。"
+    } ]
+  }, {
+    "tStartMs": 4148033,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "唯一的区别是，这些是"
+    } ]
+  }, {
+    "tStartMs": 4149266,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "单引擎测试，因此\n不需要那么多水。"
+    } ]
+  }, {
+    "tStartMs": 4152600,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "因此，该系统\n缩小"
+    } ]
+  }, {
+    "tStartMs": 4154233,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "到使用单个汽化器\n而不是三个。"
+    } ]
+  }, {
+    "tStartMs": 4156566,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "由于 Masseys 的系统似乎\n是"
+    } ]
+  }, {
+    "tStartMs": 4159366,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "其其他测试台的概念证明，我们预计\n它可能会被"
+    } ]
+  }, {
+    "tStartMs": 4162033,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "复制并扩大到"
+    } ]
+  }, {
+    "tStartMs": 4163666,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Starbase 的新版本 2 发射台。"
+    } ]
+  }, {
+    "tStartMs": 4166199,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "但事实证明，SpaceX"
+    } ]
+  }, {
+    "tStartMs": 4168133,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "另有更大胆的计划\n。"
+    } ]
+  }, {
+    "tStartMs": 4170766,
+    "dDurationMs": 3067,
+    "segs": [ {
+      "utf8": "如果我不得不猜测的话，Raptor Propulsions 团队中的某个人\n决定"
+    } ]
+  }, {
+    "tStartMs": 4173833,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "转向 GSE 工程，因为\n"
+    } ]
+  }, {
+    "tStartMs": 4177300,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "为零阶段 2.0 设计的新系统绝对是\n荒谬的。"
+    } ]
+  }, {
+    "tStartMs": 4180733,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "我非常怀疑它是否能被\n其他人构想出来。"
+    } ]
+  }, {
+    "tStartMs": 4184000,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "在下一次深入调查中，\n我们将了解"
+    } ]
+  }, {
+    "tStartMs": 4186633,
+    "dDurationMs": 3433,
+    "segs": [ {
+      "utf8": "星际飞船火焰沟的下一次演变\n，SpaceX"
+    } ]
+  }, {
+    "tStartMs": 4190066,
+    "dDurationMs": 2267,
+    "segs": [ {
+      "utf8": "显然已经开始使用小型猛禽"
+    } ]
+  }, {
+    "tStartMs": 4192333,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "发动机为其喷水系统提供动力\n。"
+    } ]
+  }, {
+    "tStartMs": 4195266,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "我保证你不会错过这一\n集，所以"
+    } ]
+  }, {
+    "tStartMs": 4197933,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "如果你还没有订阅该频道，请务必订阅\n。"
+    } ]
+  }, {
+    "tStartMs": 4200366,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "正如您所看到的，我们付出了大量的\n努力来"
+    } ]
+  }, {
+    "tStartMs": 4202966,
+    "dDurationMs": 1967,
+    "segs": [ {
+      "utf8": "以一种易于理解的方式解释这个主题\n。"
+    } ]
+  }, {
+    "tStartMs": 4205566,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "如果您喜欢这一集并\n愿意支持该频道，"
+    } ]
+  }, {
+    "tStartMs": 4208399,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "请考虑成为\nPatreon 的月度会员。"
+    } ]
+  }, {
+    "tStartMs": 4211433,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这是迄今为止帮助我们"
+    } ]
+  }, {
+    "tStartMs": 4213233,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "继续在\n这个渠道上做事的最佳方式。"
+    } ]
+  }, {
+    "tStartMs": 4215166,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "这使我们能够补偿像\nRyan Hanson Space 这样的人，他们"
+    } ]
+  }, {
+    "tStartMs": 4218133,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "投入了大量的时间来创建\n"
+    } ]
+  }, {
+    "tStartMs": 4220933,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "对于帮助我们\n解释这些主题至关重要的渲染和动画。"
+    } ]
+  }, {
+    "tStartMs": 4223433,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "如果这还不明显的话，如果\n"
+    } ]
+  }, {
+    "tStartMs": 4225899,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "没有\n"
+    } ]
+  }, {
+    "tStartMs": 4228733,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "RGV Aerial 对 Starbase 的精彩航拍记录，我们就不可能制作出这一集。"
+    } ]
+  }, {
+    "tStartMs": 4231666,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "因此，请考虑支持他，\n或者查看"
+    } ]
+  }, {
+    "tStartMs": 4234566,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "他的 YouTube 频道上的 Starbase Weekly 直播\n，我们每周都会在那里回顾"
+    } ]
+  }, {
+    "tStartMs": 4237466,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "最新的飞越图像。"
+    } ]
+  }, {
+    "tStartMs": 4239966,
+    "dDurationMs": 2567,
+    "segs": [ {
+      "utf8": "在我们离开之前，我还想\n向 Starship"
+    } ]
+  }, {
+    "tStartMs": 4242533,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Gazer、LabPadre 和 NASA Spaceflight 的团队\n以及"
+    } ]
+  }, {
+    "tStartMs": 4246433,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "在今天的调查中使用其内容的所有人致以最诚挚的谢意\n。"
+    } ]
+  }, {
+    "tStartMs": 4249133,
+    "dDurationMs": 2733,
+    "segs": [ {
+      "utf8": "最后但同样重要的是，感谢 Opera\n赞助本集节目。"
+    } ]
+  }, {
+    "tStartMs": 4252366,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "不要忘记点击描述中的链接免费"
+    } ]
+  }, {
+    "tStartMs": 4253533,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "下载 Opera\n浏览器。"
+    } ]
+  }, {
+    "tStartMs": 4256233,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "好啦，各位，\n今天我的发言时间就到这里。"
+    } ]
+  }, {
+    "tStartMs": 4258199,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "希望在下一次深入调查中见到您\n。"
+    } ]
+  }, {
+    "tStartMs": 4260433,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "现在，这是第零阶段\n扎克，签字结束。"
+    } ]
+  } ]
+}

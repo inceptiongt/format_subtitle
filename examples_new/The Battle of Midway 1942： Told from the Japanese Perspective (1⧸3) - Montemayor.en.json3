@@ -1,0 +1,2695 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1780,
+    "dDurationMs": 6529,
+    "segs": [ {
+      "utf8": "It's been six months since the attack on Pearl Harbor and so far the war has been triumphant for the Empire of Japan"
+    } ]
+  }, {
+    "tStartMs": 9250,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "They had achieved a string of victories across the Pacific and had captured many resource rich territories"
+    } ]
+  }, {
+    "tStartMs": 15130,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "However, Japan still found herself in a difficult position"
+    } ]
+  }, {
+    "tStartMs": 19720,
+    "dDurationMs": 7910,
+    "segs": [ {
+      "utf8": "Despite all of their successes, their biggest opponent, the United States, had yet to show any signs of surrendering - this was worrisome."
+    } ]
+  }, {
+    "tStartMs": 28360,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Japan needed to end the war quickly before the US, with its mighty industrial strength, ultimately defeated them."
+    } ]
+  }, {
+    "tStartMs": 36160,
+    "dDurationMs": 7340,
+    "segs": [ {
+      "utf8": "So, what Japan needed was to win a decisive battle - one that would demoralize the Americans and finally bring them to the negotiating table."
+    } ]
+  }, {
+    "tStartMs": 44400,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "It was considered that America's center of gravity was its Pacific Fleet, primarily its carriers."
+    } ]
+  }, {
+    "tStartMs": 49600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Destroy this and you destroy their will to continue the war."
+    } ]
+  }, {
+    "tStartMs": 53170,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Therefore, the only chance Japan had a winning this war was if the American carrier fleet was destroyed."
+    } ]
+  }, {
+    "tStartMs": 59440,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "But the question was: how to provoke the carriers from leaving it's safe base at Pearl Harbor?"
+    } ]
+  }, {
+    "tStartMs": 64220,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "The answer: attack an objective that the Americans wouldn't relinquish without a fight"
+    } ]
+  }, {
+    "tStartMs": 70560,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "and, after much debate, it was decided that Midway would be that objective.  If the Japanese attacked and invaded Midway,"
+    } ]
+  }, {
+    "tStartMs": 76980,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "the Americans would certainly respond in force"
+    } ]
+  }, {
+    "tStartMs": 79650,
+    "dDurationMs": 6809,
+    "segs": [ {
+      "utf8": "and this would finally give the Imperial Japanese Navy a chance to annihilate the American carrier fleet, once and for all."
+    } ]
+  }, {
+    "tStartMs": 89560,
+    "dDurationMs": 5809,
+    "segs": [ {
+      "utf8": "And thus, Operation MI was created with the objective of capturing Midway and destroying the Pacific Fleet."
+    } ]
+  }, {
+    "tStartMs": 97540,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "The Japanese premised their plan on achieving surprise and therefore would have to make the 3,000 mile voyage on radio silence."
+    } ]
+  }, {
+    "tStartMs": 104940,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Also, they were to disperse their forces in order to avoid detection and mask their intentions."
+    } ]
+  }, {
+    "tStartMs": 110860,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "In conjunction, there was another operation to the north to take over the Aleutian Islands, which was code-named Operation Al."
+    } ]
+  }, {
+    "tStartMs": 118380,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "And so, on the early hours of June 4th, all the forces were in position to attack a small tiny atoll in the Central Pacific."
+    } ]
+  }, {
+    "tStartMs": 125680,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "The stage was set for one of the most epic engagements in naval history. This is the Battle of Midway."
+    } ]
+  }, {
+    "tStartMs": 132460,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "The battle will be told from the Japanese perspective. The fog of war will be included during this video."
+    } ]
+  }, {
+    "tStartMs": 137720,
+    "dDurationMs": 6049,
+    "segs": [ {
+      "utf8": "That means you, the audience member, will only know the positions of the Americans the moment the Japanese commander  knew of it."
+    } ]
+  }, {
+    "tStartMs": 144379,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "This is to put the audience member in the commander's seat to see how they would have reacted themselves given the unique circumstances"
+    } ]
+  }, {
+    "tStartMs": 150500,
+    "dDurationMs": 4309,
+    "segs": [ {
+      "utf8": "and complex scenarios that plagued the Japanese on the morning of June 4th."
+    } ]
+  }, {
+    "tStartMs": 157790,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "So, to start off, let's see who the commander was and what his forces were."
+    } ]
+  }, {
+    "tStartMs": 162650,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "Spearheading the MI formations were four top-of-the-line fleet carriers of the First Mobile Striking Force, also known as the Kido Butai."
+    } ]
+  }, {
+    "tStartMs": 170380,
+    "dDurationMs": 6940,
+    "segs": [ {
+      "utf8": "This was the most destructive offensive weapon the Japanese Navy had and would be the main protagonists of the upcoming fight."
+    } ]
+  }, {
+    "tStartMs": 179360,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "Its commander is Vice Admiral Nagumo Chuichi. He was 55 and had assumed command of the First Air Fleet in April of 1941."
+    } ]
+  }, {
+    "tStartMs": 187220,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "He didn't get this post because he had a naval aviation experience. In fact, he has specialized in torpedoes."
+    } ]
+  }, {
+    "tStartMs": 193340,
+    "dDurationMs": 7130,
+    "segs": [ {
+      "utf8": "He got the job simply based on seniority. It was said his command style lacked decisiveness and that he was too reliant on his staff."
+    } ]
+  }, {
+    "tStartMs": 201340,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Nevertheless, in June of 1942, he was the most experienced carrier commander in the world."
+    } ]
+  }, {
+    "tStartMs": 208940,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Nagumo had four carriers with him this day. His flagship was the Akagi."
+    } ]
+  }, {
+    "tStartMs": 213180,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "The Akagi was the oldest and longest of all the flat tops."
+    } ]
+  }, {
+    "tStartMs": 216440,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "She had a large aircraft capacity and since she had been converted from a battle cruiser hull, possessed a high speed."
+    } ]
+  }, {
+    "tStartMs": 223940,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "The Kaga was a battleship conversion so this made her the least maneuverable and the slowest of the four but she did embark the most aircraft."
+    } ]
+  }, {
+    "tStartMs": 231300,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "While typical squadron strength was 18, she herself carried 27 carrier attack planes."
+    } ]
+  }, {
+    "tStartMs": 238020,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "These two carriers were just solid war horses of the Kido Butai. They packed a mean punch and were not to be messed around with."
+    } ]
+  }, {
+    "tStartMs": 247220,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "Next came to two dashing cavaliers of Carrier Division 2. They were the smaller but more nimble Soryu class."
+    } ]
+  }, {
+    "tStartMs": 253980,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "They were designed from the keel up, had a good air group size, and a very high speed due to their light hull and construction."
+    } ]
+  }, {
+    "tStartMs": 260820,
+    "dDurationMs": 8100,
+    "segs": [ {
+      "utf8": "However, the downside was that they were lightly armored. The Soryu came first, being commissioned in 1937. She was well liked in the Navy."
+    } ]
+  }, {
+    "tStartMs": 269640,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "Her near sister ship, the Hiryu, was almost identical but had a larger bridge and was slightly better armored."
+    } ]
+  }, {
+    "tStartMs": 277280,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Real Admiral Yamaguchi was a commander of Carrier Division 2 and he made the Hiryu his flagship."
+    } ]
+  }, {
+    "tStartMs": 282920,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "He was another high-ranking member of the fleet and was known to be an aggressive, hot-temper commander compared to Nagumo."
+    } ]
+  }, {
+    "tStartMs": 290360,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "From the four carriers, Nagumo had a combined strength of 248 aircraft;"
+    } ]
+  }, {
+    "tStartMs": 294980,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "260 total aircraft if one includes the scout planes from his escorting cruisers."
+    } ]
+  }, {
+    "tStartMs": 300320,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "What was equally important in the aircraft themselves was the quality of Nagumo's air crews."
+    } ]
+  }, {
+    "tStartMs": 305100,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "It wasn't a stretch to say that at this point in the war,"
+    } ]
+  }, {
+    "tStartMs": 307820,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "the best naval pilots in the world were onboard these four ships."
+    } ]
+  }, {
+    "tStartMs": 315560,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Nagumo's mission was not going to be a walk in the park. He essentially had a dual mission:"
+    } ]
+  }, {
+    "tStartMs": 321700,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "One, take out Midway. He needed to neutralize the base and its aircraft before the invasion convoy arrived two days later."
+    } ]
+  }, {
+    "tStartMs": 329580,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Task number two was to keep a lookout for enemy carriers that might appear in the defense of the islands."
+    } ]
+  }, {
+    "tStartMs": 336180,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Now, this was unlikely as the Americans were not expected to react so quickly to the invasion."
+    } ]
+  }, {
+    "tStartMs": 343360,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "But as a safe measure, he was to keep half of his strike force armed with anti-shipping weapons in the event the Americans did show up early."
+    } ]
+  }, {
+    "tStartMs": 349580,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "It has to be mentioned here that there were some ominous signs for the Japanese."
+    } ]
+  }, {
+    "tStartMs": 353600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "As mentioned, the Japanese were counting on surprise for this bold operation to succeed."
+    } ]
+  }, {
+    "tStartMs": 358280,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "However, on the eve of battle, there were signs that this may not be going their way."
+    } ]
+  }, {
+    "tStartMs": 363120,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "Intelligence had revealed suspicious enemy activities around Midway, meaning the Americans were more alert than they should have been."
+    } ]
+  }, {
+    "tStartMs": 372080,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Second, it must be emphasized that the Japanese, up to this point, have failed to confirm the location of the carriers."
+    } ]
+  }, {
+    "tStartMs": 378780,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "The Japanese believed they would have to face against two,"
+    } ]
+  }, {
+    "tStartMs": 381600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "possibly three carriers to their four, so it was imperative that they get a confirmation of their whereabouts."
+    } ]
+  }, {
+    "tStartMs": 388940,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It was believed that they would still be in Pearl Harbor during the first days of the operation"
+    } ]
+  }, {
+    "tStartMs": 393380,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "and there were two attempts to verify this. The first was a reconnaissance mission to reconnoiter Pearl Harbor."
+    } ]
+  }, {
+    "tStartMs": 398900,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "However, this mission had been canceled but there was still a fallback plan:"
+    } ]
+  }, {
+    "tStartMs": 403580,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "a picket line of submarines ahead of Nagumo's force, and, so far, none of them had reported anything at all."
+    } ]
+  }, {
+    "tStartMs": 415900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "So as far as Nagumo was concerned, everything was going as planned."
+    } ]
+  }, {
+    "tStartMs": 431200,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "Dawn: June 4th. Compared to the scatter cloud cover to the northeast, the Kido Butai found itself under low, but light cumulus clouds."
+    } ]
+  }, {
+    "tStartMs": 439760,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "The carriers continue to steam into the wind, which is coming from the southeast, to prepare for the air raid."
+    } ]
+  }, {
+    "tStartMs": 446200,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "At 0430, a strike of 108 aircraft was launched against Midway."
+    } ]
+  }, {
+    "tStartMs": 450710,
+    "dDurationMs": 5899,
+    "segs": [ {
+      "utf8": "All of these planes were launched in just 10 minutes, a testament to the skill and training of the Japanese pilots."
+    } ]
+  }, {
+    "tStartMs": 457370,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "Leading the strike was Lieutenant Tomonaga Joichi."
+    } ]
+  }, {
+    "tStartMs": 459610,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "He was a veteran of the air war over China, but this will be his first combat sortie against the Americans."
+    } ]
+  }, {
+    "tStartMs": 468080,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Nagumo had to keep the other half of his planes in reserve in case American carriers appeared."
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "The pilots in this group were the A-team, the best the Kido Butai had to offer."
+    } ]
+  }, {
+    "tStartMs": 478000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Akagi's torpedo squadron was said to be the best in the Navy,"
+    } ]
+  }, {
+    "tStartMs": 481720,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "while Carrier Division 2 had the reputation of having the best dive bombers."
+    } ]
+  }, {
+    "tStartMs": 485840,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "Any report of an American carrier and these pilots will make easy work of them."
+    } ]
+  }, {
+    "tStartMs": 494960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "At the same time of the launch of the Midway Strike Group,"
+    } ]
+  }, {
+    "tStartMs": 497780,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "reconnaissance planes were sent out from the escorting cruisers. The search consisted of 7 lines, 6 of which stretched out to 300 miles."
+    } ]
+  }, {
+    "tStartMs": 506780,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "Clearly, with only seven planes to cover more than a 176,000 square miles,"
+    } ]
+  }, {
+    "tStartMs": 511800,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "the search effort can be considered half-hearted, perhaps even negligent."
+    } ]
+  }, {
+    "tStartMs": 517100,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "But, in Nagumo's defense, it must be reminded that this was a precautionary air search."
+    } ]
+  }, {
+    "tStartMs": 522240,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "Simply put, Nagumo and his staff were convinced that no enemy carriers would appear this early into the battle."
+    } ]
+  }, {
+    "tStartMs": 531160,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Although, I would say criticism is justified."
+    } ]
+  }, {
+    "tStartMs": 533820,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "I mean, given the fact that intel reported suspicious activities around Midway, and given the bad weather in the area,"
+    } ]
+  }, {
+    "tStartMs": 540180,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Nagumo should have doubled his search efforts as a safety measure."
+    } ]
+  }, {
+    "tStartMs": 543340,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "It's what a prudent commander would have done."
+    } ]
+  }, {
+    "tStartMs": 547240,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Anyway, the launch of the search planes went well except the launching of Float Plane No. 4,"
+    } ]
+  }, {
+    "tStartMs": 551980,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "from the cruiser Tone, was delayed for thirty minutes."
+    } ]
+  }, {
+    "tStartMs": 562900,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "As the military proverb goes: \"no plan survives contact with the enemy,\" and today would be no exception."
+    } ]
+  }, {
+    "tStartMs": 569240,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "The operation officially began to unravel at 0532."
+    } ]
+  }, {
+    "tStartMs": 573800,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "An American Catalina PBY was spotted surveying the Kido Butai."
+    } ]
+  }, {
+    "tStartMs": 578990,
+    "dDurationMs": 4219,
+    "segs": [ {
+      "utf8": "Damn, Nagumo had been spotted, meaning surprise had been lost."
+    } ]
+  }, {
+    "tStartMs": 583840,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "This meant that the Americans would be able to get their land-based aircraft airborne before his strike arrived."
+    } ]
+  }, {
+    "tStartMs": 601900,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "As predicted, the Americans have been able to launch all of its planes before the strike arrived."
+    } ]
+  }, {
+    "tStartMs": 606949,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "The bombers went to attack the Japanese carriers. Only the fighters stayed behind to defend the islands."
+    } ]
+  }, {
+    "tStartMs": 612589,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "These were 18 obsolete Buffaloes and 6 Wildcats."
+    } ]
+  }, {
+    "tStartMs": 617300,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "They intercepted the Japanese at 0620, 30 miles from the base."
+    } ]
+  }, {
+    "tStartMs": 621139,
+    "dDurationMs": 6799,
+    "segs": [ {
+      "utf8": "They never stood a chance with the more agile Zeros. In the ensuing battle, 13 Buffaloes and 2 Wildcats were lost."
+    } ]
+  }, {
+    "tStartMs": 629140,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "The carrier strike aircraft pushed through and began their bomb runs."
+    } ]
+  }, {
+    "tStartMs": 633880,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Carrier Division 2-level bombers struck first at 0634. The dive bombers would come next at 0640."
+    } ]
+  }, {
+    "tStartMs": 641820,
+    "dDurationMs": 8780,
+    "segs": [ {
+      "utf8": "On Eastern Island, the power plant, command posts, gasoline lines, and mess hall were destroyed but damage to the runways was minor."
+    } ]
+  }, {
+    "tStartMs": 653660,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "On Sand Island, the oil tanks were set ablaze and the water lines were hit."
+    } ]
+  }, {
+    "tStartMs": 658780,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "A seaplane hangar and various base facilities were also destroyed."
+    } ]
+  }, {
+    "tStartMs": 662800,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "For their effort, American fighters and anti-aircraft fire destroyed 11 Japanese planes."
+    } ]
+  }, {
+    "tStartMs": 668700,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Another 14 will be rendered unserviceable when they landed back on their carriers."
+    } ]
+  }, {
+    "tStartMs": 672280,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "That's a 23% loss."
+    } ]
+  }, {
+    "tStartMs": 675460,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "The damage to Midway support facilities had been heavy but the base wasn't out of the fight."
+    } ]
+  }, {
+    "tStartMs": 680980,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "The Air Group commander, Lieutenant Tomonaga, looked back at the condition of Midway and, with great dissatisfaction,"
+    } ]
+  }, {
+    "tStartMs": 686620,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "had to report back to Nagumo that a second strike was needed to neutralize the base."
+    } ]
+  }, {
+    "tStartMs": 700420,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "What follows next is a series of complicated events and situations happening to both the Kido Butai and onboard Nagumo's headquarters."
+    } ]
+  }, {
+    "tStartMs": 708000,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So, I'll tackle them separately starting with the initial air strikes against the Kido Butai."
+    } ]
+  }, {
+    "tStartMs": 715500,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "At 0710, 6 TBF Avengers and 4 Army B-26s were spotted approaching the Japanese carriers."
+    } ]
+  }, {
+    "tStartMs": 722260,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "This would be the first of four separate attacks from Midway-based aircraft that would harass them throughout the early morning."
+    } ]
+  }, {
+    "tStartMs": 732360,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "Over 30 fighters were sent to destroy the 10 American warplanes. The Avengers selected the Hiryu."
+    } ]
+  }, {
+    "tStartMs": 740520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Zeros swarmed over them and one-by-one, the torpedo bombers were shot down."
+    } ]
+  }, {
+    "tStartMs": 745300,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Only two were able to launch at the Hiryu but from extreme range and they missed."
+    } ]
+  }, {
+    "tStartMs": 751860,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "The 4 B-26s, which had been modified to carry torpedoes, went for the Akagi. Only 2 were able to launch but they both missed."
+    } ]
+  }, {
+    "tStartMs": 762070,
+    "dDurationMs": 6019,
+    "segs": [ {
+      "utf8": "The real danger was posed by the last B-26. The damaged bomber made no attempt to pull out of its attack."
+    } ]
+  }, {
+    "tStartMs": 768640,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Instead, it headed directly for a Akagi's bridge. Nagumo and his staff saw this and were shocked."
+    } ]
+  }, {
+    "tStartMs": 774100,
+    "dDurationMs": 6140,
+    "segs": [ {
+      "utf8": "The Americans were not supposed to show this kind of bravery. The bomber pressed on and at last minute -"
+    } ]
+  }, {
+    "tStartMs": 780800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "narrowly missed the bridge and crashed into the sea."
+    } ]
+  }, {
+    "tStartMs": 784900,
+    "dDurationMs": 5059,
+    "segs": [ {
+      "utf8": "This suicide attack had failed, but surely it had given Nagumo and his staff one hell of a scare."
+    } ]
+  }, {
+    "tStartMs": 792400,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "Despite the bravery and determination, the attack had failed to achieve a single hit. 5 Avengers and 2 Marauders had been shot down."
+    } ]
+  }, {
+    "tStartMs": 799120,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "The Japanese lost 2 Zeros."
+    } ]
+  }, {
+    "tStartMs": 805420,
+    "dDurationMs": 7580,
+    "segs": [ {
+      "utf8": "Half-an-hour later, at 0753, a new force was spotted approaching the Mobile Force: 16 Marine Corps Dauntless dive-bombers."
+    } ]
+  }, {
+    "tStartMs": 816370,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "9 Zeros set out to destroy them. The dive bombers pressed on and went for the Hiryu."
+    } ]
+  }, {
+    "tStartMs": 824020,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "Instead of going for a steep dive, ensuring accuracy, these planes conducted a glide bombing attack."
+    } ]
+  }, {
+    "tStartMs": 830470,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "They were clearly inexperienced pilots if this was their way of attacking."
+    } ]
+  }, {
+    "tStartMs": 836260,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "They managed to bracket the Hiryu with some near misses, but ultimately, no hits were scored."
+    } ]
+  }, {
+    "tStartMs": 841600,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "They lost half of their squadron, leaving only eight survivors to return to Midway. The Japanese lost only 1 Zero."
+    } ]
+  }, {
+    "tStartMs": 850280,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "Shortly after that attack, 15 Army B-17s attacked from 20,000 feet."
+    } ]
+  }, {
+    "tStartMs": 856220,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "At this altitude, the B-17s were immune to the anti-aircraft fire below them."
+    } ]
+  }, {
+    "tStartMs": 860900,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "However, this also greatly diminished their accuracy."
+    } ]
+  }, {
+    "tStartMs": 864360,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "They went after the Soryu, Hiryu, and Akagi."
+    } ]
+  }, {
+    "tStartMs": 867220,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "But the carrier's below them had more than enough time to conduct evasive maneuvers and avoid the bombs."
+    } ]
+  }, {
+    "tStartMs": 873520,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "There were no losses on either sides and no hits were scored; only near misses on the Soryu and Hiryu caused any alarm."
+    } ]
+  }, {
+    "tStartMs": 883040,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "A remarkable set of photographs were taken at this moment"
+    } ]
+  }, {
+    "tStartMs": 886360,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Here's the Hiryu dodging a couple of very near misses."
+    } ]
+  }, {
+    "tStartMs": 890320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Note the 3 fighters of Combat Air Patrol on her flight deck."
+    } ]
+  }, {
+    "tStartMs": 894420,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Here, we got the Akagi, Nagumo's flagship, while under attack."
+    } ]
+  }, {
+    "tStartMs": 899100,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Easily noticeable is the red Rising Sun painted on the deck."
+    } ]
+  }, {
+    "tStartMs": 905520,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "The third picture shows the Soryu. She's conducting a tight turn to starboard to avoid being hit."
+    } ]
+  }, {
+    "tStartMs": 913500,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Carrier doctrine and flight deck operations need to be commented on here."
+    } ]
+  }, {
+    "tStartMs": 918180,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "During attacks, the main priority was obviously the defense of the carriers."
+    } ]
+  }, {
+    "tStartMs": 922100,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "This came in 3 forms:"
+    } ]
+  }, {
+    "tStartMs": 929100,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Japanese anti-aircraft fire capabilities were very weak, so could not be counted on."
+    } ]
+  }, {
+    "tStartMs": 934860,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So this left fighter cover and evasive maneuvers as the main forms of defense for Nagumo's force."
+    } ]
+  }, {
+    "tStartMs": 940590,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "There was a downside though:"
+    } ]
+  }, {
+    "tStartMs": 942420,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "one, due to the evasive maneuvers that require wild and violent turns,"
+    } ]
+  }, {
+    "tStartMs": 946480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "it was obviously dangerous to spot or launch a squadron of aircraft while being bombed."
+    } ]
+  }, {
+    "tStartMs": 952350,
+    "dDurationMs": 3859,
+    "segs": [ {
+      "utf8": "So let's say you wanted to launch an airstrike, but then you found yourself under attack,"
+    } ]
+  }, {
+    "tStartMs": 956520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "it would actually be better to wait until the attack was over to then fly off for strike."
+    } ]
+  }, {
+    "tStartMs": 962300,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Second point: as these pictures show, Japanese flight decks had to be kept clear"
+    } ]
+  }, {
+    "tStartMs": 966740,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "anyways during air attacks for the replenishment of their own fighters."
+    } ]
+  }, {
+    "tStartMs": 971060,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "This was rather frequent since a Zero had about 7 seconds of canon ammunition."
+    } ]
+  }, {
+    "tStartMs": 976460,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Fighters were given priority because they did after all provide the most effective measure of defense."
+    } ]
+  }, {
+    "tStartMs": 981540,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Hence, the only activity you would see during attacks was the recovery, replenishment, and relaunching of these small packets of fighters:"
+    } ]
+  }, {
+    "tStartMs": 989520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "three at a time, sometimes six at a time."
+    } ]
+  }, {
+    "tStartMs": 993000,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "In other words. and the point I'm trying to drive in here was that, as a general rule,"
+    } ]
+  }, {
+    "tStartMs": 997040,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "you couldn't launch a strike while under attack."
+    } ]
+  }, {
+    "tStartMs": 1000100,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "So let's just say hypothetically then, at this moment, Nagumo wanted to send a strike."
+    } ]
+  }, {
+    "tStartMs": 1004660,
+    "dDurationMs": 7180,
+    "segs": [ {
+      "utf8": "It was prudent to just wait until the attack was over, maybe 15, 20 minutes, and then launch his aircraft."
+    } ]
+  }, {
+    "tStartMs": 1012980,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "So, maybe these attacks aren't being accurate, or deadly, but they are hindering flight operations."
+    } ]
+  }, {
+    "tStartMs": 1017700,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Keep this in mind as you will see the fateful consequences of it."
+    } ]
+  }, {
+    "tStartMs": 1023780,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Midway's final attack came at 0827."
+    } ]
+  }, {
+    "tStartMs": 1026720,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Eleven old Marine Corps Vindicator dive-bombers arrived from the southeast."
+    } ]
+  }, {
+    "tStartMs": 1031070,
+    "dDurationMs": 5209,
+    "segs": [ {
+      "utf8": "These were obsolete bombers and they wisely decided not to go for the formatively defended carriers."
+    } ]
+  }, {
+    "tStartMs": 1037040,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Instead, they selected the battleship Haruna as their target."
+    } ]
+  }, {
+    "tStartMs": 1040340,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "There were 11 fighters on Combat Air Patrol to oppose them."
+    } ]
+  }, {
+    "tStartMs": 1043100,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "The Americans persisted and made their dives on the Haruna, but once again, none of them scored a hit."
+    } ]
+  }, {
+    "tStartMs": 1048880,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Two Vindicators were lost during the attack."
+    } ]
+  }, {
+    "tStartMs": 1052660,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "In the midst of all of this, a submarine had been spotted and at 0825, it fired a torpedo at the battleship Kirishima."
+    } ]
+  }, {
+    "tStartMs": 1060800,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "The battleship dodged it by turning to port and the destroyer Arashi was detached and sent in pursuit to chase down the submarine."
+    } ]
+  }, {
+    "tStartMs": 1069360,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "As you can see, this had all been a narrow escape for the Japanese."
+    } ]
+  }, {
+    "tStartMs": 1073780,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "These series of close calls surely had everyone on the edge of their seats."
+    } ]
+  }, {
+    "tStartMs": 1078620,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "Although the Japanese were impressed by the determination of the attacks, they were not impressed by the skills of these pilots."
+    } ]
+  }, {
+    "tStartMs": 1085360,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Despite 52 planes being dedicated to the attack, not a single hit was achieved on the Japanese."
+    } ]
+  }, {
+    "tStartMs": 1091420,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "The biggest success these attacks had was that it had kept the Japanese off-balance from 0700 to 0830,"
+    } ]
+  }, {
+    "tStartMs": 1098300,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "which, as we will see, was a critical time for Nagumo."
+    } ]
+  }, {
+    "tStartMs": 1117360,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "During the early morning attacks on the Kido Butai,"
+    } ]
+  }, {
+    "tStartMs": 1119880,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "a more serious situation was developing in the high command with Nagumo and his staff."
+    } ]
+  }, {
+    "tStartMs": 1125380,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "Shortly after 0700 hours, Nagumo received Tomonaga's report that a second strike was needed."
+    } ]
+  }, {
+    "tStartMs": 1132760,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "The news was unpleasant, but had actually been expected."
+    } ]
+  }, {
+    "tStartMs": 1136840,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "How could a force of 72 bombers, half of which were armed with medium sized bombs,"
+    } ]
+  }, {
+    "tStartMs": 1141720,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "be expected to neutralize a fortified base?"
+    } ]
+  }, {
+    "tStartMs": 1146220,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "He could allow Tomonaga's flight to return, refuel and rearm, and then send them back."
+    } ]
+  }, {
+    "tStartMs": 1150660,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "But, of course, this would take hours to complete, allowing the Americans to lick their wounds and reform their defense."
+    } ]
+  }, {
+    "tStartMs": 1157180,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "This would contribute to further casualties."
+    } ]
+  }, {
+    "tStartMs": 1160160,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Or, alternatively, he could strike the Americans while they were still down."
+    } ]
+  }, {
+    "tStartMs": 1164380,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "He could use his reserve aircraft, who, at the moment, stood idly by doing nothing."
+    } ]
+  }, {
+    "tStartMs": 1169300,
+    "dDurationMs": 8140,
+    "segs": [ {
+      "utf8": "But these were exclusively off the table because Yamamoto had ordered them to be reserved in case of an enemy carrier task force appearing."
+    } ]
+  }, {
+    "tStartMs": 1177960,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "But, surely Yamamoto wasn't expecting Nagumo to fight an entire battle with only half his strength?"
+    } ]
+  }, {
+    "tStartMs": 1183820,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "I mean, come on, this was tantamount to making Nagumo fight the entire battle with one arm tied behind his back."
+    } ]
+  }, {
+    "tStartMs": 1190980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "This right here had been the fault in the whole Midway plan."
+    } ]
+  }, {
+    "tStartMs": 1194400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "There simply weren't enough planes."
+    } ]
+  }, {
+    "tStartMs": 1196000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "There weren't enough planes to do the dual mission, to both attack Midway and to keep a reserve in case enemy carriers appeared."
+    } ]
+  }, {
+    "tStartMs": 1206040,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "So, Nagumo looked at the maps, and by now, his air searches were reaching their maximum range"
+    } ]
+  }, {
+    "tStartMs": 1210380,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "and so far, nothing had been found or reported."
+    } ]
+  }, {
+    "tStartMs": 1214440,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "So, why not use these planes for the second strike?"
+    } ]
+  }, {
+    "tStartMs": 1217820,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "Let's not forget that, at this moment, a Maverick plane from Midway had just tried to suicide crash into his bridge."
+    } ]
+  }, {
+    "tStartMs": 1224980,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "Midway was clearly still a threat and as long as his airbase was operational, it posed a danger to his carriers."
+    } ]
+  }, {
+    "tStartMs": 1232200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "This is what probably prompted Nagumo's consequent decision:"
+    } ]
+  }, {
+    "tStartMs": 1235640,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Midway had to be neutralized."
+    } ]
+  }, {
+    "tStartMs": 1237900,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "Thus, at 0715, Nagumo went against Yamamoto's orders and ordered the rearmament of his reserve aircraft."
+    } ]
+  }, {
+    "tStartMs": 1246340,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "The rearming process began in the hangars below. Torpedoes were removed and land bombs installed."
+    } ]
+  }, {
+    "tStartMs": 1252760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The dive bombers weren't affected by this because they were armed once they had been spotted on the flight decks."
+    } ]
+  }, {
+    "tStartMs": 1258460,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "So, in reality, this chaotic, fast-paced rearming process was happening only in the hangars of the First Carrier Division."
+    } ]
+  }, {
+    "tStartMs": 1266240,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "All in all, this process was going to take about 1.5hrs to complete."
+    } ]
+  }, {
+    "tStartMs": 1272480,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Then, 30 minutes into the rearmament process, at 0745, Nagumo received a report."
+    } ]
+  }, {
+    "tStartMs": 1278620,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "That Tone plane, the one that had been delayed, ran across an American force and"
+    } ]
+  }, {
+    "tStartMs": 1283500,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "sights what appears to be ten enemy surface units."
+    } ]
+  }, {
+    "tStartMs": 1289660,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Nagumo was stunned. He quickly cancelled and reversed the rearmament order and took stock of the situation."
+    } ]
+  }, {
+    "tStartMs": 1296560,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It will basically boil down to two options for him:"
+    } ]
+  }, {
+    "tStartMs": 1300080,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Send an immediate strike right now or send the strike after Tomanaga's planes were recovered."
+    } ]
+  }, {
+    "tStartMs": 1305760,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "This is what is most commonly known as \"Nagumo's Dilemma.\""
+    } ]
+  }, {
+    "tStartMs": 1309540,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "So, I will ask the viewer to put themselves in Nagumo's shoes for a while to better understand his conundrum."
+    } ]
+  }, {
+    "tStartMs": 1315800,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "I'll let you know it's not as simple as it looks - many factors have to be considered."
+    } ]
+  }, {
+    "tStartMs": 1320360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Keep in mind that you would have had only 15 minutes to decide on the correct course of action"
+    } ]
+  }, {
+    "tStartMs": 1326680,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Let's first dive into the aggressive option, which is attacking immediately."
+    } ]
+  }, {
+    "tStartMs": 1331780,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "First off, the sighting didn't even make sense."
+    } ]
+  }, {
+    "tStartMs": 1335920,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Based on the location, Tone No. 4 plane was never supposed to come across it."
+    } ]
+  }, {
+    "tStartMs": 1340420,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Either he wasn't where he was supposed to be or the task force location was incorrect."
+    } ]
+  }, {
+    "tStartMs": 1346220,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "This brings up the composition factor - it was unknown. What did ten ships mean?"
+    } ]
+  }, {
+    "tStartMs": 1351340,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "It could be a carrier task force or they could simply be auxilary ships."
+    } ]
+  }, {
+    "tStartMs": 1357380,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Nagumo didn't know and this was unsettling."
+    } ]
+  }, {
+    "tStartMs": 1360340,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "What if he sends a strike and the sighting proved to be just destroyers or support ships?"
+    } ]
+  }, {
+    "tStartMs": 1365740,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "This had actually happened to Admiral Takagi a month earlier in the Battle of Coral Sea."
+    } ]
+  }, {
+    "tStartMs": 1370180,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Nagumo did not want a repeat of that mistake."
+    } ]
+  }, {
+    "tStartMs": 1374720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "But there were two additional alarming clues about the sighting."
+    } ]
+  }, {
+    "tStartMs": 1377960,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Why was there force 240 miles northeast of Midway?"
+    } ]
+  }, {
+    "tStartMs": 1383360,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There would be no reason for a force to be in this location unless it contained a carrier."
+    } ]
+  }, {
+    "tStartMs": 1388360,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "And if it was a carrier, it would be in a prime position to unleash an attack on the Japanese's flank."
+    } ]
+  }, {
+    "tStartMs": 1394420,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "And more importantly, why was it steering into the wind?"
+    } ]
+  }, {
+    "tStartMs": 1398120,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "It was known that it was procedure for aircraft carriers to steam into the wind when launching the aircraft."
+    } ]
+  }, {
+    "tStartMs": 1404680,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Nagumo and his staff apparently saw the validity of these two clues"
+    } ]
+  }, {
+    "tStartMs": 1407700,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "but in the end, came to the conclusion that it was most likely just a surface force."
+    } ]
+  }, {
+    "tStartMs": 1415060,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Second, the rearmament process wasn't as devastating as many believe."
+    } ]
+  }, {
+    "tStartMs": 1419280,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "The Val dive-bombers weren't affected by this, only the Kates."
+    } ]
+  }, {
+    "tStartMs": 1423060,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "34 had been armed with torpedoes, but now, only 19 were ready."
+    } ]
+  }, {
+    "tStartMs": 1426960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "15 have been switched to land bombs."
+    } ]
+  }, {
+    "tStartMs": 1430040,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "So instead of having a full strike complement of 78 planes, he now only had 64 planes properly armed."
+    } ]
+  }, {
+    "tStartMs": 1437440,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Although, that's only a difference of 15."
+    } ]
+  }, {
+    "tStartMs": 1439920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "64 planes were more than enough to sink any task force encountered."
+    } ]
+  }, {
+    "tStartMs": 1444680,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Here's a third factor: time."
+    } ]
+  }, {
+    "tStartMs": 1447340,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Nagumo was restricted on time because Tomonaga force would soon be arriving at about 0815 and it would be low on fuel"
+    } ]
+  }, {
+    "tStartMs": 1454380,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "meaning they had to be landed quickly unless they were forced to ditch sea."
+    } ]
+  }, {
+    "tStartMs": 1459360,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "This was the worst timing ever for Nagumo."
+    } ]
+  }, {
+    "tStartMs": 1462640,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "Japanese flight decks were restricted in that they could only do one operation at a time. They could either launch, recover, or spot aircraft."
+    } ]
+  }, {
+    "tStartMs": 1470660,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "Thus, Nagumo had to decide: either launch his counter strike now, or recover the Midway strike."
+    } ]
+  }, {
+    "tStartMs": 1477040,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "The fuel situation was troubling."
+    } ]
+  }, {
+    "tStartMs": 1479240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "If he didn't want to lose any more planes through ditching,"
+    } ]
+  }, {
+    "tStartMs": 1481720,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "he needed to finish the recovery by 0845 at the latest."
+    } ]
+  }, {
+    "tStartMs": 1486740,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Why 0845?"
+    } ]
+  }, {
+    "tStartMs": 1488640,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Well, let's take a look and work backwards to calculate the time constraints."
+    } ]
+  }, {
+    "tStartMs": 1493140,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "It's 0745 now. Tomonaga's planes had enough fuel to fly overhead until about 0915."
+    } ]
+  }, {
+    "tStartMs": 1499580,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "It would take 20 to 30 minutes to land them."
+    } ]
+  }, {
+    "tStartMs": 1503260,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "That makes 0845 the threshold."
+    } ]
+  }, {
+    "tStartMs": 1505540,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "You'd better finish your launching process by this time or you'll start losing aircraft by ditching."
+    } ]
+  }, {
+    "tStartMs": 1510460,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "This leaves Nagumo with an hour of leeway, and it took about 45 minutes to spot and launch an air strike."
+    } ]
+  }, {
+    "tStartMs": 1516520,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So, if he wants to take this opportunity to launch an attack with what he's got, he can -"
+    } ]
+  }, {
+    "tStartMs": 1521740,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "but, he would have to start the process by 0800 at the latest."
+    } ]
+  }, {
+    "tStartMs": 1526480,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Thus, this is the 15 minute window Nagumo got to make a decision."
+    } ]
+  }, {
+    "tStartMs": 1531240,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Geez, talk about being under pressure, huh?"
+    } ]
+  }, {
+    "tStartMs": 1534300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Was an attack feasible? Yes, it was."
+    } ]
+  }, {
+    "tStartMs": 1537660,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "It will be a tight squeeze, but if he began now by 0800, by 0845, his counter strike would have taken off"
+    } ]
+  }, {
+    "tStartMs": 1543740,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "and Tomonaga's planes, who will be flying on fumes at this point, will then land."
+    } ]
+  }, {
+    "tStartMs": 1549160,
+    "dDurationMs": 7580,
+    "segs": [ {
+      "utf8": "However, scratch that hypothetical because at 0753, the Kido Butai came under attack by those dive-bombers."
+    } ]
+  }, {
+    "tStartMs": 1558020,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Theoretically, he could still launch a strike while under attack,"
+    } ]
+  }, {
+    "tStartMs": 1561100,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "although this was rarely done in combat and it was extremely risky."
+    } ]
+  }, {
+    "tStartMs": 1564960,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "But one thing was for sure: that 45-minute launching process would have definitely stretched out closer to the length of an hour."
+    } ]
+  }, {
+    "tStartMs": 1572080,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "As a result, the possibility of Tomonaga's air group having to commit a mass ditch would become likely."
+    } ]
+  }, {
+    "tStartMs": 1578420,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Disposing of perhaps dozens of aircraft at the start of a battle was unthinkable."
+    } ]
+  }, {
+    "tStartMs": 1585240,
+    "dDurationMs": 6260,
+    "segs": [ {
+      "utf8": "So, Nagumo had to decide: does he attack this unknown target based in this sketchy, unconfirmed location,"
+    } ]
+  }, {
+    "tStartMs": 1591500,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "with some of his planes carrying the wrong ordnance,"
+    } ]
+  }, {
+    "tStartMs": 1594920,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "and risk losing additional planes by unnecessary ditching?"
+    } ]
+  }, {
+    "tStartMs": 1598740,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Or, he could simply wait until Tomonaga's strike had landed and"
+    } ]
+  }, {
+    "tStartMs": 1603000,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "then after recovery, launch a full balanced strike and whatever this target is with the proper ordnance."
+    } ]
+  }, {
+    "tStartMs": 1609900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "This was clearly the ultra-safe choice that offered no unnecessary risk."
+    } ]
+  }, {
+    "tStartMs": 1614440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "But what made Nagumo think he still had time?"
+    } ]
+  }, {
+    "tStartMs": 1617340,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Well, if we take the reported position at face-value,"
+    } ]
+  }, {
+    "tStartMs": 1620280,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "the location meant that even if this force contained a carrier, it wouldn't have been within strike range of an escorted strike."
+    } ]
+  }, {
+    "tStartMs": 1627820,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "The Americans would have to close the distance and then launch a strike"
+    } ]
+  }, {
+    "tStartMs": 1631280,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "which meant it wouldn't reach Nagumo's carriers until about 1015, some two hours from now."
+    } ]
+  }, {
+    "tStartMs": 1637240,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "Thus, Nagumo would have the time to launch his own counter strike before he himself was reached."
+    } ]
+  }, {
+    "tStartMs": 1644860,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So I ask the viewer to press pause and consider the options."
+    } ]
+  }, {
+    "tStartMs": 1648700,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Honestly, with all this information at hand, what would you have done?"
+    } ]
+  }, {
+    "tStartMs": 1659820,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "With the conservative mindset that Nagumo had, it's not too difficult to imagine which course of action he took."
+    } ]
+  }, {
+    "tStartMs": 1666000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "He went for the safest option."
+    } ]
+  }, {
+    "tStartMs": 1668480,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "He would recover his planes first, and then launch a powerful, well-balanced strike at the enemy."
+    } ]
+  }, {
+    "tStartMs": 1673800,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Nagumo opted for this choice because it promised mass and coordination over anything else."
+    } ]
+  }, {
+    "tStartMs": 1678540,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "For as much as Nagumo has been criticized, his decision was doctrinal."
+    } ]
+  }, {
+    "tStartMs": 1683780,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "If any other Japanese commander had been in his place, they would have also made the same decision."
+    } ]
+  }, {
+    "tStartMs": 1695680,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "So, let's continue the saga."
+    } ]
+  }, {
+    "tStartMs": 1697510,
+    "dDurationMs": 6079,
+    "segs": [ {
+      "utf8": "Down below, the crews in the hangars worked feverishly to change the Kates with land bombs back again to torpedoes."
+    } ]
+  }, {
+    "tStartMs": 1704400,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "In the midst of all the chaos, the bombs were not stored away safely."
+    } ]
+  }, {
+    "tStartMs": 1708380,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Instead, they were laid haphazardly around the hangar."
+    } ]
+  }, {
+    "tStartMs": 1711920,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Above in the bridge, Nagumo waited impatiently for further information and"
+    } ]
+  }, {
+    "tStartMs": 1716020,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "it wasn't until 0820 that identification of the surface units finally came through."
+    } ]
+  }, {
+    "tStartMs": 1726020,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "This was dreadful news."
+    } ]
+  }, {
+    "tStartMs": 1728560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Well, you may ask, why not attack now that you have definite confirmation of a carrier?"
+    } ]
+  }, {
+    "tStartMs": 1734680,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Well, it would still take 45 minutes to get the aircraft out of the hangar, spotted, and launched."
+    } ]
+  }, {
+    "tStartMs": 1741180,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Meanwhile, Tomonaga's air group would all run out of fuel and crash into the sea."
+    } ]
+  }, {
+    "tStartMs": 1745420,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Just there, you lost 97 planes."
+    } ]
+  }, {
+    "tStartMs": 1749000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Also, the strike would have to go unescorted since all the fighters"
+    } ]
+  }, {
+    "tStartMs": 1752320,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "have been brought up to assist in the air defense of the mobile force during the recent attacks."
+    } ]
+  }, {
+    "tStartMs": 1757380,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "So, the option of launching an unescorted strike, which was bound to receive heavy losses,"
+    } ]
+  }, {
+    "tStartMs": 1762100,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and lose 97 planes through mass ditching"
+    } ]
+  }, {
+    "tStartMs": 1764620,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "wasn't seriously going to be considered by Nagumo."
+    } ]
+  }, {
+    "tStartMs": 1768380,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Basically, it was too late for Nagumo to attack now."
+    } ]
+  }, {
+    "tStartMs": 1771060,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "He had made his bed and now he had to lay in it."
+    } ]
+  }, {
+    "tStartMs": 1773640,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "He would have to wait."
+    } ]
+  }, {
+    "tStartMs": 1776440,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Thankfully for him, the last morning attacks die down by about 0837."
+    } ]
+  }, {
+    "tStartMs": 1780180,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "The Kido Butai finally got a break from all the morning attacks and could now begin recovering the aircraft."
+    } ]
+  }, {
+    "tStartMs": 1785520,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "From 0837 to 0910, Tomonaga's strike force was safely landed."
+    } ]
+  }, {
+    "tStartMs": 1791220,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "While one can sympathize with the predicament Nagumo is in, there was a decision that was questionable."
+    } ]
+  }, {
+    "tStartMs": 1796860,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "The Kido Butai changed course to the northeast after recovering the air strike."
+    } ]
+  }, {
+    "tStartMs": 1800880,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Why? This was not necessary."
+    } ]
+  }, {
+    "tStartMs": 1804340,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Japanese planes out-range the Americans - there was no reason to close the gap."
+    } ]
+  }, {
+    "tStartMs": 1808320,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "It would just make it quicker for your opponent to reach you."
+    } ]
+  }, {
+    "tStartMs": 1813120,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "A wiser decision would have been to head northwest, still allowing you to strike back,"
+    } ]
+  }, {
+    "tStartMs": 1817420,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "but keeping you at the extreme striking range of the Americans."
+    } ]
+  }, {
+    "tStartMs": 1821800,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "With the last of his aircraft recovered, Nagumo was now free to begin spotting his planes on the decks."
+    } ]
+  }, {
+    "tStartMs": 1827500,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "It was looking good for Nagumo. All he needed now was a 45-minute, uninterrupted window,"
+    } ]
+  }, {
+    "tStartMs": 1831740,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and a powerful counter-strike will be dealt to the Americans."
+    } ]
+  }, {
+    "tStartMs": 1836680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "However, events would soon foil his high hopes."
+    } ]
+  }, {
+    "tStartMs": 1849920,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Off to the north, enemy aircraft were spotted."
+    } ]
+  }, {
+    "tStartMs": 1853060,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "Damn. Instead of preparing to launch a strike, Nagumo would now be forced into evasive maneuvers"
+    } ]
+  }, {
+    "tStartMs": 1858600,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and focus on protecting his carriers from the forthcoming assault."
+    } ]
+  }, {
+    "tStartMs": 1863120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "These 15 Devastator torpedo-bombers were coming in and with no escorts."
+    } ]
+  }, {
+    "tStartMs": 1867200,
+    "dDurationMs": 3619,
+    "segs": [ {
+      "utf8": "They would be easy prey for the 30 fighters that were protecting the mobile force."
+    } ]
+  }, {
+    "tStartMs": 1871580,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "The four carriers turn to port to present their stern to the incoming attackers."
+    } ]
+  }, {
+    "tStartMs": 1875780,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "What followed next was a stern pursuit which put the Devastators at a disadvantage because of their slow speed."
+    } ]
+  }, {
+    "tStartMs": 1881660,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "They could barely break 100 knots while carrying their ordnance."
+    } ]
+  }, {
+    "tStartMs": 1884920,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "The fighters swarmed over them with impunity and they were cut to pieces."
+    } ]
+  }, {
+    "tStartMs": 1890000,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "Two-thirds were intercepted before they were even close to making their run-ins."
+    } ]
+  }, {
+    "tStartMs": 1894280,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "Only 3 got close enough to threaten the Soryu, but ultimately, only 1, just 1 of the 15, was able to launch its torpedo."
+    } ]
+  }, {
+    "tStartMs": 1905120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "However, not only did his torpedo miss, but the pilot was shot down himself."
+    } ]
+  }, {
+    "tStartMs": 1912980,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "The attack had lasted about 15 minutes."
+    } ]
+  }, {
+    "tStartMs": 1916100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Although the Japanese probably didn't know it at the moment,"
+    } ]
+  }, {
+    "tStartMs": 1918320,
+    "dDurationMs": 4739,
+    "segs": [ {
+      "utf8": "they had just destroyed an entire squadron and there were no hits to stand for it."
+    } ]
+  }, {
+    "tStartMs": 1923970,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "There would only be 1 survivor of the 30 aircrew who participated in this heroic attack."
+    } ]
+  }, {
+    "tStartMs": 1935600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But as soon as that attack was over, at 0940, another one began, this time from the south."
+    } ]
+  }, {
+    "tStartMs": 1941160,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "It was at this time that Nagumo had to have realized that his mobile force was in serious trouble."
+    } ]
+  }, {
+    "tStartMs": 1948120,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "It was imperative than Nagumo get his planes off the deck before being hit himself."
+    } ]
+  }, {
+    "tStartMs": 1952860,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "All he needed was a 45-minute window to launch an airstrike. But, during attacks,"
+    } ]
+  }, {
+    "tStartMs": 1957710,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "he couldn't launch a strike because his flight decks were solely occupied with the replenishment of the Combat Air Patrol fighters."
+    } ]
+  }, {
+    "tStartMs": 1965100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "To add to the mess, he was in a dangerous state, because at the moment, he was at his most vulnerable."
+    } ]
+  }, {
+    "tStartMs": 1970320,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "His planes were fully fueled, armed, and parked densely within the hangars of his carriers."
+    } ]
+  }, {
+    "tStartMs": 1976700,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "More disturbingly, it was clear that these were carrier-based bombers."
+    } ]
+  }, {
+    "tStartMs": 1981180,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Obviously, the reported location of the carriers had been wrong this whole time."
+    } ]
+  }, {
+    "tStartMs": 1985380,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "They had actually been 55 miles closer when they were spotted at 0728."
+    } ]
+  }, {
+    "tStartMs": 1990420,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Thus, his mobile force had been within American strike range this entire time."
+    } ]
+  }, {
+    "tStartMs": 1995780,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "This is a clear example of the fog of war."
+    } ]
+  }, {
+    "tStartMs": 1999300,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Just like at Coral Sea, the Japanese commander had made a decision based on the information at hand,"
+    } ]
+  }, {
+    "tStartMs": 2004970,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "although unbeknownst to him, the information had been incorrect."
+    } ]
+  }, {
+    "tStartMs": 2009440,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "Sometimes, you can just plain out have bad luck."
+    } ]
+  }, {
+    "tStartMs": 2012440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "One thing was for sure, Japanese scout planes needed to practice their ship identification and spotting skills."
+    } ]
+  }, {
+    "tStartMs": 2019360,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "Oh well, maybe Nagumo can dodge this attack, as well."
+    } ]
+  }, {
+    "tStartMs": 2024140,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "The 14 torpedo-bombers came in unescorted."
+    } ]
+  }, {
+    "tStartMs": 2027740,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "The two divisions had selected the Kaga as their target and they were trying to do an anvil attack on the slow carrier."
+    } ]
+  }, {
+    "tStartMs": 2033460,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "But, it would be difficult to do with their slow lumbering planes."
+    } ]
+  }, {
+    "tStartMs": 2037240,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Initially, they came in unopposed, but then, Zeros swarmed over them and the rightmost division took the brunt of the attack."
+    } ]
+  }, {
+    "tStartMs": 2044780,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Two torpedoes were launched but the Kaga dodged them."
+    } ]
+  }, {
+    "tStartMs": 2050560,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "With additional Zeros added to the fray, only 3 torpedoes from the other division were released,"
+    } ]
+  }, {
+    "tStartMs": 2055420,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "but just as before, the Kaga skillfully avoided them, as well."
+    } ]
+  }, {
+    "tStartMs": 2061080,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Once again, an attack had been pressed on gallantly by the Americans, but it had been ineffective."
+    } ]
+  }, {
+    "tStartMs": 2066640,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "9 of the 14 bombers were shot down and, of these 5 survivors, 1 had to ditch on the return trip."
+    } ]
+  }, {
+    "tStartMs": 2073020,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Only 1 Zero was lost."
+    } ]
+  }, {
+    "tStartMs": 2078300,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "When that attack finished, guess what? Another one began! You have got to be kidding!"
+    } ]
+  }, {
+    "tStartMs": 2084580,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "For the last 50 minutes, these piecemeal attacks, although as ineffective as they were,"
+    } ]
+  }, {
+    "tStartMs": 2089360,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "were delaying the launch of the desperately needed Japanese counter-strike."
+    } ]
+  }, {
+    "tStartMs": 2095900,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "And, more frightening, judging this to be the third torpedo squadron, there definitely had to be more than one carrier."
+    } ]
+  }, {
+    "tStartMs": 2103060,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Actually, there wasn't just one; there were three."
+    } ]
+  }, {
+    "tStartMs": 2106960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Boy, was Nagumo in trouble."
+    } ]
+  }, {
+    "tStartMs": 2109980,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Also, the Japanese must have asked themselves at this point:"
+    } ]
+  }, {
+    "tStartMs": 2112920,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "where were the dive-bombers?"
+    } ]
+  }, {
+    "tStartMs": 2114620,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "If the Devastators had made it this far, an imminent dive-bombing attack was sure to come."
+    } ]
+  }, {
+    "tStartMs": 2123060,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "But something was different with this forthcoming attack."
+    } ]
+  }, {
+    "tStartMs": 2125960,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "These 12 torpedo-bombers came in with an escort of 6 Wildcats."
+    } ]
+  }, {
+    "tStartMs": 2130500,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "The Zeros set out to intercept them, but little did they know, they were in for a surprise."
+    } ]
+  }, {
+    "tStartMs": 2138460,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "For the first time in the war, the famous \"Thach Weave\" was used, named so by its creator, Jimmy Thach, who was leading the division."
+    } ]
+  }, {
+    "tStartMs": 2145800,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "The planes would start in a Beam Defense Position."
+    } ]
+  }, {
+    "tStartMs": 2148720,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Once a Zero was on the tale of a Wildcat, the two sections would turn towards each other."
+    } ]
+  }, {
+    "tStartMs": 2153000,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "This allowed one section to get a head-on attack on the chasing Zero."
+    } ]
+  }, {
+    "tStartMs": 2157600,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "It would either kill or brush off the Zeros on your partner's tail."
+    } ]
+  }, {
+    "tStartMs": 2161520,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "The process could easily be repeated."
+    } ]
+  }, {
+    "tStartMs": 2164140,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "This defensive maneuver stunned the Zero pilots."
+    } ]
+  }, {
+    "tStartMs": 2167320,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "Up to this point in the war, the Japanese pilots would always come out victorious in dogfights against their opponents."
+    } ]
+  }, {
+    "tStartMs": 2172960,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But now, they were the ones getting beaten."
+    } ]
+  }, {
+    "tStartMs": 2175600,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "4 Zeros were shot down and only 1 Wildcat was lost during this interception."
+    } ]
+  }, {
+    "tStartMs": 2183920,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Thach, in his fighter squadron alone, attracted the attention of over 20 Zeros."
+    } ]
+  }, {
+    "tStartMs": 2189600,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Many things have to be acknowledged at this point."
+    } ]
+  }, {
+    "tStartMs": 2192100,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "First, the escort had done an excellent job."
+    } ]
+  }, {
+    "tStartMs": 2195040,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "11 of the 12 Devastators were actually able to push through for their run-ins and this posed a considerable threat to the carriers."
+    } ]
+  }, {
+    "tStartMs": 2203900,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "This caused the remaining Zeros, who were looking up for any nearby dive-bombers,"
+    } ]
+  }, {
+    "tStartMs": 2207720,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "to descend from their high altitude patrols to shoot down these intruders."
+    } ]
+  }, {
+    "tStartMs": 2212800,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "Therefore, as we can see, the northeast sector became a magnet, sucking in all the fighters on Combat Air Patrol."
+    } ]
+  }, {
+    "tStartMs": 2219260,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Disturbingly, this had the effect of leaving the carriers with no overhead protection."
+    } ]
+  }, {
+    "tStartMs": 2224360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "What we are seeing here is a dangerous example of \"target fixation.\""
+    } ]
+  }, {
+    "tStartMs": 2228560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "All eyes were glued on this developing threat that the situational awareness,"
+    } ]
+  }, {
+    "tStartMs": 2232880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that is keeping a lookout for any other threats, was forgotten."
+    } ]
+  }, {
+    "tStartMs": 2236500,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "This was leaving the Kido Butai in a vulnerable state."
+    } ]
+  }, {
+    "tStartMs": 2244520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "The American bombers carried on, but with fresh Zeros diving from above,"
+    } ]
+  }, {
+    "tStartMs": 2248200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "the Devastator stood little chance to prevail."
+    } ]
+  }, {
+    "tStartMs": 2250620,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "The same story played out and over half were shot down."
+    } ]
+  }, {
+    "tStartMs": 2257840,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Eventually, only 5 would end up launching at the Hiryu, but the Japanese carrier successfully avoided them."
+    } ]
+  }, {
+    "tStartMs": 2263430,
+    "dDurationMs": 6199,
+    "segs": [ {
+      "utf8": "The end result would be that 10 of the 12 torpedo-bombers were lost, and 1 of their 4 escorts, for no hits."
+    } ]
+  }, {
+    "tStartMs": 2270240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "This last torpedo attack probably accounted for about seven fighters."
+    } ]
+  }, {
+    "tStartMs": 2279080,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "The time was 1020."
+    } ]
+  }, {
+    "tStartMs": 2281320,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "The torpedo attack was halfway through and, as expected, not one had struck home."
+    } ]
+  }, {
+    "tStartMs": 2286100,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "It was a testament to the prowess of the Japanese pilots."
+    } ]
+  }, {
+    "tStartMs": 2289320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "The Kido Butai had been in combat for the last three hours and had avoided all the bombs and torpedoes"
+    } ]
+  }, {
+    "tStartMs": 2294000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "thrown at it, with its evasive maneuvers and its skilled fighters."
+    } ]
+  }, {
+    "tStartMs": 2298760,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Nagumo had been quite lucky, actually."
+    } ]
+  }, {
+    "tStartMs": 2300960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "His mobile force, with no radar, had shot down 53 aircraft at this point,"
+    } ]
+  }, {
+    "tStartMs": 2305240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and had lost only 11 fighters itself, and there wasn't even a scratch on his ships."
+    } ]
+  }, {
+    "tStartMs": 2311760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But, it was precisely at this moment when all the fighters were down below"
+    } ]
+  }, {
+    "tStartMs": 2315520,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "fighting off this latest assault in the northeast sector that a new threat emerged high above."
+    } ]
+  }, {
+    "tStartMs": 2321740,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "50 dive-bombers were approaching overhead, undetected and unopposed, and coming from two different directions"
+    } ]
+  }, {
+    "tStartMs": 2328920,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Nagumo's luck had finally run out."
+    } ]
+  }, {
+    "tStartMs": 2351520,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "The Kido Butai had never been faced with defeat before."
+    } ]
+  }, {
+    "tStartMs": 2354500,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "In the previous 6 months, they had ruled the seas."
+    } ]
+  }, {
+    "tStartMs": 2357260,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "They had sunk 5 capital ships, a light carrier, 2 cruisers, and half-a-dozen destroyers."
+    } ]
+  }, {
+    "tStartMs": 2362800,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "But now, their unbroken string of victories would come to an end."
+    } ]
+  }, {
+    "tStartMs": 2367720,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "These dive-bombers weren't rookies like the Midway-based bombers."
+    } ]
+  }, {
+    "tStartMs": 2370560,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "These were the \"A-team\" of the Pacific Fleet and, with no opposition, the result would be deadly."
+    } ]
+  }, {
+    "tStartMs": 2376520,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "From the south came 2 squadrons and they all teamed up on 1 carrier: the enormous Kaga."
+    } ]
+  }, {
+    "tStartMs": 2382120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "30 dive-bombers began their steep dives from 19,000 feet."
+    } ]
+  }, {
+    "tStartMs": 2386020,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "The Kaga was practically taken by surprise and she received four hits,"
+    } ]
+  }, {
+    "tStartMs": 2390140,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "one of which landed on the bridge, killing the captain and his staff."
+    } ]
+  }, {
+    "tStartMs": 2394000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "The planes, being fully fueled and armed inside the hangar, ignited,"
+    } ]
+  }, {
+    "tStartMs": 2396760,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "causing a chain of secondary explosions. She quickly became an inferno."
+    } ]
+  }, {
+    "tStartMs": 2403060,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "The Soryu was attacked by 13 dive-bombers."
+    } ]
+  }, {
+    "tStartMs": 2405880,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "3 bombs were placed evenly along the center her flight deck."
+    } ]
+  }, {
+    "tStartMs": 2409240,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "All her hangars were hit and, just like the Kaga, the bombs set off a chain of explosions inside the ship."
+    } ]
+  }, {
+    "tStartMs": 2415300,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Fires immediately engulfed the carrier."
+    } ]
+  }, {
+    "tStartMs": 2418780,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "It looked as though the Akagi might get off scot-free."
+    } ]
+  }, {
+    "tStartMs": 2421720,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "However, when the Kaga was being pummeled, 3 dive-bombers peeled off at the last moment"
+    } ]
+  }, {
+    "tStartMs": 2426620,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "and went for her and, with pure skill, a bomb was dropped in her upper hangar."
+    } ]
+  }, {
+    "tStartMs": 2430640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "It didn't seem serious at first. A carrier this big could have certainly survived this single hit."
+    } ]
+  }, {
+    "tStartMs": 2436340,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "But, just like her sister ships, the planes and bombs inside her hangars began to detonate."
+    } ]
+  }, {
+    "tStartMs": 2441830,
+    "dDurationMs": 6439,
+    "segs": [ {
+      "utf8": "Thereafter, fire spread uncontrollably and the Akagi, the flagship of the Kido Butai, was doomed."
+    } ]
+  }, {
+    "tStartMs": 2461360,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "In less than five minutes, history had changed."
+    } ]
+  }, {
+    "tStartMs": 2464620,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "The powerful Kido Butai had been wrecked."
+    } ]
+  }, {
+    "tStartMs": 2467500,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Only one had been able to escape destruction:"
+    } ]
+  }, {
+    "tStartMs": 2469820,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "the Hiryu."
+    } ]
+  }, {
+    "tStartMs": 2471440,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "The outcome of the battle now rested upon the shoulders of the Hiryu and her elite pilots."
+    } ]
+  } ]
+}

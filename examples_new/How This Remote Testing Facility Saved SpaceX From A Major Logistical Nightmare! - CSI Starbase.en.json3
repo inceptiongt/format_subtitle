@@ -1,0 +1,5497 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 4560,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "There's no doubt about it. 2025 has been a bit \nof a rough year for the Starship program. After  "
+    } ]
+  }, {
+    "tStartMs": 10560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "three consecutive inflight failures, hopes \nwere high that the next attempt would see  "
+    } ]
+  }, {
+    "tStartMs": 14960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "SpaceX finally solve the problems that have \nprevented the upgraded version two ship from  "
+    } ]
+  }, {
+    "tStartMs": 19200,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "making it past SECO. I think it's safe to say \nthat the last thing any of us ever expected was  "
+    } ]
+  }, {
+    "tStartMs": 24400,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "for the next ship in line to fail a full two \nweeks before reaching second stage ignition."
+    } ]
+  }, {
+    "tStartMs": 32640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "This was incredibly shocking to say the least. \nThe only thing that could possibly be worse than  "
+    } ]
+  }, {
+    "tStartMs": 37120,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "the setbacks caused by the unexpected loss of \na vehicle is suffering catastrophic damage to  "
+    } ]
+  }, {
+    "tStartMs": 42080,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "critical ground infrastructure in the process. \nIf not for unprecedented levels of ambition  "
+    } ]
+  }, {
+    "tStartMs": 46720,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and creativity, this could have easily caused a \nfour to six month delay to the program while they  "
+    } ]
+  }, {
+    "tStartMs": 51760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "rebuilt everything that was destroyed. Thankfully, \nthey were able to come up with a way to enable  "
+    } ]
+  }, {
+    "tStartMs": 56080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the ship to perform a static fire test on the \norbital launch mount. Even though they managed  "
+    } ]
+  }, {
+    "tStartMs": 60160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "to successfully avoid the worst case scenario, \nthis event really highlights how important this  "
+    } ]
+  }, {
+    "tStartMs": 64640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "testing facility is to the Starship R\u0026D program. \nWhile the reasons for that are fairly obvious, I  "
+    } ]
+  }, {
+    "tStartMs": 69680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "realized that if there was ever a perfect time to \ndocument the evolution of the Massey's test site,  "
+    } ]
+  }, {
+    "tStartMs": 74160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "it's probably now. So today we're going to explore \nhow this remote stretch of land saved SpaceX from  "
+    } ]
+  }, {
+    "tStartMs": 79200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "a major logistical nightmare and became one of the \nbusiest rocket testing facilities on the planet  "
+    } ]
+  }, {
+    "tStartMs": 83680,
+    "dDurationMs": 19360,
+    "segs": [ {
+      "utf8": "in the process. My name is Zack Golden and this \nis another CSI Starbase deep dive investigation."
+    } ]
+  }, {
+    "tStartMs": 105440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "What up everybody, welcome and thanks for \njoining us. Before we get started, I just  "
+    } ]
+  }, {
+    "tStartMs": 109760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "want to acknowledge the fact that I know this is \nnot the topic that many of you are hoping I will  "
+    } ]
+  }, {
+    "tStartMs": 112880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "be covering today, but hopefully you will forgive \nme because I think this is an important building  "
+    } ]
+  }, {
+    "tStartMs": 116720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "block for future episodes. To be honest, many of \nthe events we will discuss today are things I've  "
+    } ]
+  }, {
+    "tStartMs": 121600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "covered in past episodes, in particular this \ntwo part series I released in 2023. Normally  "
+    } ]
+  }, {
+    "tStartMs": 126880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I try to avoid repeating information to the extent \nthat I will today, but I think it's worth looking  "
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "at them again in a different context. So instead \nof focusing on the importance of these events as  "
+    } ]
+  }, {
+    "tStartMs": 135280,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "it related to the first few test flights, \nwe're going to look at the bigger picture  "
+    } ]
+  }, {
+    "tStartMs": 138400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "and see how they influence dramatic changes to \nthe preflight testing procedure for Starship."
+    } ]
+  }, {
+    "tStartMs": 143920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "I know this may not be the most exciting topic \nin the world, but I did my best to make it as  "
+    } ]
+  }, {
+    "tStartMs": 147680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "entertaining as possible despite that. So with \nthat PSA out of the way, let's get into it."
+    } ]
+  }, {
+    "tStartMs": 154960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "After the high altitude flight test of SN15, \nwhich ended with the successful landing back at  "
+    } ]
+  }, {
+    "tStartMs": 159840,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the launch site, it was highly anticipated that \nSpaceX would use the next ship on the roster,  "
+    } ]
+  }, {
+    "tStartMs": 164720,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "SN16, to conduct a hypersonic flight test. \nInstead, SpaceX abruptly ended the suborbital  "
+    } ]
+  }, {
+    "tStartMs": 170800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "flight testing campaign to pursue bigger plans. \nIt was time to shift their focus towards orbital  "
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "flight testing. Right off the bat there were \nseveral logistical issues they needed to find  "
+    } ]
+  }, {
+    "tStartMs": 180160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "solutions for. First, there was a long list \nof structural qualification tests that would  "
+    } ]
+  }, {
+    "tStartMs": 184880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "need to be completed for the next generation of \nship and two different versions of the booster.  "
+    } ]
+  }, {
+    "tStartMs": 189680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "These qualification tests are performed on test \narticles designed to mimic specific components of  "
+    } ]
+  }, {
+    "tStartMs": 194640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "the vehicle and typically require specialized \ntest structures to apply loads that simulate  "
+    } ]
+  }, {
+    "tStartMs": 199760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "conditions that will be experienced during flight. \nBecause the test articles are often pressurized or  "
+    } ]
+  }, {
+    "tStartMs": 204720,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "filled with cryogenic liquids and are subjected \nto loads that have the potential to result in  "
+    } ]
+  }, {
+    "tStartMs": 208960,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "structural failure, the safest place to conduct \nthese tests is at the launch site. Unfortunately,  "
+    } ]
+  }, {
+    "tStartMs": 214480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "by mid-2021, there was only so much space \navailable at the launch site given the massive  "
+    } ]
+  }, {
+    "tStartMs": 219440,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "construction operation for the orbital launch pad \nand tank farm. To make matters more complicated,  "
+    } ]
+  }, {
+    "tStartMs": 224880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "they wanted to begin testing boosters as \nquickly as possible. Even though they were  "
+    } ]
+  }, {
+    "tStartMs": 228880,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "already in the process of constructing the \norbital launch mount, it was still more than  "
+    } ]
+  }, {
+    "tStartMs": 232560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "seven months away from being semi-operational. So \nthey needed a temporary solution in the meantime."
+    } ]
+  }, {
+    "tStartMs": 238400,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Once the launch mount was ready,  "
+    } ]
+  }, {
+    "tStartMs": 240160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "it would initially make sense to use it \nfor performing cryogenic proof tests."
+    } ]
+  }, {
+    "tStartMs": 244480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Instead of creating a special test tank that could \nintegrate with all 21 quick disconnect umbilicals  "
+    } ]
+  }, {
+    "tStartMs": 249760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "on the OLM, they could use a real booster to \nhelp with function testing and commissioning  "
+    } ]
+  }, {
+    "tStartMs": 254240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "various systems of the orbital tank farm. But \nthese operations would eventually need to be  "
+    } ]
+  }, {
+    "tStartMs": 258720,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "performed elsewhere once launch operations \nbegan. If not, they would end up playing  "
+    } ]
+  }, {
+    "tStartMs": 263360,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "musical chairs on the launch mount. It would \ncreate quite the bottleneck if they had one  "
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "booster waiting to perform cryo tests before \nengine installation, another one waiting to  "
+    } ]
+  }, {
+    "tStartMs": 271920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "perform a static fire before final outfitting, \nwhile the third one is preparing for launch."
+    } ]
+  }, {
+    "tStartMs": 277040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Furthermore, there were structural tests \nfor the booster that could simply not be  "
+    } ]
+  }, {
+    "tStartMs": 280640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "conducted on the launch mount even if they \nwanted to. With these considerations in mind,  "
+    } ]
+  }, {
+    "tStartMs": 284960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "they had already begun making plans to expand the \nsite more than a year in advance. At the time,  "
+    } ]
+  }, {
+    "tStartMs": 290400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "all they had were two suborbital test stands \nfor ships. The proposed site plans released  "
+    } ]
+  }, {
+    "tStartMs": 295200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "in 2020 called for two booster-slash-structural \ntest stands to be constructed near the existing  "
+    } ]
+  }, {
+    "tStartMs": 300560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "stands. This would give them a dedicated location \nto perform cryo and thrust simulation testing,  "
+    } ]
+  }, {
+    "tStartMs": 306160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and potentially one of them could be used for \nstructural qualification testing as well. And  "
+    } ]
+  }, {
+    "tStartMs": 310800,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "with a second launch pad, aka Pad B, there would \nnever be a conflict between static fire testing  "
+    } ]
+  }, {
+    "tStartMs": 316160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and launch operations. But getting approval for \nthis expansion would take some time, so they  "
+    } ]
+  }, {
+    "tStartMs": 321520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "had to work around the existing infrastructure \nwhile simultaneously preparing for the future.  "
+    } ]
+  }, {
+    "tStartMs": 326480,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Navigating around this situation required \na lot of creativity, careful coordination,  "
+    } ]
+  }, {
+    "tStartMs": 331200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and just a touch of recklessness that I think \nis often underappreciated. When it comes to  "
+    } ]
+  }, {
+    "tStartMs": 335520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "structural qualification testing, the push towards \nthe first orbital flight test was easily the most  "
+    } ]
+  }, {
+    "tStartMs": 340480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "intense period in the entire history of Starship \ndevelopment. In order to minimize the inherent  "
+    } ]
+  }, {
+    "tStartMs": 345440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "risk that comes with launching the world's most \npowerful rocket, SpaceX needed to verify that the  "
+    } ]
+  }, {
+    "tStartMs": 350240,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "structural components of both vehicles would \nbe able to withstand the forces experienced  "
+    } ]
+  }, {
+    "tStartMs": 354240,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "during the various stages of flight. For the ship, \nthis included the nose cone, forward flap mounts,  "
+    } ]
+  }, {
+    "tStartMs": 360400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "payload section, and header tanks. The thrust \npuck, aft dome, aft skirt, and the mounting  "
+    } ]
+  }, {
+    "tStartMs": 366400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "hardware for the aft flaps. SpaceX was actually \nable to get a bit of a head start on some of  "
+    } ]
+  }, {
+    "tStartMs": 371040,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "these items before the final suborbital flight \ntest. But with the booster, they were starting  "
+    } ]
+  }, {
+    "tStartMs": 375600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "from a blank slate, so they would need to verify \nthe design of the forward dome and forward sleeve,  "
+    } ]
+  }, {
+    "tStartMs": 380880,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "which is also referred to as the interstage, the \ncommon dome, the 9 and 13 engine thrust pucks,  "
+    } ]
+  }, {
+    "tStartMs": 386800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and two different versions of the aft sleeve \nwhere the outer 20 engines are mounted."
+    } ]
+  }, {
+    "tStartMs": 391040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "According to two vehicles, I think the only \nmajor component that they may not have tested  "
+    } ]
+  }, {
+    "tStartMs": 394560,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "was the methane transfer tubes. I think it goes \nwithout saying, that's an extremely long list,  "
+    } ]
+  }, {
+    "tStartMs": 399440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and this is where that creativity I mentioned \ncomes into play. If they were to create unique  "
+    } ]
+  }, {
+    "tStartMs": 403760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "test structures for each component, then this \nprocess would take forever. So, wherever it was  "
+    } ]
+  }, {
+    "tStartMs": 408400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "possible, they went out of their way to create \nmodular test stands that could be reconfigured  "
+    } ]
+  }, {
+    "tStartMs": 412320,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to perform multiple different tests. In January \nof 2021, the development test engineering team  "
+    } ]
+  }, {
+    "tStartMs": 417600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "began assembling their first multi-purpose test \nstructure. While it's never been confirmed, I  "
+    } ]
+  }, {
+    "tStartMs": 422640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "believe this was designed to eventually become one \nof the two boosters slash structural test stands  "
+    } ]
+  }, {
+    "tStartMs": 426880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "mentioned in the 2020 document. The leg extensions \nthat were originally delivered with this were  "
+    } ]
+  }, {
+    "tStartMs": 431920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "clearly intended to provide extra stability. In \nmy opinion, this would only be necessary if they  "
+    } ]
+  }, {
+    "tStartMs": 436960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "were expecting to place a 70 meter tall booster \non top of the test stand. The base structure was  "
+    } ]
+  }, {
+    "tStartMs": 441680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "designed with two sets of attachments for \nadditional hardware to be mounted, which  "
+    } ]
+  }, {
+    "tStartMs": 445200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "would enable it to be quickly reconfigured for \ntesting various components of the ship in booster."
+    } ]
+  }, {
+    "tStartMs": 450160,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "The first configuration is one we immediately \nbegan to refer to as the nosecone jail."
+    } ]
+  }, {
+    "tStartMs": 455280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "After installing a cage structure \non top of the base, it was used to  "
+    } ]
+  }, {
+    "tStartMs": 458240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "perform structural qualification testing \non SN12's nosecone, payload section,  "
+    } ]
+  }, {
+    "tStartMs": 463120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and forward flap mounting hardware to simulate \nthe force's experience during atmospheric reentry."
+    } ]
+  }, {
+    "tStartMs": 468560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The construction method for a ship 20's nosecone \nwould be identical to the previous generation,  "
+    } ]
+  }, {
+    "tStartMs": 473360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "so they were able to get this test out \nof the way before SN15's flight test."
+    } ]
+  }, {
+    "tStartMs": 478240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Shortly after completing this test, they \nremoved the nosecone jail and installed a  "
+    } ]
+  }, {
+    "tStartMs": 482080,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "platform for mounting a 29 engine booster \naft section. In the middle of the stand  "
+    } ]
+  }, {
+    "tStartMs": 486720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "was an assembly of nine hydraulic actuators \nused to test the thrust puck of the booster.  "
+    } ]
+  }, {
+    "tStartMs": 491680,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "This allowed them to verify the structural \nintegrity of the thrust puck for booster 3  "
+    } ]
+  }, {
+    "tStartMs": 495600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "using the BN2 test tank. Apparently \nthis gave them enough confidence to  "
+    } ]
+  }, {
+    "tStartMs": 499600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "proceed to static fire testing without having \nto perform this test on the actual booster 3."
+    } ]
+  }, {
+    "tStartMs": 504720,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Once this was completed, they removed the platform \nand mounted it on top of suborbital test stand A  "
+    } ]
+  }, {
+    "tStartMs": 509760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "so they could perform the first ever static fire \ntest of a booster without having to wait for the  "
+    } ]
+  }, {
+    "tStartMs": 514160,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "orbital pad to be completed. This decision created \nanother series of logistical issues. The 20 hold  "
+    } ]
+  }, {
+    "tStartMs": 520400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "down clamps for the structure, which were likely \nbeing fabricated at SpaceX's McGregor testing  "
+    } ]
+  }, {
+    "tStartMs": 525200,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "facility, had not yet arrived. So because they \nwere lacking a non-destructive clamping mechanism,  "
+    } ]
+  }, {
+    "tStartMs": 530720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "the booster was welded to the structure. They had \nno plans of flying this, so for the booster tribe,  "
+    } ]
+  }, {
+    "tStartMs": 536400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "it wasn't a huge deal because it was a good enough \nsolution to allow them to perform the static fire  "
+    } ]
+  }, {
+    "tStartMs": 540800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "test. This was perhaps a bit short sighted \nhowever, because once the test was complete,  "
+    } ]
+  }, {
+    "tStartMs": 545360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "there was no way of quickly dismounting booster \n3 without using cutting torches and grinders.  "
+    } ]
+  }, {
+    "tStartMs": 550240,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And if they cut it free, they wouldn't be able \nto place it back on the transport stand because  "
+    } ]
+  }, {
+    "tStartMs": 554240,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the clamp interface at the bottom of the aft \nsleeve was essentially ruined. So instead of  "
+    } ]
+  }, {
+    "tStartMs": 558400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "being able to scrap it back at the production \nsite, it would need to be done at the launch  "
+    } ]
+  }, {
+    "tStartMs": 562000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "complex. Unfortunately, there was only two mobile \ncranes on site that were large enough to perform  "
+    } ]
+  }, {
+    "tStartMs": 566640,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "this job and both of them were tied up with \nconstruction work. During a brief pause between  "
+    } ]
+  }, {
+    "tStartMs": 571600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "lifts at the orbital tank farm, the LR-11000 \ncrane operator helped them remove the methane  "
+    } ]
+  }, {
+    "tStartMs": 576640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "tank. But by the time that was finished, he \nwas needed again at the orbital tank farm,  "
+    } ]
+  }, {
+    "tStartMs": 581200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "which was already several weeks behind schedule. \nBecause of this, the remains of booster 3 would  "
+    } ]
+  }, {
+    "tStartMs": 586080,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "sit here for nearly 6 months until SpaceX finally \nbought their own crane and removed it themselves."
+    } ]
+  }, {
+    "tStartMs": 591840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "If I had to guess, this is when the idea first \noccurred to the test structure design team  "
+    } ]
+  }, {
+    "tStartMs": 596080,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "that they should strive to eliminate the need for \nusing cranes wherever possible. This would become  "
+    } ]
+  }, {
+    "tStartMs": 600800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "a key design consideration on all future test \nstructures that weren't already in development."
+    } ]
+  }, {
+    "tStartMs": 605440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Anyway, with booster 3 trapped on the \nsuborbital pad, the ring stand that  "
+    } ]
+  }, {
+    "tStartMs": 609200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the structures team was expecting to get back \nwas trapped with it. And this was a problem,  "
+    } ]
+  }, {
+    "tStartMs": 614560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "because with booster 4 nearing completion, \nthey kind of needed that ring stand."
+    } ]
+  }, {
+    "tStartMs": 618880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "After waiting 4 weeks for replacement components \nto arrive for McGregor, crews busted their asses  "
+    } ]
+  }, {
+    "tStartMs": 623760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "to get the new platform assembled as quickly as \npossible. In less than 2 weeks it was finished,  "
+    } ]
+  }, {
+    "tStartMs": 628560,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "this time with 20 hold down clamps installed \nas well. But by then it was already too late,  "
+    } ]
+  }, {
+    "tStartMs": 633920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "because SpaceX's second biggest \nmistake of 2021 was already in motion."
+    } ]
+  }, {
+    "tStartMs": 639040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Instead of waiting for the test stand to \nbe completed, when booster 4 rolled out  "
+    } ]
+  }, {
+    "tStartMs": 642560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "for the first time to the launch complex, \nall 29 engines had already been installed."
+    } ]
+  }, {
+    "tStartMs": 647360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "This meant they would not be performing thrust \nsimulation testing on the 9 engine thrust puck.  "
+    } ]
+  }, {
+    "tStartMs": 652160,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The decision to skip this test would come back \nto haunt SpaceX in ways they had not anticipated.  "
+    } ]
+  }, {
+    "tStartMs": 657360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Well, actually, to be fair, it's probably more \naccurate to say that this would come back to  "
+    } ]
+  }, {
+    "tStartMs": 661120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "haunt Elon. As much as I hate to say it, you \ncould argue that everything that happened after  "
+    } ]
+  }, {
+    "tStartMs": 665360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "this point was technically his fault. As the new \nlaunch ring was being prepared for installation,  "
+    } ]
+  }, {
+    "tStartMs": 670720,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "E was pushing insanely hard to get a fully \nstacked starship on the pad in less than 8 days."
+    } ]
+  }, {
+    "tStartMs": 676240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I saw the grain off base, what would you \ndo if there's an asteroid heading to this  "
+    } ]
+  }, {
+    "tStartMs": 679120,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "planet in 8 days? Yeah, exactly. \nThat's what they were told today."
+    } ]
+  }, {
+    "tStartMs": 685200,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "If we operate with extreme urgency, then we \nhave a chance of making life multiplanetary."
+    } ]
+  }, {
+    "tStartMs": 692560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Still just a chance, not for sure. While \nthis was a bold demonstration of ambition,  "
+    } ]
+  }, {
+    "tStartMs": 697040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "rushing to put a checkmark next to this \nparticular milestone did little to accelerate  "
+    } ]
+  }, {
+    "tStartMs": 700800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "progress towards Starship's inaugural launch. \nThis was ultimately part of a massive photo op,  "
+    } ]
+  }, {
+    "tStartMs": 705920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "which would have been slightly less impressive \nwithout engines installed on the booster. And  "
+    } ]
+  }, {
+    "tStartMs": 709920,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "after the incredible effort that went into getting \nall 29 engines installed in less than 24 hours,  "
+    } ]
+  }, {
+    "tStartMs": 715200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "they weren't about to remove them again. As a \nresult, Booster 4 would become the only booster  "
+    } ]
+  }, {
+    "tStartMs": 720000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "to go through its cryo testing phase with engines \nmounted. This would have been less of an issue,  "
+    } ]
+  }, {
+    "tStartMs": 724800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "if not for the fact that Booster 4 was also \nhelping to function test and commission all of  "
+    } ]
+  }, {
+    "tStartMs": 729280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the new systems in the orbital launch map and tank \nfarm. Because a majority of these systems had not  "
+    } ]
+  }, {
+    "tStartMs": 733840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "been tested beforehand, Booster 4 was basically \nused as a gigantic trash can for cleaning out the  "
+    } ]
+  }, {
+    "tStartMs": 738880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "tank farm. Had the engines been removed prior \nto testing, they might have been able to clean  "
+    } ]
+  }, {
+    "tStartMs": 743120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "out the propellant tanks, filters, and all of \nthe internal plumbing. Instead, all 29 engines  "
+    } ]
+  }, {
+    "tStartMs": 748880,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "were contaminated with foreign objects and debris \nand rendered unsafe to operate. In my opinion, had  "
+    } ]
+  }, {
+    "tStartMs": 754320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "they followed the same procedure they were already \nusing for preliminary ship testing, all of this  "
+    } ]
+  }, {
+    "tStartMs": 758640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "would have been avoided. While it is extremely \nfunny to blame Elon for this disaster, I think  "
+    } ]
+  }, {
+    "tStartMs": 762880,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "there is another important factor that influenced \nthe situation and led to things going down the way  "
+    } ]
+  }, {
+    "tStartMs": 767280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "they did. I'm willing to bet a majority of people \nwatching this episode have never even seen this  "
+    } ]
+  }, {
+    "tStartMs": 772000,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "multi-purpose test stand before, at least not in \nthis configuration. That's because, after all the  "
+    } ]
+  }, {
+    "tStartMs": 777520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "effort that went into getting it ready for booster \ntesting, it was never used for that purpose. And  "
+    } ]
+  }, {
+    "tStartMs": 782480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "the fact that it was never used is another \nreason I'm convinced that it was intended to  "
+    } ]
+  }, {
+    "tStartMs": 786240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "be one of the booster and structural test stands \nmentioned in the 2020 document. The structures  "
+    } ]
+  }, {
+    "tStartMs": 791360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "team did their part in making sure this would \nbe available by the time it was needed at the  "
+    } ]
+  }, {
+    "tStartMs": 794480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "suborbital test site. Unfortunately, when it came \ntime to act on this plan, SpaceX had not gotten  "
+    } ]
+  }, {
+    "tStartMs": 800080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "past the regulatory hurdles that were preventing \nthem from expanding the site to accommodate the  "
+    } ]
+  }, {
+    "tStartMs": 804160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "additional test stands. More importantly, they \nwere now staring down the possibility of failing  "
+    } ]
+  }, {
+    "tStartMs": 808880,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "to get approval to conduct Starship launches from \nStarbase at all. So the idea of expanding the site  "
+    } ]
+  }, {
+    "tStartMs": 814960,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "was likely off the table altogether. It's true \nthat one of the proposed locations for this test  "
+    } ]
+  }, {
+    "tStartMs": 820240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "stand was actually within the existing footprint \nof the site. But the fact that it would need to  "
+    } ]
+  }, {
+    "tStartMs": 825440,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "tie into the propellant distribution system of \nthe suborbital tank farm presented a significant  "
+    } ]
+  }, {
+    "tStartMs": 830080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "problem. The existing tank farm barely had enough \ncapacity to perform a full cryo test of a ship,  "
+    } ]
+  }, {
+    "tStartMs": 835600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "which meant there was nowhere near enough \nto do so for a booster. Without the ability  "
+    } ]
+  }, {
+    "tStartMs": 839920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "to increase the footprint of the suborbital \ntank farm to add additional storage tanks,  "
+    } ]
+  }, {
+    "tStartMs": 843600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "it would have been pointless to install the test \nstand here. Sitting around waiting for permission  "
+    } ]
+  }, {
+    "tStartMs": 847680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "to expand the site had the potential to delay \nthe program by several months, if not years.  "
+    } ]
+  }, {
+    "tStartMs": 852560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And that was simply not an option. These test \nstands were absolutely critical to their plans,  "
+    } ]
+  }, {
+    "tStartMs": 857040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and without them, SpaceX was in desperate \nneed of an alternate solution. As development  "
+    } ]
+  }, {
+    "tStartMs": 861280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "of the orbital pad continued to progress, they \nrealized that the only other option for performing  "
+    } ]
+  }, {
+    "tStartMs": 865840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "structural testing of a booster with a full cryo \nload was to use the orbital tank farm instead."
+    } ]
+  }, {
+    "tStartMs": 871680,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "So in July of 2021, they began constructing \ntwo large pads near the integration tower,  "
+    } ]
+  }, {
+    "tStartMs": 877040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "one for a ship and another for a booster. \nAs the cryogenic feed pipes were being run  "
+    } ]
+  }, {
+    "tStartMs": 881680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "between the tank farm and the launch pad, they \ninstalled additional fittings that would allow  "
+    } ]
+  }, {
+    "tStartMs": 885840,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "them to tap into these lines and divert the \nflow over to the auxiliary test stations."
+    } ]
+  }, {
+    "tStartMs": 891440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "After constructing the giant berm to protect the \ntank farm from the exhaust plume of the booster,  "
+    } ]
+  }, {
+    "tStartMs": 895760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "they installed propellant distribution lines \non the backside of the berm for the two test  "
+    } ]
+  }, {
+    "tStartMs": 899760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "stations. The lines that branched off the \nintegration tower supply would be used for  "
+    } ]
+  }, {
+    "tStartMs": 903760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "ship testing, while the ones for the launch \nmount were used for the booster station.  "
+    } ]
+  }, {
+    "tStartMs": 907920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Had they waited an additional four months \nbefore installing engines on booster four,  "
+    } ]
+  }, {
+    "tStartMs": 911440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "they could have used this station for performing \nthe thrust simulation test. But ain't nobody got  "
+    } ]
+  }, {
+    "tStartMs": 915760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "time for that, apparently. By that point, there \nwere other important structural qualification  "
+    } ]
+  }, {
+    "tStartMs": 919920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "tests that they were in a rush to complete \nand could not afford to skip. As soon as  "
+    } ]
+  }, {
+    "tStartMs": 924000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "the cryo stations were operational, a new \nmulti-purpose test structure known as the  "
+    } ]
+  }, {
+    "tStartMs": 927920,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "CANcrusher was rolled out to the launch site. This \nimpressive structure had the ability to be used  "
+    } ]
+  }, {
+    "tStartMs": 932880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "for testing the thrust puck of the booster, \nbut at the time, it was configured with six  "
+    } ]
+  }, {
+    "tStartMs": 937520,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "hydraulic actuators in the center for testing \nthe new thrust puck and aft dome of the ship."
+    } ]
+  }, {
+    "tStartMs": 942960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "The B2.1 hybrid tank was one of \nthe more interesting test articles  "
+    } ]
+  }, {
+    "tStartMs": 946480,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "SpaceX has ever created. Similar to \nBN2, it had a booster forward dome,  "
+    } ]
+  }, {
+    "tStartMs": 950720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but this time they included the interstage as \nwell since that extremely important component  "
+    } ]
+  }, {
+    "tStartMs": 954720,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "had not been tested yet. We call this \na hybrid tank because for the aft dome,  "
+    } ]
+  }, {
+    "tStartMs": 959360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "they used the new six engine ship dome with the \nupgraded thrust puck design. The thrust puck had  "
+    } ]
+  }, {
+    "tStartMs": 965040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "already been tested separately on SN15 when it \nwas first introduced, but it was important to  "
+    } ]
+  }, {
+    "tStartMs": 969680,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "test it together with the new aft dome. Instead \nof sleeving the dome with a ship aft skirt,  "
+    } ]
+  }, {
+    "tStartMs": 974960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "they used a booster aft sleeve instead. This \nallowed it to interface with the hold down clamps  "
+    } ]
+  }, {
+    "tStartMs": 979920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and also enabled the test article to be used for \nstress testing the aft sleeve of the booster."
+    } ]
+  }, {
+    "tStartMs": 985120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "After performing the first structural test where \nthe hydraulic actuators were used to apply loads  "
+    } ]
+  }, {
+    "tStartMs": 989440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "to the ship engine mounts, the cam crusher was \nmoved back to the Sanchez site. They needed a  "
+    } ]
+  }, {
+    "tStartMs": 994240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "bit more time to make modifications to the booster \naft sleeve, which would take several weeks. In the  "
+    } ]
+  }, {
+    "tStartMs": 999440,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "meantime, they knocked out another important \nstructural test. The GSE4 test article was a  "
+    } ]
+  }, {
+    "tStartMs": 1004800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "shortened version of the vertical storage tanks \nat the tank farm. After installing some pressure  "
+    } ]
+  }, {
+    "tStartMs": 1008800,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "transducers on top of the tank, they filled it \nwith liquid nitrogen and let it slowly build up  "
+    } ]
+  }, {
+    "tStartMs": 1012960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "pressure until it finally popped. When using \nhomemade tanks to store massive quantities of  "
+    } ]
+  }, {
+    "tStartMs": 1017280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "liquid propellants, it's a good idea to identify \na maximum operating pressure. In this case,  "
+    } ]
+  }, {
+    "tStartMs": 1022640,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "that max pressure might be defined as 80% of the \nfinal pressure observed before it ruptured. This  "
+    } ]
+  }, {
+    "tStartMs": 1028160,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "event was a perfect example of why SpaceX needed a \ndedicated location to perform destructive testing.  "
+    } ]
+  }, {
+    "tStartMs": 1033280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And this actually has nothing to do with the \nquestionable decision to intentionally pop  "
+    } ]
+  }, {
+    "tStartMs": 1037200,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the tank with booster force sitting less than \n50 meters away, or the fact that there was a  "
+    } ]
+  }, {
+    "tStartMs": 1041360,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "ton of construction equipment laying inside of the \nguaranteed splash zone. Let's be real, this wasn't  "
+    } ]
+  }, {
+    "tStartMs": 1045840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the first time United Reynolds would have 4K video \nfootage to submit with their insurance claim, and  "
+    } ]
+  }, {
+    "tStartMs": 1050320,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "it wouldn't be the last. No, the real issue here \nis that this test was ridiculously late. After  "
+    } ]
+  }, {
+    "tStartMs": 1055920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "installing the first two vertical storage tanks at \nthe orbital tank farm 9 months before this test,  "
+    } ]
+  }, {
+    "tStartMs": 1060480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "SpaceX came to a surprising realization. With \nno internal or external stringers anywhere  "
+    } ]
+  }, {
+    "tStartMs": 1065440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "other than at the base, these tanks were not \nproperly supported. As a result, they had to  "
+    } ]
+  }, {
+    "tStartMs": 1070400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "stop what they were doing and add reinforcements \nonto the two tanks they had already installed,  "
+    } ]
+  }, {
+    "tStartMs": 1074640,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and the remaining five that were in various stages \nof completion. This caused a significant workflow  "
+    } ]
+  }, {
+    "tStartMs": 1079600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "disruption, and was the first of many serious \ndelays they encountered leading up to the first  "
+    } ]
+  }, {
+    "tStartMs": 1083920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "flight test. While the consequences of this were \nfairly minor in comparison to other issues they  "
+    } ]
+  }, {
+    "tStartMs": 1088720,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "had with the tank farm, it's a good example of \na situation that was completely avoidable. Had  "
+    } ]
+  }, {
+    "tStartMs": 1093200,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "they performed a structural verification \ntest on a full scale version of the GSE  "
+    } ]
+  }, {
+    "tStartMs": 1097120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "tanks before SN15's flight test, they would \nhave known there was a problem. In the end,  "
+    } ]
+  }, {
+    "tStartMs": 1102160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "they didn't perform the test that would verify the \nstructural integrity of the reinforcements until  "
+    } ]
+  }, {
+    "tStartMs": 1106320,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "three months after the final tank and outer shell \nhad been installed, which is pretty wild. Speaking  "
+    } ]
+  }, {
+    "tStartMs": 1112080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of avoidable situations, by mid-December, welders \nhad finished adding a large hoop stiffener around  "
+    } ]
+  }, {
+    "tStartMs": 1117040,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the base of the B2.1 test tank. This was kind of \nodd because there was no way they could have added  "
+    } ]
+  }, {
+    "tStartMs": 1122560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "identical reinforcements onto Booster 4, so \nyou could argue they were attempting to cheat  "
+    } ]
+  }, {
+    "tStartMs": 1127200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "on the test. But as it turns out, this didn't \nreally make any difference. After replacing  "
+    } ]
+  }, {
+    "tStartMs": 1132080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the cap on top of the test tank and subjecting \nit to compressive forces that would simulate  "
+    } ]
+  }, {
+    "tStartMs": 1136240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "flight-like conditions, their worst fears \nwere confirmed when the aft sleeve buckled.  "
+    } ]
+  }, {
+    "tStartMs": 1141520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "It was at this moment when they realized that \nBooster 4's aft section was lacking the proper  "
+    } ]
+  }, {
+    "tStartMs": 1145680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "amount of structural reinforcement and would \nprobably collapse before or during Max-Q."
+    } ]
+  }, {
+    "tStartMs": 1151360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So even without the catastrophic \ncontamination of its 29 engines,  "
+    } ]
+  }, {
+    "tStartMs": 1155200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "this would have likely been game over for \nBooster 4 and Booster 5 as well. I guess  "
+    } ]
+  }, {
+    "tStartMs": 1160000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "this means Elon was officially off the hook. Now \nany of these situations we just discussed would  "
+    } ]
+  }, {
+    "tStartMs": 1164800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "have been bad enough on their own, but dealing \nwith three major issues related to structural  "
+    } ]
+  }, {
+    "tStartMs": 1168800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "qualification testing within the span of six \nmonths was a huge wake-up call for SpaceX."
+    } ]
+  }, {
+    "tStartMs": 1173840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "As an outsider looking in, it's hard to pinpoint \na single reason why these situations were  "
+    } ]
+  }, {
+    "tStartMs": 1178000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "allowed to get as bad as they did in the first \nplace. Some of it could have been a result of  "
+    } ]
+  }, {
+    "tStartMs": 1182000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "relying too heavily on CAD software and finite \nelement analysis simulations, or somehow not  "
+    } ]
+  }, {
+    "tStartMs": 1187760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "realizing that certain structural components \nneeded to be tested until it was too late."
+    } ]
+  }, {
+    "tStartMs": 1191760,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "[00:19:52:15 - 00:20:09:12] Honestly, I'm \nthoroughly convinced that the engineering team at  "
+    } ]
+  }, {
+    "tStartMs": 1195120,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "SpaceX is far too talented for that to be the main \ncause, so I'm going to explain it another way. At  "
+    } ]
+  }, {
+    "tStartMs": 1200720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "the end of the day, these problems are all just \nside effects of the rapid iteration process. This  "
+    } ]
+  }, {
+    "tStartMs": 1205680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "is part of the reason why it takes so long for \ntraditional rocket companies to get anything done."
+    } ]
+  }, {
+    "tStartMs": 1210400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Overall, I think rapid iterative \ndevelopment has some major benefits,  "
+    } ]
+  }, {
+    "tStartMs": 1214160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "but one of the downs sides is that \nit's pretty easy to fall into a  "
+    } ]
+  }, {
+    "tStartMs": 1217200,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "pattern of systemic deprioritization \nof structural qualification testing."
+    } ]
+  }, {
+    "tStartMs": 1221760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And yeah, I just totally made that up, but I \nthink it's an accurate description of the problem,  "
+    } ]
+  }, {
+    "tStartMs": 1226160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "so what does it actually mean? Well, \nlet's start from the top. The main  "
+    } ]
+  }, {
+    "tStartMs": 1230800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "focus for the vehicle design team is, \nobviously, to design the vehicle. Now,  "
+    } ]
+  }, {
+    "tStartMs": 1235760,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "let's say you have a second team who's \nresponsible for designing test tanks to  "
+    } ]
+  }, {
+    "tStartMs": 1239360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "be used for structural verification testing. \nIn reality, this job probably falls under the  "
+    } ]
+  }, {
+    "tStartMs": 1244000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "vehicle design team as well, but let's just \ngo with it for the sake of this explanation."
+    } ]
+  }, {
+    "tStartMs": 1249040,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "As I'm sure you can imagine, it's difficult \nto design a test article that represents the  "
+    } ]
+  }, {
+    "tStartMs": 1253200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "structural properties of the vehicle you're trying \nto verify before that vehicle is finished being  "
+    } ]
+  }, {
+    "tStartMs": 1258000,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "designed. So the test article design team is \nalways going to be a step behind. Next you have  "
+    } ]
+  }, {
+    "tStartMs": 1264160,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the structures team, who actually develops the \nvarious test structures used to apply simulated  "
+    } ]
+  }, {
+    "tStartMs": 1268560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "flight loads on the test articles. They are \nat an even greater disadvantage because they  "
+    } ]
+  }, {
+    "tStartMs": 1272960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "have to wait for the vehicle and test article \ndesign teams. They may be able to complete a  "
+    } ]
+  }, {
+    "tStartMs": 1277520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "large portion of the test structure design in \nadvance, but they are almost always going to  "
+    } ]
+  }, {
+    "tStartMs": 1281440,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "have some dependency on the test article design \nteam. Then you have the manufacturing team,  "
+    } ]
+  }, {
+    "tStartMs": 1286000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "who probably receives production drawings from \nthe vehicle design team days or weeks in advance  "
+    } ]
+  }, {
+    "tStartMs": 1291280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "of the drawings they get from the test article \nteam. So, they can either put a hold on the work  "
+    } ]
+  }, {
+    "tStartMs": 1295840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "they've already started and move test article \nproduction to the front of the line, or they can  "
+    } ]
+  }, {
+    "tStartMs": 1300320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "handle jobs in the order they're received. This is \nof course assuming the vehicle isn't already fully  "
+    } ]
+  }, {
+    "tStartMs": 1305120,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "stacked by the time they start producing test \narticles, which was the case more often than not."
+    } ]
+  }, {
+    "tStartMs": 1310720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And finally, you have the actual \nstructural qualification testing  "
+    } ]
+  }, {
+    "tStartMs": 1314240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "team. This team has to wait on \neveryone else I just mentioned."
+    } ]
+  }, {
+    "tStartMs": 1318320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "By the time they receive everything they \nneed, the test article, test structures,  "
+    } ]
+  }, {
+    "tStartMs": 1322720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and a place to perform it, testing of \nthe vehicle may already be underway."
+    } ]
+  }, {
+    "tStartMs": 1327520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Not only do they have to work around those \nschedules, but they also have to work around  "
+    } ]
+  }, {
+    "tStartMs": 1331120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the schedule of multiple different construction \noperations happening at the launch site, which are  "
+    } ]
+  }, {
+    "tStartMs": 1335440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "likely being prioritized above everything else. \nThis can quickly get out of hand. And in the worst  "
+    } ]
+  }, {
+    "tStartMs": 1341120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "case scenario, when the qualification testing \nis finally performed, you end up having to scrap  "
+    } ]
+  }, {
+    "tStartMs": 1345680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "multiple vehicles because of an inherent design \nflaw that wasn't caught until it's too late."
+    } ]
+  }, {
+    "tStartMs": 1350720,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "The opposite of this situation is \nmaking structural qualification  "
+    } ]
+  }, {
+    "tStartMs": 1353920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "testing the highest priority, and not \nallowing vehicle manufacturing to begin  "
+    } ]
+  }, {
+    "tStartMs": 1357680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "until those tests are complete. But this has \nits own downsides because you can end up in  "
+    } ]
+  }, {
+    "tStartMs": 1362640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "a repetitive cycle of testing, finding \nflaws, redesigning, and testing again,  "
+    } ]
+  }, {
+    "tStartMs": 1367760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and all of a sudden 5-10 years have passed \nbefore you actually get anything off the ground."
+    } ]
+  }, {
+    "tStartMs": 1372480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Both of those outcomes were undesirable for \nSpaceX, so they needed to find a balance.  "
+    } ]
+  }, {
+    "tStartMs": 1377440,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "While it's important to understand the \nfull scope of this problem, today we're  "
+    } ]
+  }, {
+    "tStartMs": 1380720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "just going to focus on the logistical \nissues with the actual testing process."
+    } ]
+  }, {
+    "tStartMs": 1384640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "It was painfully clear that there was simply way \ntoo much activity taking place at the launch site.  "
+    } ]
+  }, {
+    "tStartMs": 1389040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "And some activities, like structural qualification \ntesting, could no longer afford to experience  "
+    } ]
+  }, {
+    "tStartMs": 1393680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "continuous delays. But despite how bad it looked \nfrom the outside, they were well aware of this,  "
+    } ]
+  }, {
+    "tStartMs": 1398560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and little did we know at the time, they were \nalready six months deep into coming up with a  "
+    } ]
+  }, {
+    "tStartMs": 1402400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "solution for the problem. In June of 2021, SpaceX \nbegan the process of acquiring the Massey's Gun  "
+    } ]
+  }, {
+    "tStartMs": 1408240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Shop and Shooting Range. Established sometime \nin the early 2000s, Massey's Gun Shop was known  "
+    } ]
+  }, {
+    "tStartMs": 1413520,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "for its outdoor facilities, including a 300-yard \nhigh-power rifle range, a 50-yard pistol range,  "
+    } ]
+  }, {
+    "tStartMs": 1420080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and a shotgun clay shooting range. They had \na large selection of gun rentals available,  "
+    } ]
+  }, {
+    "tStartMs": 1424960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "including various machine guns and 50-caliber \nsniper rifles. Anyone who ever had the chance  "
+    } ]
+  }, {
+    "tStartMs": 1429920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "to visit this place can tell you that it \nwas pretty awesome. It was also a great  "
+    } ]
+  }, {
+    "tStartMs": 1433600,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "place for many SpaceX employees to come \nblow off some steam in their downtime."
+    } ]
+  }, {
+    "tStartMs": 1437520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "When news of this deal first became public, it \nwas widely assumed that this site would become  "
+    } ]
+  }, {
+    "tStartMs": 1441360,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "a rafter repair and testing facility. But as \nit turned out, they had much bigger plans.  "
+    } ]
+  }, {
+    "tStartMs": 1446560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "While waiting for the sale to go through, SpaceX \nbegan using half of the property as one of their  "
+    } ]
+  }, {
+    "tStartMs": 1450880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "many storage yards. It would take some time for \nthem to plan out the development of this site,  "
+    } ]
+  }, {
+    "tStartMs": 1455120,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "which worked out well for the Gun Shop \nowners, who also needed time to build out  "
+    } ]
+  }, {
+    "tStartMs": 1458640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "their new facility in Brownsville. So, in the \nmeantime, a berm was constructed to split the  "
+    } ]
+  }, {
+    "tStartMs": 1463440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "storage area from the shooting range to \nallow both operations to safely coexist."
+    } ]
+  }, {
+    "tStartMs": 1468240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "In May of 2022, the rifle range was temporarily \nshut down to allow contractors to begin grading  "
+    } ]
+  }, {
+    "tStartMs": 1473440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the area that would eventually be used during the \nfirst phase of development. Once the groundwork  "
+    } ]
+  }, {
+    "tStartMs": 1477840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "was complete, this area was turned back over to \nMassey's so they could continue using it while  "
+    } ]
+  }, {
+    "tStartMs": 1482080,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "SpaceX did the same thing with the pistol \nrange at the front corner of the property."
+    } ]
+  }, {
+    "tStartMs": 1486000,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Over the next few months, they continued to open  "
+    } ]
+  }, {
+    "tStartMs": 1488320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and close different parts of the range \nto allow groundwork to be completed."
+    } ]
+  }, {
+    "tStartMs": 1492480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "By the end of September, SpaceX was finally ready  "
+    } ]
+  }, {
+    "tStartMs": 1495040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "to fully take over the site and the \nGun Shop had officially moved out."
+    } ]
+  }, {
+    "tStartMs": 1499360,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "After installing two horizontal liquid \nnitrogen storage tanks and a single cryo pump,  "
+    } ]
+  }, {
+    "tStartMs": 1504080,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "they were able to finally begin transitioning  "
+    } ]
+  }, {
+    "tStartMs": 1505920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "structural qualification testing \noperations to this new facility."
+    } ]
+  }, {
+    "tStartMs": 1509600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I'm sure the teams responsible for \nthis testing were extremely grateful  "
+    } ]
+  }, {
+    "tStartMs": 1512640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "to finally have a dedicated location to \nperform destructive testing. At the time,  "
+    } ]
+  }, {
+    "tStartMs": 1517200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "there was a test article that had been sitting \naround at the launch site for four months waiting  "
+    } ]
+  }, {
+    "tStartMs": 1520880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "for an opportunity that would never come. As was \nthe case with several test articles the previous  "
+    } ]
+  }, {
+    "tStartMs": 1525520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "year, there was far too many high priority \nconstruction and testing activities taking  "
+    } ]
+  }, {
+    "tStartMs": 1529520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "place. So when it was relocated to Massey's, \nit was a much welcome change of scenery. They  "
+    } ]
+  }, {
+    "tStartMs": 1534480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "no longer had to worry about interfering with \nconstruction activities at the launch complex.  "
+    } ]
+  }, {
+    "tStartMs": 1538560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "To celebrate the occasion, they filled up \nthe E-Dome test tank and popped the top like  "
+    } ]
+  }, {
+    "tStartMs": 1543040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "a bottle of champagne, sending liquid \nnitrogen flying 200 feet into the air."
+    } ]
+  }, {
+    "tStartMs": 1547840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "In December, they finally moved the \ncan crusher to the Massey's outpost,  "
+    } ]
+  }, {
+    "tStartMs": 1551360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "officially putting an end to all structural \nqualification testing at the launch site.  "
+    } ]
+  }, {
+    "tStartMs": 1555760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "This was a crucial step towards improving \nthe flow of operations. It was now time to  "
+    } ]
+  }, {
+    "tStartMs": 1560240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "shift their focus to the next area of ground \ntesting that was in need of a major upgrade."
+    } ]
+  }, {
+    "tStartMs": 1565120,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "For new starships fresh off the assembly line, \nflight readiness testing is an important process  "
+    } ]
+  }, {
+    "tStartMs": 1569760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "that involves a series of different ground \ntests designed to verify that all systems  "
+    } ]
+  }, {
+    "tStartMs": 1574080,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "of the vehicle will perform as expected during \nflight. These include ambient pressure tests,  "
+    } ]
+  }, {
+    "tStartMs": 1579440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "reaction control system testing, \nstandard cryogenic proof tests,  "
+    } ]
+  }, {
+    "tStartMs": 1585120,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "cryogenic proof tests with thrust \nsimulators, igniter tests, preburner tests,"
+    } ]
+  }, {
+    "tStartMs": 1593840,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "spin prime tests, and multiple static \nfires using both the main and header tanks."
+    } ]
+  }, {
+    "tStartMs": 1600960,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "The goal over time has been to eliminate some \nof these tests wherever possible or reserve them  "
+    } ]
+  }, {
+    "tStartMs": 1605600,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "for specific situations. As an example, preburner \ntests used to be a standard pop quiz for the ship  "
+    } ]
+  }, {
+    "tStartMs": 1611840,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "leading up to the static fire test and would often \nrequire a full 8 hour closure window to perform."
+    } ]
+  }, {
+    "tStartMs": 1618000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Eventually these preburner tests were replaced \nwith spin prime tests, which were sufficient  "
+    } ]
+  }, {
+    "tStartMs": 1622240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "enough to verify that the spin start systems were \nworking properly without creating a huge fireball.  "
+    } ]
+  }, {
+    "tStartMs": 1627600,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "These days, spin primes are only performed if an \nengine is swapped out after a static fire, which  "
+    } ]
+  }, {
+    "tStartMs": 1632160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "allows them to avoid having to do another static \nfire just to confirm the new engine is working  "
+    } ]
+  }, {
+    "tStartMs": 1636320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "properly. This is a significant improvement in \nthe efficiency of the preflight testing procedure,  "
+    } ]
+  }, {
+    "tStartMs": 1641120,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "which not only reduces the overall consumption \nof cryogenic commodities, but also reduces the  "
+    } ]
+  }, {
+    "tStartMs": 1646080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "total number of tests required. Perhaps more \nimportantly, was the amount of time required to  "
+    } ]
+  }, {
+    "tStartMs": 1650880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "transition between certain tests. For example, \nwith ship 20, after performing its initial  "
+    } ]
+  }, {
+    "tStartMs": 1656080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "cryogenic proof test, they had to reconfigure the \ntest stand for the thrust simulator test. As I  "
+    } ]
+  }, {
+    "tStartMs": 1661280,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "mentioned before, this is extremely important for \nverifying the structural integrity of the thrust  "
+    } ]
+  }, {
+    "tStartMs": 1665680,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "puck prior to engine installation and static \nfire testing. Now, in a perfect world, this  "
+    } ]
+  }, {
+    "tStartMs": 1671120,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "transition would have been fairly quick. Initial \ncryo testing could be performed on test stand B,  "
+    } ]
+  }, {
+    "tStartMs": 1676240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "then the ship would be dismounted and rolled over \nto test stand A, where the thrust simulators were  "
+    } ]
+  }, {
+    "tStartMs": 1680560,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "ready and waiting. And ideally, test stand A would \nalways be in this configuration and would be the  "
+    } ]
+  }, {
+    "tStartMs": 1686240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "permanent structural test stand for ships. But \nwith Booster 3 being stranded here for so long,  "
+    } ]
+  }, {
+    "tStartMs": 1691120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "they weren't able to introduce that type \nof workflow for quite some time. Instead,  "
+    } ]
+  }, {
+    "tStartMs": 1695360,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "they had to take the more difficult approach of \nlifting the thrust ram assembly for the three  "
+    } ]
+  }, {
+    "tStartMs": 1699280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "center engines using chain hoists, attaching it to \nengine mounts, and then installing the legs one at  "
+    } ]
+  }, {
+    "tStartMs": 1704720,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "a time. Once the center engines are taken care \nof, the process is repeated for the RVAX. After  "
+    } ]
+  }, {
+    "tStartMs": 1710080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "this series of structural tests were completed, \nthe thrust ram simulator would be removed so they  "
+    } ]
+  }, {
+    "tStartMs": 1714640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "can install engines at the pad. Eventually, \nonce SpaceX had their own crane, they would  "
+    } ]
+  }, {
+    "tStartMs": 1719440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "dismount the ship and send it back to the high \nbay for this operation instead. As you can tell,  "
+    } ]
+  }, {
+    "tStartMs": 1724160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "this whole process was a bit of a pain, but they \nwere working on a solution to improve this for the  "
+    } ]
+  }, {
+    "tStartMs": 1728640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "future. In January of 2022, the GSE and structures \nteams ended up with some spare time on their hands  "
+    } ]
+  }, {
+    "tStartMs": 1734880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "while waiting for Booster 3 to be removed from \ntest stand A. They had been preparing to convert  "
+    } ]
+  }, {
+    "tStartMs": 1738720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the test stand from the old style QD system on the \nbottom of the ship into the new style which was  "
+    } ]
+  }, {
+    "tStartMs": 1743600,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "already integrated onto test stand B. So with an \nunused QD assembly on hand, they decided to test  "
+    } ]
+  }, {
+    "tStartMs": 1749600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "out the concept of allowing ships to perform \ntheir initial cryo tests without ever leaving  "
+    } ]
+  }, {
+    "tStartMs": 1753840,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "the transport stand. After 143 days of sitting on \ntest stand B, ship 20 was placed onto the modified  "
+    } ]
+  }, {
+    "tStartMs": 1760560,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "transport stand and then rolled over to the cryo \ntesting station. Now, it's possible that this was  "
+    } ]
+  }, {
+    "tStartMs": 1765920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "just their way of function testing the QD before \ninstalling it in its permanent location. That way,  "
+    } ]
+  }, {
+    "tStartMs": 1771040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "if they found any issues, they could address it \nnow instead of when it was actually needed. But  "
+    } ]
+  }, {
+    "tStartMs": 1775360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "I think it's more likely that this was intended to \nbe a conceptual prototype that helped them decide  "
+    } ]
+  }, {
+    "tStartMs": 1779760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "how they wanted to design mobile test stands in \nthe future. It's actually pretty convenient if  "
+    } ]
+  }, {
+    "tStartMs": 1784400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "not for the extra work required to connect and \ndisconnect all of these hoses from the pipes  "
+    } ]
+  }, {
+    "tStartMs": 1788560,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "on the ground every time it's moved. So while it \nwas a clever idea, it was also kind of annoying."
+    } ]
+  }, {
+    "tStartMs": 1795440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "In May of 2022, they constructed a fixed \nQD structure that would allow the hoses to  "
+    } ]
+  }, {
+    "tStartMs": 1800320,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "remain attached to the ground lines. Now all \nthey had to do was roll the ship up to it,  "
+    } ]
+  }, {
+    "tStartMs": 1804560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "extend the QD plate, and voila. By the \ntime ship 24 rolled out for the first time,  "
+    } ]
+  }, {
+    "tStartMs": 1809760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Booster 3 had finally been removed and the test \nstand B upgrade was completed. This created a  "
+    } ]
+  }, {
+    "tStartMs": 1814880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "perfect opportunity for them to see how quickly \nthey could transition between operations. Within  "
+    } ]
+  }, {
+    "tStartMs": 1819360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "24 hours, she went from the high bay to being \nplugged into the cryo stations, pressurized  "
+    } ]
+  }, {
+    "tStartMs": 1824160,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "for testing, and then right before it \nwas about to perform its cryo test."
+    } ]
+  }, {
+    "tStartMs": 1830000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I'm not going to go into what happened here, but \nI have a super old episode you can watch if you  "
+    } ]
+  }, {
+    "tStartMs": 1833920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "weren't around for this particular event. After \n7 days of repairs, it performed its initial cryo  "
+    } ]
+  }, {
+    "tStartMs": 1839040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "test and then moved over to test stand A where \nthe thrust simulator was already installed.  "
+    } ]
+  }, {
+    "tStartMs": 1843760,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "This significantly reduced the amount of \nsetup work required after placing the ship  "
+    } ]
+  }, {
+    "tStartMs": 1847200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "on the stand, and they were able to knock \nout the test 4 days later. At the time,  "
+    } ]
+  }, {
+    "tStartMs": 1851680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "this was extremely impressive, because if not \nfor the header tank pressurization line incident,  "
+    } ]
+  }, {
+    "tStartMs": 1856560,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the full cryo testing procedure would have been \nconducted in less than 5 days. This was another  "
+    } ]
+  }, {
+    "tStartMs": 1861120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "big step towards improving the flow of operations, \nwhich would become more necessary in the future  "
+    } ]
+  }, {
+    "tStartMs": 1865440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "once they reach the point where they're cranking \nout dozens of ships every year. Of course,  "
+    } ]
+  }, {
+    "tStartMs": 1869440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "they could have just skipped the cryo test station \naltogether and performed the same test on test  "
+    } ]
+  }, {
+    "tStartMs": 1873920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "stand A without using the thrust simulator. But \na lot of time and resources could be saved by  "
+    } ]
+  }, {
+    "tStartMs": 1879120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "eliminating the need for cranes to be involved in \nthis situation. So I think this was an important  "
+    } ]
+  }, {
+    "tStartMs": 1883520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "proof of concept for things to come once they \nmoved these operations away from the launch site."
+    } ]
+  }, {
+    "tStartMs": 1888400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Returning to Massey's, a potential limiting \nfactor to expanding the site as quickly as  "
+    } ]
+  }, {
+    "tStartMs": 1892640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "possible was the ability for SpaceX to \nacquire massive horizontal storage tanks.  "
+    } ]
+  }, {
+    "tStartMs": 1897280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "These are commonly referred to as \"hot dog tanks\" \nfor obvious reasons. There is quite a long lead  "
+    } ]
+  }, {
+    "tStartMs": 1902320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "time on these tanks if they're purchased \nbrand new. For a prime example of this,  "
+    } ]
+  }, {
+    "tStartMs": 1906160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "we can look at SpaceX's biggest mistake of 2021. \nThis is when they found out that they wouldn't  "
+    } ]
+  }, {
+    "tStartMs": 1910960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "be able to use their homemade vertical GSE tanks \nfor storing liquid methane. After this revelation,  "
+    } ]
+  }, {
+    "tStartMs": 1916160,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the sourcing team needed to find pre-certified \nstorage tanks to replace them as quickly as  "
+    } ]
+  }, {
+    "tStartMs": 1920560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "possible. But acquiring this type of equipment \non short notice doesn't really work out that  "
+    } ]
+  }, {
+    "tStartMs": 1924800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "well unless you happen to get lucky and find \nsomeone with unused tanks sitting around. That  "
+    } ]
+  }, {
+    "tStartMs": 1928720,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "was the case for the first two tanks to arrive, \nbut it would end up taking another five months  "
+    } ]
+  }, {
+    "tStartMs": 1933040,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "for the rest to show up. I would say this caused \na massive delay for the first orbital flight test,  "
+    } ]
+  }, {
+    "tStartMs": 1938320,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "but thanks to the issues with Booster 4 and Ship \n20, it probably didn't make much of a difference."
+    } ]
+  }, {
+    "tStartMs": 1944000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When it came to sourcing equipment for Masseys, \nthey didn't really have this problem thanks to  "
+    } ]
+  }, {
+    "tStartMs": 1948000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the fact that they had more than a full year to \nprepare. And depending on how you look at it,  "
+    } ]
+  }, {
+    "tStartMs": 1952400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "they actually managed to catch a lucky \nbreak along the way and were able to source  "
+    } ]
+  }, {
+    "tStartMs": 1955840,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "them from within. Shortly after completing \ntheir first integration tower at Starbase,  "
+    } ]
+  }, {
+    "tStartMs": 1960480,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "SpaceX began constructing a second Starship \nlaunch pad at the LC39 Launch Complex in Florida."
+    } ]
+  }, {
+    "tStartMs": 1966560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "At the time, they were worried that they would \nbe forced to complete a full environmental impact  "
+    } ]
+  }, {
+    "tStartMs": 1970640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "statement for Starship operations at Starbase. \nThis would have delayed the program by several  "
+    } ]
+  }, {
+    "tStartMs": 1974960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "years or prevented them from launching from \nStarbase altogether. The Starship launch  "
+    } ]
+  }, {
+    "tStartMs": 1979200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "pad at the Kennedy Space Center was basically an \nemergency backup plan in case that were to happen.  "
+    } ]
+  }, {
+    "tStartMs": 1984560,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "But near the end of 2022, news broke that they \nwould not be able to launch from 39A until they  "
+    } ]
+  }, {
+    "tStartMs": 1989600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "reached a point in the program where Starship was \nno longer in the experimental prototyping phase."
+    } ]
+  }, {
+    "tStartMs": 1994640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Along with that, they would need to ensure that if \nsomething were to happen to the adjacent Falcon 9  "
+    } ]
+  }, {
+    "tStartMs": 1998640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "launch pad, NASA wouldn't lose the ability to send \ncrew and cargo back and forth to the International  "
+    } ]
+  }, {
+    "tStartMs": 2003760,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Space Station. So SpaceX immediately got to work \ndesigning and constructing a brand new crew access  "
+    } ]
+  }, {
+    "tStartMs": 2009280,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "tower for the Falcon 9 launch pad at Slick 40. But \nthat would take some time and it didn't change the  "
+    } ]
+  }, {
+    "tStartMs": 2015040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "fact that Starship was nowhere close to being out \nof the experimental phase. Given the major setback  "
+    } ]
+  }, {
+    "tStartMs": 2019680,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to their plans of launching Starship from 39A, \nthere was now a huge amount of GSE equipment that  "
+    } ]
+  }, {
+    "tStartMs": 2024960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "would end up sitting around collecting dust for \nmore than three and a half years. This included  "
+    } ]
+  }, {
+    "tStartMs": 2029520,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "four horizontal water tanks and a large collection \nof high pressure gas cylinders, 14 hot dog tanks,  "
+    } ]
+  }, {
+    "tStartMs": 2035440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "two vertical methane storage tanks, and at least \neight sub-coolers and cryogenic transfer pumps.  "
+    } ]
+  }, {
+    "tStartMs": 2040960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "You might say this was the ultimate garage \nsale opportunity where everything is free as  "
+    } ]
+  }, {
+    "tStartMs": 2045280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "long as you can handle shipping. So in late \nOctober, SpaceX removed three hot dog tanks  "
+    } ]
+  }, {
+    "tStartMs": 2050480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and transferred them to Starbase using an ocean \nbarge. After arriving a month later, they began  "
+    } ]
+  }, {
+    "tStartMs": 2055280,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "installing the three tanks which would end up \nbecoming the first liquid oxygen storage tanks."
+    } ]
+  }, {
+    "tStartMs": 2060400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "The next week they got to work constructing the \nfoundation for the ship Cryo testing station,  "
+    } ]
+  }, {
+    "tStartMs": 2064800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "which was nearly identical to the one at the \nlaunch complex near the integration tower.  "
+    } ]
+  }, {
+    "tStartMs": 2069280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The only difference was this time they \nreinforced the pad with 54 continuous  "
+    } ]
+  }, {
+    "tStartMs": 2073200,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "flight auger piles drilled 80 feet deep into \nthe ground. The geology at Massey's is a bit  "
+    } ]
+  }, {
+    "tStartMs": 2078640,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "different than the launch complex, but I think \nthis was a reaction to their experience with  "
+    } ]
+  }, {
+    "tStartMs": 2082560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the vertical tank farm which had been \nslowly sinking over the past 12 months."
+    } ]
+  }, {
+    "tStartMs": 2086960,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Learning an important lesson from that situation,  "
+    } ]
+  }, {
+    "tStartMs": 2089280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "SpaceX made it their mission to \nnever allow this to happen again."
+    } ]
+  }, {
+    "tStartMs": 2093120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "From this point on, any structure that would \nsupport more than 50 tons would be constructed  "
+    } ]
+  }, {
+    "tStartMs": 2097440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "with a heavily reinforced foundation. \nWhile forming the 5 foot thick pad,  "
+    } ]
+  }, {
+    "tStartMs": 2101760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "they added a ring of embed plates to support \nthe test stand before filling it with concrete."
+    } ]
+  }, {
+    "tStartMs": 2106720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "After extending the distribution lines from the \nLOX and nitrogen farms over to the new testing  "
+    } ]
+  }, {
+    "tStartMs": 2110880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "station, they installed a fixed QD structure \nidentical to the one developed for the launch  "
+    } ]
+  }, {
+    "tStartMs": 2115520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "complex. Ship 25 rolled out to Massey's for \nthe first time on February 23rd to help with  "
+    } ]
+  }, {
+    "tStartMs": 2120480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "commissioning the new Cryo station. These initial \ntests would be conducted while the ship was on its  "
+    } ]
+  }, {
+    "tStartMs": 2124880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "transport stand, but it would take another two \nmonths to get the GSC systems ready before they  "
+    } ]
+  }, {
+    "tStartMs": 2129200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "were able to do that. This is pure speculation, \nbut it seems like someone on the operations team  "
+    } ]
+  }, {
+    "tStartMs": 2134160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "may have requested an additional LOX pump to be \nadded before the first test. Doing so would cut  "
+    } ]
+  }, {
+    "tStartMs": 2138480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "the propellant loading time in half, bringing it \nfrom 4 hours down to 2. But the more pumps you  "
+    } ]
+  }, {
+    "tStartMs": 2143680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "use, the more gas you need to backfill the tanks \nas they are being drained at a higher rate. So  "
+    } ]
+  }, {
+    "tStartMs": 2148000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "they also had to finish expanding their gas \ngeneration system, which was now supporting  "
+    } ]
+  }, {
+    "tStartMs": 2151760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "two tank farms instead of one. In the meantime, \nthe structures team began assembling the base of  "
+    } ]
+  }, {
+    "tStartMs": 2156480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the new mobile test stand that would be used for \nCryo and Thrust simulation testing. After welding  "
+    } ]
+  }, {
+    "tStartMs": 2161280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "the outer ring section together, additional \nsteel frame supports were added to the middle  "
+    } ]
+  }, {
+    "tStartMs": 2164800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "of the structure in a pattern that resembles the \nradiation hazard symbol. The hydraulic actuators  "
+    } ]
+  }, {
+    "tStartMs": 2169840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "for the three center engines and raised access \nplatforms are mounted to a circle in the center.  "
+    } ]
+  }, {
+    "tStartMs": 2174560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The actuators for the RVAC engines are mounted \non top of the three evenly spaced arcs. On either  "
+    } ]
+  }, {
+    "tStartMs": 2179760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "side of those actuators are cylindrical columns \nwhich are used to support the upper ring wall  "
+    } ]
+  }, {
+    "tStartMs": 2183920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "around the access platform. The six hold down \nclamps are mounted to the outer ring, making  "
+    } ]
+  }, {
+    "tStartMs": 2188560,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "this a super low profile structure. Once the ship \nis lowered on top, the only way to get inside of  "
+    } ]
+  }, {
+    "tStartMs": 2193680,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the aft section is by climbing up through the \ngaps between the three arcs. Eventually they  "
+    } ]
+  }, {
+    "tStartMs": 2197920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "installed stairs and ladders in these locations, \nalong with walkways that go all along the outer  "
+    } ]
+  }, {
+    "tStartMs": 2202080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "ring. There is also a set of stairs to reach the \nraised platform so workers can easily access the  "
+    } ]
+  }, {
+    "tStartMs": 2206880,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "top of the actuators. After the ship is secured \nby the clamps, the actuators are extended up  "
+    } ]
+  }, {
+    "tStartMs": 2211600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "to the aft dome and then bolted onto the engine \nmounts. On the upper ring wall, there are another  "
+    } ]
+  }, {
+    "tStartMs": 2216000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "six hydraulic actuators mounted horizontally, \nwith two attached to each of the gimbal mounts."
+    } ]
+  }, {
+    "tStartMs": 2221200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "For reference, these are what the gimbal mounts \nlook like. They pivot on two different axes in  "
+    } ]
+  }, {
+    "tStartMs": 2225280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "order to achieve a full range of motion. From \nthis perspective, the upper component gimbals  "
+    } ]
+  }, {
+    "tStartMs": 2229840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "side to side, while the lower one gimbals front to \nback. From what I can tell, there is one actuator  "
+    } ]
+  }, {
+    "tStartMs": 2234800,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "mounted to a bracket extending from the lower \npivot while the second actuator is attached to  "
+    } ]
+  }, {
+    "tStartMs": 2238960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the upper one. This allows them to simulate loads \nthat will be experienced while the engines are  "
+    } ]
+  }, {
+    "tStartMs": 2243040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "gimbaled outwards at extreme angles during the \naggressive foot maneuver before landing. This is  "
+    } ]
+  }, {
+    "tStartMs": 2247440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "something they did not have the ability to do with \nthe original thrust simulator system. In total,  "
+    } ]
+  }, {
+    "tStartMs": 2251920,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "there are 18 hydraulic actuators after you include \nthe six small ones used for the hold down clamps.  "
+    } ]
+  }, {
+    "tStartMs": 2256880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "To minimize the amount of setup work required \nbefore testing, the entire hydraulic control  "
+    } ]
+  }, {
+    "tStartMs": 2261200,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "system including the reservoir, pump, and several \naccumulators are all mounted on board. Overall,  "
+    } ]
+  }, {
+    "tStartMs": 2267760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "this new test stand was a significant improvement \nthat managed to alleviate all of the pain points  "
+    } ]
+  }, {
+    "tStartMs": 2272240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "they had encountered during the two previous \nyears with the suborbital test stands. Anyway,  "
+    } ]
+  }, {
+    "tStartMs": 2276640,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "with the upgrades to the GSE systems complete, \nShip 25 was finally able to perform the first ever  "
+    } ]
+  }, {
+    "tStartMs": 2281840,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "cryo test away from the launch site on May 5th \nof 2023. With ship cryo testing out of the way,  "
+    } ]
+  }, {
+    "tStartMs": 2287520,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "it was time to address the same operation with \nthe boosters. Preflight testing for boosters  "
+    } ]
+  }, {
+    "tStartMs": 2292160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "essentially consists of the same procedures they \nused for the ship. In other words, initial cryo  "
+    } ]
+  }, {
+    "tStartMs": 2296880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "testing should ideally be followed by a thrust \nsimulation test to verify the structural integrity  "
+    } ]
+  }, {
+    "tStartMs": 2301680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "of the 13 engine thrust puck. Preburner tests \nwould probably have been a bit too dangerous with  "
+    } ]
+  }, {
+    "tStartMs": 2306000,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "this many engines, so instead they performed spin \nprime tests followed by a separate igniter test."
+    } ]
+  }, {
+    "tStartMs": 2312880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "If everything is functioning as expected, \nthen they proceed to static fire testing.  "
+    } ]
+  }, {
+    "tStartMs": 2317040,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "After retiring booster 4, SpaceX had to \ncompletely retrofit the launch mount to  "
+    } ]
+  }, {
+    "tStartMs": 2321600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "support the next generation booster. Not \nonly did it have 33 engines instead of 29,  "
+    } ]
+  }, {
+    "tStartMs": 2326400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "but it was also the first to \nuse the new Raptor 2 engines."
+    } ]
+  }, {
+    "tStartMs": 2330000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "By the time booster 7 made its debut, \nSpaceX was anxious to get it ready for  "
+    } ]
+  }, {
+    "tStartMs": 2333840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "static fire testing as quickly \nas possible. This time around,  "
+    } ]
+  }, {
+    "tStartMs": 2337040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "they decided not to skip any steps and followed \nthe same testing procedure used for the ship."
+    } ]
+  }, {
+    "tStartMs": 2342160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "While waiting for the launch mount upgrades \nto be completed, they reconfigured the can  "
+    } ]
+  }, {
+    "tStartMs": 2345920,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "crusher to support booster testing. Instead of the \n6 hydraulic actuators in the middle, they were now  "
+    } ]
+  }, {
+    "tStartMs": 2351280,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "13. Following its initial cryo test on the launch \nmount, booster 7 was carried over to the can  "
+    } ]
+  }, {
+    "tStartMs": 2357040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "crusher to perform another cryo test on top of the \nthrust simulator. Similar to the ground testing  "
+    } ]
+  }, {
+    "tStartMs": 2361760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "procedure for ships, this would eventually become \nstandard practice for boosters. Like I said, it's  "
+    } ]
+  }, {
+    "tStartMs": 2366480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "extremely important to catch any manufacturing \ndefects before you begin engine testing."
+    } ]
+  }, {
+    "tStartMs": 2371280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "This test seemed to go well until \nSpaceX proceeded to detank the booster,  "
+    } ]
+  }, {
+    "tStartMs": 2374880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "which is when it suffered its \nfirst testing-related injury as  "
+    } ]
+  }, {
+    "tStartMs": 2377760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "its methane transfer tube collapsed due to \na pressure imbalance in the header tank."
+    } ]
+  }, {
+    "tStartMs": 2384400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "After repairs were completed, it \nperformed multiple cryo tests,  "
+    } ]
+  }, {
+    "tStartMs": 2387840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "spin primes, and static fire tests on the \nlaunch mount until it was finally ready  "
+    } ]
+  }, {
+    "tStartMs": 2391520,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "for flight. In between all this, they also \nconducted a series of tests on the B7.1 test  "
+    } ]
+  }, {
+    "tStartMs": 2397120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "tank on top of the can crusher. This was \nto verify that the upgraded reinforcements  "
+    } ]
+  }, {
+    "tStartMs": 2401520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "on the aft section would solve the issues \nthey experienced on the previous design."
+    } ]
+  }, {
+    "tStartMs": 2406080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "These tests spanned over a period \nof 3 months due to an unexpected  "
+    } ]
+  }, {
+    "tStartMs": 2409440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "issue that required repairs on the \ntank and then another repeated test."
+    } ]
+  }, {
+    "tStartMs": 2413520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "After this, there were several other tests that \nwere waiting in line to use the can crusher,  "
+    } ]
+  }, {
+    "tStartMs": 2417520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "which were all critical to the first flight \ntest. This included the aft skirt of the ship,  "
+    } ]
+  }, {
+    "tStartMs": 2422320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "the inner stage of the booster, and then \nanother test of the ship aft skirt after  "
+    } ]
+  }, {
+    "tStartMs": 2426240,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the first had failed. Eventually, the can \ncrusher was transferred to Massey's for  "
+    } ]
+  }, {
+    "tStartMs": 2430240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "even more testing of the ship's aft section, \nwhich required the use of liquid nitrogen.  "
+    } ]
+  }, {
+    "tStartMs": 2434720,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "So by the time booster 9 rolled out for cryo \ntesting in December of 2022, there was no  "
+    } ]
+  }, {
+    "tStartMs": 2439360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "way to perform the structural verification \ntest of its thrust puck. Along with this,  "
+    } ]
+  }, {
+    "tStartMs": 2443200,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "there was a massive amount of work that was taking \nplace on the launch mount that they didn't want  "
+    } ]
+  }, {
+    "tStartMs": 2446480,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to interrupt. This included replacing the \nblast surface with high strength fondag,  "
+    } ]
+  }, {
+    "tStartMs": 2450720,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "installing a ton of external shielding, and adding \nload cell sensors into the hold down arms, which  "
+    } ]
+  }, {
+    "tStartMs": 2455360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "would need to be ready in time for calibration \ntesting by the end of the year. Keep in mind that,  "
+    } ]
+  }, {
+    "tStartMs": 2459920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "even though it would be another 3 months until \nthey were actually ready for flight 1, SpaceX  "
+    } ]
+  }, {
+    "tStartMs": 2464000,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "was perpetually operating as if it was a mere 2 \nweeks away. With that said, they wanted to knock  "
+    } ]
+  }, {
+    "tStartMs": 2469120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "out this cryo test as early as possible so they \ncould begin installing engines on booster 9. This  "
+    } ]
+  }, {
+    "tStartMs": 2474000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "is a fairly long process, and they were hoping \nfor a quick turnaround time between flights."
+    } ]
+  }, {
+    "tStartMs": 2479280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So following in the footsteps of the Starship \nteam, they decided to perform the cryo test  "
+    } ]
+  }, {
+    "tStartMs": 2483600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "without the booster ever leaving its transport \nstand. But a fully loaded booster is about 3 times  "
+    } ]
+  }, {
+    "tStartMs": 2488720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "heavier than a ship, and these version 1 transport \nstands weren't exactly designed to support upwards  "
+    } ]
+  }, {
+    "tStartMs": 2493680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "of 3500 tons. So instead of doing a full cryo \ntest on both tanks as they had with booster 7,  "
+    } ]
+  }, {
+    "tStartMs": 2499760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "they performed a partial load of the liquid \noxygen tank, which was immediately followed  "
+    } ]
+  }, {
+    "tStartMs": 2504080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "by another partial test of the fuel tank using \nliquid nitrogen. 8 days later, they performed  "
+    } ]
+  }, {
+    "tStartMs": 2508960,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "a second test, this time only focusing on the \nmethane tank. After completing this test, B9 went  "
+    } ]
+  }, {
+    "tStartMs": 2514240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "back to the megabay for engine installation. \nIn total, this process took about 14 days,  "
+    } ]
+  }, {
+    "tStartMs": 2519120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but in the future, they had plans of bringing \nthis down to 4 days or less. Despite the 7  "
+    } ]
+  }, {
+    "tStartMs": 2523440,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "month delay between IFT-1 and IFT-2, B9 would \ngo on to be the only booster to ever fly without  "
+    } ]
+  }, {
+    "tStartMs": 2529600,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "performing a structural verification test. You \nknow, the crazy part about that situation is,  "
+    } ]
+  }, {
+    "tStartMs": 2535920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "anyone who was a part of the booster manufacturing \nteam at that time knows that if any vehicle should  "
+    } ]
+  }, {
+    "tStartMs": 2540320,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "have been checked for manufacturing defects in \nthe thrust simulator, it was probably booster 9.  "
+    } ]
+  }, {
+    "tStartMs": 2544960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But that's all I'm going to say about that topic. \nThe important thing is, this was a risk that they  "
+    } ]
+  }, {
+    "tStartMs": 2549280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "would prefer to never repeat again. A structural \nfailure of a booster in flight carries a lot more  "
+    } ]
+  }, {
+    "tStartMs": 2554160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "risk than if the same thing were to happen with \nthe ship. Returning to Masseys, in the aftermath  "
+    } ]
+  }, {
+    "tStartMs": 2558480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "of IFT-1, activities at Masseys began to pick \nup dramatically. Alongside a massive amount of  "
+    } ]
+  }, {
+    "tStartMs": 2563840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "work needed to expand the capabilities of the \nsite, there were several extremely important  "
+    } ]
+  }, {
+    "tStartMs": 2568000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "qualification tests for verifying components \nof the ship and booster that would need to  "
+    } ]
+  }, {
+    "tStartMs": 2571520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "be completed. This is when the relocation of all \nthe structural testing away from the launch site  "
+    } ]
+  }, {
+    "tStartMs": 2576400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "truly started to pay off. Within a 7 month period, \nSpaceX was able to perform structural verification  "
+    } ]
+  }, {
+    "tStartMs": 2581760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "tests on the new stretched panel design for the \nStarship nosecone, the new stretched panel e-dom  "
+    } ]
+  }, {
+    "tStartMs": 2587040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "that I mentioned earlier, two separate iterations \nof the aft section reinforcements on the ship,  "
+    } ]
+  }, {
+    "tStartMs": 2591920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "the hot stage ring, two destructive tests to \nfailure, and after the failure of the flight  "
+    } ]
+  }, {
+    "tStartMs": 2597040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "termination system on flight 1, they tested \nan upgraded version of the FTS system on one  "
+    } ]
+  }, {
+    "tStartMs": 2601760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "of the tanks they no longer had a use for. The \nbest part is, all of this was completed without  "
+    } ]
+  }, {
+    "tStartMs": 2606480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "using a single minute of their yearly allotment of \nbeach closure hours, or causing disruptions to the  "
+    } ]
+  }, {
+    "tStartMs": 2611120,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "massive reconstructive surgery for the launch \nmount after the damage sustained during IFT-1."
+    } ]
+  }, {
+    "tStartMs": 2616480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Alright here we are."
+    } ]
+  }, {
+    "tStartMs": 2620400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Good lord, this place is way \nbigger than the high bay."
+    } ]
+  }, {
+    "tStartMs": 2624560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Can't believe it's still \nvacant after all this time."
+    } ]
+  }, {
+    "tStartMs": 2627440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I can definitely get used to this view."
+    } ]
+  }, {
+    "tStartMs": 2630800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Anyway, in the middle of all that structural \nqualification testing I just mentioned,  "
+    } ]
+  }, {
+    "tStartMs": 2634400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "SpaceX began expanding the tank farm at Massey's  "
+    } ]
+  }, {
+    "tStartMs": 2636880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "so they would have enough capacity \nto actually begin testing boosters."
+    } ]
+  }, {
+    "tStartMs": 2640400,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Back in January of 2023, the Pad 39A Capital \nEquipment sourcing team was robbed at gunpoint  "
+    } ]
+  }, {
+    "tStartMs": 2646320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "for a second time by the star-based GSE squad. \nThis time, the bandits made off with three large  "
+    } ]
+  }, {
+    "tStartMs": 2651760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "hot dog tanks, four water tanks, two sets of \nhigh pressure gas cylinders, a bunch of large  "
+    } ]
+  }, {
+    "tStartMs": 2656880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "pipes they would need for the booster bidet \nsystem, and a booster transport stand. While  "
+    } ]
+  }, {
+    "tStartMs": 2661680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the foundation for the new liquid nitrogen tanks \nwas being prepared, they simultaneously began  "
+    } ]
+  }, {
+    "tStartMs": 2665840,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "constructing the pad for the booster cryo station. \nSimilar to its neighbor, the foundation was formed  "
+    } ]
+  }, {
+    "tStartMs": 2670720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "with 56 CFA piles to support the weight of a \nfully loaded vehicle. The pad is roughly 5 feet  "
+    } ]
+  }, {
+    "tStartMs": 2676400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "thick with embedded steel plates for bolting the \ntest structure to the ground. For the booster QD,  "
+    } ]
+  }, {
+    "tStartMs": 2681600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "they decided to upgrade from the janky \nsetup they were using at the launch site  "
+    } ]
+  }, {
+    "tStartMs": 2684800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "cryo station to one that could telescope \noutwards like the BQD on the launch mount."
+    } ]
+  }, {
+    "tStartMs": 2690080,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "As this was being assembled, the base of the \ntest station was being constructed nearby."
+    } ]
+  }, {
+    "tStartMs": 2694560,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Inside of the steel base structure are pedestals \nto support 13 hydraulic actuators. Since the  "
+    } ]
+  }, {
+    "tStartMs": 2699920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "purpose of the thrust simulation test is \nto verify the structural integrity of the  "
+    } ]
+  }, {
+    "tStartMs": 2703120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "thrust puck and the welds that join the \naft dome to the inner wall of the tank,  "
+    } ]
+  }, {
+    "tStartMs": 2707120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "they only needed to apply loads to the 13 center \nengines. The outer 20 engines are mounted to a  "
+    } ]
+  }, {
+    "tStartMs": 2711920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "structural ring around the perimeter, which is \narguably the most heavily reinforced part of the  "
+    } ]
+  }, {
+    "tStartMs": 2716480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "vehicle. Once the base structure was done being \nassembled, it was filled with cement to increase  "
+    } ]
+  }, {
+    "tStartMs": 2720560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "stability and keep the center of mass as close \nto the ground as possible. After this, the ring  "
+    } ]
+  }, {
+    "tStartMs": 2724960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "structure for mounting the 20 hold down clamps \nwas added and more than likely filled with cement  "
+    } ]
+  }, {
+    "tStartMs": 2729440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "as well before closing each of the gaps. Welded \nto the embedded steel pedestals in the center of  "
+    } ]
+  }, {
+    "tStartMs": 2734240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the base are 13 clevis brackets for mounting the \nhydraulic actuators, which are surrounded by an  "
+    } ]
+  }, {
+    "tStartMs": 2739120,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "access platform. On the outside of the structure, \nthey added four sets of extensions or outriggers,  "
+    } ]
+  }, {
+    "tStartMs": 2745040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "which I can only assume were filled with cement \nlike everything else. These outriggers allow the  "
+    } ]
+  }, {
+    "tStartMs": 2749280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "base structure to rest on top of pedestals, \nwhich are welded to the embedded steel plates  "
+    } ]
+  }, {
+    "tStartMs": 2753200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "inside of the foundation of the pad. Similar \nto the ship cryostand, all of the hydraulic  "
+    } ]
+  }, {
+    "tStartMs": 2757840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "systems are mounted on board to allow this to be a \nfully self-contained mechanical system and reduce  "
+    } ]
+  }, {
+    "tStartMs": 2762560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "setup time. One big difference is that there \ndoesn't seem to be any mechanism to allow them  "
+    } ]
+  }, {
+    "tStartMs": 2766800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "to simulate loads experienced while the engines \nare gimbaled outwards. I guess they decided that  "
+    } ]
+  }, {
+    "tStartMs": 2771440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "wasn't necessary for booster testing. While this \nnew test stand was being constructed, Booster 10,  "
+    } ]
+  }, {
+    "tStartMs": 2776240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "having nothing better to do at the time, decided \nto make its trip over to Massey's to help out with  "
+    } ]
+  }, {
+    "tStartMs": 2780640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the commissioning of the new cryostation. Shout \nout to the road construction crews because it  "
+    } ]
+  }, {
+    "tStartMs": 2785040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "took nearly two years to completely rebuild the \nroad between Sanchez and the Massey's outpost. In  "
+    } ]
+  }, {
+    "tStartMs": 2790000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the process, they significantly increased \nits load-bearing capacity. Without this,  "
+    } ]
+  }, {
+    "tStartMs": 2794800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "transporting these super-heavy boosters back \nand forth would have quickly caused catastrophic  "
+    } ]
+  }, {
+    "tStartMs": 2798640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "damage to Highway 4. The combined weight of the \nbooster, transport stand, SPMTs, and four sets of  "
+    } ]
+  }, {
+    "tStartMs": 2804640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "counterweights used to prevent the vehicle \nfrom tipping over easily exceeds 500 tons."
+    } ]
+  }, {
+    "tStartMs": 2809680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Similar to the situation with Booster 9, because \nBooster 10 would be tested on its transport stand,  "
+    } ]
+  }, {
+    "tStartMs": 2814800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "they wouldn't be able to perform a full crowd \ntest. On top of that, the three new liquid  "
+    } ]
+  }, {
+    "tStartMs": 2819280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "nitrogen tanks were still being rigged into the \nrest of the system, so they didn't have enough  "
+    } ]
+  }, {
+    "tStartMs": 2823520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "capacity to fully load either of the booster's \ntanks anyways. The funny thing is, even after  "
+    } ]
+  }, {
+    "tStartMs": 2828480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "they were operational, it still wouldn't be enough \nto fill the massive LOX tank of the booster. I'm  "
+    } ]
+  }, {
+    "tStartMs": 2833120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "not sure if this was some kind of miscalculation, \nbut they would end up having to rent two king-size  "
+    } ]
+  }, {
+    "tStartMs": 2837680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "trailers to make up the difference until they \nfinally got their hands on a 7th hot dog tank four  "
+    } ]
+  }, {
+    "tStartMs": 2842000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "months later. The limited capacity wasn't an issue \nwith Booster 10 because they were mainly focused  "
+    } ]
+  }, {
+    "tStartMs": 2846800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "on commissioning the new systems. So instead, \nthey performed a partial test on both tanks."
+    } ]
+  }, {
+    "tStartMs": 2852400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "This is the only time they have ever tested both \ntanks at the same time since booster crowd testing  "
+    } ]
+  }, {
+    "tStartMs": 2856960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "was relocated to Massey's, which is a really odd \nmystery that I've spent a lot of time trying to  "
+    } ]
+  }, {
+    "tStartMs": 2861440,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "figure out, but more on that later. While this \nwas happening, the mobile test stand for the ship,  "
+    } ]
+  }, {
+    "tStartMs": 2866720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "now fully completed, was on its way to \nthe production site to pick up ship 28."
+    } ]
+  }, {
+    "tStartMs": 2871440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "After two long years, the test structure \nengineering team had finally reached the  "
+    } ]
+  }, {
+    "tStartMs": 2875840,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "first major milestone of their plan for \noptimizing preflight testing. On July 28th,  "
+    } ]
+  }, {
+    "tStartMs": 2880960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "ship 28 performed its first cryogenic \nproof test, followed by what I can only  "
+    } ]
+  }, {
+    "tStartMs": 2885360,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "assume was the structural verification test \nusing the thrust simulators six days later."
+    } ]
+  }, {
+    "tStartMs": 2890480,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Being able to perform these tests from a single \nstand without the need for a crane to be involved  "
+    } ]
+  }, {
+    "tStartMs": 2894720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "was a game changer. The next day, it returned \nto the build site for engine installation."
+    } ]
+  }, {
+    "tStartMs": 2899920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "A month later, the mobile \nthrust simulation stand for  "
+    } ]
+  }, {
+    "tStartMs": 2902560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the booster finished assembly and \nwas now ready for action as well."
+    } ]
+  }, {
+    "tStartMs": 2906400,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "After it was moved to the production site, Booster \n10 was lowered on top of it and when it rolled  "
+    } ]
+  }, {
+    "tStartMs": 2911280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "out for the first time, we noticed a pretty \ninteresting detail about it. No counterweights.  "
+    } ]
+  }, {
+    "tStartMs": 2916320,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "This was a bit surprising because with a \nnormal transport stand, whether the booster has  "
+    } ]
+  }, {
+    "tStartMs": 2920560,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "engines installed or not, it requires 240 tons of \ncounterweights on the SPMTs. This is for stability  "
+    } ]
+  }, {
+    "tStartMs": 2927120,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "to bring the center of mass closer to the ground \nand reduce the likelihood of it tipping over."
+    } ]
+  }, {
+    "tStartMs": 2932320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "These transport stands are probably not as heavy  "
+    } ]
+  }, {
+    "tStartMs": 2934800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "as they look thanks to being \nconstructed with tubular steel."
+    } ]
+  }, {
+    "tStartMs": 2938320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "For comparison, the ship used 200 tons of \ncounterweights when it's transported without  "
+    } ]
+  }, {
+    "tStartMs": 2942720,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "engines and 160 tons after they're installed. \nAnd with the new mobile thrust simulator stand,  "
+    } ]
+  }, {
+    "tStartMs": 2948800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "nothing really changed. Still 200 tons. So \nthe fact that the booster can be transported  "
+    } ]
+  }, {
+    "tStartMs": 2954080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "on the cryo station with zero counterweights is \na sign of how insanely heavy this structure is."
+    } ]
+  }, {
+    "tStartMs": 2960080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Anyway, after being transported to Massey's, \nB10's testing campaign was a bit different  "
+    } ]
+  }, {
+    "tStartMs": 2964480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "than ship 28. Instead of testing both tanks \nat the same time, they started off with the  "
+    } ]
+  }, {
+    "tStartMs": 2969120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "methane tank. A few days later, they completed \na LOX cryo test which lasted for about 3 hours  "
+    } ]
+  }, {
+    "tStartMs": 2974960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "before adding a small amount of fluid to \nthe methane tank and continuing the test  "
+    } ]
+  }, {
+    "tStartMs": 2979040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for an additional 2 hours. I can only assume \nthat this second phase of testing is where  "
+    } ]
+  }, {
+    "tStartMs": 2983120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the thrust simulation test occurs and that it \nrequires the methane transfer tube to be filled.  "
+    } ]
+  }, {
+    "tStartMs": 2988160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "This may have something to do with protecting the \ndowncomer from being crushed, but I'm not really  "
+    } ]
+  }, {
+    "tStartMs": 2992240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "sure. I think analyzing what's happening during \nthese tests is super interesting, but for the sake  "
+    } ]
+  }, {
+    "tStartMs": 2997440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of not making this episode longer than necessary, \nI'll save that for another time. With structural  "
+    } ]
+  }, {
+    "tStartMs": 3002400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "verification testing and ship and booster cryo \ntesting out of the way, the next major focus  "
+    } ]
+  }, {
+    "tStartMs": 3007040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "for improving the flow of preflight testing was \nstatic fire testing of the ship. In my opinion,  "
+    } ]
+  }, {
+    "tStartMs": 3012640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "this one was arguably the most important. Up \nto this point, I would say that each of the  "
+    } ]
+  }, {
+    "tStartMs": 3017120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "topics we have covered could be categorized \nas logistical issues. From a functionality  "
+    } ]
+  }, {
+    "tStartMs": 3021680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "standpoint, the original infrastructure for \ncryo and structural testing worked just fine."
+    } ]
+  }, {
+    "tStartMs": 3026800,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Change was driven by the fact that the process \nwas slow, often got in the way of, or were  "
+    } ]
+  }, {
+    "tStartMs": 3031680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "delayed by other operations, and the dependency \non expensive heavy lift equipment that was better  "
+    } ]
+  }, {
+    "tStartMs": 3036640,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "used elsewhere. The same logistical bottlenecks \naffected ship static fire testing as well, but  "
+    } ]
+  }, {
+    "tStartMs": 3042000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "they also had another problem that was arguably \na bit more serious. This is mostly centered  "
+    } ]
+  }, {
+    "tStartMs": 3046480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "around the fact that the test stand, which was \nfine for cryo and thrust simulation testing,  "
+    } ]
+  }, {
+    "tStartMs": 3051440,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "had a fundamental flaw that made it ridiculously \nill-suited for static fire testing. To be honest,  "
+    } ]
+  }, {
+    "tStartMs": 3056640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "it's actually quite perplexing that this was \never allowed to happen. When we take a quick  "
+    } ]
+  }, {
+    "tStartMs": 3060640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "look at how engine testing is conducted \nat SpaceX's McGregor testing facility,  "
+    } ]
+  }, {
+    "tStartMs": 3064800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "we can see a very different approach from \nwhat happened at Starbase. During the early  "
+    } ]
+  }, {
+    "tStartMs": 3068880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "days of Falcon 9 testing, the first stage \nboosters were tested on top of a massive,  "
+    } ]
+  }, {
+    "tStartMs": 3073680,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "220-foot-tall tripod stand with a gigantic flame \nbucket at the bottom. After upgrading Falcon 9 to  "
+    } ]
+  }, {
+    "tStartMs": 3080240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the full thrust variant, the tripod stand could \nno longer handle the increased thrust of the new  "
+    } ]
+  }, {
+    "tStartMs": 3084320,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "booster. So a new test stand was built adjacent to \nthe tripod, which featured a trench with a massive  "
+    } ]
+  }, {
+    "tStartMs": 3090000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "upgraded flame bucket at the bottom to divert \nthe hot exhaust gases. Thanks to the deluge  "
+    } ]
+  }, {
+    "tStartMs": 3094960,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "system and flame trench, Falcon 9 static fires \nbecame a lot quieter. In 2019, the tripod stand  "
+    } ]
+  }, {
+    "tStartMs": 3101280,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "was repurposed as a vertical test stand to help \nsupport Raptor development. So for several years,  "
+    } ]
+  }, {
+    "tStartMs": 3107200,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "they tested Raptors either horizontally or \n220 feet in the air above a flame bucket."
+    } ]
+  }, {
+    "tStartMs": 3113120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But for some reason, when it came \ntime for the initial design review  "
+    } ]
+  }, {
+    "tStartMs": 3116400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "of the static fire test stand for Starship,  "
+    } ]
+  }, {
+    "tStartMs": 3118720,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "it seems like some design constraints \nmay have been prioritized above others."
+    } ]
+  }, {
+    "tStartMs": 3124640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Alright everyone, what do you think?"
+    } ]
+  }, {
+    "tStartMs": 3126880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Ooooh. Wow."
+    } ]
+  }, {
+    "tStartMs": 3129280,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Amazing. Relatively simple design, which should \nbe easy to fabricate and assemble in weeks instead  "
+    } ]
+  }, {
+    "tStartMs": 3134240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "of months. Perfect! We literally just finished \nmodifying one of those aircraft catering trucks  "
+    } ]
+  }, {
+    "tStartMs": 3139040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "for easy install and maintenance of Raptors. \nLooks like it would fit between those legs,  "
+    } ]
+  }, {
+    "tStartMs": 3142800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "no problem. Wait, don't you guys think it's a \nlittle bit too low to the ground? I feel like  "
+    } ]
+  }, {
+    "tStartMs": 3147360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "we need a flame cam. We mount little cameras on \nthe legs, and then we have a clean view right  "
+    } ]
+  }, {
+    "tStartMs": 3151760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "into the skirt while the engines are firing. \nGenius. And you could literally prefab these,  "
+    } ]
+  }, {
+    "tStartMs": 3156640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "pack like three of them into the payload \nsection, and have little robots assemble  "
+    } ]
+  }, {
+    "tStartMs": 3160000,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "them on Mars. Oh shit. Yep. Send it to \nfabrication, let's get the ball rolling."
+    } ]
+  }, {
+    "tStartMs": 3166560,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "I just don't get it. The second stage Starship has \n180% more thrust than a Falcon 9 booster. Having  "
+    } ]
+  }, {
+    "tStartMs": 3173840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "six of some of the most powerful liquid-fueled \nrocket engines ever created, from just 8 meters  "
+    } ]
+  }, {
+    "tStartMs": 3178080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "above a flat surface, was always a recipe \nfor disaster. This is like an adult using  "
+    } ]
+  }, {
+    "tStartMs": 3183600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "a toddler's potty training toilet after eating \nsix cheesy double beef burritos from Taco Bell."
+    } ]
+  }, {
+    "tStartMs": 3188800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Sorry for that visualization, but I \nfeel like it's an accurate comparison."
+    } ]
+  }, {
+    "tStartMs": 3192640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Anyway, I think one could argue that \nthe experiences they had on this pad  "
+    } ]
+  }, {
+    "tStartMs": 3196320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "should have been an indication that \nthere was zero chance the orbital  "
+    } ]
+  }, {
+    "tStartMs": 3198880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "launch mount was ever going to \nwork as originally designed."
+    } ]
+  }, {
+    "tStartMs": 3202160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "But let's not get into that. Instead, \nI'll just quickly summarize the list of  "
+    } ]
+  }, {
+    "tStartMs": 3205840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "lessons that SpaceX learned while performing \nstatic fires on this baby-sized test stand."
+    } ]
+  }, {
+    "tStartMs": 3211040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "To protect the blast surface of the pad, \nthey installed a tiny water deluge system,  "
+    } ]
+  }, {
+    "tStartMs": 3215680,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "if you can even call it that, which ended up \nbeing completely ineffective. When testing SN4,  "
+    } ]
+  }, {
+    "tStartMs": 3221760,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "5, and 6, it wasn't as noticeable \nthat there was a problem with this  "
+    } ]
+  }, {
+    "tStartMs": 3225280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "test stand, which was probably due to the \nfact that these were single-engine tests."
+    } ]
+  }, {
+    "tStartMs": 3229840,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "But when they moved on to SN8, it became \na lot more obvious. In November of 2020,  "
+    } ]
+  }, {
+    "tStartMs": 3235520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "they performed a semi-long \nduration static fire test,  "
+    } ]
+  }, {
+    "tStartMs": 3238640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "which resulted in chunks of concrete \nflying all over the place. Unfortunately,  "
+    } ]
+  }, {
+    "tStartMs": 3242880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "there wasn't much that could be done about \nthis, so they continued with testing."
+    } ]
+  }, {
+    "tStartMs": 3247120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "On the third attempt, the deflected material \nended up causing severe damage to the vehicle.  "
+    } ]
+  }, {
+    "tStartMs": 3251840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "This included a stream of molten metal pouring \nout of the skirt, and damage to the pneumatic  "
+    } ]
+  }, {
+    "tStartMs": 3256400,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "system which controlled the ship's ability to \nvent its propellant tanks to relieve pressure."
+    } ]
+  }, {
+    "tStartMs": 3261280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Thankfully, some of the built-in \nsafety systems did their job  "
+    } ]
+  }, {
+    "tStartMs": 3264080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and were able to prevent the \ncomplete destruction of SN8."
+    } ]
+  }, {
+    "tStartMs": 3267680,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "After this close call, attempts were made to \nprevent it from occurring again. They added a  "
+    } ]
+  }, {
+    "tStartMs": 3272480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "layer of ceramic-filled epoxy known as \nMartite on top of the concrete. Given  "
+    } ]
+  }, {
+    "tStartMs": 3276960,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "that this material is commonly used in \naerospace applications to protect exposed  "
+    } ]
+  }, {
+    "tStartMs": 3280720,
+    "dDurationMs": 12400,
+    "segs": [ {
+      "utf8": "structural steel from hot rocket exhaust, \nthey hoped that this would solve the problem."
+    } ]
+  }, {
+    "tStartMs": 3293120,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "It didn't."
+    } ]
+  }, {
+    "tStartMs": 3294880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "As it turned out, the heat and pressure generated \nby the Raptor engines was just far too great."
+    } ]
+  }, {
+    "tStartMs": 3300000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Honestly, I didn't even know it was possible \nfor concrete to glow red hot like this."
+    } ]
+  }, {
+    "tStartMs": 3304640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Luckily, they were able to \nspread the burden between  "
+    } ]
+  }, {
+    "tStartMs": 3306800,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "two static fire stands to reduce the damage."
+    } ]
+  }, {
+    "tStartMs": 3309760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Eventually, they replaced the Martite with a \nhigh-strength refractory material known as Fondag,  "
+    } ]
+  }, {
+    "tStartMs": 3314640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "which they would later end up using \nunder the orbital launch mount as well."
+    } ]
+  }, {
+    "tStartMs": 3319120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "As you can probably guess, this wasn't \nmuch better, and it still sent chunks  "
+    } ]
+  }, {
+    "tStartMs": 3323120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "of material flying hundreds of yards away. \nThe resulting debris cloud became the TPS  "
+    } ]
+  }, {
+    "tStartMs": 3328160,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "team's worst enemy as it repeatedly damaged \ntiles on the ship. All hopes of being able  "
+    } ]
+  }, {
+    "tStartMs": 3333040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "to monitor the tests from below were literally \ncrushed as every single camera mounted on the  "
+    } ]
+  }, {
+    "tStartMs": 3337920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "legs of the test stand were obliterated. \nNothing could survive these conditions."
+    } ]
+  }, {
+    "tStartMs": 3342480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Even worse was the fact that the six Raptor \nengines were being forced to compete in the  "
+    } ]
+  }, {
+    "tStartMs": 3346320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "World Series of Russian Roulette against \ntheir will. This regularly resulted in  "
+    } ]
+  }, {
+    "tStartMs": 3350480,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "technicians having to replace engines that were \notherwise performing great during the test."
+    } ]
+  }, {
+    "tStartMs": 3355360,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "In nearly every way imaginable, the \nsuborbital test stands were a hot mess.  "
+    } ]
+  }, {
+    "tStartMs": 3360400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "It was clear that in order to achieve the \ngoal of streamlining preflight testing,  "
+    } ]
+  }, {
+    "tStartMs": 3364160,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "a massive overhaul of the ship's \nstatic fire stand was required."
+    } ]
+  }, {
+    "tStartMs": 3368080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Little did we know at the time, but the plan to \nbegin constructing a second orbital launch pad  "
+    } ]
+  }, {
+    "tStartMs": 3372640,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "was already well underway. And SpaceX would begin \nshipping completed tower modules from the Florida  "
+    } ]
+  }, {
+    "tStartMs": 3378320,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "facility to Texas immediately after Flight 2. \nBut after failing to get approval to expand the  "
+    } ]
+  }, {
+    "tStartMs": 3383920,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "footprint of the complex, the originally planned \nlocation for Pad B was no longer an option.  "
+    } ]
+  }, {
+    "tStartMs": 3389280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Because of this, there was now only one place \nthey could put it. So at the end of 2023,  "
+    } ]
+  }, {
+    "tStartMs": 3394160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "the race was on to relocate ship \nstatic fire testing to make way  "
+    } ]
+  }, {
+    "tStartMs": 3397440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "for the new launch pad. They needed a \nflame trench, and they needed it fast."
+    } ]
+  }, {
+    "tStartMs": 3402480,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "In November of 2023, SpaceX began the largest and \nmost important phase of expansion at Massey's. I  "
+    } ]
+  }, {
+    "tStartMs": 3408400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "got a tip my hat to the teams responsible for \ncoordinating all of this work. From a project  "
+    } ]
+  }, {
+    "tStartMs": 3412640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "management perspective, the phased approach \nof Massey's development was pretty genius. By  "
+    } ]
+  }, {
+    "tStartMs": 3417440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "starting off with building the nitrogen farm, \nthey enabled structural qualification testing  "
+    } ]
+  }, {
+    "tStartMs": 3421280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to move Massey's. When it came time to \nbuild out the cryo testing stations,  "
+    } ]
+  }, {
+    "tStartMs": 3425520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "50% of the infrastructure required for the test \nstations was already in place. With the nitrogen  "
+    } ]
+  }, {
+    "tStartMs": 3430400,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "farm operational, they could focus on adding \nliquid oxygen storage and distribution systems."
+    } ]
+  }, {
+    "tStartMs": 3435920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "When it came time to build out the \nstatic fire test stand, once again,  "
+    } ]
+  }, {
+    "tStartMs": 3439120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "almost half of what they needed was already \noperational. They had LN2 and LOX farms.  "
+    } ]
+  }, {
+    "tStartMs": 3444000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "All that was left was the fuel farm, \nflame trench, and water deluge system."
+    } ]
+  }, {
+    "tStartMs": 3448800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "One capability they would need to add \nto the existing infrastructure that  "
+    } ]
+  }, {
+    "tStartMs": 3451520,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "wasn't already present was the ability to \ndensify liquid oxygen. As many of you know  "
+    } ]
+  }, {
+    "tStartMs": 3455920,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "by now from watching the propellant \nloading process at the launch site,  "
+    } ]
+  }, {
+    "tStartMs": 3459040,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "this is accomplished by passing liquid oxygen \nthrough coiled tubes submerged in liquid nitrogen.  "
+    } ]
+  }, {
+    "tStartMs": 3464320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "This wasn't necessary for cryo testing, but \nit is for static fires because the Raptor  "
+    } ]
+  }, {
+    "tStartMs": 3468720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "engines are finely tuned to expect subcooled \npropellants. Luckily, the Starship launch pad  "
+    } ]
+  }, {
+    "tStartMs": 3473920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "at KSC still had a collection of equipment \nthat they wouldn't be needing any time soon."
+    } ]
+  }, {
+    "tStartMs": 3478240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "With Christmas right around the corner, the \nGSE team put together another wish list and  "
+    } ]
+  }, {
+    "tStartMs": 3482480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "snatched up two LOX and CH4 heat exchangers \nand two multi-stage vertical pumps that they  "
+    } ]
+  }, {
+    "tStartMs": 3487520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "would need for the methane farm as well. The \nfinal item on the list was bulk storage tanks  "
+    } ]
+  }, {
+    "tStartMs": 3492000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "for methane. Unfortunately, they had already \ncannibalized all of the large hot dog tanks,  "
+    } ]
+  }, {
+    "tStartMs": 3497040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "so they had to settle for \nvertical storage tanks instead.  "
+    } ]
+  }, {
+    "tStartMs": 3500160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The funny thing about these tanks is \nthat they were previously expected  "
+    } ]
+  }, {
+    "tStartMs": 3503040,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "to be used as LNG storage containers for \nthe large backup generators at Starbase."
+    } ]
+  }, {
+    "tStartMs": 3508080,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "As best I can tell, they were initially planning \nto transition from the small road tankers they  "
+    } ]
+  }, {
+    "tStartMs": 3512560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "were using to a large bulk storage system. \nThis upgrade would have allowed them to provide  "
+    } ]
+  }, {
+    "tStartMs": 3517280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "continuous power to the adjacent air separation \nplant. It's always been a major goal for SpaceX  "
+    } ]
+  }, {
+    "tStartMs": 3522560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "to produce their own cryogenic commodities. \nBut after a change of plans in early 2022,  "
+    } ]
+  }, {
+    "tStartMs": 3528400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "two of the tanks were shipped off and donated to \npad 39A to be used for some unknown purpose, only  "
+    } ]
+  }, {
+    "tStartMs": 3534240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to be repossessed 20 months later and sent back \nto Starbase. As equipment began to trickle in, the  "
+    } ]
+  }, {
+    "tStartMs": 3539520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "demolition crew was given the green light to pull \nthe trigger on test stand A. This let test stand  "
+    } ]
+  }, {
+    "tStartMs": 3544640,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "B to handle the five remaining static fire tests \non its own. Over the next few months, a massive  "
+    } ]
+  }, {
+    "tStartMs": 3550080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "amount of effort went into completing several \nsimultaneous projects as quickly as possible.  "
+    } ]
+  }, {
+    "tStartMs": 3555120,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "First there was the methane farm, which squeezed \nbulk storage tanks, pumps, subcoolers, pressure  "
+    } ]
+  }, {
+    "tStartMs": 3561120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "building systems, high pressure gas generation \nand storage, and methane recovery system into  "
+    } ]
+  }, {
+    "tStartMs": 3566400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "an extremely small footprint. The flame trench was \nconstructed about 2-3 months faster than it would  "
+    } ]
+  }, {
+    "tStartMs": 3571520,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "have otherwise by overlapping multiple processes \nthat would normally be completed in sequential  "
+    } ]
+  }, {
+    "tStartMs": 3576160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "order. After waiting for a convenient gap between \nthe ground testing campaigns of the flight 5 and 6  "
+    } ]
+  }, {
+    "tStartMs": 3581120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "vehicles, they integrated the liquid oxygen \nsubcoolers into the existing LOX and LN2  "
+    } ]
+  }, {
+    "tStartMs": 3586000,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "distribution lines. From there, they extended the \nLN2, LOX and nitrogen gas supply, along with many  "
+    } ]
+  }, {
+    "tStartMs": 3592400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "other high pressure gas lines, to join up with the \ncommodities being supplied by the methane farm."
+    } ]
+  }, {
+    "tStartMs": 3597520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "These were routed to a series of five distribution \nmanifolds. These control loading and detanking of  "
+    } ]
+  }, {
+    "tStartMs": 3602640,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "liquid oxygen and methane, the pre-pressurization \nsystem for both the ship's propellant tanks,  "
+    } ]
+  }, {
+    "tStartMs": 3607840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and four sets of panels for loading high \npressure gases into the COPV tanks on the  "
+    } ]
+  }, {
+    "tStartMs": 3612000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "ship. All of these commodities are routed to \na gantry above the trench where the ship QD  "
+    } ]
+  }, {
+    "tStartMs": 3616400,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "is located. To protect these sensitive areas, \nthey installed a pressurized water tank which  "
+    } ]
+  }, {
+    "tStartMs": 3621120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "feeds a fire suppression system above all \nthe high pressure gas distribution panels.  "
+    } ]
+  }, {
+    "tStartMs": 3625360,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "This fire suppression system extends up to \nthe gantry where there are nozzles in front  "
+    } ]
+  }, {
+    "tStartMs": 3629040,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "of and behind the ship QD assembly. \nAs the trench was nearing completion,  "
+    } ]
+  }, {
+    "tStartMs": 3633520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "they began constructing a clever, first of \nits kind, gas driven water deluge system."
+    } ]
+  }, {
+    "tStartMs": 3638800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "While this was being installed, components for \nthe flame bucket and its supporting framework were  "
+    } ]
+  }, {
+    "tStartMs": 3642800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "shipped from the McGregor testing facility where \nthey were being fabricated and assembled on site.  "
+    } ]
+  }, {
+    "tStartMs": 3647840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "On that note, I'm fairly confident that every \nsingle system I just mentioned was designed by the  "
+    } ]
+  }, {
+    "tStartMs": 3652640,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "GSE team at SpaceX's McGregor testing facility. \nOf course, there was no way to know this for sure,  "
+    } ]
+  }, {
+    "tStartMs": 3658080,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "but with a trained eye, you can easily see their \nfingerprints all over this. So to those of you who  "
+    } ]
+  }, {
+    "tStartMs": 3662800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "are wondering why it was designed this way with \nthe methane farm so close to the test stand and  "
+    } ]
+  }, {
+    "tStartMs": 3667040,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "all of the plumbing above ground, all you have \nto do is look at any of the static fire stands  "
+    } ]
+  }, {
+    "tStartMs": 3670960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "at McGregor and the answer is pretty clear. If I \nhad to guess, the only component of this entire  "
+    } ]
+  }, {
+    "tStartMs": 3675920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "system that may have actually been designed at \nStarbase would have been the mobile test stand."
+    } ]
+  }, {
+    "tStartMs": 3680640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Working with the trend of eliminating \nthe need for cranes wherever possible,  "
+    } ]
+  }, {
+    "tStartMs": 3684080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the structures team designed the static fire \ntest stand to be robust enough to support  "
+    } ]
+  }, {
+    "tStartMs": 3688160,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "transportation of the ship. Compared to the two \ncryo stands, its design is incredibly simple. The  "
+    } ]
+  }, {
+    "tStartMs": 3694000,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "large ring wall is constructed out of hollow steel \nbox sections similar to the orbital launch mount.  "
+    } ]
+  }, {
+    "tStartMs": 3699120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Once the sections were welded together, it \nwas placed on top of four tall standoffs so  "
+    } ]
+  }, {
+    "tStartMs": 3703280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the legs could be attached. There's no evidence \nof this, but I believe that after they finished  "
+    } ]
+  }, {
+    "tStartMs": 3707840,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "welding them to the ring wall, the legs may have \nbeen filled with concrete before they were capped  "
+    } ]
+  }, {
+    "tStartMs": 3711760,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "off. To allow this to be transported by SPMTs, \nthere are horizontal beams on two sides of the  "
+    } ]
+  }, {
+    "tStartMs": 3717120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "stand attached between the legs. Similar to the \nsuborbital test stand, there are six clamps to  "
+    } ]
+  }, {
+    "tStartMs": 3722160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "lock the ship in place. There are six additional \nblocks between each of the clamps to improve the  "
+    } ]
+  }, {
+    "tStartMs": 3726640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "weight distribution when the ship is fully loaded. \nWhen firing the RVAC engines at sea level, there  "
+    } ]
+  }, {
+    "tStartMs": 3731120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "are braces installed around the bottom of the \nextended nozzles. On the inner wall of the ring,  "
+    } ]
+  }, {
+    "tStartMs": 3735520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "there are six posts with clevis brackets mounted \non top. On each of these posts, there are two  "
+    } ]
+  }, {
+    "tStartMs": 3740560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "struts that attach to the nozzle braces to prevent \nthem from vibrating against the aft skirt of the  "
+    } ]
+  }, {
+    "tStartMs": 3745040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "ship. As you can see, there is very little \nclearance between the nozzles and the skirt."
+    } ]
+  }, {
+    "tStartMs": 3750000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I mentioned earlier that the ability \nto service the engines and swap them  "
+    } ]
+  }, {
+    "tStartMs": 3753360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "out if necessary was an important design \nconsideration for the stand. Thanks to  "
+    } ]
+  }, {
+    "tStartMs": 3757120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "the sliding platform on top of the \ntrench, Raptor service trucks can  "
+    } ]
+  }, {
+    "tStartMs": 3760160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "easily drive underneath the ship in the \nevent an engine needs to be replaced."
+    } ]
+  }, {
+    "tStartMs": 3764880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "As a fairly recent addition, a heavy-duty circular  "
+    } ]
+  }, {
+    "tStartMs": 3767680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "platform was constructed to eliminate \nthe need for Raptor service trucks."
+    } ]
+  }, {
+    "tStartMs": 3771680,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Taking some inspiration from the maintenance \nplatform for the orbital launch mount, they  "
+    } ]
+  }, {
+    "tStartMs": 3775520,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "mounted motorized chain hoists to the outer wall \nof the ring stand to raise and lower the platform."
+    } ]
+  }, {
+    "tStartMs": 3781280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "On May 7th of 2024, the static fire stand \nwas rolled to the production site for the  "
+    } ]
+  }, {
+    "tStartMs": 3785760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "first time. Riding inside the ship bay \nwas the infamous Silver Bullet aka Ship  "
+    } ]
+  }, {
+    "tStartMs": 3790880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "26. According to a poll that I posted on \nX last year, Ship 26 was overwhelmingly  "
+    } ]
+  }, {
+    "tStartMs": 3796240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "voted as the most beloved Starship ever \nproduced, and it wasn't even close."
+    } ]
+  }, {
+    "tStartMs": 3801200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Unfortunately, I was unable to \nfind this post on my profile,  "
+    } ]
+  }, {
+    "tStartMs": 3804000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "so you're just going to have to take my word for \nit when I say that almost everyone was extremely  "
+    } ]
+  }, {
+    "tStartMs": 3808240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "disappointed that it was never given the chance \nto fly. Personally, I'm not that sentimental,  "
+    } ]
+  }, {
+    "tStartMs": 3812880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "but it's hard to get over the fact that we \nnever learned what SpaceX's original plans  "
+    } ]
+  }, {
+    "tStartMs": 3816480,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "were for that beautiful 9000mm projectile. The \ngood news is, before it was scrapped, it was  "
+    } ]
+  }, {
+    "tStartMs": 3822240,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "given the honor of serving as a test article \nto commission the new static fire test stand."
+    } ]
+  }, {
+    "tStartMs": 3827280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Less than three days after Ship 26 arrived \nto Massey's, the demolition crews began  "
+    } ]
+  }, {
+    "tStartMs": 3831200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "dismantling test stand B at the launch complex. \nThis officially marked the end of an era. Before  "
+    } ]
+  }, {
+    "tStartMs": 3836480,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "bringing down the last section, workers were asked \nif they had any final words that they wanted to  "
+    } ]
+  }, {
+    "tStartMs": 3840640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "say. At that point, one of the TPS technicians \nwho had spent countless hours replacing tiles  "
+    } ]
+  }, {
+    "tStartMs": 3845280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "that were damaged during static fire tests climbed \non top of the test stand and proceeded to beat  "
+    } ]
+  }, {
+    "tStartMs": 3850000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "the shit out of it with a sledgehammer. \nSometimes, actions are better than words."
+    } ]
+  }, {
+    "tStartMs": 3855280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The demolition of test stand B is perhaps the \nultimate sign that SpaceX never expected to  "
+    } ]
+  }, {
+    "tStartMs": 3860080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "experience a catastrophic failure \non the new static fire test stand."
+    } ]
+  }, {
+    "tStartMs": 3864320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "The inaugural static fire test would not take \nplace for another 24 days, so in my opinion this  "
+    } ]
+  }, {
+    "tStartMs": 3869120,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "was fairly risky. Thankfully, they would not end \nup regretting this decision. On June 3rd of 2024,  "
+    } ]
+  }, {
+    "tStartMs": 3875600,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Ship 26 performed the first ever static \nfire test at Massey's. For most fans who  "
+    } ]
+  }, {
+    "tStartMs": 3880480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "had grown used to the up close and personal \nexperience of watching these tests live with  "
+    } ]
+  }, {
+    "tStartMs": 3884320,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "amazing views from the various LabPadre and \nNASA spaceflight cameras, this was kind of  "
+    } ]
+  }, {
+    "tStartMs": 3888960,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "a sad day. But putting our feelings aside, \nthis was a massive improvement for SpaceX."
+    } ]
+  }, {
+    "tStartMs": 3894720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Thanks to the flame trench, the \nissue of tiles being damaged by  "
+    } ]
+  }, {
+    "tStartMs": 3898000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "debris during static fire tests \nhas been completely eliminated."
+    } ]
+  }, {
+    "tStartMs": 3901840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And as far as we can tell, the amount of \nengines swapped out after these tests has  "
+    } ]
+  }, {
+    "tStartMs": 3905840,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "gone down dramatically. With the flames \nbeing channeled away from the test stand,  "
+    } ]
+  }, {
+    "tStartMs": 3909760,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "it's allowed SpaceX to capture some pretty amazing \nviews looking up into the skirt of the ship."
+    } ]
+  }, {
+    "tStartMs": 3914800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "It's enabled them to perform long duration \ntests, which would have almost certainly dug  "
+    } ]
+  }, {
+    "tStartMs": 3919040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "a hole all the way to China had it been \nperformed on the suborbital test stands."
+    } ]
+  }, {
+    "tStartMs": 3924000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Not only is this awesome for us as fans,  "
+    } ]
+  }, {
+    "tStartMs": 3926160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "but I imagine it's also extremely helpful for \nthe engineering teams monitoring these tests.  "
+    } ]
+  }, {
+    "tStartMs": 3930960,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And finally, by moving all ground testing \nother than booster static fires to Massey's,  "
+    } ]
+  }, {
+    "tStartMs": 3935760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "they have been able to reduce the amount \nof beach closures by more than 70%."
+    } ]
+  }, {
+    "tStartMs": 3940160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "With the goal of eventually launching \n25 times a year out of Starbase,  "
+    } ]
+  }, {
+    "tStartMs": 3943520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "this is extremely important. Without \nMassey's, SpaceX would need to close  "
+    } ]
+  }, {
+    "tStartMs": 3947440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the beach somewhere between 150 to 200 \ntimes every year. But by moving ground  "
+    } ]
+  }, {
+    "tStartMs": 3952480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "testing away from the launch site, that \nnumber drops down to somewhere around 50."
+    } ]
+  }, {
+    "tStartMs": 3956960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And when they reach the point where \nthey're comfortable reflaying boosters  "
+    } ]
+  }, {
+    "tStartMs": 3959600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "without performing static fires, that \nnumber will decrease even further."
+    } ]
+  }, {
+    "tStartMs": 3963440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So while this does complete the story of how \nSpaceX seamlessly transitioned pre-flight  "
+    } ]
+  }, {
+    "tStartMs": 3967920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "testing operations away from the launch site, the \nevolution of Massey's is still ongoing. Even with  "
+    } ]
+  }, {
+    "tStartMs": 3973120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the core functions of the site fully operational, \nthere was no time to relax. Just like every  "
+    } ]
+  }, {
+    "tStartMs": 3978000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "other area of Starbase over the past six years, \nMassey's has been undergoing continuous upgrades.  "
+    } ]
+  }, {
+    "tStartMs": 3983280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Not only are they increasing the capabilities \nof each test station, but they're also in the  "
+    } ]
+  }, {
+    "tStartMs": 3987200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "process of transitioning relevant infrastructure \nto make it compatible with the next generation  "
+    } ]
+  }, {
+    "tStartMs": 3991280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "of Starship. For the sake of not making this \nepisode two hours long, I'm just going to give  "
+    } ]
+  }, {
+    "tStartMs": 3995760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "a brief summary for now. In March of 2024, \nthey began constructing a new multi-purpose  "
+    } ]
+  }, {
+    "tStartMs": 4000880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "test structure to replace the cant crusher. This \nnext-gen structural test stand would allow them to  "
+    } ]
+  }, {
+    "tStartMs": 4006000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "stress test components of the vehicle in ways that \nthey did not have the ability to do previously.  "
+    } ]
+  }, {
+    "tStartMs": 4010800,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "The booster cryo test station has been operational \nfor nearly two years at this point, but we have  "
+    } ]
+  }, {
+    "tStartMs": 4016080,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "yet to see them perform a full cryo test of a \nbooster. After all this time, Booster 10 remains  "
+    } ]
+  }, {
+    "tStartMs": 4021200,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the only one to ever load both tanks at the same \ntime. Every booster since that initial test,  "
+    } ]
+  }, {
+    "tStartMs": 4026720,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "aka Boosters 11, 12, 13, 14, 15, 16, and 17, have \nall performed partial tests where the methane  "
+    } ]
+  }, {
+    "tStartMs": 4034240,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "tank is tested separately from the LOX tank. This \nmade sense for Boosters 11, 12, and 13 because it  "
+    } ]
+  }, {
+    "tStartMs": 4040240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "was obvious they didn't have enough liquid oxygen \ncapacity on site to actually fill the LOX tank of  "
+    } ]
+  }, {
+    "tStartMs": 4044880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "a booster. So instead they used liquid nitrogen \nin both tanks, which meant they could only test  "
+    } ]
+  }, {
+    "tStartMs": 4049680,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "one tank at a time. But in August of 2024, they \nadded four massive hot dog tanks to the LOX farm,  "
+    } ]
+  }, {
+    "tStartMs": 4056000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "which should have allowed them to begin performing \nfull cryo tests like they did on the launch mount.  "
+    } ]
+  }, {
+    "tStartMs": 4060560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "The fact that they still haven't done this is \na mystery that I don't fully understand yet.  "
+    } ]
+  }, {
+    "tStartMs": 4064960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Although, I admit I did remove 15 minutes of \nspeculation on that topic from this episode. After  "
+    } ]
+  }, {
+    "tStartMs": 4069840,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Booster 17's cryo test, which was the last of the \nV2 boosters, the structures team began preparing  "
+    } ]
+  }, {
+    "tStartMs": 4075360,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "for the next-gen V3 booster. This requires a new \nmobile thrust simulator test stand and a complete  "
+    } ]
+  }, {
+    "tStartMs": 4081520,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "reconfiguration of the booster QD, which is now \nsplit into two separate umbilicals, one for fuel  "
+    } ]
+  }, {
+    "tStartMs": 4087040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and the other for oxidizer. It's possible that \na similar reconfiguration will be needed for the  "
+    } ]
+  }, {
+    "tStartMs": 4092240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "V3 ship, which should feature orbital propellant \ntransfer capabilities. For the static fire test  "
+    } ]
+  }, {
+    "tStartMs": 4097360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "stand, upgrades were made to the water deluge \nsystem to allow them to perform longer-duration  "
+    } ]
+  }, {
+    "tStartMs": 4102000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "hot fire tests lasting up to 60 seconds. It \nwas expected that after the final static fire  "
+    } ]
+  }, {
+    "tStartMs": 4107440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "test of a V2 ship, SpaceX would begin upgrading \nthe fuel farm to increase its capacity as well.  "
+    } ]
+  }, {
+    "tStartMs": 4112960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "The two vertical storage tanks were a quick \nsolution that allowed them to get the static  "
+    } ]
+  }, {
+    "tStartMs": 4116480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "fire stand operational as quickly as possible. \nConsidering that they only filled the ship's  "
+    } ]
+  }, {
+    "tStartMs": 4120800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "methane tanks to around 20% of its capacity for \nthe long-duration tests, this seemed to be more  "
+    } ]
+  }, {
+    "tStartMs": 4125840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "than enough. So adding the massive hot dog tank \nmay be a sign of future changes to the static  "
+    } ]
+  }, {
+    "tStartMs": 4131040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "fire campaign. Whether that means performing more \nback-to-back tests or increasing the duration of  "
+    } ]
+  }, {
+    "tStartMs": 4136400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "the tests is something we will have to wait a \nfew months to find out. And the reason for that  "
+    } ]
+  }, {
+    "tStartMs": 4141600,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "is pretty simple. One year and ten days after the \ninaugural static fire test of ship 26 at Massey's,  "
+    } ]
+  }, {
+    "tStartMs": 4147920,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "an apparent glitch in the matrix occurred as ship \n36 experienced a catastrophic anomaly on the pad."
+    } ]
+  }, {
+    "tStartMs": 4154240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "During the humongous initial explosion \nand the subsequent fires which lasted  "
+    } ]
+  }, {
+    "tStartMs": 4158160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "for more than 16 hours, the damage was extensive."
+    } ]
+  }, {
+    "tStartMs": 4162160,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Since that day, it's been a 24-7 \noperation to repair or in many cases  "
+    } ]
+  }, {
+    "tStartMs": 4167040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "completely replace everything \nthat was damaged or destroyed."
+    } ]
+  }, {
+    "tStartMs": 4170800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "There's no doubt about it. This was a huge \nsetback. But looking on the bright side,  "
+    } ]
+  }, {
+    "tStartMs": 4175040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "SpaceX now has the chance to upgrade much of the \ninfrastructure in ways that they likely would  "
+    } ]
+  }, {
+    "tStartMs": 4179440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "not have been able to otherwise without causing \noperational delays. So with that said, while I  "
+    } ]
+  }, {
+    "tStartMs": 4184480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "would like to go much deeper into each of these \ntopics, it's probably best if I save that for a  "
+    } ]
+  }, {
+    "tStartMs": 4188320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "future episode once all of this work is complete. \nAnd if y'all want me to, I'll also go into some  "
+    } ]
+  }, {
+    "tStartMs": 4192880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "of the more technical details about how all of \nthese systems within the tank farm actually work."
+    } ]
+  }, {
+    "tStartMs": 4197760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "After months of looking at thousands of \nimages and analyzing all of these systems,  "
+    } ]
+  }, {
+    "tStartMs": 4201600,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I feel like I could probably give an official \norientation for new hires at this point. But not  "
+    } ]
+  }, {
+    "tStartMs": 4206080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "everyone is interested in those types of details, \nso let me know in the comments. Until then,  "
+    } ]
+  }, {
+    "tStartMs": 4210400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "it's time for me to move on to a really fun topic \nthat I've been waiting to cover for a long time.  "
+    } ]
+  }, {
+    "tStartMs": 4214800,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "You may have noticed that I barely went \ninto any detail about the flame trench  "
+    } ]
+  }, {
+    "tStartMs": 4218080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and first of its kind water deluge system. I \nknow many of you have been waiting for me to  "
+    } ]
+  }, {
+    "tStartMs": 4222400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "finish the version 2 launch mount series, but \nI can't do that without making comparisons to  "
+    } ]
+  }, {
+    "tStartMs": 4226640,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the Massey's flame trench, so I realized that \nI might as well give it an episode of its own."
+    } ]
+  }, {
+    "tStartMs": 4231520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "I was actually really close to finishing \nthat before I stopped to make this episode,  "
+    } ]
+  }, {
+    "tStartMs": 4235200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "so I promise it will be out sooner \nthan you expect. In the meantime,  "
+    } ]
+  }, {
+    "tStartMs": 4238880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "if you would like to support our channel, please \nconsider becoming a monthly subscriber on Patreon.  "
+    } ]
+  }, {
+    "tStartMs": 4243040,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Your support goes a long way towards helping \nus continue to make this type of content."
+    } ]
+  }, {
+    "tStartMs": 4247200,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Before we go, I want to give a huge shout out to \nRGV Aerial Photography, Starship Gazer, LabPadre,  "
+    } ]
+  }, {
+    "tStartMs": 4252640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and NASA Spaceflight. Without their dedicated \ncoverage of Starbase over the past 6 years,  "
+    } ]
+  }, {
+    "tStartMs": 4257200,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "it would have been impossible to tell this \nstory. I also want to thank our friends at  "
+    } ]
+  }, {
+    "tStartMs": 4260720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Virtual Space 3D for preparing our new \nstudio in the megabay. Hopefully we will  "
+    } ]
+  }, {
+    "tStartMs": 4264800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "have a chance to get this place properly \nfurnished soon. Alright everyone, I'll  "
+    } ]
+  }, {
+    "tStartMs": 4268320,
+    "dDurationMs": 14320,
+    "segs": [ {
+      "utf8": "see y'all on the next deep dive investigation. \nFor now, this is Stage Zero Zack, signing off."
+    } ]
+  } ]
+}

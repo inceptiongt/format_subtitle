@@ -87,7 +87,7 @@ format-subtitle input.zh-Hans-en.json3 -m
 
 ## 获得字幕文件：yt-dlp
 
-`yt-dlp URL --skip-download --write-info-json --sub-langs 'en,zh-Hans-en' --sub-format json3 --write-subs --write-auto-subs -o '%(fulltitle)s - %(channel)s'` 
+`~/Documents/yt-dlp_macos URL --skip-download --write-info-json --sub-langs 'en,zh-Hans-en' --sub-format json3 --write-subs --write-auto-subs -o '%(fulltitle)s - %(channel)s'` 
 
 - `--skip-download`: 跳过视频下载，只下载字幕和元数据
 - `--write-info-json`: 下载视频的元数据并保存为 JSON 文件，info.json
