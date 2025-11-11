@@ -1,0 +1,3349 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 400,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Hey Starship addicts, my name is Zack Golden, \nand welcome back to part 2 of our investigative  "
+    } ]
+  }, {
+    "tStartMs": 4600,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "report into the Starship Orbital Launch Mount. \nThe purpose of this three-part series is to  "
+    } ]
+  }, {
+    "tStartMs": 9400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "explore the significant obstacles SpaceX has \nencountered over the first seven flights of  "
+    } ]
+  }, {
+    "tStartMs": 13320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Starship, which up to this point have made \nit nearly impossible for them to achieve  "
+    } ]
+  }, {
+    "tStartMs": 17600,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "rapid reusability of their launch system, aka \nStage Zero. In part 1, we reviewed the massive  "
+    } ]
+  }, {
+    "tStartMs": 23720,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "list of protective measures installed on the \nlaunch mount prior to IFT-1 to maximize its  "
+    } ]
+  }, {
+    "tStartMs": 28360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "chances of surviving its first encounter with \nthe world's most powerful rocket. After that,  "
+    } ]
+  }, {
+    "tStartMs": 32800,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "we performed an in-depth analysis of all major \nrefurbishments and repairs required to return  "
+    } ]
+  }, {
+    "tStartMs": 37640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "the launch mount to operational status, \nleading up to the second and third test  "
+    } ]
+  }, {
+    "tStartMs": 41280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "flights. With that said, if you haven't seen \npart 1, I recommend clicking on this link and  "
+    } ]
+  }, {
+    "tStartMs": 46160,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "starting there first because it contains a lot of \ninformation that will carry over to this episode."
+    } ]
+  }, {
+    "tStartMs": 51240,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Today in part 2, we will continue our analysis \nof these refurbishments for flights 4 through 7.  "
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "While some reoccurring problems will finally be \nsolved, by the end, I think it will become clear  "
+    } ]
+  }, {
+    "tStartMs": 61080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "that SpaceX has legitimately maxed out what is \nphysically possible with version 1 of the orbital  "
+    } ]
+  }, {
+    "tStartMs": 65280,
+    "dDurationMs": 21120,
+    "segs": [ {
+      "utf8": "launch mount. Alright, with that out of the \nway, let's jump right back in where we left off."
+    } ]
+  }, {
+    "tStartMs": 86400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "The third flight test on March \n14th of 2024 was a big step  "
+    } ]
+  }, {
+    "tStartMs": 90120,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "towards achieving some of SpaceX's \ncore goals for the Starship program."
+    } ]
+  }, {
+    "tStartMs": 93960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Super Heavy finally lifted off for the \nfirst time with all 33 engines ignited  "
+    } ]
+  }, {
+    "tStartMs": 97880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and successfully relit the 13th center \nengines after hot staging. Although  "
+    } ]
+  }, {
+    "tStartMs": 102120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "it fell just short of completing \nits full duration boostback burn,  "
+    } ]
+  }, {
+    "tStartMs": 104960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "it was able to make its first attempt at \na soft splashdown in the Gulf of Mexico."
+    } ]
+  }, {
+    "tStartMs": 109520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Not to be outdone, the second stage ship \nachieved orbital velocity for the first  "
+    } ]
+  }, {
+    "tStartMs": 113440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "time and carried out several in-flight tests \nbefore taking us on a wild ride during reentry."
+    } ]
+  }, {
+    "tStartMs": 119440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "While both vehicles ultimately \nended up being destroyed,  "
+    } ]
+  }, {
+    "tStartMs": 121960,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "engineers were able to gather a ton \nof new in-flight telemetry data and  "
+    } ]
+  }, {
+    "tStartMs": 125520,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "quickly began implementing changes to \nimprove performance on the next attempt."
+    } ]
+  }, {
+    "tStartMs": 130080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "But with 328 days, or just under \na full year between the first and  "
+    } ]
+  }, {
+    "tStartMs": 134600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "third test flights, the test was way behind \nschedule and needed to pick up the pace."
+    } ]
+  }, {
+    "tStartMs": 140120,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Showing a clear sense of urgency, the Stage \nZero team wasted no time getting back to work  "
+    } ]
+  }, {
+    "tStartMs": 144640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to restore the launch mount to operational status. \nJust as before, they started off focusing on the  "
+    } ]
+  }, {
+    "tStartMs": 149920,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "refurbishments that would be needed to perform the \nstatic fire test of Booster 11. The first item on  "
+    } ]
+  }, {
+    "tStartMs": 155240,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "the list, of course, was the routine replacement \nof the Booster QD flex hoses. This time around,  "
+    } ]
+  }, {
+    "tStartMs": 160560,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "we finally got some confirmation of our \nassumptions of what was causing the damage.  "
+    } ]
+  }, {
+    "tStartMs": 164680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "When the shielding was removed, we immediately \nnoticed the liquid oxygen supply hose was severed  "
+    } ]
+  }, {
+    "tStartMs": 169080,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "at the base. Looking at it closely, you can see \nthat the failure point was just below the point  "
+    } ]
+  }, {
+    "tStartMs": 173520,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "where the flexible hose transitions into the rigid \ncone-shaped flange. Thanks to Ryan Hans of Space,  "
+    } ]
+  }, {
+    "tStartMs": 178920,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "we can visualize the amount of bending that occurs \nin this area where the hoses are crimped to the  "
+    } ]
+  }, {
+    "tStartMs": 182800,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "flange. Based on the way this failed, it seems \nlike we may have been on the right track with  "
+    } ]
+  }, {
+    "tStartMs": 187320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "our theory of rapid changes in temperature \ncausing stress fractures in the material. A  "
+    } ]
+  }, {
+    "tStartMs": 192120,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "failure like this could be really bad if it went \nundetected and the Booster were allowed to return  "
+    } ]
+  }, {
+    "tStartMs": 196240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "to the launch site to land on the chopsticks. It \nwould certainly make things a bit awkward when  "
+    } ]
+  }, {
+    "tStartMs": 200440,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "attempting to detank the vehicle after setting \nit back on the launch mount. So this was clearly  "
+    } ]
+  }, {
+    "tStartMs": 205040,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "a serious issue that needed to be addressed \nas soon as possible. Luckily, the Stage Zero  "
+    } ]
+  }, {
+    "tStartMs": 209960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "GSE team had been studying this problem over the \nfirst three launches and finally had a plan for  "
+    } ]
+  }, {
+    "tStartMs": 214440,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "how to solve it. But that would have to wait a \nfew weeks because starting a project that would  "
+    } ]
+  }, {
+    "tStartMs": 218480,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "cause delays to the Booster testing campaign \nis almost guaranteed to draw a yellow card.  "
+    } ]
+  }, {
+    "tStartMs": 223160,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So after swapping out the BQD umbilicals and \ncompleting the replacement of the Raptor Chill  "
+    } ]
+  }, {
+    "tStartMs": 227400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Collection pipe work, they were ready to static \nfire Booster 11 just 22 days after Flight 3. This  "
+    } ]
+  }, {
+    "tStartMs": 233240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "cut the previous turnaround time in half. After \nBooster 11's successful 33 engine static fire  "
+    } ]
+  }, {
+    "tStartMs": 238600,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "test on April 5th, it was time to take care of \nthe remaining tasks on the pre-flight checklist."
+    } ]
+  }, {
+    "tStartMs": 244120,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "The first and perhaps most important of \nthese items was to remove the door for  "
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "the Booster QD and replace it with an upgraded \ndesign. The significance of this upgrade may  "
+    } ]
+  }, {
+    "tStartMs": 253400,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "have gone unnoticed if not for the new bulge \nthat was visible on the front of the door."
+    } ]
+  }, {
+    "tStartMs": 257760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "After comparing these before and after images,  "
+    } ]
+  }, {
+    "tStartMs": 259920,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "we can see some new equipment on the back \nside of the door which was not present before."
+    } ]
+  }, {
+    "tStartMs": 265000,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Again thanks to Ryan Henson Space, we can \nvisualize what's going on here. As I mentioned  "
+    } ]
+  }, {
+    "tStartMs": 269040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "in Part 1, we assumed that the reason these \nproblems were occurring was due to a lack of  "
+    } ]
+  }, {
+    "tStartMs": 273280,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "valves on the nozzles to contain gases inside \nof the hoses or prevent flames from entering.  "
+    } ]
+  }, {
+    "tStartMs": 278440,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Instead of making a major alteration to the QD \nplumbing, they fabricated retractable caps to  "
+    } ]
+  }, {
+    "tStartMs": 283200,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "cover the nozzles after the door closes. Because \nof the way the door swings into position and the  "
+    } ]
+  }, {
+    "tStartMs": 288200,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "fact that the nozzle flanges extend out from the \nBQD faceplate, the caps cannot be simply mounted  "
+    } ]
+  }, {
+    "tStartMs": 293440,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "to the back of the door. A separate mechanism is \nneeded to extend the caps into position. For this,  "
+    } ]
+  }, {
+    "tStartMs": 299000,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "they added two small hydraulic actuators mounted \nonto the backside of the new bulge on the door."
+    } ]
+  }, {
+    "tStartMs": 304840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "As you can see, the additional space created \nby this bulge was required in order to fit all  "
+    } ]
+  }, {
+    "tStartMs": 308840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "of these extra components in there. After \nthe frame that the caps are mounted to is  "
+    } ]
+  }, {
+    "tStartMs": 312560,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "extended into position, it's locked into \nplace using the same teeth that locked the  "
+    } ]
+  }, {
+    "tStartMs": 316280,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "QD plates together once mated with the \nbooster. One interesting observation is  "
+    } ]
+  }, {
+    "tStartMs": 320760,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "that this design only includes caps for 4 \nout of the 5 larger injection ports. This  "
+    } ]
+  }, {
+    "tStartMs": 325320,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "includes the LOX and CH4 fill drain ports, \nthe CH4 bleed, and the CH4 pre-press nozzle."
+    } ]
+  }, {
+    "tStartMs": 332040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "The nozzle that supplies gaseous \nnitrogen to pressurize the LOX tank  "
+    } ]
+  }, {
+    "tStartMs": 335160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "is left unprotected. This kind of makes \nsense, because it's the only nozzle that  "
+    } ]
+  }, {
+    "tStartMs": 339320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "you won't have to worry about leaking gas \nadding to the fire hazard. Theoretically,  "
+    } ]
+  }, {
+    "tStartMs": 343520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "this line could also be used to purge the inside \nof the enclosure with inert nitrogen gas after  "
+    } ]
+  }, {
+    "tStartMs": 347760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the door is closed to dilute any combustible \nmixtures that may be present. There's no way  "
+    } ]
+  }, {
+    "tStartMs": 352400,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of knowing if this is being done though. In a \nhuge win for the Stage Zero team, this upgrade  "
+    } ]
+  }, {
+    "tStartMs": 357360,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "seemed to completely eliminate the damage that \nwas occurring to the flex hoses during launch."
+    } ]
+  }, {
+    "tStartMs": 361840,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Since Flight 4, we have not seen any \nmore replacement of these components,  "
+    } ]
+  }, {
+    "tStartMs": 365400,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "which has helped to reduce the amount of \nrefurbishment required between launches."
+    } ]
+  }, {
+    "tStartMs": 369280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Unfortunately, while one \nproblem was being resolved,  "
+    } ]
+  }, {
+    "tStartMs": 372240,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "another surfaced for the first time. \nThis time with the hold-down arms."
+    } ]
+  }, {
+    "tStartMs": 376680,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Just like previous flights, SpaceX needed to \nreplace all of the hold-down clamps again.  "
+    } ]
+  }, {
+    "tStartMs": 381280,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "But this time, after the clamps were removed, \nthey also began removing all 40 of the massive  "
+    } ]
+  }, {
+    "tStartMs": 386240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "constraining arm linkages. These linkages attach \nbetween the top of the hold-down arms and a clevis  "
+    } ]
+  }, {
+    "tStartMs": 391120,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "bracket inside of the launch mount. When the \nlinear actuator retracts the hold-down arms,  "
+    } ]
+  }, {
+    "tStartMs": 395640,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "these linkages fold in on themselves inside \nof the table. One thing that we noticed when  "
+    } ]
+  }, {
+    "tStartMs": 399840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "these arms were removed was that the large \nbushing that should have been on the inside  "
+    } ]
+  }, {
+    "tStartMs": 403440,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "of the lower linkage member was missing. This \nis the one that attaches to the top of the  "
+    } ]
+  }, {
+    "tStartMs": 407720,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "load arm. You can see what they looked like \nwhen they were first installed back in 2021.  "
+    } ]
+  }, {
+    "tStartMs": 412320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "When you compare the before and afters, \nyou can tell that these have definitely  "
+    } ]
+  }, {
+    "tStartMs": 415280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "been through some shit. But whether their \nappearance is a result of a single event,  "
+    } ]
+  }, {
+    "tStartMs": 419720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "or from repeated exposure is a difficult question \nto answer. Either way, the fact that these  "
+    } ]
+  }, {
+    "tStartMs": 424720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "bushings are missing is incredibly odd because \nit doesn't really make much sense to remove it if  "
+    } ]
+  }, {
+    "tStartMs": 429680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "you're going to be taking out the entire assembly. \nBeyond that, if you've ever tried to remove  "
+    } ]
+  }, {
+    "tStartMs": 433960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "bushings from components of your car's suspension, \nyou know that getting them out can be a bit of a  "
+    } ]
+  }, {
+    "tStartMs": 438040,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "challenge without the proper tools. Something of \nthis size would certainly require some specialized  "
+    } ]
+  }, {
+    "tStartMs": 442600,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "equipment in order to not only extract them \nin place, but to insert new ones as well."
+    } ]
+  }, {
+    "tStartMs": 447760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Removing the arms from the table and extracting \nthe bushings using a hydraulic press would be a  "
+    } ]
+  }, {
+    "tStartMs": 451560,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "lot more ideal. With that said, I don't think \nit's unreasonable to consider the possibility  "
+    } ]
+  }, {
+    "tStartMs": 456320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "that these bushings were severely damaged \nto the point that they were able to fall  "
+    } ]
+  }, {
+    "tStartMs": 459280,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "out on their own. The type of bushings used in \nthis application are most likely cast bronze  "
+    } ]
+  }, {
+    "tStartMs": 464280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "bushings impregnated with lubricant. \nAfter doing a little online research,  "
+    } ]
+  }, {
+    "tStartMs": 468280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "it seems like these are typically rated \nfor around 300 degrees Fahrenheit,  "
+    } ]
+  }, {
+    "tStartMs": 471800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "or 150 degrees Celsius applications. Under the \nright conditions, these bushings can quickly  "
+    } ]
+  }, {
+    "tStartMs": 477560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "flash mount. Even though they're protected once \nthe hold down arms are tracked into the table,  "
+    } ]
+  }, {
+    "tStartMs": 481960,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "they still probably experience a significant \nthermal load during the 6 seconds between ignition  "
+    } ]
+  }, {
+    "tStartMs": 486320,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and liftoff. And of course, during static fires, \nthe arms remain exposed for the entire duration of  "
+    } ]
+  }, {
+    "tStartMs": 491520,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "the tests, which can last anywhere between 7 to 14 \nseconds. Up to this point, the bushings had been  "
+    } ]
+  }, {
+    "tStartMs": 497360,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "exposed to approximately 117 seconds of intense \nheating from both static fire tests and launches."
+    } ]
+  }, {
+    "tStartMs": 504440,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "It's important to note that 32 of these seconds \nwere static fires with less than 10 engines.  "
+    } ]
+  }, {
+    "tStartMs": 509000,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Another thing to consider is that 40 out of \nthe remaining 85 seconds were performed raw,"
+    } ]
+  }, {
+    "tStartMs": 515240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "with no water deluge. So just under 50% of \nthe extreme heat exposure minutes that these  "
+    } ]
+  }, {
+    "tStartMs": 519960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "bushings had logged were at times where there \nwas nothing to absorb a large portion of the  "
+    } ]
+  }, {
+    "tStartMs": 524280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "thermal energy from the exhaust. This repeated \nthermal cycling can damage the exposed components  "
+    } ]
+  }, {
+    "tStartMs": 529160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "of the hold down mechanism over time. Luckily, \nthe bushings are somewhat protected by several  "
+    } ]
+  }, {
+    "tStartMs": 533800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "inches of steel from the constraining arms, \nso the heat that is able to soak through the  "
+    } ]
+  }, {
+    "tStartMs": 537800,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "steel and actually reach the bronze won't be \nanywhere near as hot as the exposed surfaces.  "
+    } ]
+  }, {
+    "tStartMs": 542640,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "The only part that will have some direct exposure \nwould be the outer flanges of the bushings. There  "
+    } ]
+  }, {
+    "tStartMs": 547400,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "was a small gap between the clevis bracket \non the load arm and the lower constraining  "
+    } ]
+  }, {
+    "tStartMs": 550960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "arm. So that's why I believe this flange \nwould be most at risk for becoming damaged,  "
+    } ]
+  }, {
+    "tStartMs": 555240,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "or possibly even melting. The only good news \nhere is that while the engines are firing,  "
+    } ]
+  }, {
+    "tStartMs": 559400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "cooler air from above the deck is being \nsucked down through the space between the  "
+    } ]
+  }, {
+    "tStartMs": 562800,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "booster and the inner wall of the launch mount. \nBut I'm not sure how much that actually helps."
+    } ]
+  }, {
+    "tStartMs": 568200,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Now that we have considered this option, we should \nalso reconsider how this may potentially relate to  "
+    } ]
+  }, {
+    "tStartMs": 572480,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "what's going on with the hold down clamps. If \nwe look at this image taken by Starship Gazer  "
+    } ]
+  }, {
+    "tStartMs": 576760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "as one of the clamps was being removed from the \nlaunch mount, you can see that it's in similar  "
+    } ]
+  }, {
+    "tStartMs": 580840,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "condition to the linkage arms. Roasted. The clamps \nthemselves are likely made of tempered steel,  "
+    } ]
+  }, {
+    "tStartMs": 586280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "which makes them incredibly strong. They would \ntake a ridiculous amount of heat over a long  "
+    } ]
+  }, {
+    "tStartMs": 590920,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "period of time to undo the heat treatment process \nthat gives them their strength. But what about  "
+    } ]
+  }, {
+    "tStartMs": 595880,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the hinge that the clamps rotate on when they \nopen and close? On the bottom of the clamp,  "
+    } ]
+  }, {
+    "tStartMs": 600280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "we can see a hole that appears to continue \nthrough to the other side. We aren't certain  "
+    } ]
+  }, {
+    "tStartMs": 604200,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "how this part works, but to attach the clamp to \nthe resting block, there is likely two bushings  "
+    } ]
+  }, {
+    "tStartMs": 608800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "on either side of the hole, similar to what \nyou would find on the average barbell at the  "
+    } ]
+  }, {
+    "tStartMs": 612560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "gym. Unlike the significantly larger \nbushings on the constraining arms,  "
+    } ]
+  }, {
+    "tStartMs": 616600,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "which are sleeved into holes with 3 to 4 inch \nthick walls, the material surrounding these is  "
+    } ]
+  }, {
+    "tStartMs": 621120,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "a lot thinner. So in the same thermal environment \nthat is potentially causing damage to the larger  "
+    } ]
+  }, {
+    "tStartMs": 625880,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "bushings, we should probably expect these to \nexperience the same damage, but a lot faster."
+    } ]
+  }, {
+    "tStartMs": 632040,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "If this is the case, replacing the bushings \none by one is a time consuming job,  "
+    } ]
+  }, {
+    "tStartMs": 636080,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "which will require the clamps \nto be removed. At that point,  "
+    } ]
+  }, {
+    "tStartMs": 639120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "it's probably a lot faster to just \nswap the clamps out with new ones,  "
+    } ]
+  }, {
+    "tStartMs": 642240,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and then send the damaged ones out to be \nrefurbished. If only we could track the serial  "
+    } ]
+  }, {
+    "tStartMs": 646040,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "numbers on these things like we do with Raptor \nengines, we could probably confirm this theory."
+    } ]
+  }, {
+    "tStartMs": 650560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Anyway, back to the hold down arm linkages. \nWhile part of the reason these were replaced  "
+    } ]
+  }, {
+    "tStartMs": 654600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "may have been related to the damaged bushings, \nthere was also a noticeable upgrade to the arms  "
+    } ]
+  }, {
+    "tStartMs": 658760,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "to improve their mechanical performance during \nlaunches. I think this is actually related to  "
+    } ]
+  }, {
+    "tStartMs": 663120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "an issue Elon discussed during the Everyday \nAstronauts Tour of Starbase in June of 2024."
+    } ]
+  }, {
+    "tStartMs": 693320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I'm really glad he mentioned this, because if not, \nour interpretation of this upgrade would be far  "
+    } ]
+  }, {
+    "tStartMs": 697600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "more speculative. So what is he talking about \nhere? What would cause the hold down clamps to  "
+    } ]
+  }, {
+    "tStartMs": 702240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "bind up? Well, I think we should start off \nby clarifying a few things. First of all,  "
+    } ]
+  }, {
+    "tStartMs": 707200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "this is probably not an issue with the \nactual clamping mechanism. As you know,  "
+    } ]
+  }, {
+    "tStartMs": 710960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "the clamps are retracted 11 minutes before launch,  "
+    } ]
+  }, {
+    "tStartMs": 713600,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "so it's not really possible for them \nto grab onto the booster. Instead,  "
+    } ]
+  }, {
+    "tStartMs": 717560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the problem being described here is likely \nreferring to the entire hold down arm assembly."
+    } ]
+  }, {
+    "tStartMs": 722200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "If this fails to retract, then at minimum \nit would destroy the engine's shielding.  "
+    } ]
+  }, {
+    "tStartMs": 726400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Even if this shielding is removed on future \nboosters, you would still have to worry about  "
+    } ]
+  }, {
+    "tStartMs": 729880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "a collision with the engine nozzles. \nThere's literally no room for error."
+    } ]
+  }, {
+    "tStartMs": 733800,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Additionally, when he said that there was a \npotential for them to bind up, I think the  "
+    } ]
+  }, {
+    "tStartMs": 737520,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "word \"potential\" should probably have been swapped \nout with the word \"tendency\" instead. Why? Well,  "
+    } ]
+  }, {
+    "tStartMs": 743280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "because this issue must have already been observed \non several occasions for it to become a major  "
+    } ]
+  }, {
+    "tStartMs": 747280,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "design consideration for version 2 of the launch \nmount. Luckily, this clearly didn't happen during  "
+    } ]
+  }, {
+    "tStartMs": 751800,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "an actual launch, because, as he said, it would \nprobably cause catastrophic damage to the booster."
+    } ]
+  }, {
+    "tStartMs": 757760,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Instead, this is probably something they would \nhave noticed while performing back-to-back  "
+    } ]
+  }, {
+    "tStartMs": 761080,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "retraction tests like this one. The purpose of \nthese tests is to verify that the retraction  "
+    } ]
+  }, {
+    "tStartMs": 765560,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "of all 20 arms is perfectly synchronized. \nDespite the fact that you can see tons of  "
+    } ]
+  }, {
+    "tStartMs": 770240,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "workers observing the test, confirming that the \narms are in sync with each other is not something  "
+    } ]
+  }, {
+    "tStartMs": 774600,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "that could be accomplished visually. Not only is \nit impossible to watch all 20 at the same time,  "
+    } ]
+  }, {
+    "tStartMs": 779760,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "but the retraction speed is far too fast for the \nnaked eye to detect these variations. In fact,  "
+    } ]
+  }, {
+    "tStartMs": 785240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "in the process of trying to figure out exactly \nhow fast it is, I realized that the animation we  "
+    } ]
+  }, {
+    "tStartMs": 789960,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "use in our intro cutscene is actually 50% too \nslow. After syncing the animation with audio  "
+    } ]
+  }, {
+    "tStartMs": 795920,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "from one of these retraction tests, I was able \nto adjust the animation to the correct speed."
+    } ]
+  }, {
+    "tStartMs": 804200,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Yeah, like I said, it's ridiculously fast. \nTherefore, the tiniest delay in this sequence  "
+    } ]
+  }, {
+    "tStartMs": 810080,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "can spell disaster for the booster, tower, launch \nmount, and potentially the tank farm as well. So  "
+    } ]
+  }, {
+    "tStartMs": 816240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "to achieve the required precision, they use \na special device suspended from a crane to  "
+    } ]
+  }, {
+    "tStartMs": 820320,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "measure the retraction speed of each individual \narm. I have a super old episode about this,  "
+    } ]
+  }, {
+    "tStartMs": 825600,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "but long story short, when the arms contact \nthe wires we believe it sends an electrical  "
+    } ]
+  }, {
+    "tStartMs": 829960,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "signal back to the measurement device. This allows \nthem to detect the slightest difference in timing  "
+    } ]
+  }, {
+    "tStartMs": 834560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "between the 20 arms and make adjustments until \nthe variation is within an acceptable range.  "
+    } ]
+  }, {
+    "tStartMs": 839640,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "This range is probably on the \norder of a few milliseconds."
+    } ]
+  }, {
+    "tStartMs": 843040,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Alright, now that we've cleared this up, we \ncan address the binding issue. In order to  "
+    } ]
+  }, {
+    "tStartMs": 846840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "explain what's causing the problem, we need an \nunderstanding of how this semi-complex mechanism  "
+    } ]
+  }, {
+    "tStartMs": 851320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "actually works. Let's start off by removing \nthe two constraining arms in the hydraulic  "
+    } ]
+  }, {
+    "tStartMs": 855520,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "actuator. While the main load arm is retracted \ninto the table, it's highly probable that it  "
+    } ]
+  }, {
+    "tStartMs": 860760,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "will naturally want to fall due to the fact that \na majority of its mass is on the left side of the  "
+    } ]
+  }, {
+    "tStartMs": 865120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "pivot point. But when you factor in the mass \nof the Raptor QD assembly and its mounting  "
+    } ]
+  }, {
+    "tStartMs": 869280,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "bracket, and they're distance away from the \nvertical line created by the pivot point,  "
+    } ]
+  }, {
+    "tStartMs": 873400,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "it's possible that it may actually remain \nvertical on its own. It's difficult to say  "
+    } ]
+  }, {
+    "tStartMs": 877360,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "for sure without knowing the exact mass of these \ncomponents. But for the sake of this explanation,  "
+    } ]
+  }, {
+    "tStartMs": 882920,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "let's just say that the load arm would \nrequire a small push in order to get it  "
+    } ]
+  }, {
+    "tStartMs": 886400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "to fall. Now let's see how this changes once \nthe two constraining arms are installed. When  "
+    } ]
+  }, {
+    "tStartMs": 891200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "fully retracted into the table, the pivot \npoint where the two linkage members join  "
+    } ]
+  }, {
+    "tStartMs": 895400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "is behind the vertical line created by \nthe upper pivot point. Because of this,  "
+    } ]
+  }, {
+    "tStartMs": 899960,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "the weight of the linkage arms will naturally push \nthe load arm out towards the center of the table.  "
+    } ]
+  }, {
+    "tStartMs": 904960,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "The load arm will continue falling until the \nangle between the linkages reaches 180 degrees."
+    } ]
+  }, {
+    "tStartMs": 910560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Because of how heavy this load arm is, it would \nlikely bounce once it reaches full extension. This  "
+    } ]
+  }, {
+    "tStartMs": 915360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "is similar to allowing the tailgate on an older \npickup truck to fall on its own, except it would  "
+    } ]
+  }, {
+    "tStartMs": 919520,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "be way louder. And this is where the hydraulic \nactuator comes into play. As we just discovered,  "
+    } ]
+  }, {
+    "tStartMs": 925360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the actuator is not needed to force the arm to \nextend because it will do that all on its own.  "
+    } ]
+  }, {
+    "tStartMs": 930240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Instead, the actuator prevents the arm from \ndeploying by pulling it towards the inside of  "
+    } ]
+  }, {
+    "tStartMs": 934720,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "the table. After the booster is lowered into the \nlaunch mount, the directional control valve for  "
+    } ]
+  }, {
+    "tStartMs": 939080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "the actuator limits how quickly the arm falls down \nto its natural resting position. This stops it  "
+    } ]
+  }, {
+    "tStartMs": 944280,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "from bouncing. Once the booster is resting on the \nclamping block, the clamps engage and the Raptor  "
+    } ]
+  }, {
+    "tStartMs": 949240,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "QDs are extended out to the outer 20 engines by a \nsecondary actuator. Alright now for the fun part.  "
+    } ]
+  }, {
+    "tStartMs": 955160,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "It's T-11 minutes from liftoff, Starship prop \nload is nearing completion, and the clamps have  "
+    } ]
+  }, {
+    "tStartMs": 960280,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "just retracted. At T-2 seconds, the booster QD \nuses high pressure gas to spin up and ignite the  "
+    } ]
+  }, {
+    "tStartMs": 966120,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "13 center engines. One second later, the Raptor \nQDs do the same for 15 of the outer 20 engines,  "
+    } ]
+  }, {
+    "tStartMs": 971800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "followed shortly after by the remaining 5. At this \npoint, the Raptor QDs are free to retract from the  "
+    } ]
+  }, {
+    "tStartMs": 977400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "booster, while the flight computer performs health \nchecks on all 33 engines. After deciding that all  "
+    } ]
+  }, {
+    "tStartMs": 982440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "systems are good to go, the booster immediately \nthrottles up its engines. Inside the pivot point  "
+    } ]
+  }, {
+    "tStartMs": 987160,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "in the bottom of the hold down arms, there are \nload cells that function as clevis pins. These  "
+    } ]
+  }, {
+    "tStartMs": 991760,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "actively monitor the load acting on each of \nthe hold down arms like a scale. As soon as  "
+    } ]
+  }, {
+    "tStartMs": 996360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the average value detected by the load cells \napproaches zero, aka a thrust to weight ratio  "
+    } ]
+  }, {
+    "tStartMs": 1000760,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "greater than 1, the arms have just over 1 second \nto pack it up and get the f*** out of the way."
+    } ]
+  }, {
+    "tStartMs": 1007840,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Quick side note, I also have an entire episode \nexplaining how we know these load cells exist  "
+    } ]
+  }, {
+    "tStartMs": 1012440,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the procedure for calibrating them, and our \nassumptions for how they're used. So if you  "
+    } ]
+  }, {
+    "tStartMs": 1016840,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "want to know this bit of speculation about what \ntriggers the hold down arm retraction comes from,  "
+    } ]
+  }, {
+    "tStartMs": 1021120,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "then make sure to check that out. Anyway, to \nconsistently achieve the desired retraction speed,  "
+    } ]
+  }, {
+    "tStartMs": 1026440,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "there has to be a lot of consideration towards the \nweight distribution of the individual components,  "
+    } ]
+  }, {
+    "tStartMs": 1030880,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and the overall mass balance of \nthe hold down mechanism assembly."
+    } ]
+  }, {
+    "tStartMs": 1035000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "The first thing that improves performance is \nmaking the massive load arms as light as possible,  "
+    } ]
+  }, {
+    "tStartMs": 1039840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "without compromising their ability to bear the \nload of the 5000 ton fully fuelled starship."
+    } ]
+  }, {
+    "tStartMs": 1045400,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "This is why the Stage Zero team was so \nquick to remove all of the heavy shielding  "
+    } ]
+  }, {
+    "tStartMs": 1049080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "from the side of the arms as soon as they \ndeemed the extra protection to be unnecessary."
+    } ]
+  }, {
+    "tStartMs": 1053880,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Reducing the weight of the load arms means less \nforce is required to pull the arms inwards,  "
+    } ]
+  }, {
+    "tStartMs": 1058640,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "and should theoretically allow them to retract \nfaster. Another way to improve performance is by  "
+    } ]
+  }, {
+    "tStartMs": 1063960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "increasing the mass of the linkage arms. Similar \nto how the weight distribution of the linkages  "
+    } ]
+  }, {
+    "tStartMs": 1068280,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "helps to extend the load arm, they also contribute \nduring the retraction. Because of how the weight  "
+    } ]
+  }, {
+    "tStartMs": 1073400,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "is distributed, the pivot points where the two \nlinks join together will naturally want to fall  "
+    } ]
+  }, {
+    "tStartMs": 1077840,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "downwards and collapse the arms together. But as \nI explained earlier, the weight of the main load  "
+    } ]
+  }, {
+    "tStartMs": 1083220,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "bearing arm prevents that from happening. On its \nown, this gigantic arm is probably heavy enough to  "
+    } ]
+  }, {
+    "tStartMs": 1088560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "keep the two arms held in full extension, even \nif the hydraulic actuators were disconnected."
+    } ]
+  }, {
+    "tStartMs": 1093880,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "This essentially caused the links to be more or \nless locked in that 180 degree extended position.  "
+    } ]
+  }, {
+    "tStartMs": 1099280,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "As a result, if the actuator begins retracting \nthe arm too quickly before the pivot point  "
+    } ]
+  }, {
+    "tStartMs": 1103800,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "starts to drop, the linkages may momentarily \nresist until gravity takes over. Then, as the  "
+    } ]
+  }, {
+    "tStartMs": 1109480,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "linkages fall downwards, they collapse together \nwhich simultaneously pulls the load arm towards  "
+    } ]
+  }, {
+    "tStartMs": 1114160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "the inside of the table. This actually reduces \nthe load on the hydraulic actuator, allowing it  "
+    } ]
+  }, {
+    "tStartMs": 1118600,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "to retract faster. With this in mind, while the \nnew constraining links were being installed, we  "
+    } ]
+  }, {
+    "tStartMs": 1123360,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "got a great look at some of the new hardware that \nwas added onto both arms. Comparing the old with  "
+    } ]
+  }, {
+    "tStartMs": 1128200,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "the new, you can see that three counterweights \nwere added onto the linkage members. There is one  "
+    } ]
+  }, {
+    "tStartMs": 1133040,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "on the lower arm and two on the upper arm. Even \nwithout knowing the exact mass of each of these  "
+    } ]
+  }, {
+    "tStartMs": 1138320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "components, we are fairly confident of what they \nare trying to accomplish here. The addition of  "
+    } ]
+  }, {
+    "tStartMs": 1142880,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "these counterweights will shift the mass balance \nbetween the linkages and the load arms. Ideally,  "
+    } ]
+  }, {
+    "tStartMs": 1147720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "this might be enough to cause the pivot point to \nsag if the hydraulic actuator wasn't present. In  "
+    } ]
+  }, {
+    "tStartMs": 1152880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "other words, the load arms would no longer \nreach their fully extended position on their  "
+    } ]
+  }, {
+    "tStartMs": 1156600,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "own. Without the hydraulic actuator, they \nwould bounce and then naturally come to rest  "
+    } ]
+  }, {
+    "tStartMs": 1160960,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "in a partially retracted state. This means that \nafter the actuator gently lowers the arm into the  "
+    } ]
+  }, {
+    "tStartMs": 1166280,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "balanced position, it has to then push the arm \nthe remaining way until it is fully extended."
+    } ]
+  }, {
+    "tStartMs": 1171320,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "So how does this help during the lift off \nretraction? Well, as the booster begins rising  "
+    } ]
+  }, {
+    "tStartMs": 1176080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "off of the clamp blocks, the arms will naturally \nwant to lift up to their partially retracted  "
+    } ]
+  }, {
+    "tStartMs": 1180640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "position. This means that when the command is \ngiven for the actuators to begin retracting,  "
+    } ]
+  }, {
+    "tStartMs": 1185360,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the pivot point will have already dropped \nslightly. As a result, the likelihood of  "
+    } ]
+  }, {
+    "tStartMs": 1189600,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "the two linkages becoming briefly locked in their \nextended position and resisting the initial pull  "
+    } ]
+  }, {
+    "tStartMs": 1194480,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "of the actuator will be significantly \nreduced if not completely eliminated.  "
+    } ]
+  }, {
+    "tStartMs": 1199200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Although we have no way of comparing their \nperformance, this additional mass should  "
+    } ]
+  }, {
+    "tStartMs": 1202600,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "increase the speed of retraction. Hopefully \nthese animations from Ryan Hansen Space  "
+    } ]
+  }, {
+    "tStartMs": 1206960,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "make it easier to visualize how this would \nhelp pull the arms into the table faster."
+    } ]
+  }, {
+    "tStartMs": 1211320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Anyway, this explanation has gone way longer \nthan I initially intended. But the point is,  "
+    } ]
+  }, {
+    "tStartMs": 1216280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "I believe this upgrade is SpaceX's attempt \nat addressing this issue as best they can on  "
+    } ]
+  }, {
+    "tStartMs": 1220720,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "the current version of the launch mount. As Elon \nmentioned, Stage 0 2.0 will feature a completely  "
+    } ]
+  }, {
+    "tStartMs": 1226440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "redesigned hold down mechanism which will take \ninto consideration the lessons they have learned  "
+    } ]
+  }, {
+    "tStartMs": 1230520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "from the original design. We will hopefully \ntouch on that more in Part 3. To be honest,  "
+    } ]
+  }, {
+    "tStartMs": 1235720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "we haven't quite figured out if this is the real \ndesign for the new arms yet because it doesn't  "
+    } ]
+  }, {
+    "tStartMs": 1239560,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "really work with the known mounting points in \nthe new launch mount. This is perhaps the one  "
+    } ]
+  }, {
+    "tStartMs": 1243680,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "negative aspect of having unprecedented levels \nof access to the Starship R\u0026D work going on at  "
+    } ]
+  }, {
+    "tStartMs": 1248600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "various locations. We occasionally end up spending \nmassive amounts of time trying to figure out what  "
+    } ]
+  }, {
+    "tStartMs": 1253600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "something is and how it works, only to realize \nit's a pathfinder or prototype that has little  "
+    } ]
+  }, {
+    "tStartMs": 1258880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "to no resemblance to the final product. But it's \nalways a fun challenge trying to make sense out  "
+    } ]
+  }, {
+    "tStartMs": 1263760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "of the design and engineering that goes into \nsolving various problems encountered during  "
+    } ]
+  }, {
+    "tStartMs": 1267400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the Starship development process. On that note, \nif you're the type of person who loves getting  "
+    } ]
+  }, {
+    "tStartMs": 1271880,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "a deeper understanding and growing your skills \nin a fun way, especially in the areas of math,  "
+    } ]
+  }, {
+    "tStartMs": 1276960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "data analysis, programming, and AI, then \nI welcome you to check out Brilliant.org."
+    } ]
+  }, {
+    "tStartMs": 1281240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Brilliant puts the fun back into learning by \nallowing you to explore through thousands of  "
+    } ]
+  }, {
+    "tStartMs": 1285960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "interactive lessons presented to you in a way \nthat feels more like a game than a science  "
+    } ]
+  }, {
+    "tStartMs": 1289960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "class. By using a first principles approach, \nBrilliant helps you build your understanding  "
+    } ]
+  }, {
+    "tStartMs": 1294360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "from the ground up by starting with the \nbasics and then gradually working your  "
+    } ]
+  }, {
+    "tStartMs": 1297920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "way up to more difficult problems. The lessons \nare filled with hands-on problem solving that  "
+    } ]
+  }, {
+    "tStartMs": 1302480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "help you actually visualize these concepts \ninstead of forcing you to memorize equations."
+    } ]
+  }, {
+    "tStartMs": 1307440,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "This method of learning has been proven to be \nsix times more effective than sitting around  "
+    } ]
+  }, {
+    "tStartMs": 1311680,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "watching boring lecture videos where your mind \nis far more likely to wander. Each lesson is  "
+    } ]
+  }, {
+    "tStartMs": 1316760,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "created by an amazing team of experts, \nincluding award-winning teachers and  "
+    } ]
+  }, {
+    "tStartMs": 1320640,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "professionals from places like MIT, Caltech, \nand even companies like Microsoft and Google."
+    } ]
+  }, {
+    "tStartMs": 1326760,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "I think my favorite thing about Brilliant is the \nway it helps me to make better use of my free time  "
+    } ]
+  }, {
+    "tStartMs": 1331120,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "by keeping my critical thinking skills sharp. \nWhenever I catch myself mindlessly scrolling  "
+    } ]
+  }, {
+    "tStartMs": 1334840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "through social media, I open up their easy-to-use \nmobile app and either dive into learning something  "
+    } ]
+  }, {
+    "tStartMs": 1339280,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "new or refresh my memory on topics that I may have \nforgotten over the years. It's the perfect way to  "
+    } ]
+  }, {
+    "tStartMs": 1344040,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "grow both personally and professionally \nwithout feeling like a chore. Lately,  "
+    } ]
+  }, {
+    "tStartMs": 1348960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "I've been really interested in their artificial \nintelligence courses where you can take a peek  "
+    } ]
+  }, {
+    "tStartMs": 1352640,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "under the hood of large language models \nlike ChatGPT to understand the concepts  "
+    } ]
+  }, {
+    "tStartMs": 1356920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "powering today's technology. Needless to say, \nthis platform is amazing and now you can try  "
+    } ]
+  }, {
+    "tStartMs": 1362120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "everything Brilliant has to offer by taking \nadvantage of their 30-day free trial. Just  "
+    } ]
+  }, {
+    "tStartMs": 1366520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "visit Brilliant.org slash CSI Starbase or scan \nthis QR code to get everything that Brilliant  "
+    } ]
+  }, {
+    "tStartMs": 1371320,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "has to offer. That will also give you an awesome \n20% off Brilliant's annual Premium subscription.  "
+    } ]
+  }, {
+    "tStartMs": 1376400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Thanks to Brilliant for partnering with us for \ntoday's episode. Alright, so where were we?"
+    } ]
+  }, {
+    "tStartMs": 1381680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Once all 20 of the new constraining \narm pairs were installed,  "
+    } ]
+  }, {
+    "tStartMs": 1384320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the replacement hold-down \nclamps were mounted as well."
+    } ]
+  }, {
+    "tStartMs": 1387320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Turning our attention back to the external \nsurfaces of the launch mount, one of the final  "
+    } ]
+  }, {
+    "tStartMs": 1391080,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "tasks before launch was to beef up the shielding \nagain. Near the end of part 1, we discussed  "
+    } ]
+  }, {
+    "tStartMs": 1395840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "how before flight 3, additional burn panels \nwere added to either side of the booster QD."
+    } ]
+  }, {
+    "tStartMs": 1400880,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "After the launch, Stage Zero engineers \ninspected the structure and likely noticed  "
+    } ]
+  }, {
+    "tStartMs": 1404760,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "that the area adjacent to this double layer \nof burn panels was beginning to show signs  "
+    } ]
+  }, {
+    "tStartMs": 1408640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "of erosion as well. In response, they \nadded one additional panel on either side,  "
+    } ]
+  }, {
+    "tStartMs": 1413200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "bringing the total number of double \nstacked panels to 4 out of 18."
+    } ]
+  }, {
+    "tStartMs": 1417400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "I've always found it a bit curious why they \ndidn't just add a second layer over every  "
+    } ]
+  }, {
+    "tStartMs": 1420880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "surface that comes in contact with the exhaust \nplume during the tower avoidance maneuver,  "
+    } ]
+  }, {
+    "tStartMs": 1424800,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "especially since they knew it would eventually \nbecome necessary. But the fact that they aren't  "
+    } ]
+  }, {
+    "tStartMs": 1428760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "very proactive with this seems to hint that \nthey are trying to make the original surfaces  "
+    } ]
+  }, {
+    "tStartMs": 1432880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "last as long as possible before adding a second or \nthird layer on top. So with that out of the way,  "
+    } ]
+  }, {
+    "tStartMs": 1438480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "the preparations for flight 4 were completed in \njust under three months. This is pretty remarkable  "
+    } ]
+  }, {
+    "tStartMs": 1443480,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "considering that the GSE team was simultaneously \nperforming a major overhaul of the orbital tank  "
+    } ]
+  }, {
+    "tStartMs": 1448160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "farm. This actually started around the time of \nflight 2 when they began installing all of the  "
+    } ]
+  }, {
+    "tStartMs": 1452720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "new horizontal storage tanks, but some of the more \ninvasive parts of this transition occurred between  "
+    } ]
+  }, {
+    "tStartMs": 1457920,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "flights 3 and 5. This topic is definitely worth an \nepisode of its own. Probably even another two or  "
+    } ]
+  }, {
+    "tStartMs": 1463520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "three part series like this one considering \nit requires covering three years worth of  "
+    } ]
+  }, {
+    "tStartMs": 1467080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "information. The amount of work that has gone into \nthis is pretty incredible, so if you're someone  "
+    } ]
+  }, {
+    "tStartMs": 1471960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "who's interested in understanding these ground \nsupport systems, then make sure to subscribe to  "
+    } ]
+  }, {
+    "tStartMs": 1475320,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the channel if you haven't already. And be on the \nlookout for that episode sometime later this year."
+    } ]
+  }, {
+    "tStartMs": 1480600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I considered releasing the first \npart of that series a few months ago,  "
+    } ]
+  }, {
+    "tStartMs": 1483600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "but I think it makes more sense to wait for \nthem to actually finish the transformation."
+    } ]
+  }, {
+    "tStartMs": 1487840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Anyway, with the orbital launch mount \nsporting another fresh paint job,  "
+    } ]
+  }, {
+    "tStartMs": 1491040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "flight 4 took place 84 days after \nflight 3 on June 6th of 2024."
+    } ]
+  }, {
+    "tStartMs": 1496800,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "After Booster 11's successful soft \nsplashdown in the Gulf of Mexico,  "
+    } ]
+  }, {
+    "tStartMs": 1500520,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "SpaceX immediately shifted their focus towards \npreparing for the first catch attempt on flight 5."
+    } ]
+  }, {
+    "tStartMs": 1506200,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "This required a massive amount of work to \ntransition the chopsticks from being the  "
+    } ]
+  }, {
+    "tStartMs": 1510080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "world's largest forklifts to actually being \ncapable of catching a booster out of mid-air."
+    } ]
+  }, {
+    "tStartMs": 1514960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "We aren't really going to touch \non those upgrades today, because  "
+    } ]
+  }, {
+    "tStartMs": 1517480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "similar to the tank farm overhaul, \nit deserves an episode of its own."
+    } ]
+  }, {
+    "tStartMs": 1521680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "While most of the attention was directed towards \nall of the work being done on the chopsticks,  "
+    } ]
+  }, {
+    "tStartMs": 1525160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "the Stage Zero team also had to take \ncare of the typical refurbishments.  "
+    } ]
+  }, {
+    "tStartMs": 1528920,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Looking at the launch mount from a distance, \nit was actually a bit difficult to even tell  "
+    } ]
+  }, {
+    "tStartMs": 1532320,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "that a launch had occurred just hours before. \nThe Booster bidet system is clearly doing a  "
+    } ]
+  }, {
+    "tStartMs": 1536760,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "great job of protecting the structure. For the \nmost part. Similar to the previous launches,  "
+    } ]
+  }, {
+    "tStartMs": 1541920,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "a closer inspection of these images from Starship \nGazer told a different story. For reasons that  "
+    } ]
+  }, {
+    "tStartMs": 1546520,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "we haven't quite figured out, the damage to the \nwedge-shaped steel panels was a lot more severe  "
+    } ]
+  }, {
+    "tStartMs": 1551120,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "than previous launches. You can see that the steel \non the leading edge of the deflector got so hot  "
+    } ]
+  }, {
+    "tStartMs": 1556280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "that it actually began to melt. It's possible \nthat this is a result of an increase in thrust  "
+    } ]
+  }, {
+    "tStartMs": 1560720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "at liftoff, but without a few decimal points added \nto the booster telemetry, it's nearly impossible  "
+    } ]
+  }, {
+    "tStartMs": 1565400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for us to confirm this. Either way, you may \nwonder if they can just dial it back a little bit  "
+    } ]
+  }, {
+    "tStartMs": 1569480,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "on the thrust to reduce the thermal load on the \nstructure. Unfortunately, reducing thrust means a  "
+    } ]
+  }, {
+    "tStartMs": 1574640,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "slower liftoff and increases the time of exposure \nof the exhaust plume, which would potentially make  "
+    } ]
+  }, {
+    "tStartMs": 1579400,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "the problem even worse. In reality, we should only \nexpect the thrust to increase even further. Adding  "
+    } ]
+  }, {
+    "tStartMs": 1584880,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "hundreds of tons of additional propellant to the \nV2 ships and boosters will require more energy  "
+    } ]
+  }, {
+    "tStartMs": 1589480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "to achieve the same thrust-to-weight ratio. With \nthat said, I don't think there's really much that  "
+    } ]
+  }, {
+    "tStartMs": 1593920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "can be done about this without cutting the panels \noff and replacing them with another alloy of steel  "
+    } ]
+  }, {
+    "tStartMs": 1598240,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "that's more resistant to heat. But this introduces \nthe risk of increasing the frequency of cracked  "
+    } ]
+  }, {
+    "tStartMs": 1602920,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "welds if the difference in thermal expansion \nrate between the two materials is great enough.  "
+    } ]
+  }, {
+    "tStartMs": 1607600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "We won't dig into that any deeper though, because \nit's simply not going to happen. At this point,  "
+    } ]
+  }, {
+    "tStartMs": 1611800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "the flame deflector panels just need to survive \nlong enough for the second orbital launch pad to  "
+    } ]
+  }, {
+    "tStartMs": 1615560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "come online. In the meantime, the welding crews \nonce again have their work cut out for them,  "
+    } ]
+  }, {
+    "tStartMs": 1620200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "shaving down and fixing any cracked welds that \nwere discovered during the inspection. I think  "
+    } ]
+  }, {
+    "tStartMs": 1624520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "this is a good time to mention that these cracked \nwelds are not limited to the flame deflector  "
+    } ]
+  }, {
+    "tStartMs": 1627960,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "panels on the legs. I've directed most of the \nfocus towards them because they seem to be the  "
+    } ]
+  }, {
+    "tStartMs": 1632320,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "most severe. But in reality, these cracked welds \noccur spontaneously all over the launch mount."
+    } ]
+  }, {
+    "tStartMs": 1638560,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "After every flight, you can find workers repairing \nwelds in various locations on both sets of stairs,  "
+    } ]
+  }, {
+    "tStartMs": 1643920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the slanted canopy sections on the perimeter \nof the launch deck, and the booster QD hood.  "
+    } ]
+  }, {
+    "tStartMs": 1648720,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "It's very difficult to see the work \nthat happens on top of the launch mount,  "
+    } ]
+  }, {
+    "tStartMs": 1651760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "but it seems like the only place they don't \nexperience this issue is with the welds that  "
+    } ]
+  }, {
+    "tStartMs": 1655520,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "join the stainless steel burn panels together. \nOn that note, I personally think that some of  "
+    } ]
+  }, {
+    "tStartMs": 1660280,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "this repeated repair work could have been \navoided if the canopy sections were made  "
+    } ]
+  }, {
+    "tStartMs": 1663920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "of the same stainless steel alloy as the deck \npanels and the outer shielding. To be clear,  "
+    } ]
+  }, {
+    "tStartMs": 1669040,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "I'm not a material science engineer, but joining \nstainless steel to carbon steel panels has always  "
+    } ]
+  }, {
+    "tStartMs": 1673880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "been a questionable decision to me. But without \nany supporting evidence, I can only speculate  "
+    } ]
+  }, {
+    "tStartMs": 1678680,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "that the difference in thermal expansion rate is \nprobably causing issues in those areas. Overall,  "
+    } ]
+  }, {
+    "tStartMs": 1683920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "while these may be relatively minor repairs, the \ntime required to fix these cracked welds after  "
+    } ]
+  }, {
+    "tStartMs": 1688480,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "every launch is a big problem as it relates \nto rapid reusability. I would say that the  "
+    } ]
+  }, {
+    "tStartMs": 1693400,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "amount of thermal and acoustic energy that this \nstructure has to withstand is truly unprecedented,  "
+    } ]
+  }, {
+    "tStartMs": 1698240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "but if I did that, it wouldn't be fair \nto the SLS mobile launch structure."
+    } ]
+  }, {
+    "tStartMs": 1702960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Anyway, less than four days after the launch, \nwhile weld inspections were still ongoing,  "
+    } ]
+  }, {
+    "tStartMs": 1707360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "the Stage Zero team quickly removed \nat least 10 of the hold-down clamps."
+    } ]
+  }, {
+    "tStartMs": 1711760,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "The fact that only half were replaced \nis probably an important detail,  "
+    } ]
+  }, {
+    "tStartMs": 1715080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "although I haven't been able \nto figure out the significance."
+    } ]
+  }, {
+    "tStartMs": 1717960,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Oddly enough, Flight 5 also happened to \nbe the last time the clamps were replaced.  "
+    } ]
+  }, {
+    "tStartMs": 1722600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "There is a chance we may have missed it \nwhen it occurred before Flight 6 and 7,  "
+    } ]
+  }, {
+    "tStartMs": 1726040,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "or there may have been an unknown upgrade \nthat improved the longevity of the bushings."
+    } ]
+  }, {
+    "tStartMs": 1730480,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Assuming that was the issue in the first \nplace. Unfortunately, as of this time,  "
+    } ]
+  }, {
+    "tStartMs": 1733920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "we don't really have an answer. To be honest, \nthis mystery is one of the reasons I initially  "
+    } ]
+  }, {
+    "tStartMs": 1738320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "wanted to observe at least 10 flights on \nPad A before releasing this investigation.  "
+    } ]
+  }, {
+    "tStartMs": 1743120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But thanks to the rapid pace of Pad B \nconstruction, ain't nobody got time for that."
+    } ]
+  }, {
+    "tStartMs": 1747840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "With the flame deflectors and Raptor \nChill collection lines repaired,  "
+    } ]
+  }, {
+    "tStartMs": 1750600,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Stage Zero was now ready for the static fire \ntest of Booster 12, but they were going to have  "
+    } ]
+  }, {
+    "tStartMs": 1755320,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "to wait. Even though this time around there was \nno replacement of the Booster QD umbilical hoses,  "
+    } ]
+  }, {
+    "tStartMs": 1760320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "the trend of reducing the turnaround time \nafter launch was broken. Because of the  "
+    } ]
+  }, {
+    "tStartMs": 1764440,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "somewhat last-minute decision to attempt a booster \ncatch on the next flight, additional time was  "
+    } ]
+  }, {
+    "tStartMs": 1768680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "needed to allow teams to focus on upgrades to the \nlanding rails on the chopsticks and perform catch  "
+    } ]
+  }, {
+    "tStartMs": 1773560,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "simulation testing on the B14.1 test tank. \nAs a result, the static fire did not occur  "
+    } ]
+  }, {
+    "tStartMs": 1778800,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "until 40 days after Flight 4. After this, B12 \nreturned to the Booster Bay for final outfitting,  "
+    } ]
+  }, {
+    "tStartMs": 1784880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "which included a surgical operation to increase \nthe capacity of its landing tanks. Meanwhile,  "
+    } ]
+  }, {
+    "tStartMs": 1789680,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "the Stage Zero team was able to take their \ntime with final launch preparations for once,  "
+    } ]
+  }, {
+    "tStartMs": 1793600,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "while a massive amount of work on the chopsticks \nand integration tower was completed. As far as  "
+    } ]
+  }, {
+    "tStartMs": 1798080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "modifications to the launch mount, the only real \nchange that was observed was an additional burn  "
+    } ]
+  }, {
+    "tStartMs": 1802440,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "plate mounted to the top of the Booster QD \nenclosure. I'm a bit surprised this didn't  "
+    } ]
+  }, {
+    "tStartMs": 1806640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "happen much sooner, considering the abuse it \ntakes during the tower avoidance maneuver."
+    } ]
+  }, {
+    "tStartMs": 1811120,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But the pattern of new shielding added after each \nlaunch might be a good indication of how the rate  "
+    } ]
+  }, {
+    "tStartMs": 1815600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "of ablation varies at different locations on the \nstructure. A bladed material may not be the only  "
+    } ]
+  }, {
+    "tStartMs": 1820560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "concern here though. Even though SpaceX seems to \nhave been successful in their efforts to protect  "
+    } ]
+  }, {
+    "tStartMs": 1824840,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "the BQD umbilicals from being damaged, it seems \nthat this was only part of the problem. In the  "
+    } ]
+  }, {
+    "tStartMs": 1829920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "aftermath of every launch that has taken place \nsince the upgraded door was installed, we have  "
+    } ]
+  }, {
+    "tStartMs": 1834000,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "seen workers spending several days, or sometimes \nweeks at a time, working inside of the enclosure.  "
+    } ]
+  }, {
+    "tStartMs": 1839480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Unfortunately, because there's no way for us to \nsee what they're doing, all we can do is speculate  "
+    } ]
+  }, {
+    "tStartMs": 1843680,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "that there are still some smaller components \nthat need to be replaced after each launch."
+    } ]
+  }, {
+    "tStartMs": 1848040,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Adding these 3\" thick panels on top of the hood \nenclosure should reduce the amount of heat that  "
+    } ]
+  }, {
+    "tStartMs": 1852080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "is able to penetrate through the roof and \nreach the interior of the structure. This  "
+    } ]
+  }, {
+    "tStartMs": 1856080,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "may be enough to prevent some of the sensitive \ncomponents from being roasted inside of this giant  "
+    } ]
+  }, {
+    "tStartMs": 1859720,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "oven after the avoidance maneuver. With this \nbeing the first catch attempt of Super Heavy,  "
+    } ]
+  }, {
+    "tStartMs": 1864560,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "it was probably even more important to add this \nextra protection. After all, the last thing you  "
+    } ]
+  }, {
+    "tStartMs": 1869080,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "would want is to lose the ability to detank and \nsave the vehicle after it lands. Beyond that,  "
+    } ]
+  }, {
+    "tStartMs": 1874000,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "thanks to the landing burn there is now \nadditional exposure to the exhaust plume  "
+    } ]
+  }, {
+    "tStartMs": 1877640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and unlike the avoidance maneuver, it's not \nguaranteed to be focused around the booster QD."
+    } ]
+  }, {
+    "tStartMs": 1882680,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Based on their simulations, SpaceX knew that \nthe exhaust plume would move rapidly back and  "
+    } ]
+  }, {
+    "tStartMs": 1886800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "forth across the launch deck while the booster \nis making its final corrections before touching  "
+    } ]
+  }, {
+    "tStartMs": 1891000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "down on the chopsticks. Luckily, with only \n3 engines used in the final landing phase,  "
+    } ]
+  }, {
+    "tStartMs": 1895560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "this is significantly less thermal energy than \nwhat they have to deal with during liftoff. With  "
+    } ]
+  }, {
+    "tStartMs": 1899800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "this in mind, they didn't feel the need to cover \nthe remaining deck surface with a second layer  "
+    } ]
+  }, {
+    "tStartMs": 1903600,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "of burn panels. Instead, they chose to paint \nthe entire deck with the same cementitis paint  "
+    } ]
+  }, {
+    "tStartMs": 1908680,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "used on the rest of the structure to help it \nresist the brief contact with the hot exhaust  "
+    } ]
+  }, {
+    "tStartMs": 1912800,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "gases. After 130 days of repairs, upgrades, \nand waiting for an updated launch license,  "
+    } ]
+  }, {
+    "tStartMs": 1918600,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "SpaceX was now ready for the fifth flight \ntest of Starship on October 13th of 2024."
+    } ]
+  }, {
+    "tStartMs": 1924200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "This was probably the most exciting launch to date  "
+    } ]
+  }, {
+    "tStartMs": 1926440,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "due to the long-awaited first catch \nattempt of a Super Heavy booster."
+    } ]
+  }, {
+    "tStartMs": 1930400,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Oh, speaking of the first catch attempt, I \nthink now is the perfect time to take a step  "
+    } ]
+  }, {
+    "tStartMs": 1934360,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "back and mention another operation that gets \nrepeated before and after every launch. Many  "
+    } ]
+  }, {
+    "tStartMs": 1939520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "of you are probably familiar with the booster \nalignment pins located on top of the launch  "
+    } ]
+  }, {
+    "tStartMs": 1943440,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "mount. As the name implies, they are used \nto assist with properly aligning the booster  "
+    } ]
+  }, {
+    "tStartMs": 1948200,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "as it's being lowered onto the clamping blocks."
+    } ]
+  }, {
+    "tStartMs": 1950760,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Before the hold-down arms are deployed, the \nalignment pins are extended to engage the  "
+    } ]
+  }, {
+    "tStartMs": 1954800,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "socket on the side of the booster. Once the \narms are fully extended, the pins help guide  "
+    } ]
+  }, {
+    "tStartMs": 1959080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "the booster down onto the clamping blocks. There \nare similar alignment pins used on the booster  "
+    } ]
+  }, {
+    "tStartMs": 1963280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "transport stand as well. A big problem with the \ncurrent design is that there is no protection  "
+    } ]
+  }, {
+    "tStartMs": 1968000,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "system to shield it from the booster's exhaust \nafter liftoff. Left exposed, the ball joint at  "
+    } ]
+  }, {
+    "tStartMs": 1972880,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "the end of the actuator would potentially \nbe worn down over time. More importantly,  "
+    } ]
+  }, {
+    "tStartMs": 1977240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "the electronics and hydraulic hoses would \ncertainly be fried in the high temperature  "
+    } ]
+  }, {
+    "tStartMs": 1980560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "environment. Prior to Flight 1, these were \nsurrounded by steel boxes, but they have  "
+    } ]
+  }, {
+    "tStartMs": 1984600,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "since disappeared. So it seems these enclosures \nmay have been intended to shield against brief,  "
+    } ]
+  }, {
+    "tStartMs": 1989840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "relatively low energy testing anomalies like \nthis, and were not expected to be able to provide  "
+    } ]
+  }, {
+    "tStartMs": 1994080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "adequate protection against 2,000 degree exhaust \nplumes. So before every launch, the hydraulic  "
+    } ]
+  }, {
+    "tStartMs": 1999600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "hoses are disconnected, and the entire assembly \nis removed from the mounting bracket. After this,  "
+    } ]
+  }, {
+    "tStartMs": 2004520,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "a square plate is welded over the opening \nfor the cables and hoses. After the launch,  "
+    } ]
+  }, {
+    "tStartMs": 2008920,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "the plates have to be cut back off, and then the \ntwo alignment pins are returned to the launch  "
+    } ]
+  }, {
+    "tStartMs": 2012320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "mount. The big question that we had leading up to \nFlight 5 was whether or not SpaceX was going to  "
+    } ]
+  }, {
+    "tStartMs": 2017000,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "develop some sort of protective shielding to \nallow the alignment pins to remain in place."
+    } ]
+  }, {
+    "tStartMs": 2021520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Sadly, that never ended up happening, and when \nB12 successfully landed on the chopsticks,  "
+    } ]
+  }, {
+    "tStartMs": 2025720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "it had to be very carefully placed back \nonto the launch mount. Surprisingly,  "
+    } ]
+  }, {
+    "tStartMs": 2029560,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "this didn't take much longer than it \ndoes when the alignment pins are used."
+    } ]
+  }, {
+    "tStartMs": 2033120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "So if the chopsticks are clearly able to do this \non their own, using a combination of the push pins  "
+    } ]
+  }, {
+    "tStartMs": 2037840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "on the landing rails and the stabilizer \narms attached to the lower lifting points,  "
+    } ]
+  }, {
+    "tStartMs": 2042000,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "then why are the alignment pins on \nthe launch mount even necessary? Well,  "
+    } ]
+  }, {
+    "tStartMs": 2045560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "because of the gigantic cross-sectional area of \nthe booster, there was a potential for it to sway  "
+    } ]
+  }, {
+    "tStartMs": 2049880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "back and forth a little if there was any wind \npresent at the time of lifting. Obviously, this  "
+    } ]
+  }, {
+    "tStartMs": 2054120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "would create a problem when lowering the booster \ninto the launch mount. Any unexpected movement can  "
+    } ]
+  }, {
+    "tStartMs": 2058360,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "cause the engines to collide with the hold-down \narms. If you aren't planning on reflying the same  "
+    } ]
+  }, {
+    "tStartMs": 2062640,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "booster a few days later, then this isn't really a \nbig deal. Any engines that are potentially damaged  "
+    } ]
+  }, {
+    "tStartMs": 2067480,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "after landing can be swapped out for new ones \nafter its return to the booster bay. But in order  "
+    } ]
+  }, {
+    "tStartMs": 2072640,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "to achieve their goals of rapid reusability, \nSpaceX will eventually want to address this  "
+    } ]
+  }, {
+    "tStartMs": 2076680,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "issue. The process of removing and reinstalling \nthis alignment pin is actually super fast in  "
+    } ]
+  }, {
+    "tStartMs": 2081840,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "comparison with the other repetitive pre-flight \nrefurbishments. But by their own expectations,  "
+    } ]
+  }, {
+    "tStartMs": 2087160,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "having to do this before and after every launch \nis simply not an option in the long run. With that  "
+    } ]
+  }, {
+    "tStartMs": 2092400,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "said, we should definitely expect some changes \nto the alignment pins on version 2 of the OLM."
+    } ]
+  }, {
+    "tStartMs": 2097720,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "After the success of Flight 5, SpaceX was in a \nmassive rush to move on to Flight 6 in record time  "
+    } ]
+  }, {
+    "tStartMs": 2103120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and repeat their successful booster landing on \nthe chopsticks. So this time around, the only real  "
+    } ]
+  }, {
+    "tStartMs": 2107840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "repair work we saw was to the welds on the legs \nof the launch mount and of course the replacement  "
+    } ]
+  }, {
+    "tStartMs": 2112280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "of the Raptor Chill collection lines. After this, \nthey performed a gorgeous sunset static fire test  "
+    } ]
+  }, {
+    "tStartMs": 2117480,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "of Booster 13 just 11 days after Flight 5. This \ncut their previous best from Flight 4 in half.  "
+    } ]
+  }, {
+    "tStartMs": 2124240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Ship 31 had already completed its static fire test \nback in September, which was a full month before  "
+    } ]
+  }, {
+    "tStartMs": 2129040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Flight 5. So at this point, the only thing left \nto do was bust out those paint rollers and lather  "
+    } ]
+  }, {
+    "tStartMs": 2134200,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "on the makeup. This time, 33 days after Flight \n5 and 26 days after B-13's static fire test,  "
+    } ]
+  }, {
+    "tStartMs": 2140920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Stage 0 and the Flight 6 vehicles were ready for \nlaunch. Ultimately, Flight 6 would not be quite as  "
+    } ]
+  }, {
+    "tStartMs": 2146120,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "successful as Flight 5 due to the aborted landing \nattempt by Booster 13. This was a result of damage  "
+    } ]
+  }, {
+    "tStartMs": 2151360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "that occurred to the chopsticks and the comms \narray on top of the integration tower. Luckily,  "
+    } ]
+  }, {
+    "tStartMs": 2155880,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "we did get treated to some awesome daylight \nlanding views of Ship 31 in the Indian Ocean."
+    } ]
+  }, {
+    "tStartMs": 2160840,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "This finally brings us to the most recent launch, \nFlight 7, which for the most part, as far as  "
+    } ]
+  }, {
+    "tStartMs": 2165600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "launch mount refurbishment work is concerned, was \nvery similar to Flight 6. There was of course the  "
+    } ]
+  }, {
+    "tStartMs": 2170560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "predictable repair of cracked welds on the flame \ndiverters, the awning panels on top of the launch  "
+    } ]
+  }, {
+    "tStartMs": 2174800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "deck, the burn panels on top of the Booster QD, \nand the replacement of the Raptor Chill collection  "
+    } ]
+  }, {
+    "tStartMs": 2179360,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "lines. The one other thing I noticed was that \nthere seemed to be a lot of attention directed  "
+    } ]
+  }, {
+    "tStartMs": 2183400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "towards something in the center of the launch \nring. Looking at this from the aerial perspective,  "
+    } ]
+  }, {
+    "tStartMs": 2188040,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "we can see a circular scaffolding platform along \nthe inner wall of the ring. Now to be clear,  "
+    } ]
+  }, {
+    "tStartMs": 2193360,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "this is nothing new. We actually see this after \nliterally every flight. But in the past, this was  "
+    } ]
+  }, {
+    "tStartMs": 2198840,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "an indication of work being done to the inner wall \nof the launch mount, the Raptor QDs, or the hold  "
+    } ]
+  }, {
+    "tStartMs": 2203960,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "down clamps. With that said, it's possible that \nthe reason we haven't seen any more replacement  "
+    } ]
+  }, {
+    "tStartMs": 2208640,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "of the hold down clamps in Flight 5 is because \nthey are now replacing the damaged bushings in  "
+    } ]
+  }, {
+    "tStartMs": 2213000,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "situ instead of completely swapping out the \nclamps. This is of course pure speculation,  "
+    } ]
+  }, {
+    "tStartMs": 2218280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but if this theory is incorrect, then that \nmeans that there is another major refurbishment  "
+    } ]
+  }, {
+    "tStartMs": 2222280,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "operation going on here that we are completely \nunaware of, which also occurs after every  "
+    } ]
+  }, {
+    "tStartMs": 2226560,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "flight. The only reason I mention this at all is \nbecause it might be relevant to explaining why  "
+    } ]
+  }, {
+    "tStartMs": 2231120,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "the pad reset for static fire testing took 9 days \nlonger than it did during the Flight 6 campaign."
+    } ]
+  }, {
+    "tStartMs": 2236680,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "When all was said and done, Booster 14's static \nfire test took place 20 days after Flight 6 on  "
+    } ]
+  }, {
+    "tStartMs": 2242240,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "December 9th of 2024. Moving on to final launch \npreparations, the Booster QD was once again the  "
+    } ]
+  }, {
+    "tStartMs": 2247960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "center of attention. This time around, the changes \nwere minimal, but one thing of note was that for  "
+    } ]
+  }, {
+    "tStartMs": 2253160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "some reason SpaceX decided to delete one of the \nlower access doors on the east side of the BQD  "
+    } ]
+  }, {
+    "tStartMs": 2257720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "enclosure by welding it shut. I really try my \nbest to make sense out of every change we see,  "
+    } ]
+  }, {
+    "tStartMs": 2262720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "but I literally have no idea why they did \nthat, so I'll move on. Around the upper doors,  "
+    } ]
+  }, {
+    "tStartMs": 2267920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "there was an L-shaped ridge welded around \nthe leading edge of the door. Even though  "
+    } ]
+  }, {
+    "tStartMs": 2271840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "we haven't noticed any damage, considering \nit would probably be inside of the enclosure,  "
+    } ]
+  }, {
+    "tStartMs": 2275680,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "this seems to be another preventative measure to \nstop the hot exhaust gases from penetrating under  "
+    } ]
+  }, {
+    "tStartMs": 2280040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the door. Along with this, an additional \nplate was added between the edge of the  "
+    } ]
+  }, {
+    "tStartMs": 2283880,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "large trapezoidal burn panel and the mounting \nsurface for the rear shield. This removes the  "
+    } ]
+  }, {
+    "tStartMs": 2288480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "gap between the two surfaces. I've been expecting \nto eventually see identical burn plates installed  "
+    } ]
+  }, {
+    "tStartMs": 2293040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "around the upper doors because it doesn't really \nmake sense why the top half of the enclosure  "
+    } ]
+  }, {
+    "tStartMs": 2297280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "wouldn't require an equal amount of protection. \nThere were panels which were perfectly shaped for  "
+    } ]
+  }, {
+    "tStartMs": 2301520,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "this area laying around at one of SpaceX's storage \nsites near the airport since August of last year,  "
+    } ]
+  }, {
+    "tStartMs": 2307000,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "but in recent flyovers they seem to have \ndisappeared and were more than likely scrapped,  "
+    } ]
+  }, {
+    "tStartMs": 2311760,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "so there's clearly been a change of plans. \nWith Pad B expected to become operational  "
+    } ]
+  }, {
+    "tStartMs": 2316280,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "sometime later this year, they may have reached \na point where they're confident that the current  "
+    } ]
+  }, {
+    "tStartMs": 2320000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "level of shielding will survive the handful of \nlaunches remaining before Pad A is demolished."
+    } ]
+  }, {
+    "tStartMs": 2325000,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Anyway, with this work completed, Stage \nZero was ready for launch 59 days after  "
+    } ]
+  }, {
+    "tStartMs": 2329080,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Flight 6. This was an increase of \n22 days from their previous best."
+    } ]
+  }, {
+    "tStartMs": 2333760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Without consideration of other factors, this \nmay initially appear to be a step backwards  "
+    } ]
+  }, {
+    "tStartMs": 2337560,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "for the Stage Zero team. But in my \nopinion, I think they could have  "
+    } ]
+  }, {
+    "tStartMs": 2340720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "easily completed their tasks much sooner and \neither matched or beat the previous record."
+    } ]
+  }, {
+    "tStartMs": 2345720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "For once, they were able to dial it back a little \nbit and work at a somewhat relaxed pace because  "
+    } ]
+  }, {
+    "tStartMs": 2349800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "it was clear that they weren't the ones at risk \nof causing delays to the testing campaign. This  "
+    } ]
+  }, {
+    "tStartMs": 2353600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "time around, the delays to the timeline were \nalmost entirely related to vehicle readiness,  "
+    } ]
+  }, {
+    "tStartMs": 2357920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "specifically with Ship 33. As I'm sure most \nof you are aware, Flight 7 was the debut of  "
+    } ]
+  }, {
+    "tStartMs": 2363120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "version 2 of the Starship, which featured a \nmassive amount of upgrades from version 1."
+    } ]
+  }, {
+    "tStartMs": 2367840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Unsurprisingly, with Ship 33 being \nthe first V2 ship ever produced,  "
+    } ]
+  }, {
+    "tStartMs": 2371520,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "the pre-flight preparations took a lot more \ntime. There were several very interesting  "
+    } ]
+  }, {
+    "tStartMs": 2376240,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "factors that contributed to this, which \nI initially planned on diving into,  "
+    } ]
+  }, {
+    "tStartMs": 2379720,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "but for the sake of staying on \ntopic, I decided to remove it."
+    } ]
+  }, {
+    "tStartMs": 2383280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So where does that leave us? Well, first of all,  "
+    } ]
+  }, {
+    "tStartMs": 2386880,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "if at any point during this episode you found \nyourself thinking, \"Good Lord, when will it end?\""
+    } ]
+  }, {
+    "tStartMs": 2392400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Then congratulations, because that means you \nwere subconsciously feeling the point I'm trying  "
+    } ]
+  }, {
+    "tStartMs": 2396040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "to make here. The amount of repeated repair work \nrequired for each launch is not only exhausting to  "
+    } ]
+  }, {
+    "tStartMs": 2401200,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "keep track of, but it's simply unsustainable \nin the long run. As it currently stands,  "
+    } ]
+  }, {
+    "tStartMs": 2405880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the fastest turnaround time that SpaceX \nhas been able to achieve is 37 days. It's  "
+    } ]
+  }, {
+    "tStartMs": 2410360,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "true that vehicle readiness has occasionally \nbeen a limiting factor, but in my opinion,  "
+    } ]
+  }, {
+    "tStartMs": 2414960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "if the current rate of assembly was any faster, \nthen there's a good chance that they would simply  "
+    } ]
+  }, {
+    "tStartMs": 2418560,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "not be able to keep up at the launch site. I think \nit's fair to say that without the need to perform  "
+    } ]
+  }, {
+    "tStartMs": 2423080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "a static fire test of the booster, in other words, \nif they were launching a previously flown vehicle,  "
+    } ]
+  }, {
+    "tStartMs": 2427840,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "they could easily bring this turnaround time \ndown to 11 days. But I don't think this would  "
+    } ]
+  }, {
+    "tStartMs": 2432200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "necessarily be something they could repeat \nconsistently though. They may be able to  "
+    } ]
+  }, {
+    "tStartMs": 2435920,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "get away with it a few times, but eventually, \nit will more than likely catch up with them  "
+    } ]
+  }, {
+    "tStartMs": 2439560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "in some way or form. Of course, this is just \nmy opinion, and I could very well be wrong."
+    } ]
+  }, {
+    "tStartMs": 2444760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Luckily, we will probably never \nhave to find out, because PadBees  "
+    } ]
+  }, {
+    "tStartMs": 2447480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "should be operational long before that happens."
+    } ]
+  }, {
+    "tStartMs": 2450600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Based on some of the comments from the \nfirst episode, I think it's important to  "
+    } ]
+  }, {
+    "tStartMs": 2453640,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "remind everyone that the first iteration of this \nlaunch mount was always intended to be a massive,  "
+    } ]
+  }, {
+    "tStartMs": 2458840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "rapid reusability R\u0026D project from day one. \nWhether you agree with their approach or not,  "
+    } ]
+  }, {
+    "tStartMs": 2463800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "just like the ship and booster, SpaceX \nprefers to start with a minimalistic design,  "
+    } ]
+  }, {
+    "tStartMs": 2468280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "figure out what works and what doesn't, and then \niterate that design based on that information."
+    } ]
+  }, {
+    "tStartMs": 2473640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Perhaps this is exclusive to SpaceX, but \nthis is undoubtedly a tried and proven  "
+    } ]
+  }, {
+    "tStartMs": 2477880,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "method of developing high performance \nsystems and vehicles while completely  "
+    } ]
+  }, {
+    "tStartMs": 2481760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "eliminating the presence of redundant or \nover-engineered components in the process."
+    } ]
+  }, {
+    "tStartMs": 2486880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So in part 3, we will discuss each of the \nmajor design changes that SpaceX has made  "
+    } ]
+  }, {
+    "tStartMs": 2491320,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "to version 2 of stage 0. I have a feeling that, \nbased on what we've covered in parts 1 and 2,  "
+    } ]
+  }, {
+    "tStartMs": 2496640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "you may already have a much better \nunderstanding of why some of the  "
+    } ]
+  }, {
+    "tStartMs": 2499760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "changes that have already been revealed \nover the past few months were necessary."
+    } ]
+  }, {
+    "tStartMs": 2504000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But the main question we will finally address \nin that episode, which is what inspired this  "
+    } ]
+  }, {
+    "tStartMs": 2508000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "three-part series in the first place, is \nwhether or not an interchangeable launch  "
+    } ]
+  }, {
+    "tStartMs": 2511840,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "mount is the best way forward to ensure \nconsistent, rapid reusability of stage 0."
+    } ]
+  }, {
+    "tStartMs": 2516960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So if you don't want to miss that, don't forget \nto subscribe and set your alerts so you will  "
+    } ]
+  }, {
+    "tStartMs": 2520920,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "be notified as soon as it drops. As I mentioned \nbefore, I will be releasing part 3 several days  "
+    } ]
+  }, {
+    "tStartMs": 2525760,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "in advance for patrons, members of the channel, \nand subscribers on X. Thank you for your continued  "
+    } ]
+  }, {
+    "tStartMs": 2531360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "support, because it really means a lot to us and \nwe wouldn't be able to do this without you. Once  "
+    } ]
+  }, {
+    "tStartMs": 2535240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "again, I want to give a huge shout out to Ryan \nHanson Space for the massive amount of work over  "
+    } ]
+  }, {
+    "tStartMs": 2539160,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "the past few years that went into creating the \nrenders and animations he used to explain these  "
+    } ]
+  }, {
+    "tStartMs": 2543680,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "topics. And of course, thanks to everyone else \nwhose content was used in today's episode. Last  "
+    } ]
+  }, {
+    "tStartMs": 2548840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "but not least, thanks again to Brilliant for \nsponsoring this investigation. Don't forget to  "
+    } ]
+  }, {
+    "tStartMs": 2552680,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "check out the link in the description to get 20% \noff their annual subscription. Alright everyone,  "
+    } ]
+  }, {
+    "tStartMs": 2557480,
+    "dDurationMs": 19640,
+    "segs": [ {
+      "utf8": "I hope to see you all in part 3. For now, \nthis is Stage Zero Zack, signing off."
+    } ]
+  } ]
+}
