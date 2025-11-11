@@ -142,7 +142,7 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json
     
     // Add corresponding English content if available
     if (json_english && json_english[index]) {
-      currentChapterEnglishContent += json_english[index].segs[0].utf8.replace(/\n/g, '');
+      currentChapterEnglishContent += json_english[index].segs[0].utf8.replace(/\n/g, '').replace(/\s*$/, ' ');
     }
   });
 
