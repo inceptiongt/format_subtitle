@@ -67,6 +67,15 @@ export interface chapter_item {
   end_time: number;
 }
 
+/** Convert seconds (number) to HH:MM:SS string */
+const formatSecondsToHMS = (seconds: number): string => {
+  const pad = (n: number) => n.toString().padStart(2, '0');
+  const h = Math.floor(seconds / 3600);
+  const m = Math.floor((seconds % 3600) / 60);
+  const s = Math.floor(seconds % 60);
+  return `${pad(h)}:${pad(m)}:${pad(s)}`;
+};
+
 /**
  * Convert subtitle array to formatted text with chapter titles
  * @param json Subtitle items array
@@ -122,7 +131,7 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json
       
       // Start new chapter
       const chapter = chapters[currentChapterIndex];
-      result += `# ${chapter.title}\n\n`;
+      result += `# ${chapter.title}\n\n${formatSecondsToHMS(chapter.start_time)}\n\n`;
       currentChapterIndex++;
       currentChapterContent = '';
       currentChapterEnglishContent = '';
