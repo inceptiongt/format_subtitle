@@ -1,0 +1,5767 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 4080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Hey Starship Addicts my name is ZacK Golden \nand welcome to another CSI Starbase Deep Dive"
+    } ]
+  }, {
+    "tStartMs": 8880,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Investigation. We have a lot to cover today so I'm \ngoing to attempt to get into this as quickly as"
+    } ]
+  }, {
+    "tStartMs": 13260,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "possible all of you - uhhh returning viewers - go \nahead and take this time to throw a bag of popcorn"
+    } ]
+  }, {
+    "tStartMs": 17640,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "in the microwave because this is that episode I've \nbeen warning you about for the last two months and"
+    } ]
+  }, {
+    "tStartMs": 21540,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "it's going to get a little intense. For everyone \nelse, if this is your first time clicking on a"
+    } ]
+  }, {
+    "tStartMs": 25560,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "CSI Starbase thumbnail...Then Hello, and welcome \nto the channel. Thanks for giving us a chance!"
+    } ]
+  }, {
+    "tStartMs": 30840,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "I don't usually do this but because of the \nlength of this episode I feel like I should"
+    } ]
+  }, {
+    "tStartMs": 34020,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "give you a fair warning about what you're \nwalking into out of respect for your time"
+    } ]
+  }, {
+    "tStartMs": 37980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "if you're looking for a quick summary of \nthis week's events at Starbase while SpaceX"
+    } ]
+  }, {
+    "tStartMs": 41400,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "is preparing for the upcoming 33 engine Static \nFire test you have come to the wrong place my"
+    } ]
+  }, {
+    "tStartMs": 46140,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "friend because this is deep dive territory. This \nfeature-length episode that you've just stumbled"
+    } ]
+  }, {
+    "tStartMs": 51480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "upon is meant for people who want to get a \nreal understanding of the serious challenges"
+    } ]
+  }, {
+    "tStartMs": 55200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "that SpaceX is up against as they prepare for \nthis first ever 33 engine static fire test"
+    } ]
+  }, {
+    "tStartMs": 60780,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "so what is it that makes this launch system \nso complex and dangerous? What Solutions has"
+    } ]
+  }, {
+    "tStartMs": 66300,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "SpaceX come up with over the last three months in \norder to enable themselves to safely pull off a 33"
+    } ]
+  }, {
+    "tStartMs": 71640,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "inches Static Fire without destroying the vehicle \nand launch system in the process? Will these"
+    } ]
+  }, {
+    "tStartMs": 77700,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Solutions be enough for the first orbital flight \ntest or are there some important indications that"
+    } ]
+  }, {
+    "tStartMs": 81660,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "we should be on the lookout for before we even \nstart to get our hopes up? If you're unsure of"
+    } ]
+  }, {
+    "tStartMs": 85980,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "how to answer any of these questions then \nyou might want to take a seat and buckle up"
+    } ]
+  }, {
+    "tStartMs": 89640,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "because as soon as the rest these people get back \nfrom making that popcorn it's about to go down"
+    } ]
+  }, {
+    "tStartMs": 103680,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "welcome to CSI Starbase"
+    } ]
+  }, {
+    "tStartMs": 110100,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "[Music] You know,I want to let you all in on \na secret. Our agency puts a massive amount of"
+    } ]
+  }, {
+    "tStartMs": 116820,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "time resources and energy into gathering the \ninformation and content required in order to"
+    } ]
+  }, {
+    "tStartMs": 121980,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "explain these Advanced topics. There will \nbe many times where you will spot a clear"
+    } ]
+  }, {
+    "tStartMs": 125700,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "opening for me to just skip straight to \nthe answer but I want you to understand"
+    } ]
+  }, {
+    "tStartMs": 129840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "that it's my personal mission that no matter \nwhat level of experience you have whether you"
+    } ]
+  }, {
+    "tStartMs": 134160,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "just discovered Starship yesterday or you're \na talented engineer who could probably get a"
+    } ]
+  }, {
+    "tStartMs": 137640,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "job working for SpaceX tomorrow you will learn \nsomething that you didn't know before today."
+    } ]
+  }, {
+    "tStartMs": 142380,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "This deep dive investigation is structured for \nyou to understand it without ever having seen"
+    } ]
+  }, {
+    "tStartMs": 146280,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "any of the past CSI Starbase episodes. However, if \nyou want to maximize this experience I recommend"
+    } ]
+  }, {
+    "tStartMs": 151680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "going back and watching all six of these episodes \nif you make it all the way to the end of this one."
+    } ]
+  }, {
+    "tStartMs": 157140,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Those of you who have already seen these episodes \nwill pick up on many subtle details and hints that"
+    } ]
+  }, {
+    "tStartMs": 161520,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "will be missed otherwise for the sake of time I \nwill not re-explain things that have already been"
+    } ]
+  }, {
+    "tStartMs": 165960,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "thoroughly covered in those episodes but I will \ncorrect the record on any past speculation that"
+    } ]
+  }, {
+    "tStartMs": 170700,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "may have turned out to be false. On August 16th of \nthis year I released this deep dive investigation."
+    } ]
+  }, {
+    "tStartMs": 175500,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Booster 7 explosion a detailed examination of the \ncomplex mechanical systems involved. In this deep"
+    } ]
+  }, {
+    "tStartMs": 182220,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "dive event I explained how the orbital launch \nMount was constructed in particular we discussed"
+    } ]
+  }, {
+    "tStartMs": 186720,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "most of the major internal and external systems \nand components that work together to make this"
+    } ]
+  }, {
+    "tStartMs": 191100,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "the most advanced launch system on the planet \nthis includes the gigantic hold down clamps the"
+    } ]
+  }, {
+    "tStartMs": 196080,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Raptor quick disconnects that are used to spin up \nthe outer 20 Raptor boost engines and the igniter"
+    } ]
+  }, {
+    "tStartMs": 201180,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "panels on the side of the launch Mount which are \nresponsible for the actual ignition of those same"
+    } ]
+  }, {
+    "tStartMs": 205140,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "20 engines. Using this information we were able to \nget a better understanding of what we believe went"
+    } ]
+  }, {
+    "tStartMs": 210600,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "wrong during the booster 7 testing anomaly that \noccurred back in July. The only problem is some"
+    } ]
+  }, {
+    "tStartMs": 215940,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "of the conclusions that we came to were a bit \nflawed because there is one important feature"
+    } ]
+  }, {
+    "tStartMs": 220500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "of the orbital launch pad that we have not yet \ndiscussed. The feature I'm referring to is the"
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "cryogenic propellant vapor recovery system if this \nsystem is working properly and SpaceX should be"
+    } ]
+  }, {
+    "tStartMs": 230220,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "able to recover most of the methane used during \nthese tests there are however a few special cases"
+    } ]
+  }, {
+    "tStartMs": 234540,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "where recovery is near impossible. The first case, \nis during the initial depressurization of the"
+    } ]
+  }, {
+    "tStartMs": 239940,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "methane tank at the start of detanking operations. \nSecond, is the obvious loss of any methane"
+    } ]
+  }, {
+    "tStartMs": 245100,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "consumed by the engines during a static fire test \nand the Third special case is during the spin-up"
+    } ]
+  }, {
+    "tStartMs": 250500,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "process of the 33 Raptor 2 engines as I mentioned \nduring that episode. This is the part of the"
+    } ]
+  }, {
+    "tStartMs": 255540,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "investigation where I believe we left some major \nholes in the information that need to be filled,"
+    } ]
+  }, {
+    "tStartMs": 260880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "in order to do that we need to approach this \nfrom a different angle than we did last time."
+    } ]
+  }, {
+    "tStartMs": 264600,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Once we establish a basic understanding of how the \nvapor recovery system works we can re-evaluate the"
+    } ]
+  }, {
+    "tStartMs": 269460,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "explosive incident and get to the bottom of \nwhat really happened. The last thing I want"
+    } ]
+  }, {
+    "tStartMs": 273480,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "to say before we get too deep into this is that if \nyou learned something that you didn't know prior"
+    } ]
+  }, {
+    "tStartMs": 276960,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "to today by the time this hourglass runs out in \nthree minutes, then please consider supporting CSI"
+    } ]
+  }, {
+    "tStartMs": 281820,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Starbase by hitting that like button. One of the \nmost frequent comments I see in these episodes is:"
+    } ]
+  }, {
+    "tStartMs": 287220,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Why is this the first time I'm seeing this channel \nmy recommendations? Well the reason is because the"
+    } ]
+  }, {
+    "tStartMs": 292380,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "YouTube algorithm has to receive a massive amount \nof bribes in the form of likes before it decides"
+    } ]
+  }, {
+    "tStartMs": 297840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "that the content is worth sharing to a broader \naudience. So thanks to each and every one of"
+    } ]
+  }, {
+    "tStartMs": 302400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "you who have contributed to the growth of this \nchannel just by sending a thumbs up our way. All"
+    } ]
+  }, {
+    "tStartMs": 306960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "right let's start from the beginning. The reason \nthat SpaceX would need a vapor recovery system,"
+    } ]
+  }, {
+    "tStartMs": 310560,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "is because without it they would end up venting \noff a large volume of methane into the atmosphere"
+    } ]
+  }, {
+    "tStartMs": 315180,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "for hours at a time during the propellant \nloading process of the booster and Starship."
+    } ]
+  }, {
+    "tStartMs": 319980,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "But of course, you can never recover 100 of the \ngas so they will still probably emit some methane"
+    } ]
+  }, {
+    "tStartMs": 325140,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "during spin Prime and static fire tests. If these \nescaped gases were responsible for the explosion"
+    } ]
+  }, {
+    "tStartMs": 330660,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "then we need to know exactly where they're coming \nfrom. An important clue to answering this question"
+    } ]
+  }, {
+    "tStartMs": 334920,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "actually came to me while discussing this \ntopic with Marcus House a few months ago."
+    } ]
+  }, {
+    "tStartMs": 339780,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "So, are you sure that the methane gas is being"
+    } ]
+  }, {
+    "tStartMs": 342060,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "leaked out because that's used as \none of these spin-up gases isn't it?"
+    } ]
+  }, {
+    "tStartMs": 345120,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Yeah I don't know Marcus. \nIt's really hard to prove"
+    } ]
+  }, {
+    "tStartMs": 347220,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "this Theory considering that it would \nbe near invisible if that's the case."
+    } ]
+  }, {
+    "tStartMs": 349620,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Well I don't really understand how it \ncould be invisible because according to"
+    } ]
+  }, {
+    "tStartMs": 355080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "the program environmental analysis, SpaceX \nis expecting to release up to seven metric"
+    } ]
+  }, {
+    "tStartMs": 361320,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "tons of methane into the atmosphere during \nlaunch and static fire testing operations."
+    } ]
+  }, {
+    "tStartMs": 365460,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "I mean that's quite a lot Mate. Surely we \nwould be able to see seven tons of methane."
+    } ]
+  }, {
+    "tStartMs": 370320,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Yeah I mean that might sound like a lot \nespecially when you consider the fact that"
+    } ]
+  }, {
+    "tStartMs": 374220,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "a larger LNG tanker truck can hold about 28 \ntons of liquid methane. So that's a quarter"
+    } ]
+  }, {
+    "tStartMs": 379980,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "of a tanker but when you consider that \nthe booster and Starship require roughly"
+    } ]
+  }, {
+    "tStartMs": 383820,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "a thousand tons of methane in order to fill \nboth tanks %0.7 of the total seems pretty low."
+    } ]
+  }, {
+    "tStartMs": 388620,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Well unfortunately anything above zero \npercent loss is going to come with some"
+    } ]
+  }, {
+    "tStartMs": 392880,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "kind of impact to the environment \nwhich we just can't really ignore..."
+    } ]
+  }, {
+    "tStartMs": 395850,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Yeah but we will for now because this \ninvestigation is about mitigating the"
+    } ]
+  }, {
+    "tStartMs": 399660,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "explosive risks that come with operating a system \nlike this not the environmental ones. I don't"
+    } ]
+  }, {
+    "tStartMs": 404400,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "think you need ME, to tell YOU, that this ENTIRE \nOPERATION is extremely complex and high risk..."
+    } ]
+  }, {
+    "tStartMs": 412140,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Did you just steal that quote from - \nMarcus, I think I'm going to need to"
+    } ]
+  }, {
+    "tStartMs": 414780,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "examine this methane recovery system to see \nif there's something I'm missing here but"
+    } ]
+  }, {
+    "tStartMs": 418800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it's going to take a while to gather the \nrequired material to properly explain this"
+    } ]
+  }, {
+    "tStartMs": 422400,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Alright mate well I look forward to hearing it!"
+    } ]
+  }, {
+    "tStartMs": 428520,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Alright so here we are two months later \nand I realized that in order to explain"
+    } ]
+  }, {
+    "tStartMs": 432240,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "the methane recovery system and also track \ndown where the seven tons of methane is"
+    } ]
+  }, {
+    "tStartMs": 436380,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "coming from we need to go step by step \nthrough the propellant loading process."
+    } ]
+  }, {
+    "tStartMs": 440400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Due to the complexity of the methane side of \nthe tank farm it's going to be much easier to"
+    } ]
+  }, {
+    "tStartMs": 444240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "explain what's happening over there if we start \noff by looking at the liquid oxygen side first."
+    } ]
+  }, {
+    "tStartMs": 449460,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "See the thing is, in a way the exact \nsame process is occurring on both sides"
+    } ]
+  }, {
+    "tStartMs": 454500,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "of the tank farm at the exact same time. \nThere are a few key differences though,"
+    } ]
+  }, {
+    "tStartMs": 458760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and those are very important to understand."
+    } ]
+  }, {
+    "tStartMs": 461280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Obviously there's zero percent chance that \nSpaceX is gonna let me in here in order to"
+    } ]
+  }, {
+    "tStartMs": 465720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "give y'all a tour. This process is far too \ndangerous to even have employees on site"
+    } ]
+  }, {
+    "tStartMs": 470400,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "while it's occurring. Let alone random YouTubers \nlike me, even with the proper safety gear on."
+    } ]
+  }, {
+    "tStartMs": 476460,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "But, I did come prepared. So yeah - we \ndon't want to get arrested for trespassing,"
+    } ]
+  }, {
+    "tStartMs": 481440,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "because that would be bad instead thanks \nto Andi, creator of the Starbase Simulator"
+    } ]
+  }, {
+    "tStartMs": 485820,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "game we don't have to take this risk because we \ncan do it virtually. Now that Andi has updated"
+    } ]
+  }, {
+    "tStartMs": 491100,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "the game in order to include the tank farm \npropellant loading process, we're actually"
+    } ]
+  }, {
+    "tStartMs": 494580,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "going to be able to see WAY more than we would, \nif we took the guaranteed jail sentence route."
+    } ]
+  }, {
+    "tStartMs": 499980,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Hopefully by the end of this you will \nbetter understand what you're seeing"
+    } ]
+  }, {
+    "tStartMs": 503520,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "at various times during future testing events"
+    } ]
+  }, {
+    "tStartMs": 509760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Okay that should be everything \nI think I'm ready to do this"
+    } ]
+  }, {
+    "tStartMs": 515700,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "So starting off from the beginning this is the \norbital tank farm. Andi has made it easier for us"
+    } ]
+  }, {
+    "tStartMs": 520620,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "to visualize what's Happening Here by color coding \nall of the different liquids. So in blue, we have"
+    } ]
+  }, {
+    "tStartMs": 525240,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "the liquid oxygen, green is liquid nitrogen, \nand over there in the horizontal storage tanks"
+    } ]
+  }, {
+    "tStartMs": 530100,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "we have liquid methane which is colored Orange.\nThe cryogenic liquid oxygen is stored in these"
+    } ]
+  }, {
+    "tStartMs": 536340,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "three tanks which are connected together \nin pretty much every way imaginable. These"
+    } ]
+  }, {
+    "tStartMs": 540420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "are referred to as GSE tanks which \nstands for ground support equipment."
+    } ]
+  }, {
+    "tStartMs": 544560,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "These nine meter wide tanks have a 1.5 meter \nthick layer of insulation in between the inner"
+    } ]
+  }, {
+    "tStartMs": 550440,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "storage tank and the outer cover that functions as \na jacket. This helps keep the fluid at cryogenic"
+    } ]
+  }, {
+    "tStartMs": 556020,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "temperatures for extended periods of time. \nBut no matter how much insulation you have,"
+    } ]
+  }, {
+    "tStartMs": 560100,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "there is always going to be a little boil \noff as it slowly begins to warm over time."
+    } ]
+  }, {
+    "tStartMs": 564840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "As LOX transitions from a liquid to a \ngas it drastically increases in volume,"
+    } ]
+  }, {
+    "tStartMs": 569280,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "which simultaneously increases the pressure \ninside of the tank. Because these tanks are"
+    } ]
+  }, {
+    "tStartMs": 573780,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "connected together, they each experience \nthis pressure increase at the same time."
+    } ]
+  }, {
+    "tStartMs": 577080,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Think of them as conjoined GSE triplets. The tanks \nare designed to operate within a certain pressure"
+    } ]
+  }, {
+    "tStartMs": 582900,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "range just like the Starship and booster. As \nthe pressure inside of these tanks begins to"
+    } ]
+  }, {
+    "tStartMs": 587580,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "approach the upper limit, a relief valve will \nopen on all three tanks at the same time and"
+    } ]
+  }, {
+    "tStartMs": 592260,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "they will vent the excess gas through this bleed \noff manifold which has a vent stack attached to"
+    } ]
+  }, {
+    "tStartMs": 597180,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the first LOX tank. If you visit Starbase you \nwill occasionally see this venting at random"
+    } ]
+  }, {
+    "tStartMs": 601500,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "times during the day as the pressure regulation \nsystem kicks in. 24 hours a day and seven days"
+    } ]
+  }, {
+    "tStartMs": 606360,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "a week SpaceX is slowly losing oxygen out \nof these tanks which is important to note"
+    } ]
+  }, {
+    "tStartMs": 610740,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "for later when we talk about the methane system.\nThe same principles apply on that side as well,"
+    } ]
+  }, {
+    "tStartMs": 614940,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "although the way it is handled is completely \ndifferent. Before transferring the liquid oxygen"
+    } ]
+  }, {
+    "tStartMs": 619320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "from the GSE tanks all the way over to the \nbooster sitting on the launch mount. It must"
+    } ]
+  }, {
+    "tStartMs": 623280,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "first undergo a super chilling process in order \nto shrink the size of the oxygen molecules. This"
+    } ]
+  }, {
+    "tStartMs": 628260,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "increases the total mass of oxygen that \nis able to be loaded onto the booster."
+    } ]
+  }, {
+    "tStartMs": 632700,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "In order to do this SpaceX runs \nthe liquid oxygen through a set"
+    } ]
+  }, {
+    "tStartMs": 636120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "of heat exchangers designed to \nsuper cool the liquid molecules."
+    } ]
+  }, {
+    "tStartMs": 639120,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "This is a special type of heat \nexchanger called a kettle reboiler."
+    } ]
+  }, {
+    "tStartMs": 642900,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Before the testing begins - and sometimes even \nbefore the road is closed - these tanks will begin"
+    } ]
+  }, {
+    "tStartMs": 646740,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "to fill up with liquid nitrogen until the internal \nheat exchanger coil is completely submerged."
+    } ]
+  }, {
+    "tStartMs": 652140,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "This isn't exactly what the coil looks like \nbut it's been simplified for this demonstration"
+    } ]
+  }, {
+    "tStartMs": 656460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "we actually don't get to see this happen anymore \non the liquid oxygen side because the liquid"
+    } ]
+  }, {
+    "tStartMs": 660300,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "oxygen Kettle reboilers are now completely \ninsulated on the outside. So thankfully,"
+    } ]
+  }, {
+    "tStartMs": 664320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "we have this animation from Andi to help us out. \nMoving on to the next step, there is a massive"
+    } ]
+  }, {
+    "tStartMs": 668520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "pipe that connects the outlet on the bottom \nof the tanks for discharging liquid oxygen."
+    } ]
+  }, {
+    "tStartMs": 672120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "On a normal day, these pipes \nare empty - or - flooded up to"
+    } ]
+  }, {
+    "tStartMs": 675660,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "this point. Once this massive red valve is open,"
+    } ]
+  }, {
+    "tStartMs": 678360,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "the liquid oxygen will begin to flow through \nit and into these three pumps shown here."
+    } ]
+  }, {
+    "tStartMs": 682860,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The problem is you don't want to start pumping \nright away as soon as the valve opens. The reason"
+    } ]
+  }, {
+    "tStartMs": 687300,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "is because the empty pipes have been sitting \nout in the hot Texas Sun all day and even though"
+    } ]
+  }, {
+    "tStartMs": 691380,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "they're insulated, after a long period of time \nwithout being in use these will become very warm."
+    } ]
+  }, {
+    "tStartMs": 696120,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "When the valve opens, the cryogenic liquid \noxygen will immediately begin to vaporize"
+    } ]
+  }, {
+    "tStartMs": 700260,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "on contact with the warm steel. This means \nthat you must slowly flood the pipes all"
+    } ]
+  }, {
+    "tStartMs": 704940,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "the way up to the pumps and allow them to \ncool down so the liquid stops boiling off."
+    } ]
+  }, {
+    "tStartMs": 709500,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "The temperature inside these pipes will \nneed to drop down to at least negative 273"
+    } ]
+  }, {
+    "tStartMs": 713700,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "degrees Fahrenheit in order for the \nLOX to stop boiling off on contact."
+    } ]
+  }, {
+    "tStartMs": 717720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "If these pumps were to turn on before \nthe pipes have a chance to cool down,"
+    } ]
+  }, {
+    "tStartMs": 720960,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "there's a high probability of cavitation occurring \n-which would cause some pretty serious damage."
+    } ]
+  }, {
+    "tStartMs": 725400,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "I've explained this on past episodes, so if you \nwant to learn more about pump cavitation I've put"
+    } ]
+  }, {
+    "tStartMs": 730140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "a link in the description of this video again.\n[Music]"
+    } ]
+  }, {
+    "tStartMs": 732360,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "After the liquid oxygen leaves the pumps, \nit follows this path until it reaches the"
+    } ]
+  }, {
+    "tStartMs": 739860,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "upper manifold and then splits off \ninto each of the heat exchangers."
+    } ]
+  }, {
+    "tStartMs": 742920,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "We are only simulating one pump, and \none heat exchanger here in order to"
+    } ]
+  }, {
+    "tStartMs": 746580,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "make it easier to understand. As soon as the \nfluid reaches the kettle reboiler the warmer"
+    } ]
+  }, {
+    "tStartMs": 751080,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "liquid oxygen begins to transfer heat over to \nthe nitrogen causing it to start boiling off."
+    } ]
+  }, {
+    "tStartMs": 755880,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "There are no valves that control the release \nof nitrogen gas out of the back of these"
+    } ]
+  }, {
+    "tStartMs": 759540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Kettle boilers. As soon as enough pressure \nis built up inside, it will push open the"
+    } ]
+  }, {
+    "tStartMs": 763680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "flaps on the back of the exhaust vents.\nDuring this phase they will begin belching"
+    } ]
+  }, {
+    "tStartMs": 768000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "out large clouds of nitrogen and then closing \nagain until the pressure builds up once more."
+    } ]
+  }, {
+    "tStartMs": 773100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "As the volumetric flow rate of LOX that goes \nthrough the pumps and through the coils increases,"
+    } ]
+  }, {
+    "tStartMs": 777900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "so will the amount of vapor coming \nout of the back of these vents."
+    } ]
+  }, {
+    "tStartMs": 781200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Let's not get too far ahead of ourselves though \nbecause this is still just the prime-up phase."
+    } ]
+  }, {
+    "tStartMs": 785820,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Once the initial flow of liquid oxygen is passed \nthrough these four Kettle boilers, it exits"
+    } ]
+  }, {
+    "tStartMs": 790320,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "through the bottom and recombines into a single \ntube, and then sends it over to the fluids bunker."
+    } ]
+  }, {
+    "tStartMs": 795360,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "The valves inside of this bunker will probably be \nclosed at this point in order to allow the pipes"
+    } ]
+  }, {
+    "tStartMs": 799740,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "to fill up with liquid oxygen and cool down. Just \nlike before, I believe that during and immediately"
+    } ]
+  }, {
+    "tStartMs": 804540,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "after the process of flooding the pumps you will \nsee a large amount of venting occur in this area,"
+    } ]
+  }, {
+    "tStartMs": 808800,
+    "dDurationMs": 5091,
+    "segs": [ {
+      "utf8": "as SpaceX releases the vaporized oxygen gas - \nwhich is officially referred to as \"GOX\" (Gaseous"
+    } ]
+  }, {
+    "tStartMs": 813891,
+    "dDurationMs": 4809,
+    "segs": [ {
+      "utf8": "Oxygen)- off to the side of the fluids bunker.\nThis is known as a bleed off valve, but we refer"
+    } ]
+  }, {
+    "tStartMs": 818700,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "to this one as the grass vent just to make \nit easier to distinguish it from the others."
+    } ]
+  }, {
+    "tStartMs": 823500,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The grass vent happens as GOX \nis continuously vented from"
+    } ]
+  }, {
+    "tStartMs": 826740,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "the system until it starts to turn into a liquid,"
+    } ]
+  }, {
+    "tStartMs": 829080,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "as the pipes have finally chilled down enough to \nallow the liquid to reach the next control valve."
+    } ]
+  }, {
+    "tStartMs": 833700,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "At this point, the large valve can be opened and \nthe grass vent that leads off into the side of"
+    } ]
+  }, {
+    "tStartMs": 838200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the bunker can be closed. From here, the liquid \noxygen must travel underground for several hundred"
+    } ]
+  }, {
+    "tStartMs": 843480,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "feet before it reaches the bottom of the launch \nMount. Using this RGV image from November of 2021"
+    } ]
+  }, {
+    "tStartMs": 848340,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "we can see the path that it takes to get there.\nOnce it reaches the OLM (Orbital Launch Mount) it"
+    } ]
+  }, {
+    "tStartMs": 852780,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "travels up the legs and then goes into \nthe back of the booster quick disconnect."
+    } ]
+  }, {
+    "tStartMs": 855900,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Not only is this a long distance but the \nliquid oxygen supply pipe shown here is"
+    } ]
+  }, {
+    "tStartMs": 861060,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "insanely large. Looking at the SpaceX \nworkers for comparison, you can see"
+    } ]
+  }, {
+    "tStartMs": 865200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "that they are roughly 20 inches in diameter.\nWhen you consider the thickness of the pipe"
+    } ]
+  }, {
+    "tStartMs": 869520,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "walls it really becomes hard to imagine exactly \nhow much steel we're talking about here that"
+    } ]
+  }, {
+    "tStartMs": 873960,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "needs to be chilled down before the liquid oxygen \npumps can start pushing fluid into the booster."
+    } ]
+  }, {
+    "tStartMs": 879540,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "If they were to immediately start pumping \nfluid as soon as the bunker control valves"
+    } ]
+  }, {
+    "tStartMs": 883500,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "open - the liquid oxygen would start boiling \noff so quickly and violently - you might"
+    } ]
+  }, {
+    "tStartMs": 887640,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "not be able to purge it off in time.\nKeep in mind that the expansion ratio"
+    } ]
+  }, {
+    "tStartMs": 892020,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "of liquid oxygen is 1:861. In other words one \nliter of liquid oxygen will expand into 861"
+    } ]
+  }, {
+    "tStartMs": 899160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "liters of gaseous O2 once it's transitioned \nfrom the liquid to gas phase is complete."
+    } ]
+  }, {
+    "tStartMs": 904620,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "So just like last time after the valve is opened \nliquid oxygen will begin to trickle into the"
+    } ]
+  }, {
+    "tStartMs": 909600,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "system - slowly making its way to the launch \nMount. This makes it so the boil off within"
+    } ]
+  }, {
+    "tStartMs": 914100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "the pipes occurs slowly like it does here in \nthis experiment from the TKOR YouTube channel."
+    } ]
+  }, {
+    "tStartMs": 918960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "On the flip side, this is an example \nof what you don't want happening."
+    } ]
+  }, {
+    "tStartMs": 922080,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "This volcano effect can cause dramatic increases"
+    } ]
+  }, {
+    "tStartMs": 924900,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "in pressure that are much more \ndifficult to predict and manage."
+    } ]
+  }, {
+    "tStartMs": 927660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Just as before, there needs to be a bleed-off \nvalve located at the end of this pipe section"
+    } ]
+  }, {
+    "tStartMs": 931860,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "in order to relieve the pressure from the gas \nas it continues to boil off inside of the pipes."
+    } ]
+  }, {
+    "tStartMs": 935940,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "If you have ever watched a Super Heavy \nBooster test on the orbital launch Mount"
+    } ]
+  }, {
+    "tStartMs": 939060,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "then you'll be very familiar with this one. \nIt's located on the side of the OLM and"
+    } ]
+  }, {
+    "tStartMs": 943260,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "is controlled by this blue valve actuator, \nwhich makes it stick out like a sore thumb."
+    } ]
+  }, {
+    "tStartMs": 947700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When this valve opens gaseous \noxygen begins to flow out of"
+    } ]
+  }, {
+    "tStartMs": 950700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "the vent the intensity of the flow \ngradually increases as the liquid"
+    } ]
+  }, {
+    "tStartMs": 953940,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "oxygen slowly makes its way from the \nfluids bunker to the launch Mount."
+    } ]
+  }, {
+    "tStartMs": 957120,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "When the fluid finally reaches the vent \nit's extremely obvious. The Vapor Cloud"
+    } ]
+  }, {
+    "tStartMs": 961380,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "that started off as a tail extending \nfrom the launch Mount suddenly turns"
+    } ]
+  }, {
+    "tStartMs": 964980,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "into a tidal wave that stretches all the \nway to the other side of the launch site."
+    } ]
+  }, {
+    "tStartMs": 968340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "In order to make the cloud dissipate faster - and"
+    } ]
+  }, {
+    "tStartMs": 970860,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "to prevent the liquid oxygen from \npooling up underneath the launch"
+    } ]
+  }, {
+    "tStartMs": 973320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Mount - SpaceX has incorporated a special \nnozzle onto the end of the bleed off valve."
+    } ]
+  }, {
+    "tStartMs": 977520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "When we look at it closely, we can see three \nrotating blades at the end of the nozzle"
+    } ]
+  }, {
+    "tStartMs": 981720,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "which break up the fluid flow causing \nit to Fan out in a cone-shaped cloud,"
+    } ]
+  }, {
+    "tStartMs": 985500,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "instead of falling to the ground like \nwater coming out of a garden hose."
+    } ]
+  }, {
+    "tStartMs": 988680,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "After several minutes of confirmed liquid flow,"
+    } ]
+  }, {
+    "tStartMs": 991380,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "the bleed off valve is closed and \nliquid oxygen can begin flowing up"
+    } ]
+  }, {
+    "tStartMs": 994800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "into the gigantic flex hose and then to \nthe back of the booster quick disconnect."
+    } ]
+  }, {
+    "tStartMs": 998280,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Hopefully now that you understand this \n- I can skip the long explanation about"
+    } ]
+  }, {
+    "tStartMs": 1002180,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "how the exact same process happens on \nthe orbital launch integration Tower"
+    } ]
+  }, {
+    "tStartMs": 1005900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Starting from the vent on \nthe base of the structure"
+    } ]
+  }, {
+    "tStartMs": 1008300,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "then another one near the top of the vertical \nrisers on the fifth level of the Tower"
+    } ]
+  }, {
+    "tStartMs": 1012260,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and then one more on the \nStarship quick disconnect arm."
+    } ]
+  }, {
+    "tStartMs": 1015020,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Now that we understand"
+    } ]
+  }, {
+    "tStartMs": 1016880,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "the basics of preload pre-long Starship let's \nmove over to the methane side of the tank farm."
+    } ]
+  }, {
+    "tStartMs": 1023060,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "All the same rules about trickling the \ncryogenic methane into each section of"
+    } ]
+  }, {
+    "tStartMs": 1026600,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "the pipe system apply here as well. \nEverything that's happening on the"
+    } ]
+  }, {
+    "tStartMs": 1030140,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "liquid oxygen side must also occur on \nthe methane side - at the same time."
+    } ]
+  }, {
+    "tStartMs": 1034460,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Every location where there is a \nliquid oxygen Prime up bleed valve,"
+    } ]
+  }, {
+    "tStartMs": 1037400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "there must also be an equivalent \nmethane bleed valve in order to"
+    } ]
+  }, {
+    "tStartMs": 1040460,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "relieve the pressure from the vaporized \ngas as it builds up inside of the pipes."
+    } ]
+  }, {
+    "tStartMs": 1044600,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "The major difference is you can't see \nthis process of priming up each section"
+    } ]
+  }, {
+    "tStartMs": 1048020,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "of pipes occurring, the way that \nyou can on the liquid oxygen side."
+    } ]
+  }, {
+    "tStartMs": 1051320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Well... you can, but the signs are different."
+    } ]
+  }, {
+    "tStartMs": 1053960,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "The reason is because SpaceX does everything \npossible to recover methane at all stages of"
+    } ]
+  }, {
+    "tStartMs": 1058640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the propellant loading process. So instead \nof having open atmosphere on the other side"
+    } ]
+  }, {
+    "tStartMs": 1062480,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of all of those bleed-off valves that \nwe discussed, the flow of gas is being"
+    } ]
+  }, {
+    "tStartMs": 1065720,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "diverted to the methane recovery system.\n \nNo one cares if you purge off massive"
+    } ]
+  }, {
+    "tStartMs": 1070100,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "amounts of oxygen during these testing \nevents. It's actually cheaper to do so,"
+    } ]
+  }, {
+    "tStartMs": 1073340,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "and I for one kind of appreciate it.\nWe can never have too much oxygen out here."
+    } ]
+  }, {
+    "tStartMs": 1078440,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Methane on the other hand, is a highly \npotent greenhouse gas. So purging it off"
+    } ]
+  }, {
+    "tStartMs": 1083000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "into the atmosphere like this would be \nviewed as irresponsible and Incredibly"
+    } ]
+  }, {
+    "tStartMs": 1086360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "dangerous given the possibility of the two \ngases mixing together to form an explosive"
+    } ]
+  }, {
+    "tStartMs": 1090800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "mixture in the area surrounding \nthe tank farm and the launch pad."
+    } ]
+  }, {
+    "tStartMs": 1098300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "The process of preventing as much \nmethane as possible from escaping"
+    } ]
+  }, {
+    "tStartMs": 1101000,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "into the atmosphere, is a 24/7 job at Starbase."
+    } ]
+  }, {
+    "tStartMs": 1103460,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "As long as there is fuel in these seven horizontal \nmethane tanks, the recovery system is active."
+    } ]
+  }, {
+    "tStartMs": 1109100,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "This process is extremely complex, and is the \nreason that the right side of the tank farm"
+    } ]
+  }, {
+    "tStartMs": 1112880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "looks so much different from the left side... \nminus the obvious fact that instead of using"
+    } ]
+  }, {
+    "tStartMs": 1117320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "these 40 meter tall vertical storage tanks \nas originally planned, they're using these"
+    } ]
+  }, {
+    "tStartMs": 1121400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "horizontal ones... which I'm sure everyone \nat the GSE team at SpaceX secretly hates."
+    } ]
+  }, {
+    "tStartMs": 1127340,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "So how does it work?"
+    } ]
+  }, {
+    "tStartMs": 1128900,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Well, let's go through the whole process \njust like we did with the liquid oxygen side."
+    } ]
+  }, {
+    "tStartMs": 1133100,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "First things first, the reason I described this \nas a 24 7 operation, is because the methane stored"
+    } ]
+  }, {
+    "tStartMs": 1138380,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "inside of these tanks is going to constantly \nboil off over time just like the liquid oxygen."
+    } ]
+  }, {
+    "tStartMs": 1142700,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Instead of purging the methane gas off to the \nopen atmosphere, it's collected in a return"
+    } ]
+  }, {
+    "tStartMs": 1147020,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "pipe and then routed over to this tank that sits \njust behind the two methane Kettle reboilers."
+    } ]
+  }, {
+    "tStartMs": 1151700,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Just like the hippo-shaped kettles,"
+    } ]
+  }, {
+    "tStartMs": 1153980,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "this is also a heat exchanger tank. It uses \nliquid nitrogen to condense gaseous methane"
+    } ]
+  }, {
+    "tStartMs": 1158900,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "back into its liquid state where it can \nthen be returned to the storage tanks."
+    } ]
+  }, {
+    "tStartMs": 1162560,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "No matter what time of day it is, you can \nsee this tank doing its job. Sometimes"
+    } ]
+  }, {
+    "tStartMs": 1167000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "the flow is near invisible and without \nsomething in the background like these"
+    } ]
+  }, {
+    "tStartMs": 1170420,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "heat shield tiles from ship 24's belly \nyou probably wouldn't even notice it."
+    } ]
+  }, {
+    "tStartMs": 1173900,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "As the amount of methane gas being \nprocessed by this heat exchanger increases,"
+    } ]
+  }, {
+    "tStartMs": 1177620,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "both the sound and density of the nitrogen gas \nflowing out of the vent stack increases with it."
+    } ]
+  }, {
+    "tStartMs": 1183740,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Returning to the fuel loading process, the \nnext step is identical to the LOX side of"
+    } ]
+  }, {
+    "tStartMs": 1187940,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "the tank farm. First the kettle boilers \nare filled with liquid nitrogen so that"
+    } ]
+  }, {
+    "tStartMs": 1191180,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "all of the heat exchanger coils \ninside are completely submerged."
+    } ]
+  }, {
+    "tStartMs": 1194000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Next, liquid methane is slowly trickled into the"
+    } ]
+  }, {
+    "tStartMs": 1196640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "system in order to warm up the pipes \nin between the tanks and the pumps."
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Just as before, until this is \ncomplete the pumps will not be"
+    } ]
+  }, {
+    "tStartMs": 1203000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "turned on in order to prevent them from \nsustaining damage due to cavitation."
+    } ]
+  }, {
+    "tStartMs": 1206120,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Between me and you though, I don't \nthink the anti-cavitation measures"
+    } ]
+  }, {
+    "tStartMs": 1209600,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "are working so well on the methane side of \nthe tank farm... but we will save that convo"
+    } ]
+  }, {
+    "tStartMs": 1213500,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "for another day because it doesn't have \nanything to do with the recovery system."
+    } ]
+  }, {
+    "tStartMs": 1216740,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "After the pumps and Kettle boilers are primed, \nthe methane is sent to the fluids bunker,"
+    } ]
+  }, {
+    "tStartMs": 1221000,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "to relieve the gas pressure in the system.\nAs the pipes are being flooded there is a"
+    } ]
+  }, {
+    "tStartMs": 1224960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "bleed valve probably just a few feet away \nfrom the one used for the liquid oxygen"
+    } ]
+  }, {
+    "tStartMs": 1228920,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "instead of a grass vent like the LOX side. \nThis vaporized methane gas is sent back to"
+    } ]
+  }, {
+    "tStartMs": 1233780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the same heat exchanger used to handle \nthe boil off gas from the storage tanks."
+    } ]
+  }, {
+    "tStartMs": 1237620,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "It's really difficult to tell when \nit reaches the bunker like you can"
+    } ]
+  }, {
+    "tStartMs": 1240380,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "with the grass vent but activity on the \nheat exchanger vent is a good sign of"
+    } ]
+  }, {
+    "tStartMs": 1244700,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "when the transitions between different \nstages of the process are occurring."
+    } ]
+  }, {
+    "tStartMs": 1247760,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The rate that methane is trickled into the \nrest of the system is limited by how quickly"
+    } ]
+  }, {
+    "tStartMs": 1251900,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "this heat exchanger is able to convert the \nresulting vaporized gas back into a liquid."
+    } ]
+  }, {
+    "tStartMs": 1257180,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Like I said, it's pretty complex."
+    } ]
+  }, {
+    "tStartMs": 1258980,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Finally, with the second stage of prime \nup now complete SpaceX can begin sending"
+    } ]
+  }, {
+    "tStartMs": 1263180,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "liquid methane - AKA Raptor juice - up to the \nlaunch Mount. This is where I believe another"
+    } ]
+  }, {
+    "tStartMs": 1267980,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "key difference between the liquid oxygen and \nmethane side of the tank farm come into play."
+    } ]
+  }, {
+    "tStartMs": 1271700,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "The liquid oxygen side has nice tall vertical \nstorage tanks that are nearly full so they can"
+    } ]
+  }, {
+    "tStartMs": 1276620,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "hydrostatically push the fluid all the way to \nthe height of the booster quick disconnect."
+    } ]
+  }, {
+    "tStartMs": 1280160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "As we all know, methane is stored \nin the horizontal tanks which are"
+    } ]
+  }, {
+    "tStartMs": 1284120,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "well below the height of the QD so this \nmeans that without a significant amount"
+    } ]
+  }, {
+    "tStartMs": 1288140,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "of back pressure in the tanks or engaging the \nmethane pumps the fluid levels in these pipes"
+    } ]
+  }, {
+    "tStartMs": 1292700,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "aren't going to get much higher than the \nheight of where I'm staying at right now."
+    } ]
+  }, {
+    "tStartMs": 1296540,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Meanwhile the liquid oxygen fluid level has \nalready reached the flex hose for the QD."
+    } ]
+  }, {
+    "tStartMs": 1300980,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "We know this because the bleed valve on the side \nof the OLM just closed while we were being blinded"
+    } ]
+  }, {
+    "tStartMs": 1305660,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "by the fog, so now it's time to activate one of \nthe methane pumps on a very low flow rate setting."
+    } ]
+  }, {
+    "tStartMs": 1310520,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "You can tell this is happening \nbecause the two vents on the back"
+    } ]
+  }, {
+    "tStartMs": 1313460,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "of the kettle boilers will begin \nejecting twin plumes of nitrogen."
+    } ]
+  }, {
+    "tStartMs": 1317180,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "It starts off relatively quiet, \nsounding a bit like the blowers"
+    } ]
+  }, {
+    "tStartMs": 1320360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that are activated at the end \nof an automated car wash cycle."
+    } ]
+  }, {
+    "tStartMs": 1323360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Now that the kettle boilers are doing their thing,"
+    } ]
+  }, {
+    "tStartMs": 1325520,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "we can assume that SpaceX is slowly pumping \nmethane from the base of the olm up to the"
+    } ]
+  }, {
+    "tStartMs": 1330500,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "booster QD on the Orbital Launch Mount as \nthey begin priming up that last section of"
+    } ]
+  }, {
+    "tStartMs": 1334880,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "cryo-tubing. Returning to the location just \nabove the LOX bleed vent, we can see another"
+    } ]
+  }, {
+    "tStartMs": 1339380,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "blue valve actuator connected to a pipe that \nbranches off of the main fuel supply tube."
+    } ]
+  }, {
+    "tStartMs": 1344180,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "There is no way to know for sure, but let's \njust assume this opened up at the same time"
+    } ]
+  }, {
+    "tStartMs": 1348260,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "as the liquid oxygen bleed back when this \nstage of pre-loading began. Once activated,"
+    } ]
+  }, {
+    "tStartMs": 1353060,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "the bleed valve diverts the gas through this \npipe over to the other side of the QD where"
+    } ]
+  }, {
+    "tStartMs": 1357800,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "it's connected to another large black pipe which \nis officially known as the Methane Bleed Line."
+    } ]
+  }, {
+    "tStartMs": 1362240,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The methane bleed line goes down the opposite \nside of the launch Mount where it combines with"
+    } ]
+  }, {
+    "tStartMs": 1366800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "the other black methane bleed line \ncoming from the integration Tower."
+    } ]
+  }, {
+    "tStartMs": 1369920,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "From there, it goes back to the tank \nfarm where it is also processed by"
+    } ]
+  }, {
+    "tStartMs": 1373700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the same heat exchanger used \nin the two previous steps,"
+    } ]
+  }, {
+    "tStartMs": 1376100,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "As soon as the pumps are running, the rate of boil \noff inside of the pipes will begin to increase."
+    } ]
+  }, {
+    "tStartMs": 1380240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Assuming the heat exchanger was already \nrunning at its maximum cooling capacity,"
+    } ]
+  }, {
+    "tStartMs": 1384080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "the Overflow is diverted to the secondary \nvertical methane condenser shown here."
+    } ]
+  }, {
+    "tStartMs": 1388280,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "After this step is complete, it is time to \nget to business both of the Propellant Main"
+    } ]
+  }, {
+    "tStartMs": 1393200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Supply pipes are just about as cold as \nthey are ever going to get the flow of"
+    } ]
+  }, {
+    "tStartMs": 1396920,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "methane passing through the bleed valve has \nfinally reached the point that - even though"
+    } ]
+  }, {
+    "tStartMs": 1400340,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the valve is open - the liquid has begun to \nmake its way to the top of the flex hoses."
+    } ]
+  }, {
+    "tStartMs": 1404180,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Now that the system is fully primed, \nit's time to close both bleed Valves"
+    } ]
+  }, {
+    "tStartMs": 1408080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and open the butterfly valves \non the QD all at the same time."
+    } ]
+  }, {
+    "tStartMs": 1411320,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "What you're hearing, is without a doubt \nmy favorite sound in all of Starbase and"
+    } ]
+  }, {
+    "tStartMs": 1415820,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I'm really grateful for Labpadre's Rover 2 \ncamera for being in this exact location..."
+    } ]
+  }, {
+    "tStartMs": 1419720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "even though a lot of the times, the \nvapor Cloud gets so thick that you"
+    } ]
+  }, {
+    "tStartMs": 1423680,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "can't see anything at all just like it did right \nbefore the pumps turned on a few minutes ago."
+    } ]
+  }, {
+    "tStartMs": 1427580,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "The amount of crucial details \nthat I've been able to better"
+    } ]
+  }, {
+    "tStartMs": 1430040,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "understand as a result of this camera \nbeing here is insane as you can tell."
+    } ]
+  }, {
+    "tStartMs": 1434300,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "The crazy part is, we haven't even started talking \nabout all the things you can see by viewing these"
+    } ]
+  }, {
+    "tStartMs": 1438980,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "same events Through The Eyes of this camera's \ntwin brother, but we will get there soon enough"
+    } ]
+  }, {
+    "tStartMs": 1446780,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Wow, so we finally understand \na good portion of the methane"
+    } ]
+  }, {
+    "tStartMs": 1449360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "recovery for the super heavy booster right?"
+    } ]
+  }, {
+    "tStartMs": 1451700,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "I did leave out the part related to \ndetanking but there's a few reasons for that."
+    } ]
+  }, {
+    "tStartMs": 1455480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "1. The likelihood of an explosion occurring \nduring detank is super low in my opinion. And"
+    } ]
+  }, {
+    "tStartMs": 1460760,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "don't forget that's what this entire \ninvestigation is about, explosions"
+    } ]
+  }, {
+    "tStartMs": 1464780,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "2. This episode is long enough as it is \nand I'm trying to respect y'all's time and"
+    } ]
+  }, {
+    "tStartMs": 1469280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "3. The only person I know who actually cares \nabout detanking other than me is Tim Dodd"
+    } ]
+  }, {
+    "tStartMs": 1473840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "How long does it take to recycle...because \nyou're probably.. how... what's that look"
+    } ]
+  }, {
+    "tStartMs": 1477560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "like because you have to drain the \npropellants back into the the tanks?"
+    } ]
+  }, {
+    "tStartMs": 1481340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "So maybe instead of making an entire episode about"
+    } ]
+  }, {
+    "tStartMs": 1483800,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "it I'll just explain it to him in \nperson one day since Elon would"
+    } ]
+  }, {
+    "tStartMs": 1491600,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "So if SpaceX is capturing methane in so many \ndifferent ways then where is the seven tons of"
+    } ]
+  }, {
+    "tStartMs": 1497420,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "methane coming from and is there something that \ncan be done to reduce the risk of explosion?"
+    } ]
+  }, {
+    "tStartMs": 1501500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Well as far as where the methane is \ncoming from the answer to this one is"
+    } ]
+  }, {
+    "tStartMs": 1504800,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "pretty straightforward because Elon basically \ntold us in his tweets after the incident."
+    } ]
+  }, {
+    "tStartMs": 1508700,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "He just laid it out there, clear as day."
+    } ]
+  }, {
+    "tStartMs": 1511640,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "The only problem is that these statements \nwere layered in so much complexity,"
+    } ]
+  }, {
+    "tStartMs": 1514460,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "that I don't think most people - myself \nincluded at the time - fully understood"
+    } ]
+  }, {
+    "tStartMs": 1518480,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "the amount of information that he was revealing."
+    } ]
+  }, {
+    "tStartMs": 1520940,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "The Tweet I'm referring to started off \nas a response to the NASA space flight"
+    } ]
+  }, {
+    "tStartMs": 1524900,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "footage of the 33 engine spin Prime explosion."
+    } ]
+  }, {
+    "tStartMs": 1527120,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "After retracting a previous statement \n- saying it was intentional - Elon"
+    } ]
+  }, {
+    "tStartMs": 1531260,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "responded yeah actually not \ngood team is assessing damage."
+    } ]
+  }, {
+    "tStartMs": 1536060,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "In reply to this, a well-known \nastronomer from the center of"
+    } ]
+  }, {
+    "tStartMs": 1538940,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "astrophysics by the name of Dr Jonathan \nMcDowell mentioned the fact that it's"
+    } ]
+  }, {
+    "tStartMs": 1542780,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "still very early in the development \nprocess for the new Raptor 2 engines."
+    } ]
+  }, {
+    "tStartMs": 1546200,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "To this Elon responded saying that \ncryogenic fuel is an added challenge,"
+    } ]
+  }, {
+    "tStartMs": 1549860,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "as it evaporates to create a fuel air explosion \nrisk in a partially oxygen atmosphere like Earth."
+    } ]
+  }, {
+    "tStartMs": 1555440,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "That said, we have sensors to \ndetect this and more later."
+    } ]
+  }, {
+    "tStartMs": 1559220,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Next he was asked if it's possible to use a \nsparkler system to burn off the leaking fuel,"
+    } ]
+  }, {
+    "tStartMs": 1563840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "similar to the system used underneath \nthe space shuttle before ignition."
+    } ]
+  }, {
+    "tStartMs": 1567560,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Elon responded \"that's one of the things we'll \nbe doing going forward this particular issue"
+    } ]
+  }, {
+    "tStartMs": 1572060,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "however was specific to the engine spin \nstart test because Raptor has a complex"
+    } ]
+  }, {
+    "tStartMs": 1576560,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "start sequence. Going forward we won't do a \nspin start test with all 33 engines at once.\""
+    } ]
+  }, {
+    "tStartMs": 1580940,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "A lot to unpack there."
+    } ]
+  }, {
+    "tStartMs": 1582980,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "First of all we have not seen \nsparklers added underneath the"
+    } ]
+  }, {
+    "tStartMs": 1585980,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "launch Mount. And trust me I've been out \nhere looking for them just to be sure."
+    } ]
+  }, {
+    "tStartMs": 1590060,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "They might be a good thing to have but they surely \nwould not have prevented what we saw on this day."
+    } ]
+  }, {
+    "tStartMs": 1594200,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "It would however have been seriously awesome to \nwatch -although it would have been incredibly"
+    } ]
+  }, {
+    "tStartMs": 1598700,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "damaging to the launch structure - which stage \nzero Zach would not have been too happy about."
+    } ]
+  }, {
+    "tStartMs": 1602960,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Why do I say this?"
+    } ]
+  }, {
+    "tStartMs": 1604040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Well if the sparklers were used during \nthis test then they might as well have"
+    } ]
+  }, {
+    "tStartMs": 1607580,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "done a 33 engine pre-burner test because \nthat's exactly what would have happened."
+    } ]
+  }, {
+    "tStartMs": 1611000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "A solid column of flame shooting \nout of the bottom of the engines."
+    } ]
+  }, {
+    "tStartMs": 1614420,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "How do we know this?"
+    } ]
+  }, {
+    "tStartMs": 1615260,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Well the reason is because what \nyou're seeing during this spin"
+    } ]
+  }, {
+    "tStartMs": 1617900,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Prime test is more than likely \nalmost entirely liquid methane."
+    } ]
+  }, {
+    "tStartMs": 1620960,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "There is no leak."
+    } ]
+  }, {
+    "tStartMs": 1622880,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Let that sink in for one second."
+    } ]
+  }, {
+    "tStartMs": 1624380,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "You're seeing SEVEN TONS of liquid \nmethane evaporating in front of your eyes."
+    } ]
+  }, {
+    "tStartMs": 1628400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "This goes completely against \nmy assumptions from the past,"
+    } ]
+  }, {
+    "tStartMs": 1631100,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "so I'm glad I have the chance to be \nthe one to correct the record for you."
+    } ]
+  }, {
+    "tStartMs": 1634160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So let's start off with the basics what \nis a spin Prime test and why is it needed"
+    } ]
+  }, {
+    "tStartMs": 1639140,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "well unfortunately SpaceX has never released \nan official explanation about this process."
+    } ]
+  }, {
+    "tStartMs": 1643580,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "I assumed that it would be easy enough \nto examine the spin Prime procedure for"
+    } ]
+  }, {
+    "tStartMs": 1646520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "other rocket engines and then see \nif we can apply it to the Raptor 2."
+    } ]
+  }, {
+    "tStartMs": 1649820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Unfortunately, this was easier said than done."
+    } ]
+  }, {
+    "tStartMs": 1652700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Raptor 2 is vastly different from \nevery other engine out there."
+    } ]
+  }, {
+    "tStartMs": 1655940,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I might be a stage zero pseudo expert \nbut I don't know enough about rocket"
+    } ]
+  }, {
+    "tStartMs": 1659900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "engines in order to safely make the \ncorrect one-to-one comparison. Also,"
+    } ]
+  }, {
+    "tStartMs": 1663500,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "this episode was already significantly \ndelayed as it is, so I didn't really have"
+    } ]
+  }, {
+    "tStartMs": 1667340,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "time to be hopping into various Aerospace \ntextbooks or spend a ridiculous amount"
+    } ]
+  }, {
+    "tStartMs": 1671000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "of hours watching YouTube videos about \nall the different rocket engine Cycles."
+    } ]
+  }, {
+    "tStartMs": 1674600,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I needed to speak with someone who \nknows what they're talking about and"
+    } ]
+  }, {
+    "tStartMs": 1677300,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "can help with answering the lingering questions."
+    } ]
+  }, {
+    "tStartMs": 1679520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "That's why I took this unannounced trip \nto Starbase because I had a feeling that"
+    } ]
+  }, {
+    "tStartMs": 1682760,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "the person I needed to speak with might \nstill be near the scene of the incident."
+    } ]
+  }, {
+    "tStartMs": 1686300,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Also, considering this person probably \ndoesn't want to be found it was best"
+    } ]
+  }, {
+    "tStartMs": 1689840,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "to keep my arrival secret in order to \nprevent them from giving us the slip."
+    } ]
+  }, {
+    "tStartMs": 1694340,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "oh perfect timing."
+    } ]
+  }, {
+    "tStartMs": 1696140,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "This is one of our newest CSI \nStarbase field agents calling"
+    } ]
+  }, {
+    "tStartMs": 1698720,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "right now. Hopefully he has some good news."
+    } ]
+  }, {
+    "tStartMs": 1701600,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Go for StageZeroZack!"
+    } ]
+  }, {
+    "tStartMs": 1704180,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "yeah? Great news! wow okay where'd you find him?"
+    } ]
+  }, {
+    "tStartMs": 1711860,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "pretty impressive... so uh yeah \nwhere are you currently holding him?"
+    } ]
+  }, {
+    "tStartMs": 1716720,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "wait what?"
+    } ]
+  }, {
+    "tStartMs": 1719840,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "why why would you why would \nyou bring it to my room?"
+    } ]
+  }, {
+    "tStartMs": 1724700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Good Lord you have some questionable \ndecision-making skills. Uh,"
+    } ]
+  }, {
+    "tStartMs": 1727940,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "for now just hold him right where \nhe is make sure the room is secure."
+    } ]
+  }, {
+    "tStartMs": 1731120,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "I'm on my way"
+    } ]
+  }, {
+    "tStartMs": 1741620,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Wow so honestly I was a little hesitant on \nbringing agent Riuliani with us because uh"
+    } ]
+  }, {
+    "tStartMs": 1746480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "you know he has a tendency to do \nsome pretty crazy stuff sometimes"
+    } ]
+  }, {
+    "tStartMs": 1748760,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "like bring you whoever this is back \nto my hotel what a terrible idea"
+    } ]
+  }, {
+    "tStartMs": 1755420,
+    "dDurationMs": 10080,
+    "segs": [ {
+      "utf8": "oh my God help me who's there whoa \nnobody going there about 35 45 minutes"
+    } ]
+  }, {
+    "tStartMs": 1765500,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Goldenboy! You're back! Wait \nand see what I brought you."
+    } ]
+  }, {
+    "tStartMs": 1769460,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "you're gonna love this one buddy check this out"
+    } ]
+  }, {
+    "tStartMs": 1775040,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Tim (bleep) Dodd"
+    } ]
+  }, {
+    "tStartMs": 1777740,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "well well well well Tim Dodd \n- The Everyday Astronaut."
+    } ]
+  }, {
+    "tStartMs": 1786020,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "I gotta say Agent Riuliani you \nhave outdone yourself this time."
+    } ]
+  }, {
+    "tStartMs": 1791120,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "This is an extremely elusive man."
+    } ]
+  }, {
+    "tStartMs": 1794120,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I'm surprised you were able to \ncatch him without being recognized."
+    } ]
+  }, {
+    "tStartMs": 1797420,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "Impressive"
+    } ]
+  }, {
+    "tStartMs": 1798920,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Well to be honest sir he did recognize \nme pretty much immediately too"
+    } ]
+  }, {
+    "tStartMs": 1804500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Hold up! Are you saying your cover's \nblown? Who else knows about this??"
+    } ]
+  }, {
+    "tStartMs": 1807860,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "I don't think so. What happened was I was \nat the Rocky Ranch asking around to see if"
+    } ]
+  }, {
+    "tStartMs": 1812720,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "anyone had seent him. Told em I heard he was in \ntown and I just wanted to meet one of my idols"
+    } ]
+  }, {
+    "tStartMs": 1817820,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "AND!?"
+    } ]
+  }, {
+    "tStartMs": 1818840,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Well someone must have tipped him \noff because I looked out the window,"
+    } ]
+  }, {
+    "tStartMs": 1822620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "just in time to catch him fleeing the scene."
+    } ]
+  }, {
+    "tStartMs": 1825740,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Luckily with them skinny jeans on, he can't \nexactly run away if you know what I mean."
+    } ]
+  }, {
+    "tStartMs": 1830300,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "It's more like a Brisk jog."
+    } ]
+  }, {
+    "tStartMs": 1832040,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "so it gave me time to exit calmly,"
+    } ]
+  }, {
+    "tStartMs": 1835280,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "without causing any alarm and then initiate \npursuit when I was clear of the on-lookers."
+    } ]
+  }, {
+    "tStartMs": 1840020,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So I don't think anyone else noticed..."
+    } ]
+  }, {
+    "tStartMs": 1842540,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And! Due to his lack of \nability to take long strides,"
+    } ]
+  }, {
+    "tStartMs": 1846260,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I was able to catch up to him pretty quickly."
+    } ]
+  }, {
+    "tStartMs": 1849140,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "He pretty much apprehended \nhimself honestly [Laughter]"
+    } ]
+  }, {
+    "tStartMs": 1853820,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "self-arresting-skinny-jeans \nwould you believe that?"
+    } ]
+  }, {
+    "tStartMs": 1857180,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I think we might actually have to coin that one!"
+    } ]
+  }, {
+    "tStartMs": 1859880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Thank you Agent Riuliani, \nyou have outdone yourself"
+    } ]
+  }, {
+    "tStartMs": 1862520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "as I said. Now please excuse me while I \nhave a word with our new ...informant."
+    } ]
+  }, {
+    "tStartMs": 1868220,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "By the way, uh... I think I'm gonna be busy for \nthe rest of the evening so I think I'm going to"
+    } ]
+  }, {
+    "tStartMs": 1872000,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "need you to cover for me at Labpadre's \nCrowFest. Please do not make a scene."
+    } ]
+  }, {
+    "tStartMs": 1877940,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Can you handle this? I'm counting \non you not let me down Judi"
+    } ]
+  }, {
+    "tStartMs": 1881540,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "there's lots of important people there"
+    } ]
+  }, {
+    "tStartMs": 1885800,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "oh you ain't got to worry \nabout me sir I will not let"
+    } ]
+  }, {
+    "tStartMs": 1889700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "you down. And... I brought my dancing shoes. Ah Ha"
+    } ]
+  }, {
+    "tStartMs": 1893000,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "Talk soon"
+    } ]
+  }, {
+    "tStartMs": 1896480,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "I know this might seem like an overly aggressive \nmethod that we employed in order to gather the"
+    } ]
+  }, {
+    "tStartMs": 1901100,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "required information. Tut don't worry, I can \nguarantee that the everyday astronaut was not"
+    } ]
+  }, {
+    "tStartMs": 1905600,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "harmed during this process and I took special \ncare to make sure that he was comfortable."
+    } ]
+  }, {
+    "tStartMs": 1909740,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "\"You uhhh, thirsty Tim??"
+    } ]
+  }, {
+    "tStartMs": 1911780,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "\"Yeah, I guess\""
+    } ]
+  }, {
+    "tStartMs": 1912980,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "\"Well uh all I got is water in \nthe solid form so drink up!\""
+    } ]
+  }, {
+    "tStartMs": 1917780,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "\"Seriously, you brought me ice?\""
+    } ]
+  }, {
+    "tStartMs": 1920720,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "From my experience it's usually a \ngood idea to start off with some"
+    } ]
+  }, {
+    "tStartMs": 1923540,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "basic questions in order to test out \nthe witness's willingness to cooperate."
+    } ]
+  }, {
+    "tStartMs": 1927260,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "\"I have some questions that I want to ask you here"
+    } ]
+  }, {
+    "tStartMs": 1929840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "today related to Raptor engines and \nspecifically the cooling process.\""
+    } ]
+  }, {
+    "tStartMs": 1933680,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "As expected Tim immediately attempted a desperate"
+    } ]
+  }, {
+    "tStartMs": 1936740,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "tactic that a lot of first time \ninformants usually resort to."
+    } ]
+  }, {
+    "tStartMs": 1939620,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "\"I got to tell you straight up top, \nI..[nervous stutter] I don't know"
+    } ]
+  }, {
+    "tStartMs": 1943220,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "hardly anything I'm just a YouTube \nguy. You know I don't know this...\""
+    } ]
+  }, {
+    "tStartMs": 1946820,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "But through some persistence, we \nwere able to get a lot of important"
+    } ]
+  }, {
+    "tStartMs": 1949880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "information out of him. This allowed \nme to fill in some missing pieces"
+    } ]
+  }, {
+    "tStartMs": 1953120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "of the evidence needed in order to \ncome to the following conclusions."
+    } ]
+  }, {
+    "tStartMs": 1956540,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The first important detail that we need to \nunderstand, is that the engine pre-chill"
+    } ]
+  }, {
+    "tStartMs": 1960380,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "sequence for the Raptor 2 is only for \nthe oxygen side of the engine that's"
+    } ]
+  }, {
+    "tStartMs": 1964400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "a little counter-intuitive right?\n \nEspecially considering that there is"
+    } ]
+  }, {
+    "tStartMs": 1967460,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "significantly more surface area to cool \non the methane side given that it has to"
+    } ]
+  }, {
+    "tStartMs": 1971360,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "travel through the engine Bells before \nit reaches the fuel-rich pre-burner."
+    } ]
+  }, {
+    "tStartMs": 1975020,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The reason I say this is because it should \nbe very similar to the regenerative cooling"
+    } ]
+  }, {
+    "tStartMs": 1979100,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "system used on a lot of Rocket engines. I figured \nthe best one to compare it to would be the RS25"
+    } ]
+  }, {
+    "tStartMs": 1984500,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "engine used on the space shuttle and SLS this is \none of the first things I needed Tim to explain"
+    } ]
+  }, {
+    "tStartMs": 1989780,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "\"What can you tell me about the cooling \nmethod used on the rs25 engine?\""
+    } ]
+  }, {
+    "tStartMs": 1997040,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "\"Well the, RS25 is regeneratively cooled. So they \nactually do run cryogenic propellant through the"
+    } ]
+  }, {
+    "tStartMs": 2003820,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "walls of the rocket engine you'll actually notice \nit gets really Frosty like there's literally"
+    } ]
+  }, {
+    "tStartMs": 2008500,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "condensation and ice buildup on the outside of the \nengine. Yet on the inside of the engine you know"
+    } ]
+  }, {
+    "tStartMs": 2012760,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "it's scorching hot but um that's how they keep the \nthe walls and the combustion chamber for melting.\""
+    } ]
+  }, {
+    "tStartMs": 2017740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "\"So is this a liquid or a gas in here?\""
+    } ]
+  }, {
+    "tStartMs": 2020320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "\"So inside the walls there there might \nactually be a phase change at some point"
+    } ]
+  }, {
+    "tStartMs": 2023920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "from liquid because it starts off liquid by the \ntime it reaches the main combustion chamber it's"
+    } ]
+  }, {
+    "tStartMs": 2028840,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "often gas but uh there there may or may not be \na phase change as it goes through the walls.\""
+    } ]
+  }, {
+    "tStartMs": 2033100,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "After this, Tim proceeded to tell me that \nhe believes this is the same process on the"
+    } ]
+  }, {
+    "tStartMs": 2037180,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Raptor 2 Engine with the liquid methane flowing \nthrough the engine bell. At this point I started"
+    } ]
+  }, {
+    "tStartMs": 2041980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "to realize that he was trying to give me \nthe run around so I had to press harder."
+    } ]
+  }, {
+    "tStartMs": 2045400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "\"I mean what's what's your goal in \nthe Raptor 2 engine.. are you are"
+    } ]
+  }, {
+    "tStartMs": 2049240,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "you sending gas to the pre-burner \nor are you sending it as a liquid\""
+    } ]
+  }, {
+    "tStartMs": 2052780,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "\"I'm pretty sure it shows it in \nthe pre-brainer still as a liquid\""
+    } ]
+  }, {
+    "tStartMs": 2055600,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "\"you think so?\""
+    } ]
+  }, {
+    "tStartMs": 2056740,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "\"...I think so\""
+    } ]
+  }, {
+    "tStartMs": 2058000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "\"Then whyyy isn't the engine Frosty Tim?\""
+    } ]
+  }, {
+    "tStartMs": 2066040,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "\"well it could [stutters] I actually have \nnever really considered that to be honest"
+    } ]
+  }, {
+    "tStartMs": 2070420,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "I [more stutters] I it could just be like the \nthickness of the walls it could be the ambient"
+    } ]
+  }, {
+    "tStartMs": 2075820,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "conditions I don't know what exactly I [stutter \nfest] I don't I don't know how it could be uh"
+    } ]
+  }, {
+    "tStartMs": 2081160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "gas before it reaches the walls because it goes \nstraight from the uhh huh through the front oh"
+    } ]
+  }, {
+    "tStartMs": 2087520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "I have to think about this. With full flow...\""
+    } ]
+  }, {
+    "tStartMs": 2089380,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "At this moment, I knew I had \nhim backed into a corner."
+    } ]
+  }, {
+    "tStartMs": 2092920,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Frosty engine Bells - whether it's on a \nsea level variant or the larger vacuum"
+    } ]
+  }, {
+    "tStartMs": 2096640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "optimized version - is something we \nhave never seen on a Raptor 2 engine."
+    } ]
+  }, {
+    "tStartMs": 2100000,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I believe that by the time the methane \nhas traveled through the engine Bell and"
+    } ]
+  }, {
+    "tStartMs": 2103900,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "reaches the pre-burner, it needs to already \nbe fully transitioned over to the gas phase."
+    } ]
+  }, {
+    "tStartMs": 2108700,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "So if the methane side of the engine does not need"
+    } ]
+  }, {
+    "tStartMs": 2110920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "to be pre-chilled by extension that \nmeans that all of the internal pipe"
+    } ]
+  }, {
+    "tStartMs": 2114280,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "work containing methane should be empty \nuntil the spin-up process is initiated."
+    } ]
+  }, {
+    "tStartMs": 2118540,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "On the other hand, as Tim \nDodd stated in his video,"
+    } ]
+  }, {
+    "tStartMs": 2121300,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "it's extremely important to pre-chill the \noxidizer turbo pump due to the incredibly"
+    } ]
+  }, {
+    "tStartMs": 2125620,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "high temperatures that it will experience \nin comparison to the methane turbo pump."
+    } ]
+  }, {
+    "tStartMs": 2129880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So this is why we see the liquid \noxygen side fully primed up and"
+    } ]
+  }, {
+    "tStartMs": 2133480,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "venting off excess oxygen gas just like \nthe bleed valves that we discussed earlier."
+    } ]
+  }, {
+    "tStartMs": 2137740,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "The goal here is to keep cooling the \nengine until the point where the liquid"
+    } ]
+  }, {
+    "tStartMs": 2141340,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "oxygen begins pouring out of the Raptor \nchill vents - which started off as a gas."
+    } ]
+  }, {
+    "tStartMs": 2145540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Once the desired temperature is reached, it's \ntime to quickly Prime up the methane side of the"
+    } ]
+  }, {
+    "tStartMs": 2149680,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "engine by opening the main fuel valve and then \nusing helium to spin up the methane turbo pump."
+    } ]
+  }, {
+    "tStartMs": 2154600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This sends methane through the engine bells"
+    } ]
+  }, {
+    "tStartMs": 2157000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and back to the pre-burner and then \nout of the main combustion chamber."
+    } ]
+  }, {
+    "tStartMs": 2160900,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Because this is just a spin Prime and not a static \nfire there is no ignition. So all the methane"
+    } ]
+  }, {
+    "tStartMs": 2166240,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "must immediately be purged out of the engine \nusing nitrogen once the prime up is complete."
+    } ]
+  }, {
+    "tStartMs": 2170200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Looking at a successful 33 engine spin \nPrime that didn't end in disaster,"
+    } ]
+  }, {
+    "tStartMs": 2174040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "you can see what I'm talking \nabout like I said there is a"
+    } ]
+  }, {
+    "tStartMs": 2177580,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "lot of surface area on the methane side \nof the engine that has to be purged out."
+    } ]
+  }, {
+    "tStartMs": 2180700,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "During this purge, it only makes sense that \nan equal or greater volume of nitrogen will"
+    } ]
+  }, {
+    "tStartMs": 2185260,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "need to be forced through the engine, in \norder to push out the residual methane."
+    } ]
+  }, {
+    "tStartMs": 2188620,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "When this happens, it will actually appear \nas if there is a Second Spin Prime occurring."
+    } ]
+  }, {
+    "tStartMs": 2192760,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Shortly after the end of the second surge of \ngas you can see the cloud of methane begin"
+    } ]
+  }, {
+    "tStartMs": 2196780,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "to quickly dissipate, as nitrogen has now \nmade its way to the main combustion chamber"
+    } ]
+  }, {
+    "tStartMs": 2200920,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "and begins to displace the flammable \ngases from underneath the launch Mount."
+    } ]
+  }, {
+    "tStartMs": 2204700,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "This is what Elon meant by cryogenic \nFuel evaporating and mixing with the"
+    } ]
+  }, {
+    "tStartMs": 2209020,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "air. You can see the evaporation \noccurring even more clearly when"
+    } ]
+  }, {
+    "tStartMs": 2212380,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "you look at it from Labpadre's thermal \ncamera - also known as Predator 2.0 cam."
+    } ]
+  }, {
+    "tStartMs": 2217420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Notice how quickly it clears away as the \nnitrogen begins forcing it out of the area."
+    } ]
+  }, {
+    "tStartMs": 2221560,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "When you look at the top of the screen \nyou can see the plume pass in front of"
+    } ]
+  }, {
+    "tStartMs": 2225340,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the tank farm as the thermal energy in the \nmethane cloud has already increased enough"
+    } ]
+  }, {
+    "tStartMs": 2229060,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "for it to begin showing up warmer \nthan the surrounding ambient air."
+    } ]
+  }, {
+    "tStartMs": 2233020,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Thermal cameras are often used in the \noil and gas industry to find the source"
+    } ]
+  }, {
+    "tStartMs": 2237160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "of natural gas leaks. My experience as a \nfield engineer in the petroleum industry"
+    } ]
+  }, {
+    "tStartMs": 2240880,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "is probably the only reason I noticed this \nand was able to draw a conclusion from it."
+    } ]
+  }, {
+    "tStartMs": 2245680,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I say this because I wasn't watching this view in"
+    } ]
+  }, {
+    "tStartMs": 2248200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "order to prove that SpaceX was dumping \nseven tons of methane into the air,"
+    } ]
+  }, {
+    "tStartMs": 2251860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the reason I watch Predator cam during \ntesting events is because this is how I"
+    } ]
+  }, {
+    "tStartMs": 2255220,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "typically identify how many engines are about to \nbe tested before I send out tweets like this one"
+    } ]
+  }, {
+    "tStartMs": 2264460,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Anyways there are a few more important places that \nSpaceX has to worry about the buildup of flammable"
+    } ]
+  }, {
+    "tStartMs": 2269260,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "gases. The first is inside of the launch Mount \nespecially since the clamps and Raptor QD's are"
+    } ]
+  }, {
+    "tStartMs": 2274480,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "deployed during this time so there's plenty of \nopen holes for that methane to enter the table."
+    } ]
+  }, {
+    "tStartMs": 2278500,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But, we will cover that in part two \nof this deep dive investigation."
+    } ]
+  }, {
+    "tStartMs": 2281620,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "An even more important area to be concerned \nabout perhaps is the inside of the engine"
+    } ]
+  }, {
+    "tStartMs": 2285700,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "skirt of the booster. An explosion in here \n- as a result of a buildup of methane and"
+    } ]
+  }, {
+    "tStartMs": 2289660,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "oxygen gas - could put the entire vehicle \nat risk and by extension could also put the"
+    } ]
+  }, {
+    "tStartMs": 2294400,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "entire launch pad and surrounding \n500 meters or so at risk as well."
+    } ]
+  }, {
+    "tStartMs": 2298300,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "So to prevent explosions inside of the skirt, \nSpaceX has nitrogen Purge vents inside of each"
+    } ]
+  }, {
+    "tStartMs": 2303280,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "engine compartment - which you may remember me \nmentioning on the last Deep dive investigation."
+    } ]
+  }, {
+    "tStartMs": 2307300,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "The outer 20 engines receive their \nnitrogen directly through the 20"
+    } ]
+  }, {
+    "tStartMs": 2310780,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Raptor QD ports. The 13 engines in the \ncenter need to get their nitrogen source"
+    } ]
+  }, {
+    "tStartMs": 2315040,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "from another location and no they \ncan't just share with the outer 20."
+    } ]
+  }, {
+    "tStartMs": 2318820,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "So instead, they are likely \npulling from the booster QD."
+    } ]
+  }, {
+    "tStartMs": 2321760,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "If you watched the most recent CSI Starbase \nepisode about the FIREX and detonation"
+    } ]
+  }, {
+    "tStartMs": 2326500,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "suppression system on the orbital launch Mount \nthen you probably remember when I mentioned that"
+    } ]
+  }, {
+    "tStartMs": 2330340,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "there would be times that SpaceX needs to run \nevery single nitrogen Purge system on the OLM,"
+    } ]
+  }, {
+    "tStartMs": 2335020,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "at the same time. During spin Prime tests \nis one of those times that I can think of."
+    } ]
+  }, {
+    "tStartMs": 2339940,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Not only to purge away all of the methane \nin the engine skirt, but also to remove"
+    } ]
+  }, {
+    "tStartMs": 2344140,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the oxygen from the space beneath the orbital \nlaunch Mount before the spin Prime even occurs."
+    } ]
+  }, {
+    "tStartMs": 2348460,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "This would significantly reduce the \nenergy released if the gaseous methane"
+    } ]
+  }, {
+    "tStartMs": 2352600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "somehow manages to find an ignition source."
+    } ]
+  }, {
+    "tStartMs": 2356020,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "We actually got our first example of this during"
+    } ]
+  }, {
+    "tStartMs": 2358240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the booster 7 multi-engine spin \nPrime test from November 11th."
+    } ]
+  }, {
+    "tStartMs": 2362320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This side-by-side comparison from \nNASASpaceFlight footage shows how quickly"
+    } ]
+  }, {
+    "tStartMs": 2366160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the water infused nitrogen jet disperses \nthe methane cloud from under the table."
+    } ]
+  }, {
+    "tStartMs": 2369880,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "In the video on the right with the Firex \nsystem engaged you can see that the"
+    } ]
+  }, {
+    "tStartMs": 2373900,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "nitrogen and water combination is actually \naccelerating the rate of evaporation and"
+    } ]
+  }, {
+    "tStartMs": 2378580,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "forcing the methane out from underneath \nthe launch Mount all at the same time."
+    } ]
+  }, {
+    "tStartMs": 2381760,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Keep in mind that this is a \ntest of somewhere between 10"
+    } ]
+  }, {
+    "tStartMs": 2384820,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "to 20 of the outer Raptor boost engines."
+    } ]
+  }, {
+    "tStartMs": 2386920,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "on the left we are seeing a 33 engine test so \nthere is more methane that has to be dispersed,"
+    } ]
+  }, {
+    "tStartMs": 2392020,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "however I think the effect \nthat this system is having"
+    } ]
+  }, {
+    "tStartMs": 2394360,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "on the cloud is pretty noticeable either way."
+    } ]
+  }, {
+    "tStartMs": 2396220,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Removing the oxygen is critical because as \nElon stated - when the fuel mixes with ambient"
+    } ]
+  }, {
+    "tStartMs": 2401140,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "air there is an inherent risk of spontaneous \ncombustion or a high energy supersonic detonation."
+    } ]
+  }, {
+    "tStartMs": 2406780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This risk is Amplified when the \noxygen content in the air is"
+    } ]
+  }, {
+    "tStartMs": 2410620,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "even higher than it normally would be, \nwhich was the case during this event."
+    } ]
+  }, {
+    "tStartMs": 2413920,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "When we review the footage from the explosion one \nmore time, you can see that before the spin Prime"
+    } ]
+  }, {
+    "tStartMs": 2418660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "even begins, there's already a huge cloud \nof gaseous oxygen underneath the the table."
+    } ]
+  }, {
+    "tStartMs": 2422860,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "The moment the spin Prime is initiated, \nthe gaseous oxygen Cloud disappears as"
+    } ]
+  }, {
+    "tStartMs": 2427480,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "it's instantly combined into a perfect mixture of \nmethane and oxygen also known as a MOX sandwich."
+    } ]
+  }, {
+    "tStartMs": 2432880,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "This MOX cloud is significantly \nlarger than the one we talked"
+    } ]
+  }, {
+    "tStartMs": 2436420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "about that occurs at the moment of \nignition of the Raptor 2 engines."
+    } ]
+  }, {
+    "tStartMs": 2439780,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "As you can tell, this was simply unacceptable \nto be allowed to continue so SpaceX was going"
+    } ]
+  }, {
+    "tStartMs": 2444820,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "to have to do something to remove the initial \nvaporized oxygen cloud from the equation."
+    } ]
+  }, {
+    "tStartMs": 2449860,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So what solution did SpaceX Engineers \ncome up with in order to enable them"
+    } ]
+  }, {
+    "tStartMs": 2453700,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "to safely continue forward with testing \nbooster 7 on the orbital launch Mount?"
+    } ]
+  }, {
+    "tStartMs": 2456880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Well in my opinion this is where \nthings start to get interesting"
+    } ]
+  }, {
+    "tStartMs": 2463000,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "As a reminder, the booster 7 explosion occurred \non July 11th of 2022. Three days later on July"
+    } ]
+  }, {
+    "tStartMs": 2470320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "14th booster 7 was lifted off the launch Mount \nand sent back to the build site for repairs."
+    } ]
+  }, {
+    "tStartMs": 2474400,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "While in the mega Bay booster 7 had all 13 \nof its Center engines removed. Initially we"
+    } ]
+  }, {
+    "tStartMs": 2479500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "weren't exactly sure what changes were made \nto these engines after they were swapped"
+    } ]
+  }, {
+    "tStartMs": 2482500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "out but thanks to recent developments \nwe now have a better understanding of"
+    } ]
+  }, {
+    "tStartMs": 2485860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the alterations that were made to these \nRaptor 2s. We will cover this more later."
+    } ]
+  }, {
+    "tStartMs": 2489220,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Meanwhile, back at the launch site, the first \nof the post-explosion upgrades began to appear."
+    } ]
+  }, {
+    "tStartMs": 2494320,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Although this first upgrade was in \nthe works before the detonation event,"
+    } ]
+  }, {
+    "tStartMs": 2497260,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "its arrival was too incredibly \nwell timed not to mention it here."
+    } ]
+  }, {
+    "tStartMs": 2501280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "What I'm referring to is one \nof SpaceX's favorite new toys,"
+    } ]
+  }, {
+    "tStartMs": 2504160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the orbital launch Mount elevated work \nplatform. I say this was well timed"
+    } ]
+  }, {
+    "tStartMs": 2508240,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "because without this Aerial Work platform \nmany of the operations that we will touch"
+    } ]
+  }, {
+    "tStartMs": 2511900,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "on in the next few minutes would have \ntaken significantly longer to complete."
+    } ]
+  }, {
+    "tStartMs": 2515860,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "This is the only upgrade that we were able \nto notice until B7 made its way back to the"
+    } ]
+  }, {
+    "tStartMs": 2519760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "launch site. When it finally returned, \nthe homecoming was a bit of a sad one"
+    } ]
+  }, {
+    "tStartMs": 2523600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "after the Chopsticks got damaged right as \nB7 was moving into position for the lift."
+    } ]
+  }, {
+    "tStartMs": 2527800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "The next day on August 6th, it was lifted \nback onto the OLM using SpaceX's LR11000"
+    } ]
+  }, {
+    "tStartMs": 2533560,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "super-crane as you can see in this \nfootage from Cosmic Perspective."
+    } ]
+  }, {
+    "tStartMs": 2536620,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The center 13 engines had still not been \nreinstalled yet at this point. So as"
+    } ]
+  }, {
+    "tStartMs": 2541060,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "SpaceX Was preparing for the next round \nof testing, I was wondering why booster"
+    } ]
+  }, {
+    "tStartMs": 2544540,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "7 would be back on the OLM if the changes to \nthe center engines were still not completed."
+    } ]
+  }, {
+    "tStartMs": 2549280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But learning from past experiences, I had a \nfeeling that this wouldn't be a simple cryo"
+    } ]
+  }, {
+    "tStartMs": 2553600,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "test just to make sure that booster 7 was still \nfunctioning properly after the detonation event."
+    } ]
+  }, {
+    "tStartMs": 2557980,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "On Monday August 8th, SpaceX started a week \nof heavy testing for Booster 7 and Ship 24."
+    } ]
+  }, {
+    "tStartMs": 2564040,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "this was the first time that we had ever seen"
+    } ]
+  }, {
+    "tStartMs": 2565840,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "simultaneous tests on the orbital \nlaunch Mount and suborbital pads."
+    } ]
+  }, {
+    "tStartMs": 2569860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "As a viewer this caused a lot of confusion \nat first when it seemed booster 7 would be"
+    } ]
+  }, {
+    "tStartMs": 2574060,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the one to get things kicked off once \nthe orbital tank farm began to spin up."
+    } ]
+  }, {
+    "tStartMs": 2577780,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "But, before the expected fuel loading process \ncould commence, the suborbital tank farm also"
+    } ]
+  }, {
+    "tStartMs": 2582520,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "came to life and SpaceX quickly began loading \nliquid oxygen and methane onto ship 24 for a"
+    } ]
+  }, {
+    "tStartMs": 2587920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "six engine spin Prime test note that during \nthese tests the Raptor chill exhaust venting"
+    } ]
+  }, {
+    "tStartMs": 2592840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "is being blown upwards by an invisible jet \nof nitrogen coming from the test stand."
+    } ]
+  }, {
+    "tStartMs": 2596560,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "This prevents a potential MOX bomb from \nforming underneath the test stand when"
+    } ]
+  }, {
+    "tStartMs": 2601060,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "nearly 1.3 tons of methane is ejected from the \nvehicle during this six engine spin Prime test."
+    } ]
+  }, {
+    "tStartMs": 2605980,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "This is an estimate based on the assumption \nthat the equivalent process of a 33 engine"
+    } ]
+  }, {
+    "tStartMs": 2610540,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "booster produces seven tons as we learned earlier."
+    } ]
+  }, {
+    "tStartMs": 2613960,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Shortly after this concluded SpaceX began \npreparing for another spin Prime test,"
+    } ]
+  }, {
+    "tStartMs": 2617680,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "except this time on B7. Unfortunately I didn't \nget to see the spin Prime test because I got"
+    } ]
+  }, {
+    "tStartMs": 2623080,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "distracted by something completely unexpected the \nmoment SpaceX began loading fuel onto the booster."
+    } ]
+  }, {
+    "tStartMs": 2627940,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Wait what what is that is that \ntheir new Raptor chill pipe?"
+    } ]
+  }, {
+    "tStartMs": 2633160,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Wow how did I miss this? I didn't even see \nit installed ...where's it coming from??"
+    } ]
+  }, {
+    "tStartMs": 2639040,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "This immediately kicked off a huge investigation \non the CSI Starbase Discord server. We needed to"
+    } ]
+  }, {
+    "tStartMs": 2644380,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "get some detailed images from the opposite side \nof the OLM in order to figure this one out."
+    } ]
+  }, {
+    "tStartMs": 2649000,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "But of course, the road was closed again \nthe next morning so there was no way for"
+    } ]
+  }, {
+    "tStartMs": 2652540,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Starship gazer or Mauricio from RGV \naerial photography to get out to the"
+    } ]
+  }, {
+    "tStartMs": 2656320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "launch complex and grab us some close-up \nimages from this side of the launch Mount."
+    } ]
+  }, {
+    "tStartMs": 2659560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I'm not complaining though, because this \nwas the day that Starship fans around the"
+    } ]
+  }, {
+    "tStartMs": 2663160,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "world had been waiting on for more than a year."
+    } ]
+  }, {
+    "tStartMs": 2665140,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It was finally time for the first ever \nstatic fire test on the orbital Launch Mount."
+    } ]
+  }, {
+    "tStartMs": 2669940,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "I have to admit though, the single engine \nstatic fire test was amazing and all,"
+    } ]
+  }, {
+    "tStartMs": 2673120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "but I was far more focused on understanding what \nwas going on with this new Raptor chill vent."
+    } ]
+  }, {
+    "tStartMs": 2677920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Basically instead of depositing the liquid oxygen \nfrom the engine chill vent directly underneath"
+    } ]
+  }, {
+    "tStartMs": 2682480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "the vehicle, it was being redirected out to \nthe side of the launch Mount. This actually"
+    } ]
+  }, {
+    "tStartMs": 2686920,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "seemed very familiar to me for some reason, but \nat the time I couldn't figure out why that was."
+    } ]
+  }, {
+    "tStartMs": 2691420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "In the last OLM Deep dive investigation \nwe identified the location of the Raptor"
+    } ]
+  }, {
+    "tStartMs": 2695560,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "chill vents on booster 7. Connecting \nto this vent in order to divert it"
+    } ]
+  }, {
+    "tStartMs": 2699100,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "to a new location must be pretty \ntricky. So how are they doing it?"
+    } ]
+  }, {
+    "tStartMs": 2703600,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Well first we need to figure out whether or \nnot this is a test of a single Raptor or if"
+    } ]
+  }, {
+    "tStartMs": 2708460,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "this is multiple engines venting into the same \npipe. With how heavy the flow was coming out"
+    } ]
+  }, {
+    "tStartMs": 2712660,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "of the pipe, it's possible that this could be \nmultiple engines connected to this one vent."
+    } ]
+  }, {
+    "tStartMs": 2717460,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "I quickly realized that this was \nnot the case when the next morning"
+    } ]
+  }, {
+    "tStartMs": 2720400,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "they began adding even more of these \npipes onto the underside of the table."
+    } ]
+  }, {
+    "tStartMs": 2724720,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "This is when it finally dawned on me how \ncrazy this was potentially about to get."
+    } ]
+  }, {
+    "tStartMs": 2728440,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "On the morning of August 8th I tweeted \nout that the next booster test we see"
+    } ]
+  }, {
+    "tStartMs": 2731740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "on the OLM was going to look \nsignificantly different from"
+    } ]
+  }, {
+    "tStartMs": 2734320,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "anything we have ever seen before... \nwhich instantly confused some people."
+    } ]
+  }, {
+    "tStartMs": 2738040,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Even Mauricio from RGV Aerial \nPhotography didn't know what"
+    } ]
+  }, {
+    "tStartMs": 2740980,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I was referring to at the time and I \ntalked to him multiple times a week."
+    } ]
+  }, {
+    "tStartMs": 2744400,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "So, I gave out a little hint that there would \nbe some major changes to the appearance of the"
+    } ]
+  }, {
+    "tStartMs": 2748300,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Raptor Chill process. If there was one of these \nvents for each of the outer 20 Raptor engines,"
+    } ]
+  }, {
+    "tStartMs": 2753100,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "it could end up looking like the eye of a \nhurricane during the Raptor till down sequence."
+    } ]
+  }, {
+    "tStartMs": 2757180,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "But to my dismay, on August 11th the day \nof the next static fire test, I was caught"
+    } ]
+  }, {
+    "tStartMs": 2763300,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "off guard when the Raptor chill vent was no \nlonger visible on the front side of the OLM."
+    } ]
+  }, {
+    "tStartMs": 2767680,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "This was super awkward and I knew folks were about"
+    } ]
+  }, {
+    "tStartMs": 2769900,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "to start calling me out on Twitter \nfor being wrong with my prediction."
+    } ]
+  }, {
+    "tStartMs": 2772660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Luckily this test actually did end \nup being something that we had never"
+    } ]
+  }, {
+    "tStartMs": 2776200,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "seen before because SpaceX performed a long \nduration static fire test of a single engine."
+    } ]
+  }, {
+    "tStartMs": 2780880,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "So it kind of worked out."
+    } ]
+  }, {
+    "tStartMs": 2782740,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The next day Mauricio was finally able \nto get out to the launch complex. This"
+    } ]
+  }, {
+    "tStartMs": 2786820,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "was the first time we had someone on site \nsince the beginning of all this craziness."
+    } ]
+  }, {
+    "tStartMs": 2790780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "These are the first images that we received \nshowing the new pipes that were added onto"
+    } ]
+  }, {
+    "tStartMs": 2794620,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "the table with the booster sitting on top \nof the launch mount. It was difficult to"
+    } ]
+  }, {
+    "tStartMs": 2798520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "see underneath to determine how these \nwere being connected to the engines."
+    } ]
+  }, {
+    "tStartMs": 2801520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "We were extremely lucky that Mauricio was \nable to catch this Glimpse in between two"
+    } ]
+  }, {
+    "tStartMs": 2806140,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "of the engine Bells. When I saw this picture \nfor the first time I was extremely confused."
+    } ]
+  }, {
+    "tStartMs": 2812500,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "What is going on here? How are these supposed \nto connect to the engines...are they Bluetooth?"
+    } ]
+  }, {
+    "tStartMs": 2820000,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "looking closely I noticed some green painted \nlines on the Inside Edge of the table skirt that"
+    } ]
+  }, {
+    "tStartMs": 2824860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "hadn't been there before which suggested that \nthere may be even more of these still to come."
+    } ]
+  }, {
+    "tStartMs": 2829720,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Because they seem to be mounted in pairs I \nassumed that there may actually be two for"
+    } ]
+  }, {
+    "tStartMs": 2833980,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "each of the outer 20 engines so that would \nmean there are 40 of these pipes in total."
+    } ]
+  }, {
+    "tStartMs": 2839440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "The reason I figured there would be \ntwo for each engine is because there"
+    } ]
+  }, {
+    "tStartMs": 2842560,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "are four drain ports on each Raptor.\nBased on this diagram of the Raptor"
+    } ]
+  }, {
+    "tStartMs": 2846460,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "engine it makes sense that there are two LOX \ndrains and two CH4 (methane) drains. Of course"
+    } ]
+  }, {
+    "tStartMs": 2851380,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "this is a Raptor V1 we are seeing here but \nthese drain ports still exist on Raptor V2."
+    } ]
+  }, {
+    "tStartMs": 2855940,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Also the end of the pipes looked \nvery similar to the fittings found"
+    } ]
+  }, {
+    "tStartMs": 2859300,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "on the drain ports which is where \nthis pipe should be attached to."
+    } ]
+  }, {
+    "tStartMs": 2862540,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It does look a little larger than the drain \npipes but it's hard to tell without seeing"
+    } ]
+  }, {
+    "tStartMs": 2866740,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "them next to each other five days later on August \n16th there was another important addition made."
+    } ]
+  }, {
+    "tStartMs": 2871360,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "We noticed that SpaceX Engineers had added a \nnew circular manifold around the table. That's"
+    } ]
+  }, {
+    "tStartMs": 2876640,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "when it became clear that they were planning \nto collect it and send it somewhere else."
+    } ]
+  }, {
+    "tStartMs": 2880540,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "This makes a lot more sense than the alternative \nwhich is dumping it over the side of the table"
+    } ]
+  }, {
+    "tStartMs": 2884980,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "where it most likely would still find a way to mix \nwith the methane Cloud during the spin Prime test."
+    } ]
+  }, {
+    "tStartMs": 2890260,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Some of you might be thinking... well wouldn't \nthis be a problem on the suborbital pad as well?"
+    } ]
+  }, {
+    "tStartMs": 2894280,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "The answer is yes."
+    } ]
+  }, {
+    "tStartMs": 2895540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "As you can see, the existing system is \nclearly not doing enough to redirect the"
+    } ]
+  }, {
+    "tStartMs": 2899680,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "flow of liquid oxygen from making its \nway to the underside of the test stand."
+    } ]
+  }, {
+    "tStartMs": 2902920,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Luckily SpaceX is in the process of upgrading this \nto a more powerful system called the ultra Purge."
+    } ]
+  }, {
+    "tStartMs": 2908800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Two days after the manifold was \nlifted into place we got some"
+    } ]
+  }, {
+    "tStartMs": 2911680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "close-up images of it allowing us to \nsee the port where each of the pipes"
+    } ]
+  }, {
+    "tStartMs": 2915040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "would later be connected to after they \nwere bent into the correct positions."
+    } ]
+  }, {
+    "tStartMs": 2919120,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Looking at the right side of the manifold you \ncan see that it dips down and goes underneath"
+    } ]
+  }, {
+    "tStartMs": 2923140,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "the BQD (Booster Quick Disconnect) shield. \nSome of the pipes were already connected"
+    } ]
+  }, {
+    "tStartMs": 2926320,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "on this side after the pipe continues \npast the gigantic QD hood is connected"
+    } ]
+  }, {
+    "tStartMs": 2930940,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "to a Tee fitting which completes the \ncircular manifold around the table."
+    } ]
+  }, {
+    "tStartMs": 2934240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "As you can tell, once both ends of \nthe manifold join together at the tee,"
+    } ]
+  }, {
+    "tStartMs": 2938080,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "the pipe diameter is increased. \nThis should reduce any possible"
+    } ]
+  }, {
+    "tStartMs": 2941860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "flow restrictions that can occur when \nthe split flow combines into one."
+    } ]
+  }, {
+    "tStartMs": 2945220,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "This larger pipe goes down the legs and \ninto the doghouse at the base. From there,"
+    } ]
+  }, {
+    "tStartMs": 2950620,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "it comes out of the little hole they drilled \ninto the steel box and then turns down into"
+    } ]
+  }, {
+    "tStartMs": 2954940,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "the ground. It re-emerges inside of this concrete \ntube, which is either used to protect everything"
+    } ]
+  }, {
+    "tStartMs": 2960220,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "on the outside from the internal explosions, or \nprotect what's inside from external explosions."
+    } ]
+  }, {
+    "tStartMs": 2965860,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "But if they're worried about that,"
+    } ]
+  }, {
+    "tStartMs": 2967840,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "then every pipe on the launch Mount would \nbe covered so I don't think that's the case."
+    } ]
+  }, {
+    "tStartMs": 2971860,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "This is an alternative solution to \nbearing a bunch of Precast culverts"
+    } ]
+  }, {
+    "tStartMs": 2975940,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "like these ones into the ground \nthen covering them up with concrete."
+    } ]
+  }, {
+    "tStartMs": 2979660,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "By the way a little off topic but \nthese just randomly showed up to"
+    } ]
+  }, {
+    "tStartMs": 2983560,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the suborbital farm a few weeks ago \nwhich is incredibly odd. Definitely"
+    } ]
+  }, {
+    "tStartMs": 2987280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "be on the lookout over the coming weeks \nto see if these are put to use soon."
+    } ]
+  }, {
+    "tStartMs": 2990160,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Anyways since these culverts weren't needed, \nit saved a lot of time as they quickly ran"
+    } ]
+  }, {
+    "tStartMs": 2994660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "this pipe over to the new u-shaped berm \nwhich had just been added the week before."
+    } ]
+  }, {
+    "tStartMs": 2999940,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "A few weeks later, this is what the finished \nproduct looked like. As you can tell,"
+    } ]
+  }, {
+    "tStartMs": 3004080,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "the sloped walls of the bowl \nare about six to eight feet"
+    } ]
+  }, {
+    "tStartMs": 3006660,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "high which makes this a pretty \ndecently sized collection Basin."
+    } ]
+  }, {
+    "tStartMs": 3009840,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Thanks to Mauricio, we can see what this \nlooks like in action during all stages of"
+    } ]
+  }, {
+    "tStartMs": 3013740,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "the Raptor chill process. The moment liquid \noxygen loading begins on the booster gaseous"
+    } ]
+  }, {
+    "tStartMs": 3018240,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "oxygen from the Raptor chill pipes will start \nventing from the outlet at the collection Basin."
+    } ]
+  }, {
+    "tStartMs": 3022500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "From this aerial perspective it's easier to \nidentify the moment that the flow transitions"
+    } ]
+  }, {
+    "tStartMs": 3026580,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "over to the liquid phase as a LOX pool \nbegins to form inside of the pit. T"
+    } ]
+  }, {
+    "tStartMs": 3030930,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "he Raptor chill remains active for the entire \nLOX loading process, which directly affects"
+    } ]
+  }, {
+    "tStartMs": 3035160,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "what you will see inside of this pit. The \nmore liquid oxygen loaded onto the booster,"
+    } ]
+  }, {
+    "tStartMs": 3038580,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "the longer the Raptor chill sequence will be. That \nmeans this pit will continue to fill even longer."
+    } ]
+  }, {
+    "tStartMs": 3043740,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "When you increase the amount of engines being \ntested, the rate of liquid flow into this pit"
+    } ]
+  }, {
+    "tStartMs": 3047640,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "will increase as well. The next phase in \nthis process happens when the liquid oxygen"
+    } ]
+  }, {
+    "tStartMs": 3051660,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "pumps shut down and the butterfly valve on the \nbooster QD for the main fill ports is closed."
+    } ]
+  }, {
+    "tStartMs": 3056340,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "After this, you will notice the bleed \nvalve on the side of the OLM open back"
+    } ]
+  }, {
+    "tStartMs": 3059820,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "up and begin draining liquid oxygen \nfrom the tri-blade vent. This is an"
+    } ]
+  }, {
+    "tStartMs": 3063780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "important moment that I don't think \na lot of people fully understand."
+    } ]
+  }, {
+    "tStartMs": 3066720,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "What you're seeing here is the liquid oxygen \nflex-hose being drained of its contents. This is"
+    } ]
+  }, {
+    "tStartMs": 3071700,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "most likely a safety precaution in case something \nwere to go wrong with the booster QD connection."
+    } ]
+  }, {
+    "tStartMs": 3075840,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "It also reduces the weight of the flex hoses, \nwhich is probably critical for making sure"
+    } ]
+  }, {
+    "tStartMs": 3080340,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "that the quick disconnect and retraction \nmechanism for the BQD functions properly."
+    } ]
+  }, {
+    "tStartMs": 3084360,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "These massive hoses have to move with the hood \nmechanism as it opens and closes so if they"
+    } ]
+  }, {
+    "tStartMs": 3089460,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "remain filled it would dramatically increase \nthe stress on the hydraulic system foreign"
+    } ]
+  }, {
+    "tStartMs": 3096060,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Anyways once the flex hoses are empty and the"
+    } ]
+  }, {
+    "tStartMs": 3098100,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "bleed valve is shut you can consider \nthe fuel loading process complete."
+    } ]
+  }, {
+    "tStartMs": 3101460,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "LOX bath anyone???"
+    } ]
+  }, {
+    "tStartMs": 3103380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So now we pretty much understand \neverything except how the outer"
+    } ]
+  }, {
+    "tStartMs": 3106380,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "20 engines connect to this pipe on the \ncollection manifold. Up to this point,"
+    } ]
+  }, {
+    "tStartMs": 3110160,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I had my assumption of how this \nworked, but I needed to be sure."
+    } ]
+  }, {
+    "tStartMs": 3114060,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "When booster 7 returned to the launch \ncomplex after having all 13 of its"
+    } ]
+  }, {
+    "tStartMs": 3117600,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Center engines reinstalled on August \n23rd I realized that this might be"
+    } ]
+  }, {
+    "tStartMs": 3121500,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "my only chance to catch SpaceX in the \nprocess of hooking all this stuff up."
+    } ]
+  }, {
+    "tStartMs": 3125820,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "As soon as it was lifted onto the \nlaunch Mount, the Stakeout was underway."
+    } ]
+  }, {
+    "tStartMs": 3129660,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Sometime around two in the morning the \nfollowing day, I found what I was looking for."
+    } ]
+  }, {
+    "tStartMs": 3133860,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Two workers up on a man basket lifting what \nI assumed was 40 blue flex hoses onto the"
+    } ]
+  }, {
+    "tStartMs": 3139260,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "work platform. If you get anything out of \nthis episode, remember this... If you're"
+    } ]
+  }, {
+    "tStartMs": 3143640,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "going to be the type of person who likes \nto quickly jump to conclusions like me,"
+    } ]
+  }, {
+    "tStartMs": 3146340,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "make sure you're also equally as quick \nto identify signs and you got it wrong."
+    } ]
+  }, {
+    "tStartMs": 3150600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "When I noticed the worker in the back \nlifting up a handful of red hoses,"
+    } ]
+  }, {
+    "tStartMs": 3153840,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "an alarm was immediately triggered in my brain."
+    } ]
+  }, {
+    "tStartMs": 3156420,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "\"wait what why are those ones a different color"
+    } ]
+  }, {
+    "tStartMs": 3159780,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "is it possible that half of these drains \nare oxygen and the other half are methane"
+    } ]
+  }, {
+    "tStartMs": 3164760,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "that would be awkward combining them into a mixed \nflow inside of the collection manifold....?\""
+    } ]
+  }, {
+    "tStartMs": 3169800,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But no, it turns out that \nthis was something different."
+    } ]
+  }, {
+    "tStartMs": 3172320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "The red hoses were actually longer \nthan the blue ones and they were"
+    } ]
+  }, {
+    "tStartMs": 3175680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "significantly less of them since he \nwas able to lift all of them at once."
+    } ]
+  }, {
+    "tStartMs": 3178560,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Shortly after this, I was watching as the workers \nbegan to connect the hoses to each of the outer 20"
+    } ]
+  }, {
+    "tStartMs": 3183480,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "engines. I noticed that almost all the hoses \nI was seeing being passed around were blue."
+    } ]
+  }, {
+    "tStartMs": 3188220,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Not a single red one."
+    } ]
+  }, {
+    "tStartMs": 3189720,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "I also noticed that there was still one \nlonely pipe in the middle of the skirt."
+    } ]
+  }, {
+    "tStartMs": 3193980,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "I was expecting another one to have been \ninstalled next to it by now, so this would"
+    } ]
+  }, {
+    "tStartMs": 3198420,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "give us three sets of two collection pipes in \nbetween each of the six legs for a total of 36.."
+    } ]
+  }, {
+    "tStartMs": 3205320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "wait.... and that's when it clicked"
+    } ]
+  }, {
+    "tStartMs": 3207840,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "\"oh nahhh there's 33 of them not 40. wow\""
+    } ]
+  }, {
+    "tStartMs": 3212940,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "The reason there are five on this side and \nsix on the other one directly across from"
+    } ]
+  }, {
+    "tStartMs": 3216240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "it is because if you have five pipes between \neach set of legs, that gives you 30 in total"
+    } ]
+  }, {
+    "tStartMs": 3221580,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "which means the sides with six pipes \nmust be where the three Center engines"
+    } ]
+  }, {
+    "tStartMs": 3225780,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "are routed to. The red hoses must be longer \nin order to reach the center 13 engines."
+    } ]
+  }, {
+    "tStartMs": 3230700,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Now that I finally understood how the engines \nwere being connected to the collection manifold it"
+    } ]
+  }, {
+    "tStartMs": 3235500,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "makes a lot more sense why the curved sections of \nengine shielding for booster 7 were never replaced"
+    } ]
+  }, {
+    "tStartMs": 3240840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "leaving the shield off makes it easier \nto reach the drain which has likely been"
+    } ]
+  }, {
+    "tStartMs": 3244440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "relocated since it won't be needed to point \nstraight down towards the ground anymore."
+    } ]
+  }, {
+    "tStartMs": 3248880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I believe that in order to reach the center 13"
+    } ]
+  }, {
+    "tStartMs": 3250920,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "engines the hoses for those engines must \nalso come in through the same openings."
+    } ]
+  }, {
+    "tStartMs": 3255120,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "If not they would have to be ran in between \nthe engine bells and that sounds like a"
+    } ]
+  }, {
+    "tStartMs": 3259500,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "terrible idea considering they will have \nto survive static fire testing of course"
+    } ]
+  }, {
+    "tStartMs": 3263520,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "this also explains why the robustness upgrades \neveryone was expecting still did not include"
+    } ]
+  }, {
+    "tStartMs": 3268260,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the curved shielding which has been missing \never since booster 7 decided to Ejecto-Seato."
+    } ]
+  }, {
+    "tStartMs": 3273660,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Seriously though, these hoses \nfor the center 13 engines..."
+    } ]
+  }, {
+    "tStartMs": 3277140,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "wow I can't even imagine trying to Route \nthose through all of that pipe work."
+    } ]
+  }, {
+    "tStartMs": 3281640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But two days later, I realized it \nmight actually be necessary to do"
+    } ]
+  }, {
+    "tStartMs": 3285960,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "just that and here's why? On August 25th I \ngot my first close-up of the Raptor chill"
+    } ]
+  }, {
+    "tStartMs": 3291000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "pipes in action I missed the first triple spin \nPrime test because.... uh yeah I was at work."
+    } ]
+  }, {
+    "tStartMs": 3297060,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "I could have caught the second one but I missed \nthat one as well because after I saw this I"
+    } ]
+  }, {
+    "tStartMs": 3302220,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "realized that I had some work to do. While most \npeople watching the live stream, were checking"
+    } ]
+  }, {
+    "tStartMs": 3306120,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "out the rain falling from the wet engine Bells \nI was staring at these three pipes right here."
+    } ]
+  }, {
+    "tStartMs": 3311400,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "As you can see, they look like they \nare white instead of shiny and silver."
+    } ]
+  }, {
+    "tStartMs": 3315360,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "The reason is because they're \ncovered in Frost because there"
+    } ]
+  }, {
+    "tStartMs": 3318180,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "is liquid oxygen still boiling \noff inside of the Raptor engines."
+    } ]
+  }, {
+    "tStartMs": 3321240,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "This is amazing just by looking at these pipes \nyou can count how many engines are about to be"
+    } ]
+  }, {
+    "tStartMs": 3326340,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "involved in the spin prime or static fire test.\nIf only I knew which engines they connected to,"
+    } ]
+  }, {
+    "tStartMs": 3330720,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "maybe I could predict which \nones were about to be tested."
+    } ]
+  }, {
+    "tStartMs": 3333420,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "This could come in handy for later. So I \ngot to work trying to figure out exactly"
+    } ]
+  }, {
+    "tStartMs": 3338220,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "how these were laid out starting with \nfiguring out which sides had six pipes"
+    } ]
+  }, {
+    "tStartMs": 3342120,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "instead of five so I could determine \nwhere the center engines were located."
+    } ]
+  }, {
+    "tStartMs": 3345000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "In order to do this, we need \na common reference point."
+    } ]
+  }, {
+    "tStartMs": 3347880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "The best one to use is this picture from Elon,"
+    } ]
+  }, {
+    "tStartMs": 3350400,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "which is deceptively hard to figure \nout which way it's facing. So,"
+    } ]
+  }, {
+    "tStartMs": 3353940,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I'll help you out this is basically looking in \nthe direction if you were facing the booster"
+    } ]
+  }, {
+    "tStartMs": 3358260,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "QD from the same angle that Cosmic perspective \nhad during the seven engine static fire test."
+    } ]
+  }, {
+    "tStartMs": 3363240,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So now that we know which direction \nthis is pointing in ,let's run through"
+    } ]
+  }, {
+    "tStartMs": 3366960,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "this quickly. Looking under the skirt at \nthe far side, we can see four pipes but"
+    } ]
+  }, {
+    "tStartMs": 3371400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "that's not one of the options though \nso we have to move to the back side."
+    } ]
+  }, {
+    "tStartMs": 3374280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Now that we're here we can count the pipe fittings \nthat have been welded onto the manifold in this"
+    } ]
+  }, {
+    "tStartMs": 3378720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "section on the far right we can see a single \nInlet to the right of the second double grouping."
+    } ]
+  }, {
+    "tStartMs": 3383520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "As a quick observation, before we \ncontinue the fittings for the outer"
+    } ]
+  }, {
+    "tStartMs": 3387120,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "20 engines should be evenly spaced around \nthe manifold anytime we see two pipes next"
+    } ]
+  }, {
+    "tStartMs": 3391860,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "to each other like this it means that one \nof them is going to the center ring of 10."
+    } ]
+  }, {
+    "tStartMs": 3395880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "This is because it has to go up through \nthe closest open engine Shield cover in"
+    } ]
+  }, {
+    "tStartMs": 3400200,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "order to get there. At the next section, we \nhave six pipes but I labeled this as five"
+    } ]
+  }, {
+    "tStartMs": 3404460,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "because you will see that one of them \nactually goes up inside of the table."
+    } ]
+  }, {
+    "tStartMs": 3407580,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "If I had to guess this is used for monitoring \ninternal pressure or possibly something else"
+    } ]
+  }, {
+    "tStartMs": 3412680,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "but we still are not that part of the \ninvestigation yet. Next a real group of"
+    } ]
+  }, {
+    "tStartMs": 3417540,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "six engines and another one right next to it \nfollowed by five in between the two legs that"
+    } ]
+  }, {
+    "tStartMs": 3422460,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Rover 2 camera is usually pointing towards \nand then we can assume the last one is six."
+    } ]
+  }, {
+    "tStartMs": 3427680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Once I determined where the groups \nof five and six were located,"
+    } ]
+  }, {
+    "tStartMs": 3430320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it was time to figure out how the \nengines were being grouped together."
+    } ]
+  }, {
+    "tStartMs": 3434040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "This was probably the most difficult part \nto figure out but after a late night with"
+    } ]
+  }, {
+    "tStartMs": 3437640,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "CSI special agent Jax, we were able to come \nup with an engine grouping that made sense."
+    } ]
+  }, {
+    "tStartMs": 3442440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The next part was going to be key because I \nneeded to figure out how to properly route"
+    } ]
+  }, {
+    "tStartMs": 3446280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "the pipes as accurately as possible if I wanted to \nbe able to predict which ones were being tested."
+    } ]
+  }, {
+    "tStartMs": 3450840,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "About halfway through, I got really \nfrustrated with how complex this was."
+    } ]
+  }, {
+    "tStartMs": 3454380,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "There has to be a way of simplifying all \nthis. I feel like the center 13 engines"
+    } ]
+  }, {
+    "tStartMs": 3458880,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "should be routed through the booster QD \nor something. I mean, I know that adds"
+    } ]
+  }, {
+    "tStartMs": 3463020,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "a little bit of pipe work in order to create \na manifold for these 13 engines but maybe it"
+    } ]
+  }, {
+    "tStartMs": 3467460,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "could be offset by... I don't know using the \nbooster QD to start the center 13 engines?"
+    } ]
+  }, {
+    "tStartMs": 3472500,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "If the launch Mount was responsible for starting \nall 33 engines instead of just the outer 20,"
+    } ]
+  }, {
+    "tStartMs": 3477360,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "then the booster would only need enough \nCOPV's for Boost back and the landing burn."
+    } ]
+  }, {
+    "tStartMs": 3482880,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Depending on how many engines are \nused during the Boost back burn phase,"
+    } ]
+  }, {
+    "tStartMs": 3485640,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the total amount of COPV's needed \non the booster could be cut in half."
+    } ]
+  }, {
+    "tStartMs": 3490320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I usually keep thoughts like this \nto myself but I decided to tweet it"
+    } ]
+  }, {
+    "tStartMs": 3493440,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "out as a question to Elon then I threw my \nphone to the side and went back to work."
+    } ]
+  }, {
+    "tStartMs": 3497820,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "The next morning Elon surprisingly responded \nto my tweet with the following statement"
+    } ]
+  }, {
+    "tStartMs": 3501960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "\"Agreed we recently made \nthis change and many others\""
+    } ]
+  }, {
+    "tStartMs": 3506880,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "wow that's pretty groundbreaking but the reason \nI was surprised because he sent it out in a tweet"
+    } ]
+  }, {
+    "tStartMs": 3513300,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "\"bro I'm right over here on the on the highway\""
+    } ]
+  }, {
+    "tStartMs": 3517080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I mean I appreciated it but he could \nhave just walked over and told me"
+    } ]
+  }, {
+    "tStartMs": 3521340,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and what's with the second part of this tweet?"
+    } ]
+  }, {
+    "tStartMs": 3523320,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "\"An intense effort is underway to \nachieve robust engine containment in"
+    } ]
+  }, {
+    "tStartMs": 3527460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "case of RUD (Rapid unscheduled disassembly) to \nprotect booster other engines and launch ring\""
+    } ]
+  }, {
+    "tStartMs": 3532500,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Well that didn't really have \nanything to do with my question.."
+    } ]
+  }, {
+    "tStartMs": 3534540,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "\"Wait is this some kind of hint?? \noh I like these kind of games!\""
+    } ]
+  }, {
+    "tStartMs": 3539340,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I had to sit on that one for a while because \nI thought he was trying to distract me from"
+    } ]
+  }, {
+    "tStartMs": 3543060,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "this investigation. So I finally finished \nmy diagram and this is what it looks like."
+    } ]
+  }, {
+    "tStartMs": 3547620,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Pretty neat right? I call it the super heavy \nspaghetti special. It's a special because"
+    } ]
+  }, {
+    "tStartMs": 3552240,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "it's only here for a limited time because the \nbooster cannot launch like this. There is no way,"
+    } ]
+  }, {
+    "tStartMs": 3558060,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "but before we go and worry about \nwhat the permanent solution will"
+    } ]
+  }, {
+    "tStartMs": 3560520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "need to look like let's go have some fun \nwith this and enjoy it while it lasts."
+    } ]
+  }, {
+    "tStartMs": 3564420,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "It's time to put everything we have learned \nsince the start of this investigation to the"
+    } ]
+  }, {
+    "tStartMs": 3568380,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "test starting with this footage of the booster \n7 single engine static fire test on August 31st."
+    } ]
+  }, {
+    "tStartMs": 3573660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Playing this video at high speed for effect \nif you were to look at the manifold on"
+    } ]
+  }, {
+    "tStartMs": 3577860,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the left side of the leg you can see what \noccurs as soon as the Raptor chill begins."
+    } ]
+  }, {
+    "tStartMs": 3582240,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "The entire manifold begins to frost over. \nNote that it starts from just to the left"
+    } ]
+  }, {
+    "tStartMs": 3586980,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "of the Tee and it then quickly \ndescends down the leg of the OLM."
+    } ]
+  }, {
+    "tStartMs": 3591060,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Simultaneously it starts to travel in the \ndirection to the right of the Tee Union"
+    } ]
+  }, {
+    "tStartMs": 3594480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and here you can quickly see that all of \na sudden it starts to be difficult to see"
+    } ]
+  }, {
+    "tStartMs": 3598560,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "which direction is traveling because the \nwhole pipe frosts over at the same time."
+    } ]
+  }, {
+    "tStartMs": 3602760,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "If we zoom in, you can see the reason \nwhy it appears this way. The Raptor"
+    } ]
+  }, {
+    "tStartMs": 3606300,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "chill pipe in the very middle of \nthe screen is filling with liquid"
+    } ]
+  }, {
+    "tStartMs": 3609180,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "oxygen at the same time as the first \nengine on the left side of the Tee."
+    } ]
+  }, {
+    "tStartMs": 3612480,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "We won't be able to pinpoint that engine from \nthis angle, but we can identify engine number two."
+    } ]
+  }, {
+    "tStartMs": 3617340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Based on the fact that we are \nlooking at it from this angle,"
+    } ]
+  }, {
+    "tStartMs": 3619800,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "I believe that we should be \nseeing this engine right here."
+    } ]
+  }, {
+    "tStartMs": 3623280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "When we look at the static fire test it seems \nto line up pretty well but it's hard to know for"
+    } ]
+  }, {
+    "tStartMs": 3627600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "sure without some additional help and of course \nin this case one of the only people who's going"
+    } ]
+  }, {
+    "tStartMs": 3631800,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "to be able to tell us for sure which engines \nis actually being fired is Ryan Hansen Space."
+    } ]
+  }, {
+    "tStartMs": 3636420,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So with his help I wanted to test my \ntheory during the next major testing event."
+    } ]
+  }, {
+    "tStartMs": 3640980,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Thanks to Ryan we were able to \nget a diagram of which engines"
+    } ]
+  }, {
+    "tStartMs": 3643500,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "were tested so we could go back and see \nhow well they lined up with my groupings."
+    } ]
+  }, {
+    "tStartMs": 3647760,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "We only had one good angle of this test where it \nzoomed in enough to see the frosted pipes so we"
+    } ]
+  }, {
+    "tStartMs": 3652740,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "can for sure see one right here and then another \none on the other side this should correspond"
+    } ]
+  }, {
+    "tStartMs": 3658620,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "with these two engines highlighted here. Which \naccording to Ryan's diagram, lines up perfectly,"
+    } ]
+  }, {
+    "tStartMs": 3664320,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "There is another one over to the \nright side which is also frosted"
+    } ]
+  }, {
+    "tStartMs": 3667080,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and I believe this matches up with \nthe Raptor boost engine right here."
+    } ]
+  }, {
+    "tStartMs": 3670260,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "This diagram might not be perfect but the \npoint is now you at least know what to look"
+    } ]
+  }, {
+    "tStartMs": 3674880,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "for when watching these tests it gets \neven easier if you're using lab Padres"
+    } ]
+  }, {
+    "tStartMs": 3679020,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Predator camera which is my favorite \ncamera for watching static fire tests."
+    } ]
+  }, {
+    "tStartMs": 3682680,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "This is what it looks like when a three engine \nstatic fire is about to happen. You can tell it's"
+    } ]
+  }, {
+    "tStartMs": 3687540,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "a low number of engines because the manifold is \npatchy and only parts of it are blue. When you do"
+    } ]
+  }, {
+    "tStartMs": 3692520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "see the blue patches of ultra cold pipe that means \nthere is an engine nearby in chill down mode."
+    } ]
+  }, {
+    "tStartMs": 3697800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The engine group directly in front of us \nwill not be tested at all in this example."
+    } ]
+  }, {
+    "tStartMs": 3702780,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "On the flip side this is what it looks like \nwhen SpaceX is preparing to do a 33 engine test."
+    } ]
+  }, {
+    "tStartMs": 3708420,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "You can see that the collection manifold \nis glowing blue and there are black lines"
+    } ]
+  }, {
+    "tStartMs": 3712200,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "coming down from where each of the \nindividual collection pipes are."
+    } ]
+  }, {
+    "tStartMs": 3716640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "From this distance, some of the \npipes are too close together to"
+    } ]
+  }, {
+    "tStartMs": 3719400,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "distinguish apart from each other so \nthey appear as a single black line."
+    } ]
+  }, {
+    "tStartMs": 3724500,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "There are some obvious limitations \nwith trying to spot the Frosted"
+    } ]
+  }, {
+    "tStartMs": 3727560,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "chill lines if we don't have a view of \nthe back side of the launch Mount then"
+    } ]
+  }, {
+    "tStartMs": 3730620,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "we can really only see about half \nthe Raptor chill lines attached."
+    } ]
+  }, {
+    "tStartMs": 3733320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So to actually identify every engine \nposition on the table would require some"
+    } ]
+  }, {
+    "tStartMs": 3738000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "coordination from every live stream camera \nthat has a clear view of the launch mount"
+    } ]
+  }, {
+    "tStartMs": 3742020,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "they would all need to be zoomed \nin looking for it at the same time"
+    } ]
+  }, {
+    "tStartMs": 3747300,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Anyways as cool as this is what we're \nlooking at is not really a good thing."
+    } ]
+  }, {
+    "tStartMs": 3751740,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I think we can all agree that this is a \ntemporary solution and SpaceX cannot launch"
+    } ]
+  }, {
+    "tStartMs": 3755700,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "like this with 33 manual disconnects \nattached inside the engine skirt."
+    } ]
+  }, {
+    "tStartMs": 3759660,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So what are they going to do?"
+    } ]
+  }, {
+    "tStartMs": 3761160,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "We haven't seen them working on any \nother permanent Solutions right?"
+    } ]
+  }, {
+    "tStartMs": 3763620,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Well what if I told you that SpaceX might \nalready have a solution for this but for"
+    } ]
+  }, {
+    "tStartMs": 3768120,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "some reason they're just not using it? Between me \nand you I think they might even be afraid of it..."
+    } ]
+  }, {
+    "tStartMs": 3774840,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "I gotta say that quietly because I'm \npretty sure that this Tower can hear me."
+    } ]
+  }, {
+    "tStartMs": 3778320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "This is the only system on the orbital launch \nMount that I have never once seen in action."
+    } ]
+  }, {
+    "tStartMs": 3782880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I want to warn all of you that what I'm about \nto tell you is highly speculative in nature."
+    } ]
+  }, {
+    "tStartMs": 3786600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "There is a strong possibility that \nsome of the information you're about"
+    } ]
+  }, {
+    "tStartMs": 3789120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "to hear could be incorrect. As you \ncan tell, the orbital launch Mount"
+    } ]
+  }, {
+    "tStartMs": 3792660,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "is an extremely complicated machine so take \neverything I say with a huge pinch of salt."
+    } ]
+  }, {
+    "tStartMs": 3797640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Well unfortunately, we're gonna have to wait \nuntil part two of this deep dive investigation"
+    } ]
+  }, {
+    "tStartMs": 3801480,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "to answer these questions. This might have \nseemed like all the information you could"
+    } ]
+  }, {
+    "tStartMs": 3805080,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "possibly need but trust me we have a lot more to \ncover and you're not going to want to miss this."
+    } ]
+  }, {
+    "tStartMs": 3809640,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So make sure to subscribe \nthe channel if you haven't"
+    } ]
+  }, {
+    "tStartMs": 3811440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "already and also hit the alert icon \nso you don't miss the next premiere."
+    } ]
+  }, {
+    "tStartMs": 3815340,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Hopefully those of you who are returning \nviewers can tell that I really went out of"
+    } ]
+  }, {
+    "tStartMs": 3818400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "my way to create a different experience for you \nall this time around I know a lot of folks like"
+    } ]
+  }, {
+    "tStartMs": 3822960,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "this type of format of actually being on site \nat Starbase far more than the green screen."
+    } ]
+  }, {
+    "tStartMs": 3827220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "If you would like to see more of these types \nof Deep dive investigations and would like"
+    } ]
+  }, {
+    "tStartMs": 3830940,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "to help contribute to making it possible for \nme to do this more often then please consider"
+    } ]
+  }, {
+    "tStartMs": 3834720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "joining the channel as a YouTube member \nor becoming a monthly supporter on patreon"
+    } ]
+  }, {
+    "tStartMs": 3839220,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "both options will give you access to the CSI \nStarbase Discord server depending on the tier."
+    } ]
+  }, {
+    "tStartMs": 3844560,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "For those who would like to have an immediate \nimpact and donate towards the Cinematic camera"
+    } ]
+  }, {
+    "tStartMs": 3848100,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "fund, so we can drastically improve the \nquality of these skits and cutscenes you"
+    } ]
+  }, {
+    "tStartMs": 3851700,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "could do so by donating to CSI Starbase on \nPayPal using the link in the description."
+    } ]
+  }, {
+    "tStartMs": 3855780,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "We're just over halfway there so I want \nto say a huge thank you to everyone who"
+    } ]
+  }, {
+    "tStartMs": 3860160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "has supported this channel so far hopefully I \ndidn't miss any of your names in the credits,"
+    } ]
+  }, {
+    "tStartMs": 3864120,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "if so don't hesitate to reach out \nto me on patreon and let me know."
+    } ]
+  }, {
+    "tStartMs": 3868260,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Last but not least I want to give another \nmassive shout out to Marcus House,"
+    } ]
+  }, {
+    "tStartMs": 3871500,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "StarshipGazer and Tim Dodd for their \ndirect contributions to this episode and"
+    } ]
+  }, {
+    "tStartMs": 3875820,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "also to the photographers and 3D forensics \nagents whose footage was used here today."
+    } ]
+  }, {
+    "tStartMs": 3880560,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Without them none of this would be possible,. \nIf you would like to support any of these"
+    } ]
+  }, {
+    "tStartMs": 3884580,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "artists you can find the links to their \nvarious Platforms in the descriptions."
+    } ]
+  }, {
+    "tStartMs": 3887640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "But I want to let you all know that \nby supporting CSI Starbase you are"
+    } ]
+  }, {
+    "tStartMs": 3891480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "also supporting these photographers and 3D \nartists the reason I say that is because we"
+    } ]
+  }, {
+    "tStartMs": 3895320,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "have committed to reinvesting two-thirds of our \npatreon income back into these content creators."
+    } ]
+  }, {
+    "tStartMs": 3900240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "As I said, we truly need them in order \nto continue doing what we do here."
+    } ]
+  }, {
+    "tStartMs": 3904080,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "So Thank you all again for watching part one \nof this deep dive investigation don't forget"
+    } ]
+  }, {
+    "tStartMs": 3907980,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "to tune in to the Starbase weekly \nlive stream hosted by RGV aerial"
+    } ]
+  }, {
+    "tStartMs": 3911580,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "photography every Saturday at noon Central Time."
+    } ]
+  }, {
+    "tStartMs": 3914340,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "I don't always have time to cover \neverything during these episodes"
+    } ]
+  }, {
+    "tStartMs": 3916680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "so there's a ton of stuff that you \nwill only hear on those live streams"
+    } ]
+  }, {
+    "tStartMs": 3920700,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "another thing you can only get from RGV Aerial, \nis this awesome T-shirt with the Starship TPS"
+    } ]
+  }, {
+    "tStartMs": 3925680,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "tiles on it if you want one of these for \nyourself or for someone special in your"
+    } ]
+  }, {
+    "tStartMs": 3929580,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "life then check out the RGV merch store \nwhich I have Linked In the description."
+    } ]
+  }, {
+    "tStartMs": 3933420,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "With that it looks like my time is up I'll \nsee you all on part two of this investigation."
+    } ]
+  }, {
+    "tStartMs": 3937800,
+    "dDurationMs": 3219,
+    "segs": [ {
+      "utf8": "Until then StageZeroZack signing off [Music]"
+    } ]
+  } ]
+}

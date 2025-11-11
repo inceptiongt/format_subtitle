@@ -1,0 +1,5767 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 4080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "嘿，星际迷航的粉丝们，我是 ZacK Golden\n，欢迎收看另一期 CSI 星际基地深度"
+    } ]
+  }, {
+    "tStartMs": 8880,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "调查。 今天我们要讲的内容很多，所以我\n打算尽快切入正题。"
+    } ]
+  }, {
+    "tStartMs": 13260,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "各位——呃，老观众们——\n现在就可以趁这个时间把一袋爆米花放进"
+    } ]
+  }, {
+    "tStartMs": 17640,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "微波炉里，因为这就是我\n过去两个月一直在警告你们的那一集，"
+    } ]
+  }, {
+    "tStartMs": 21540,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "它会有点紧张刺激。 对于\n其他所有人来说，如果这是你第一次点击"
+    } ]
+  }, {
+    "tStartMs": 25560,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "CSI Starbase 的缩略图……那么你好，欢迎\n来到本频道。 谢谢你们给我们这个机会！"
+    } ]
+  }, {
+    "tStartMs": 30840,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "我通常不会这样做，但由于\n本集时长较长，我觉得应该"
+    } ]
+  }, {
+    "tStartMs": 34020,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "事先提醒您一下，为了\n尊重您的时间，"
+    } ]
+  }, {
+    "tStartMs": 37980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "如果您只是想快速了解\n本周 SpaceX 在星际基地"
+    } ]
+  }, {
+    "tStartMs": 41400,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "准备进行 33 台发动机静态\n点火测试期间发生的事件，那么您来错地方了，我的"
+    } ]
+  }, {
+    "tStartMs": 46140,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "朋友，因为这是深度解析的内容。\n你偶然看到的这期时长较长的节目，"
+    } ]
+  }, {
+    "tStartMs": 51480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "旨在让那些想要\n真正了解"
+    } ]
+  }, {
+    "tStartMs": 55200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "SpaceX 在准备进行史上\n首次 33 台发动机静态点火测试时所面临的严峻挑战的人们，"
+    } ]
+  }, {
+    "tStartMs": 60780,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "究竟是什么让这个发射系统\n如此复杂和危险？"
+    } ]
+  }, {
+    "tStartMs": 66300,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "在过去的三个月里，SpaceX 提出了哪些解决方案，才能在\n"
+    } ]
+  }, {
+    "tStartMs": 71640,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "不损坏飞行器\n和发射系统的情况下，安全地进行 33 英寸静态点火测试？ 这些"
+    } ]
+  }, {
+    "tStartMs": 77700,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "解决方案足以进行首次轨道飞行\n测试吗？或者，在我们开始抱有希望之前，是否还有一些重要的迹象"
+    } ]
+  }, {
+    "tStartMs": 81660,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "需要我们注意\n？ 如果你不确定"
+    } ]
+  }, {
+    "tStartMs": 85980,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "如何回答这些问题，那么\n你最好坐下来系好安全带，"
+    } ]
+  }, {
+    "tStartMs": 89640,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "因为当其他人\n做好爆米花回来后，好戏就要上演了。"
+    } ]
+  }, {
+    "tStartMs": 103680,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "欢迎来到CSI星际基地。"
+    } ]
+  }, {
+    "tStartMs": 110100,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "[音乐] 你知道吗，我想告诉你们\n一个秘密。 我们机构投入了大量的"
+    } ]
+  }, {
+    "tStartMs": 116820,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "时间、资源和精力来收集\n"
+    } ]
+  }, {
+    "tStartMs": 121980,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "解释这些高级主题所需的信息和内容。\n很多时候，你可能会发现"
+    } ]
+  }, {
+    "tStartMs": 125700,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "我完全可以直接给出\n答案，但我希望你明白，"
+    } ]
+  }, {
+    "tStartMs": 129840,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "我的个人使命是，无论\n你的经验水平如何，无论你是"
+    } ]
+  }, {
+    "tStartMs": 134160,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "昨天才发现星舰，还是明天\n可能就能在 SpaceX 找到工作的才华横溢的工程师，"
+    } ]
+  }, {
+    "tStartMs": 137640,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "你都会学到\n一些你今天以前不知道的东西。"
+    } ]
+  }, {
+    "tStartMs": 142380,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "本次深度调查旨在让\n您即使从未看过"
+    } ]
+  }, {
+    "tStartMs": 146280,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "任何一集《CSI星际基地》也能理解剧情。 但是，如果\n你想获得最佳体验，我建议"
+    } ]
+  }, {
+    "tStartMs": 151680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "\n如果你能看完这一集，就回去把这六集都看完。"
+    } ]
+  }, {
+    "tStartMs": 157140,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "已经看过这些剧集的各位\n将会注意到许多微妙的细节和暗示，"
+    } ]
+  }, {
+    "tStartMs": 161520,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "否则你们将会错过这些细节和暗示。为了节省时间，我\n不会重新解释那些已经"
+    } ]
+  }, {
+    "tStartMs": 165960,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "在剧集中详尽阐述过的内容，但我会\n纠正过去任何"
+    } ]
+  }, {
+    "tStartMs": 170700,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "可能被证明是错误的推测。 今年8月16日，\n我发布了这份深度调查报告。"
+    } ]
+  }, {
+    "tStartMs": 175500,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "7号助推器爆炸：对\n所涉及的复杂机械系统进行详细分析。 在这次深入"
+    } ]
+  }, {
+    "tStartMs": 182220,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "讲解活动中，我解释了轨道发射\n台的构造，特别是我们讨论了"
+    } ]
+  }, {
+    "tStartMs": 186720,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "大多数主要的内外系统\n和组件，它们协同工作，使之成为"
+    } ]
+  }, {
+    "tStartMs": 191100,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "地球上最先进的发射系统。\n这包括巨大的压紧夹、"
+    } ]
+  }, {
+    "tStartMs": 196080,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "用于启动\n外侧 20 台猛禽助推发动机的猛禽快速断开装置，以及"
+    } ]
+  }, {
+    "tStartMs": 201180,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "发射台侧面的点火面板，这些面板\n负责实际点燃这"
+    } ]
+  }, {
+    "tStartMs": 205140,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "20 台发动机。 利用这些信息，我们能够\n更好地了解我们认为"
+    } ]
+  }, {
+    "tStartMs": 210600,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "在 7 月份发生的第 7 次疫苗测试异常中出了什么问题\n。 唯一的问题是，"
+    } ]
+  }, {
+    "tStartMs": 215940,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "我们得出的一些结论有点\n缺陷，因为轨道发射台有一个重要的特征"
+    } ]
+  }, {
+    "tStartMs": 220500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "我们还没有\n讨论。 我指的是"
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "低温推进剂蒸汽回收系统。如果该\n系统运行正常，SpaceX 应该"
+    } ]
+  }, {
+    "tStartMs": 230220,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "能够回收这些测试中使用的大部分甲烷。\n然而，也有一些特殊情况，"
+    } ]
+  }, {
+    "tStartMs": 234540,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "回收几乎是不可能的。 第一个例子\n是"
+    } ]
+  }, {
+    "tStartMs": 239940,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "在卸罐作业开始时甲烷罐的初始减压过程中。\n其次，"
+    } ]
+  }, {
+    "tStartMs": 245100,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "在静态点火测试中，发动机消耗的甲烷会明显损失\n；第三种特殊情况是，"
+    } ]
+  }, {
+    "tStartMs": 250500,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "正如我在那期节目中提到的，33 台 Raptor 2 发动机在启动过程中会发生这种情况\n。"
+    } ]
+  }, {
+    "tStartMs": 255540,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "我认为，在调查的这一部分，我们留下了一些\n需要填补的重大信息漏洞。"
+    } ]
+  }, {
+    "tStartMs": 260880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "为了填补这些漏洞，我们需要\n从与上次不同的角度来处理这个问题。"
+    } ]
+  }, {
+    "tStartMs": 264600,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "一旦我们对蒸汽回收系统的工作原理有了基本的了解，\n我们就可以重新评估"
+    } ]
+  }, {
+    "tStartMs": 269460,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "爆炸事件，并查明\n究竟发生了什么。"
+    } ]
+  }, {
+    "tStartMs": 273480,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "在我们深入探讨之前，我想说的最后一件事是，如果\n你在三分钟后沙漏结束时学到了今天之前不知道的东西"
+    } ]
+  }, {
+    "tStartMs": 276960,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "\n，那么请考虑"
+    } ]
+  }, {
+    "tStartMs": 281820,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "点击“喜欢”按钮来支持 CSI Starbase。\n我在这些节目中看到最常见的评论之一是："
+    } ]
+  }, {
+    "tStartMs": 287220,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "为什么这是我第一次在\n我的推荐中看到这个频道？ 原因在于，"
+    } ]
+  }, {
+    "tStartMs": 292380,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "YouTube 算法必须收到大量\n的点赞作为“贿赂”，才会决定"
+    } ]
+  }, {
+    "tStartMs": 297840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "该内容值得分享给更广泛的\n受众。 所以，感谢每一位点赞"
+    } ]
+  }, {
+    "tStartMs": 302400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "支持本频道成长的朋友们\n。"
+    } ]
+  }, {
+    "tStartMs": 306960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "好的，我们从头开始。\nSpaceX 需要蒸汽回收系统的原因"
+    } ]
+  }, {
+    "tStartMs": 310560,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "是，如果没有它，在助推器和星舰的推进剂加注过程中，他们会在数小时内向\n大气中排放大量的甲烷"
+    } ]
+  }, {
+    "tStartMs": 315180,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 319980,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "当然，你永远不可能回收 100% 的\n气体，所以它们"
+    } ]
+  }, {
+    "tStartMs": 325140,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "在旋转启动和静态点火测试期间可能仍然会释放一些甲烷。 如果这些\n逸出的气体是造成爆炸的原因，"
+    } ]
+  }, {
+    "tStartMs": 330660,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "那么我们需要确切地知道它们来自哪里\n。 几个月前"
+    } ]
+  }, {
+    "tStartMs": 334920,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "我和马库斯·豪斯讨论这个话题时，其实得到了一个回答这个问题的重要线索\n。"
+    } ]
+  }, {
+    "tStartMs": 339780,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "所以，你确定泄漏出来的是甲烷气体，"
+    } ]
+  }, {
+    "tStartMs": 342060,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "因为甲烷是用作\n启动气体之一的，对吧？"
+    } ]
+  }, {
+    "tStartMs": 345120,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "是的，我不认识马库斯。\n"
+    } ]
+  }, {
+    "tStartMs": 347220,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "考虑到\n如果真是这样，它几乎是不可见的，因此很难证明这个理论。"
+    } ]
+  }, {
+    "tStartMs": 349620,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "我不太明白它怎么\n可能是看不见的，因为根据"
+    } ]
+  }, {
+    "tStartMs": 355080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "该项目的环境分析，SpaceX\n预计"
+    } ]
+  }, {
+    "tStartMs": 361320,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "在\n发射和静态点火测试操作期间将向大气中释放多达 7 公吨的甲烷。"
+    } ]
+  }, {
+    "tStartMs": 365460,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "我的意思是，这可真不少啊，伙计。 我们肯定\n能看到七吨甲烷。"
+    } ]
+  }, {
+    "tStartMs": 370320,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "是的，我的意思是，这听起来可能很多，\n尤其是考虑到"
+    } ]
+  }, {
+    "tStartMs": 374220,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "一辆大型液化天然气罐车可以装载大约 28\n吨液态甲烷。 所以这只是四分之一"
+    } ]
+  }, {
+    "tStartMs": 379980,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "的油轮，但考虑到\n助推器和星舰大约需要"
+    } ]
+  }, {
+    "tStartMs": 383820,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "一千吨甲烷才能装满\n两个油箱，那么总量的 0.7% 似乎相当低。"
+    } ]
+  }, {
+    "tStartMs": 388620,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "很遗憾，任何高于零的\n损失都会"
+    } ]
+  }, {
+    "tStartMs": 392880,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "对环境造成某种影响，\n这是我们无法忽视的……"
+    } ]
+  }, {
+    "tStartMs": 395850,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "是的，但目前我们暂时会忽略这一点，因为这项\n调查的目的是为了减轻"
+    } ]
+  }, {
+    "tStartMs": 399660,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "运行此类系统带来的爆炸风险，而\n不是环境风险。 我"
+    } ]
+  }, {
+    "tStartMs": 404400,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "想你不需要我来告诉你，整个\n行动极其复杂且风险极高……"
+    } ]
+  }, {
+    "tStartMs": 412140,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "你刚才是不是抄袭了马库斯的话？——\n马库斯，我想我需要"
+    } ]
+  }, {
+    "tStartMs": 414780,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "检查一下这个甲烷回收系统，看看是不是\n我漏掉了什么，但"
+    } ]
+  }, {
+    "tStartMs": 418800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "收集\n必要的资料来解释清楚还需要一段时间。"
+    } ]
+  }, {
+    "tStartMs": 422400,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "好吧，伙计，我很期待听到你的解释！"
+    } ]
+  }, {
+    "tStartMs": 428520,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "好的，两个月过去了\n，我意识到，为了解释"
+    } ]
+  }, {
+    "tStartMs": 432240,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "甲烷回收系统，并\n追踪这七吨甲烷的"
+    } ]
+  }, {
+    "tStartMs": 436380,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "来源，我们需要一步一步地\n了解推进剂装载过程。"
+    } ]
+  }, {
+    "tStartMs": 440400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "由于储罐区甲烷部分的复杂性，\n"
+    } ]
+  }, {
+    "tStartMs": 444240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "如果我们\n先从液氧部分入手，就更容易解释那里发生的情况。"
+    } ]
+  }, {
+    "tStartMs": 449460,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "问题在于，某种程度上，\n"
+    } ]
+  }, {
+    "tStartMs": 454500,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "储罐区的两侧同时发生着完全相同的过程。\n不过，两者之间还是存在一些关键区别，"
+    } ]
+  }, {
+    "tStartMs": 458760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "理解这些区别非常重要。"
+    } ]
+  }, {
+    "tStartMs": 461280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "很显然，SpaceX 绝对不可能\n让我进去"
+    } ]
+  }, {
+    "tStartMs": 465720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "给你们带参观。 这个过程极其\n危险，甚至不允许员工在现场"
+    } ]
+  }, {
+    "tStartMs": 470400,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "进行。 更别提\n像我这样的普通 YouTuber 了，即使穿戴了合适的安全装备也一样。"
+    } ]
+  }, {
+    "tStartMs": 476460,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "但是，我事先做了准备。 所以，是的——我们\n不想因为非法侵入而被捕，"
+    } ]
+  }, {
+    "tStartMs": 481440,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "因为那会很糟糕。多亏\n了星际基地模拟器游戏的开发者安迪，"
+    } ]
+  }, {
+    "tStartMs": 485820,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "我们不必冒这个险，因为我们\n可以在虚拟世界中完成它。 现在安迪已经更新了"
+    } ]
+  }, {
+    "tStartMs": 491100,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "游戏，加入了储罐区\n推进剂装载过程，如果我们选择这条注定要坐牢的路线，我们实际上"
+    } ]
+  }, {
+    "tStartMs": 494580,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "将能够看到比这多得多的内容\n。"
+    } ]
+  }, {
+    "tStartMs": 499980,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "希望到最后，您能\n更好地理解"
+    } ]
+  }, {
+    "tStartMs": 503520,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "在未来的测试活动中不同时间所看到的情况。"
+    } ]
+  }, {
+    "tStartMs": 509760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "好了，应该就这些了，\n我想我已经准备好了。"
+    } ]
+  }, {
+    "tStartMs": 515700,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "那么，从头开始，这就是\n轨道储罐区。 安迪通过给所有不同的液体涂上颜色，让我们更容易"
+    } ]
+  }, {
+    "tStartMs": 520620,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "理解这里发生的事情\n。 所以，蓝色的是"
+    } ]
+  }, {
+    "tStartMs": 525240,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "液氧，绿色的是液氮，\n那边水平储罐里装的"
+    } ]
+  }, {
+    "tStartMs": 530100,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "是液态甲烷，它是橙色的。\n低温液氧储存在这"
+    } ]
+  }, {
+    "tStartMs": 536340,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "三个储罐中，这三个储罐\n几乎以所有你能想象到的方式连接在一起。 这些"
+    } ]
+  }, {
+    "tStartMs": 540420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "被称为 GSE 储罐，即\n地面支持设备的缩写。"
+    } ]
+  }, {
+    "tStartMs": 544560,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "这些宽 9 米的储罐在内储罐和外盖之间有一层 1.5 米\n厚的隔热层，起到"
+    } ]
+  }, {
+    "tStartMs": 550440,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "\n夹套的作用。 这有助于将液体长时间保持在低温"
+    } ]
+  }, {
+    "tStartMs": 556020,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "状态。\n但是无论你做了多少隔热处理，"
+    } ]
+  }, {
+    "tStartMs": 560100,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "\n随着时间的推移，当温度慢慢升高时，总会有一些热量蒸发掉。"
+    } ]
+  }, {
+    "tStartMs": 564840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "当液氧从液态变为\n气态时，其体积急剧增加，"
+    } ]
+  }, {
+    "tStartMs": 569280,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "同时罐内压力也随之增加\n。 由于这些储罐是"
+    } ]
+  }, {
+    "tStartMs": 573780,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "连通的，因此它们同时承受着\n压力升高。"
+    } ]
+  }, {
+    "tStartMs": 577080,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "把它们想象成连体GSE三胞胎。 这些储罐的\n设计工作压力"
+    } ]
+  }, {
+    "tStartMs": 582900,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "范围与星舰和助推器相同。 当\n这些罐内的压力开始"
+    } ]
+  }, {
+    "tStartMs": 587580,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "接近上限时，\n三个罐上的泄压阀将同时打开，"
+    } ]
+  }, {
+    "tStartMs": 592260,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "多余的气体将通过这个泄放歧管排出，\n该歧管有一个通气管连接到"
+    } ]
+  }, {
+    "tStartMs": 597180,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "第一个液氧罐。 如果你参观星际基地，你\n会偶尔看到"
+    } ]
+  }, {
+    "tStartMs": 601500,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "压力调节系统在一天中的某些时间随机排气\n。SpaceX 全天候 24 小时、每周 7 天都在"
+    } ]
+  }, {
+    "tStartMs": 606360,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "缓慢地从\n这些储罐中释放氧气，这一点"
+    } ]
+  }, {
+    "tStartMs": 610740,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "在我们稍后讨论甲烷系统时需要注意。\n同样的原则也适用于那边，"
+    } ]
+  }, {
+    "tStartMs": 614940,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "尽管处理方式完全\n不同。 在将液氧"
+    } ]
+  }, {
+    "tStartMs": 619320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "从地面支持设备 (GSE) 储罐输送到位于\n发射台上的助推器之前。"
+    } ]
+  }, {
+    "tStartMs": 623280,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "首先必须经过超低温冷却过程，\n以缩小氧分子的尺寸。 这样就"
+    } ]
+  }, {
+    "tStartMs": 628260,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "增加了\n能够装载到助推器上的氧气总质量。"
+    } ]
+  }, {
+    "tStartMs": 632700,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "为了实现这一目标，SpaceX 将\n液氧通过一组"
+    } ]
+  }, {
+    "tStartMs": 636120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "热交换器，旨在对\n液态分子进行超冷却。"
+    } ]
+  }, {
+    "tStartMs": 639120,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "这是一种特殊的\n换热器，称为锅炉再沸器。"
+    } ]
+  }, {
+    "tStartMs": 642900,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "在测试开始之前——有时甚至\n在道路封闭之前——这些罐体就会开始"
+    } ]
+  }, {
+    "tStartMs": 646740,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "注入液氮，直到内部\n热交换器盘管完全浸没。"
+    } ]
+  }, {
+    "tStartMs": 652140,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这并非线圈的真实外观，\n但为了演示而进行了简化。"
+    } ]
+  }, {
+    "tStartMs": 656460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "实际上，在液氧侧我们再也看不到这种情况了，\n因为"
+    } ]
+  }, {
+    "tStartMs": 660300,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "液氧釜再沸器现在\n外部完全绝缘。 幸好，"
+    } ]
+  }, {
+    "tStartMs": 664320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "安迪制作的这段动画可以帮助我们。\n接下来，我们看到一根巨大的"
+    } ]
+  }, {
+    "tStartMs": 668520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "管道连接着\n储罐底部的出口，用于排放液氧。"
+    } ]
+  }, {
+    "tStartMs": 672120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "平时，这些管道要么\n是空的，要么是被水淹没的"
+    } ]
+  }, {
+    "tStartMs": 675660,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "。 一旦这个巨大的红色阀门打开，"
+    } ]
+  }, {
+    "tStartMs": 678360,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "液氧就会开始流经\n它，并进入图中所示的这三个泵。"
+    } ]
+  }, {
+    "tStartMs": 682860,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "问题是，阀门一打开，你并不想立刻开始泵血\n。 原因"
+    } ]
+  }, {
+    "tStartMs": 687300,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "是空管道\n整天都暴露在德克萨斯州炎热的阳光下，即使"
+    } ]
+  }, {
+    "tStartMs": 691380,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "它们有隔热层，长时间\n不用后也会变得非常热。"
+    } ]
+  }, {
+    "tStartMs": 696120,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "阀门打开时，低温液氧\n"
+    } ]
+  }, {
+    "tStartMs": 700260,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "接触到温热的钢材后会立即开始汽化。 这意味着\n你必须慢慢地将水灌满管道，"
+    } ]
+  }, {
+    "tStartMs": 704940,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "一直灌到水泵处，并让水泵\n冷却，这样液体就不会沸腾蒸发了。"
+    } ]
+  }, {
+    "tStartMs": 709500,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "这些管道内的温度\n至少需要降至零下273"
+    } ]
+  }, {
+    "tStartMs": 713700,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "华氏度，\n液氧才能停止接触后沸腾蒸发。"
+    } ]
+  }, {
+    "tStartMs": 717720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "如果这些泵在\n管道有机会冷却之前启动，则"
+    } ]
+  }, {
+    "tStartMs": 720960,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "很可能发生气蚀现象\n——这将造成相当严重的损害。"
+    } ]
+  }, {
+    "tStartMs": 725400,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "我在之前的节目中已经解释过这一点，所以如果你\n想了解更多关于泵空化的知识，我"
+    } ]
+  }, {
+    "tStartMs": 730140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "再次在本视频的描述中放了一个链接。\n[音乐]"
+    } ]
+  }, {
+    "tStartMs": 732360,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "液氧离开泵后，\n沿着这条路径流动，直到到达"
+    } ]
+  }, {
+    "tStartMs": 739860,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "上歧管，然后分成几路\n进入各个热交换器。 为了便于理解，"
+    } ]
+  }, {
+    "tStartMs": 742920,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "我们这里只模拟一台泵和\n一个热交换器"
+    } ]
+  }, {
+    "tStartMs": 746580,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "。 当\n液体到达沸腾釜再沸器时，较热的"
+    } ]
+  }, {
+    "tStartMs": 751080,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "液氧开始将热量传递给\n氮气，导致氮气开始沸腾蒸发。 这些水壶锅炉后部"
+    } ]
+  }, {
+    "tStartMs": 755880,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "没有控制氮气释放的阀门\n"
+    } ]
+  }, {
+    "tStartMs": 759540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "。 一旦内部压力足够大\n，就会将"
+    } ]
+  }, {
+    "tStartMs": 763680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "排气口后部的挡板推开。\n在此阶段，它们会开始"
+    } ]
+  }, {
+    "tStartMs": 768000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "喷出大量的氮气云，然后\n再次关闭，直到压力再次积聚。"
+    } ]
+  }, {
+    "tStartMs": 773100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "随着\n流经泵和盘管的液氧体积流量增加，从"
+    } ]
+  }, {
+    "tStartMs": 777900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "\n这些通风口后部排出的蒸汽量也会增加。"
+    } ]
+  }, {
+    "tStartMs": 781200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "不过，我们还不要操之过急，\n因为这仍然只是准备阶段。"
+    } ]
+  }, {
+    "tStartMs": 785820,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "当初始液氧流经\n这四个釜式锅炉后，它会"
+    } ]
+  }, {
+    "tStartMs": 790320,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "从底部流出，并在一根管道中重新汇合\n，然后被送往液体燃料仓。 此时，"
+    } ]
+  }, {
+    "tStartMs": 795360,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "这个掩体内的阀门可能会\n关闭，以便让管道"
+    } ]
+  }, {
+    "tStartMs": 799740,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "充满液氧并冷却下来。\n就像以前一样，我相信在"
+    } ]
+  }, {
+    "tStartMs": 804540,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "泵注水过程中和注水后，你会\n看到该区域出现大量排气，"
+    } ]
+  }, {
+    "tStartMs": 808800,
+    "dDurationMs": 5091,
+    "segs": [ {
+      "utf8": "因为 SpaceX 会将汽化的氧气（\n官方名称为“GOX”（气态"
+    } ]
+  }, {
+    "tStartMs": 813891,
+    "dDurationMs": 4809,
+    "segs": [ {
+      "utf8": "氧））释放到液体掩体的侧面。\n这被称为泄压阀，但我们将"
+    } ]
+  }, {
+    "tStartMs": 818700,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "其称为草坪通风口，以便\n更容易将其与其他通风口区分开来。 当"
+    } ]
+  }, {
+    "tStartMs": 823500,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "GOX\n不断从系统中排出"
+    } ]
+  }, {
+    "tStartMs": 826740,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "，"
+    } ]
+  }, {
+    "tStartMs": 829080,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "直到管道最终冷却到足以\n让液体到达下一个控制阀时，就会发生草根排气现象。"
+    } ]
+  }, {
+    "tStartMs": 833700,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "此时，可以打开大阀门，关闭\n通往沙坑侧面的草坪通风口"
+    } ]
+  }, {
+    "tStartMs": 838200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "。 从这里开始，\n液氧必须在地下移动数百"
+    } ]
+  }, {
+    "tStartMs": 843480,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "英尺才能到达发射\n台底部。 利用这张 2021 年 11 月的 RGV 图片，"
+    } ]
+  }, {
+    "tStartMs": 848340,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "我们可以看到它到达那里的路径。\n一旦到达轨道发射架 (OLM)，它就会"
+    } ]
+  }, {
+    "tStartMs": 852780,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "沿着支腿向上移动，然后进入\n助推器快速断开装置的后部。"
+    } ]
+  }, {
+    "tStartMs": 855900,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "这不仅距离很远，而且\n图中所示的液氧供应管道也"
+    } ]
+  }, {
+    "tStartMs": 861060,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "异常庞大。 以 SpaceX\n工人为例进行比较，你会发现"
+    } ]
+  }, {
+    "tStartMs": 865200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "他们的直径大约为 20 英寸。\n考虑到管道壁的厚度，"
+    } ]
+  }, {
+    "tStartMs": 869520,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "就很难想象\n我们这里究竟有多少钢材"
+    } ]
+  }, {
+    "tStartMs": 873960,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "需要冷却，才能使液氧\n泵开始将液体输送到增压器中。"
+    } ]
+  }, {
+    "tStartMs": 879540,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "如果\n燃料舱控制阀一"
+    } ]
+  }, {
+    "tStartMs": 883500,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "打开就立即开始泵送液体，液氧就会\n迅速剧烈地沸腾蒸发，可能"
+    } ]
+  }, {
+    "tStartMs": 887640,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "来不及将其排出。\n请记住，"
+    } ]
+  }, {
+    "tStartMs": 892020,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "液氧的膨胀系数为 1:861。 换句话说，1\n升液氧从液态转变为气态后，将膨胀成861"
+    } ]
+  }, {
+    "tStartMs": 899160,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "升气态O2\n。"
+    } ]
+  }, {
+    "tStartMs": 904620,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "所以就像上次阀门打开后一样，\n液氧会开始"
+    } ]
+  }, {
+    "tStartMs": 909600,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "慢慢流入系统，最终到达发射\n台。 这样一来，管道内的蒸发过程就会"
+    } ]
+  }, {
+    "tStartMs": 914100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "像\nTKOR YouTube 频道上的这个实验一样缓慢进行。"
+    } ]
+  }, {
+    "tStartMs": 918960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "另一方面，这也是\n你不希望发生的事情的例子。"
+    } ]
+  }, {
+    "tStartMs": 922080,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "这种火山效应会导致压力急剧增加，"
+    } ]
+  }, {
+    "tStartMs": 924900,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "而这种压力\n更难预测和控制。 和"
+    } ]
+  }, {
+    "tStartMs": 927660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "以前一样，需要\n在该管道段的末端设置一个泄压阀，"
+    } ]
+  }, {
+    "tStartMs": 931860,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "以便释放\n管道内气体持续沸腾时产生的压力。"
+    } ]
+  }, {
+    "tStartMs": 935940,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "如果你曾经在\n轨道发射台上观看过超重型助推器测试，"
+    } ]
+  }, {
+    "tStartMs": 939060,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "那么你就会对这个助推器非常熟悉。\n它位于 OLM 的侧面，"
+    } ]
+  }, {
+    "tStartMs": 943260,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "由这个蓝色阀门执行器控制，\n这使得它显得格外显眼。"
+    } ]
+  }, {
+    "tStartMs": 947700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "当这个阀门打开时，气态\n氧开始从通风口流出，"
+    } ]
+  }, {
+    "tStartMs": 950700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "\n随着"
+    } ]
+  }, {
+    "tStartMs": 953940,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "液氧从\n液体储罐缓慢流向发射台，流量强度逐渐增加。"
+    } ]
+  }, {
+    "tStartMs": 957120,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "当液体最终到达排气口时，情况\n就非常明显了。 最初"
+    } ]
+  }, {
+    "tStartMs": 961380,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "从发射台延伸出来的一缕蒸汽云，\n突然"
+    } ]
+  }, {
+    "tStartMs": 964980,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "变成了一股巨浪，一直蔓延\n到发射场的另一侧。"
+    } ]
+  }, {
+    "tStartMs": 968340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "为了使云层更快消散，并"
+    } ]
+  }, {
+    "tStartMs": 970860,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "防止液氧在\n发射台下方积聚"
+    } ]
+  }, {
+    "tStartMs": 973320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "，SpaceX 在泄压阀的末端安装了一个特殊的\n喷嘴。"
+    } ]
+  }, {
+    "tStartMs": 977520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "仔细观察，我们可以看到\n喷嘴末端有三个旋转叶片，"
+    } ]
+  }, {
+    "tStartMs": 981720,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "它们会打乱流体流动，使\n流体呈锥形云状扩散，"
+    } ]
+  }, {
+    "tStartMs": 985500,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "而不是像\n花园水管喷出的水一样落到地面上。"
+    } ]
+  }, {
+    "tStartMs": 988680,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "确认液体流动几分钟后，"
+    } ]
+  }, {
+    "tStartMs": 991380,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "泄压阀关闭，\n液氧可以开始"
+    } ]
+  }, {
+    "tStartMs": 994800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "流入巨大的软管，然后流到\n增压器快速接头的背面。"
+    } ]
+  }, {
+    "tStartMs": 998280,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "希望你现在明白了这一点\n——我可以省略关于"
+    } ]
+  }, {
+    "tStartMs": 1002180,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "\n轨道发射集成塔上完全相同的过程的冗长解释："
+    } ]
+  }, {
+    "tStartMs": 1005900,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "从\n结构底部的通风口开始，"
+    } ]
+  }, {
+    "tStartMs": 1008300,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "然后在塔的第五层垂直立柱顶部附近再有一个通风口，\n"
+    } ]
+  }, {
+    "tStartMs": 1012260,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "然后在\n星舰快速断开臂上还有一个通风口。"
+    } ]
+  }, {
+    "tStartMs": 1015020,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "现在我们已经了解了"
+    } ]
+  }, {
+    "tStartMs": 1016880,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "星舰预装燃料的基本原理，\n接下来让我们看看储罐区的甲烷部分。"
+    } ]
+  }, {
+    "tStartMs": 1023060,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "将\n低温甲烷缓慢注入管道系统的每个部分的所有规则也"
+    } ]
+  }, {
+    "tStartMs": 1026600,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "同样适用于这里。\n"
+    } ]
+  }, {
+    "tStartMs": 1030140,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "液氧侧发生的一切也必须同时发生在\n甲烷侧。"
+    } ]
+  }, {
+    "tStartMs": 1034460,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "凡是有\n液氧启动泄压阀的地方，"
+    } ]
+  }, {
+    "tStartMs": 1037400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "都必须有相应的\n甲烷泄压阀，以便"
+    } ]
+  }, {
+    "tStartMs": 1040460,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "释放\n管道内积聚的气化气体的压力。"
+    } ]
+  }, {
+    "tStartMs": 1044600,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "主要区别在于，你无法像在液氧侧那样看到\n每个管道段的注水过程"
+    } ]
+  }, {
+    "tStartMs": 1048020,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1051320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "嗯……可以，但是标志不一样。"
+    } ]
+  }, {
+    "tStartMs": 1053960,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "原因是 SpaceX 会尽一切\n可能在推进剂装载过程的各个阶段回收甲烷"
+    } ]
+  }, {
+    "tStartMs": 1058640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "。 因此，与我们\n"
+    } ]
+  }, {
+    "tStartMs": 1062480,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "之前讨论过的那些泄压阀另一侧的开放大气不同\n，气体流被"
+    } ]
+  }, {
+    "tStartMs": 1065720,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "分流到甲烷回收系统。\n\n没人会在意你"
+    } ]
+  }, {
+    "tStartMs": 1070100,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "在这些测试活动中排出大量的氧气\n。 这样做实际上更便宜，"
+    } ]
+  }, {
+    "tStartMs": 1073340,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "我个人还挺欣赏这种做法的。\n在这里，氧气永远不嫌多。"
+    } ]
+  }, {
+    "tStartMs": 1078440,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "而甲烷则是一种强\n效温室气体。 因此，"
+    } ]
+  }, {
+    "tStartMs": 1083000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "像这样将其排放到大气中将被\n视为不负责任且极其"
+    } ]
+  }, {
+    "tStartMs": 1086360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "危险的做法，因为这两种\n气体有可能混合在一起，"
+    } ]
+  }, {
+    "tStartMs": 1090800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "在\n储罐区和发射台周围的区域形成爆炸性混合物。 在星际基地，"
+    } ]
+  }, {
+    "tStartMs": 1098300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "防止尽可能多的\n甲烷泄漏"
+    } ]
+  }, {
+    "tStartMs": 1101000,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "到大气中是一项全天候的工作。"
+    } ]
+  }, {
+    "tStartMs": 1103460,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "只要这七个卧式甲烷储罐中有燃料\n，回收系统就会运行。"
+    } ]
+  }, {
+    "tStartMs": 1109100,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "这个过程极其复杂，这也是\n储罐区右侧"
+    } ]
+  }, {
+    "tStartMs": 1112880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "看起来与左侧截然不同的原因……\n当然，还有一个显而易见的事实："
+    } ]
+  }, {
+    "tStartMs": 1117320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "\n他们没有像最初计划的那样使用 40 米高的垂直储罐，而是使用了"
+    } ]
+  }, {
+    "tStartMs": 1121400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "水平储罐……我敢肯定，\nSpaceX 地面支持设备团队的每个人都暗自讨厌这一点。"
+    } ]
+  }, {
+    "tStartMs": 1127340,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "那么它是如何运作的呢？"
+    } ]
+  }, {
+    "tStartMs": 1128900,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "好，\n我们就按照之前处理液氧部分的方式，把整个过程都过一遍。"
+    } ]
+  }, {
+    "tStartMs": 1133100,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "首先，我之所以将其描述\n为 24/7 全天候运行，是因为储存"
+    } ]
+  }, {
+    "tStartMs": 1138380,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "在这些罐中的甲烷会\n像液氧一样，随着时间的推移不断蒸发。"
+    } ]
+  }, {
+    "tStartMs": 1142700,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "甲烷气体不是排放到\n大气中，而是收集在回流"
+    } ]
+  }, {
+    "tStartMs": 1147020,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "管中，然后输送到\n位于两个甲烷釜再沸器后面的这个罐子里。"
+    } ]
+  }, {
+    "tStartMs": 1151700,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "就像河马形状的水壶一样，"
+    } ]
+  }, {
+    "tStartMs": 1153980,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "这也是一个热交换罐。 它利用\n液氮将气态甲烷冷凝"
+    } ]
+  }, {
+    "tStartMs": 1158900,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "回液态，然后将其\n送回储罐。"
+    } ]
+  }, {
+    "tStartMs": 1162560,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "无论一天中的哪个时间，你都能\n看到这个水箱在工作。 有时，"
+    } ]
+  }, {
+    "tStartMs": 1167000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "这种流动几乎看不见，如果没有\n像"
+    } ]
+  }, {
+    "tStartMs": 1170420,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "24 号飞船腹部的隔热瓦这样的背景物，\n你可能根本不会注意到它。"
+    } ]
+  }, {
+    "tStartMs": 1173900,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "随着该热交换器处理的甲烷气体量的\n增加，从排气烟囱流出的"
+    } ]
+  }, {
+    "tStartMs": 1177620,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "氮气的声压和密度也\n随之增加。"
+    } ]
+  }, {
+    "tStartMs": 1183740,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "回到燃料装载过程，\n下一步与油罐区的液氧侧相同"
+    } ]
+  }, {
+    "tStartMs": 1187940,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "。 首先，将锅炉\n注入液氮，使内部"
+    } ]
+  }, {
+    "tStartMs": 1191180,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "所有换热盘管\n完全浸没。"
+    } ]
+  }, {
+    "tStartMs": 1194000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "接下来，将液态甲烷缓慢注入"
+    } ]
+  }, {
+    "tStartMs": 1196640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "系统，以加热\n储罐和泵之间的管道。 和"
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "以前一样，在完成这项工作之前，\n不会"
+    } ]
+  }, {
+    "tStartMs": 1203000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "启动水泵，以防止水泵\n因空化而受到损坏。"
+    } ]
+  }, {
+    "tStartMs": 1206120,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "不过说实话，我\n觉得储罐区"
+    } ]
+  }, {
+    "tStartMs": 1209600,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "甲烷侧的防空化措施效果不太好\n……但我们改天再谈这个话题，"
+    } ]
+  }, {
+    "tStartMs": 1213500,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "因为它\n与回收系统无关。"
+    } ]
+  }, {
+    "tStartMs": 1216740,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "在泵和釜式锅炉完成注水后，\n甲烷被送往液体燃料舱，"
+    } ]
+  }, {
+    "tStartMs": 1221000,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "以释放系统中的气体压力。\n由于管道被水淹没，所以"
+    } ]
+  }, {
+    "tStartMs": 1224960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "泄压阀可能就在液氧泄压阀几英尺远的地方，\n"
+    } ]
+  }, {
+    "tStartMs": 1228920,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "而不是像液氧侧那样使用草皮通风口。\n这种汽化的甲烷气体被送回"
+    } ]
+  }, {
+    "tStartMs": 1233780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "用于处理\n储罐蒸发气体的同一个热交换器。"
+    } ]
+  }, {
+    "tStartMs": 1237620,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "虽然很难\n像通过草坪通风口那样判断它何时到达沙坑，"
+    } ]
+  }, {
+    "tStartMs": 1240380,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "但热交换器通风口的活动\n是判断不同过程阶段之间过渡发生情况的一个很好的标志"
+    } ]
+  }, {
+    "tStartMs": 1244700,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\n。"
+    } ]
+  }, {
+    "tStartMs": 1247760,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "甲烷渗入\n系统其余部分的速率受到"
+    } ]
+  }, {
+    "tStartMs": 1251900,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "热交换器将\n产生的气态气体转化回液体的速度的限制。"
+    } ]
+  }, {
+    "tStartMs": 1257180,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "正如我所说，这相当复杂。"
+    } ]
+  }, {
+    "tStartMs": 1258980,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "最后，随着第二级预热\n完成，SpaceX 可以开始"
+    } ]
+  }, {
+    "tStartMs": 1263180,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "向发射台输送液态甲烷（又称猛禽燃料）\n。 我认为，这就是"
+    } ]
+  }, {
+    "tStartMs": 1267980,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "液氧罐区和甲烷罐区之间另一个关键区别\n发挥作用的地方。"
+    } ]
+  }, {
+    "tStartMs": 1271700,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "液氧侧有很高的垂直\n储罐，几乎装满了液氧，因此可以利用"
+    } ]
+  }, {
+    "tStartMs": 1276620,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "静水压力将液体一直推到\n增压器快速接头的高度。"
+    } ]
+  }, {
+    "tStartMs": 1280160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "我们都知道，甲烷储存\n在水平罐中，这些罐"
+    } ]
+  }, {
+    "tStartMs": 1284120,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "远低于 QD 的高度，这\n意味着，如果没有相当大的"
+    } ]
+  }, {
+    "tStartMs": 1288140,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "罐内背压或启动\n甲烷泵，这些管道中的液位"
+    } ]
+  }, {
+    "tStartMs": 1292700,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "不会比\n我现在所处的高度高多少。"
+    } ]
+  }, {
+    "tStartMs": 1296540,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "与此同时，液氧液位\n已经到达了 QD 的软管。"
+    } ]
+  }, {
+    "tStartMs": 1300980,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "我们知道这一点是因为 OLM 侧面的泄压阀\n在我们被雾气遮蔽视线时刚刚关闭"
+    } ]
+  }, {
+    "tStartMs": 1305660,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "，所以现在是时候\n以非常低的流量设置启动其中一个甲烷泵了。"
+    } ]
+  }, {
+    "tStartMs": 1310520,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "你可以通过观察锅炉\n背面的两个排气口"
+    } ]
+  }, {
+    "tStartMs": 1313460,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "开始\n喷出两股氮气来判断这种情况是否发生。"
+    } ]
+  }, {
+    "tStartMs": 1317180,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "开始时声音比较小，\n听起来有点像"
+    } ]
+  }, {
+    "tStartMs": 1320360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "\n自动洗车循环结束时启动的鼓风机的声音。"
+    } ]
+  }, {
+    "tStartMs": 1323360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "现在锅炉正在工作，"
+    } ]
+  }, {
+    "tStartMs": 1325520,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "我们可以假设 SpaceX 正在缓慢地将\n甲烷从"
+    } ]
+  }, {
+    "tStartMs": 1330500,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "轨道发射台 (OLM) 的底部泵送到助推器量子点 (QD)，同时\n开始为最后一段"
+    } ]
+  }, {
+    "tStartMs": 1334880,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "低温管道注气。 回到\nLOX 排气口正上方的位置，我们可以看到另一个"
+    } ]
+  }, {
+    "tStartMs": 1339380,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "蓝色阀门执行器连接到\n从主燃料供应管分出的管道上。"
+    } ]
+  }, {
+    "tStartMs": 1344180,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "虽然无法确定，但我们\n不妨假设，"
+    } ]
+  }, {
+    "tStartMs": 1348260,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "当\n预加载的这一阶段开始时，液氧泄漏同时打开了这一阀门。 一旦启动，"
+    } ]
+  }, {
+    "tStartMs": 1353060,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "泄放阀会将气体通过这根\n管道分流到 QD 的另一侧，在那里"
+    } ]
+  }, {
+    "tStartMs": 1357800,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "它连接到另一根大型黑色管道，这根管道\n正式名称为甲烷泄放管。"
+    } ]
+  }, {
+    "tStartMs": 1362240,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "甲烷泄放管线沿着\n发射台的另一侧向下延伸，在那里与来自集成塔的"
+    } ]
+  }, {
+    "tStartMs": 1366800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "另一条黑色甲烷泄放管线汇合\n。"
+    } ]
+  }, {
+    "tStartMs": 1369920,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "从那里，它回到储罐\n区，在那里它也由前两个步骤中"
+    } ]
+  }, {
+    "tStartMs": 1373700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "使用的同一个热交换器进行处理\n。"
+    } ]
+  }, {
+    "tStartMs": 1376100,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "一旦泵开始运转，\n管道内的蒸发速率就会开始增加。"
+    } ]
+  }, {
+    "tStartMs": 1380240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "假设热交换器已经\n以最大冷却能力运行，则"
+    } ]
+  }, {
+    "tStartMs": 1384080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "溢流被分流到\n此处所示的二次立式甲烷冷凝器。"
+    } ]
+  }, {
+    "tStartMs": 1388280,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "完成这一步后，就可以开始\n工作了。两个推进剂主"
+    } ]
+  }, {
+    "tStartMs": 1393200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "供应管的温度都已经降到了最低，\n"
+    } ]
+  }, {
+    "tStartMs": 1396920,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "通过泄放阀的甲烷流量\n终于达到了即使"
+    } ]
+  }, {
+    "tStartMs": 1400340,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "阀门打开，液体也开始\n流到软管顶部的程度。"
+    } ]
+  }, {
+    "tStartMs": 1404180,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "现在系统已完全注水，\n是时候同时关闭两个泄压阀"
+    } ]
+  }, {
+    "tStartMs": 1408080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "并打开快速\n接头上的蝶阀了。"
+    } ]
+  }, {
+    "tStartMs": 1411320,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "你现在听到的，无疑是\n我在星际基地中最喜欢的声音，"
+    } ]
+  }, {
+    "tStartMs": 1415820,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "我非常感谢 Labpadre 的 Rover 2\n相机正好位于这个位置……"
+    } ]
+  }, {
+    "tStartMs": 1419720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "尽管很多时候，\n蒸汽云变得非常浓厚，以至于你"
+    } ]
+  }, {
+    "tStartMs": 1423680,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "什么都看不见，就像\n几分钟前泵启动之前那样。"
+    } ]
+  }, {
+    "tStartMs": 1427580,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 1430040,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "\n正如你所看到的，这台相机让我更好地理解了许多关键细节，数量之多令人难以置信。 更"
+    } ]
+  }, {
+    "tStartMs": 1434300,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "疯狂的是，我们甚至还没开始讨论\n"
+    } ]
+  }, {
+    "tStartMs": 1438980,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "通过这台摄像机的\n孪生兄弟的视角来观察这些事件所能看到的一切，但我们很快就会谈到这一点。"
+    } ]
+  }, {
+    "tStartMs": 1446780,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "哇，所以我们终于了解了\n"
+    } ]
+  }, {
+    "tStartMs": 1449360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "超重型助推器甲烷回收的大部分原理，对吧？"
+    } ]
+  }, {
+    "tStartMs": 1451700,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "我确实省略了与卸油相关的部分，\n但这有几个原因。"
+    } ]
+  }, {
+    "tStartMs": 1455480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "1.\n我认为在卸油过程中发生爆炸的可能性极低。"
+    } ]
+  }, {
+    "tStartMs": 1460760,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "别忘了，整个\n调查的重点就是爆炸"
+    } ]
+  }, {
+    "tStartMs": 1464780,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "。2. 这集已经够长了，\n我尽量尊重大家的时间"
+    } ]
+  }, {
+    "tStartMs": 1469280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "。3. 除了我之外，我认识的唯一一个真正关心\n卸油的人是蒂姆·多德。"
+    } ]
+  }, {
+    "tStartMs": 1473840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "回收需要多长时间……因为\n你可能……怎么……那是什么"
+    } ]
+  }, {
+    "tStartMs": 1477560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "样子？因为你必须把\n推进剂排回油箱。"
+    } ]
+  }, {
+    "tStartMs": 1481340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "所以，与其专门做一整集节目来讲解，不如哪天"
+    } ]
+  }, {
+    "tStartMs": 1483800,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "当面跟他解释一下，\n因为埃隆肯定会这么做。"
+    } ]
+  }, {
+    "tStartMs": 1491600,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "如果SpaceX用这么多\n不同的方法捕获甲烷，那么这7吨"
+    } ]
+  }, {
+    "tStartMs": 1497420,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "甲烷是从哪里来的？有没有什么\n办法可以降低爆炸的风险？"
+    } ]
+  }, {
+    "tStartMs": 1501500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "至于甲烷的\n来源，答案其实"
+    } ]
+  }, {
+    "tStartMs": 1504800,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "很简单，因为埃隆\n在事件发生后的推文中已经告诉过我们了。"
+    } ]
+  }, {
+    "tStartMs": 1508700,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "他把事情说得清清楚楚。"
+    } ]
+  }, {
+    "tStartMs": 1511640,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "唯一的问题是，这些声明内容\n过于复杂，"
+    } ]
+  }, {
+    "tStartMs": 1514460,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "以至于我认为大多数人——\n包括当时的我自己——都没有完全理解"
+    } ]
+  }, {
+    "tStartMs": 1518480,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "他所透露的信息量。"
+    } ]
+  }, {
+    "tStartMs": 1520940,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "我提到的那条推文最初是\n对 NASA 发布的"
+    } ]
+  }, {
+    "tStartMs": 1524900,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "33 号发动机旋转 Prime 爆炸的太空飞行视频的回应。"
+    } ]
+  }, {
+    "tStartMs": 1527120,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "在撤回之前的声明\n（称这是故意的）后，埃隆"
+    } ]
+  }, {
+    "tStartMs": 1531260,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "回应说，是的，实际上并非\n如此，团队正在评估损失。"
+    } ]
+  }, {
+    "tStartMs": 1536060,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "对此，\n来自"
+    } ]
+  }, {
+    "tStartMs": 1538940,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "天体物理中心的著名天文学家乔纳森·\n麦克道尔博士指出，"
+    } ]
+  }, {
+    "tStartMs": 1542780,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "\n新型猛禽2发动机的研发过程仍处于非常早期的阶段。"
+    } ]
+  }, {
+    "tStartMs": 1546200,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "对此，埃隆回应说，\n低温燃料是一个额外的挑战，"
+    } ]
+  }, {
+    "tStartMs": 1549860,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "因为它\n在像地球这样部分含氧的大气中蒸发，会产生燃料空气爆炸的风险。"
+    } ]
+  }, {
+    "tStartMs": 1555440,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "也就是说，我们有传感器可以\n检测到这种情况，以后还会有更多。"
+    } ]
+  }, {
+    "tStartMs": 1559220,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "接下来，他被问及是否可以使用\n火花燃烧系统来烧掉泄漏的燃料，"
+    } ]
+  }, {
+    "tStartMs": 1563840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "类似于\n航天飞机点火前在底部使用的系统。"
+    } ]
+  }, {
+    "tStartMs": 1567560,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "埃隆回应说：“这是我们\n接下来要做的事情之一，但这个问题"
+    } ]
+  }, {
+    "tStartMs": 1572060,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "特指发动机启动\n旋转测试，因为猛禽的"
+    } ]
+  }, {
+    "tStartMs": 1576560,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "启动过程很复杂。以后我们不会再\n一次性对全部33台发动机进行启动旋转测试了。”"
+    } ]
+  }, {
+    "tStartMs": 1580940,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "这里面有很多信息需要分析。"
+    } ]
+  }, {
+    "tStartMs": 1582980,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "首先，我们还没有看到发射台\n下方添加烟花"
+    } ]
+  }, {
+    "tStartMs": 1585980,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "。 相信我，\n为了确保万无一失，我一直在外面找他们。"
+    } ]
+  }, {
+    "tStartMs": 1590060,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "它们或许是件好事，但它们肯定\n无法阻止我们今天所看到的景象。"
+    } ]
+  }, {
+    "tStartMs": 1594200,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "不过，观看这一幕肯定会非常精彩\n——尽管这会对发射结构造成极大的"
+    } ]
+  }, {
+    "tStartMs": 1598700,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "破坏——\n零级扎克对此肯定不会太高兴。"
+    } ]
+  }, {
+    "tStartMs": 1602960,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "我为什么这么说？"
+    } ]
+  }, {
+    "tStartMs": 1604040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "如果这次测试中使用了烟花棒，\n那么他们还不如直接"
+    } ]
+  }, {
+    "tStartMs": 1607580,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "进行 33 台发动机的预燃器测试，因为\n结果肯定就是这样。 发动机底部"
+    } ]
+  }, {
+    "tStartMs": 1611000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "喷射出一道巨大的火焰柱\n。"
+    } ]
+  }, {
+    "tStartMs": 1614420,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "我们怎么知道这一点？"
+    } ]
+  }, {
+    "tStartMs": 1615260,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "原因在于，\n你在这次旋转"
+    } ]
+  }, {
+    "tStartMs": 1617900,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Prime测试中看到的很可能\n几乎完全是液态甲烷。"
+    } ]
+  }, {
+    "tStartMs": 1620960,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "没有泄漏。"
+    } ]
+  }, {
+    "tStartMs": 1622880,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "请仔细想想这句话。"
+    } ]
+  }, {
+    "tStartMs": 1624380,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "你亲眼目睹了七吨液态\n甲烷蒸发的过程。"
+    } ]
+  }, {
+    "tStartMs": 1628400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "这完全违背了\n我过去的假设，"
+    } ]
+  }, {
+    "tStartMs": 1631100,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "所以我很高兴有机会\n为你纠正这个错误。"
+    } ]
+  }, {
+    "tStartMs": 1634160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "那么，让我们从基础知识开始：什么\n是自旋Prime测试，以及为什么需要它？"
+    } ]
+  }, {
+    "tStartMs": 1639140,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "遗憾的是，SpaceX从未发布\n过关于此过程的官方解释。"
+    } ]
+  }, {
+    "tStartMs": 1643580,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "我原以为\n研究其他火箭发动机的自旋启动程序"
+    } ]
+  }, {
+    "tStartMs": 1646520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "，然后看看\n能否将其应用于猛禽2型发动机，应该很容易。"
+    } ]
+  }, {
+    "tStartMs": 1649820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "可惜的是，这说起来容易做起来难。"
+    } ]
+  }, {
+    "tStartMs": 1652700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Raptor 2 与\n其他所有发动机都截然不同。"
+    } ]
+  }, {
+    "tStartMs": 1655940,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "我或许算得上是零级火箭的伪专家，\n但我对火箭发动机的了解还不够深入，"
+    } ]
+  }, {
+    "tStartMs": 1659900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "无法进行\n正确的直接比较。 此外，"
+    } ]
+  }, {
+    "tStartMs": 1663500,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "这一集的制作已经严重\n延误，所以我真的没有"
+    } ]
+  }, {
+    "tStartMs": 1667340,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "时间去翻阅各种航空航天\n教科书，或者花"
+    } ]
+  }, {
+    "tStartMs": 1671000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "大量时间观看关于\n各种火箭发动机循环的 YouTube 视频。"
+    } ]
+  }, {
+    "tStartMs": 1674600,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我需要和一位了解情况的人谈谈，他\n"
+    } ]
+  }, {
+    "tStartMs": 1677300,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "可以帮助解答我心中挥之不去的疑问。"
+    } ]
+  }, {
+    "tStartMs": 1679520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "这就是为什么我突然造访\n星际基地，因为我感觉"
+    } ]
+  }, {
+    "tStartMs": 1682760,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "我需要联系的那个人可能\n还在事发现场附近。"
+    } ]
+  }, {
+    "tStartMs": 1686300,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "此外，考虑到这个人可能\n不想被找到，最好还是"
+    } ]
+  }, {
+    "tStartMs": 1689840,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "对我的到来保密，\n以免他们溜走。"
+    } ]
+  }, {
+    "tStartMs": 1694340,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "哦，真是太巧了。"
+    } ]
+  }, {
+    "tStartMs": 1696140,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "这是我们星际基地最新一批CSI\n外勤特工之一正在拨打电话"
+    } ]
+  }, {
+    "tStartMs": 1698720,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "。 希望他能带来好消息。"
+    } ]
+  }, {
+    "tStartMs": 1701600,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "去StageZeroZack！"
+    } ]
+  }, {
+    "tStartMs": 1704180,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "是的？ 好消息！ 哇，你从哪儿找到他的？"
+    } ]
+  }, {
+    "tStartMs": 1711860,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "相当厉害……所以，呃，\n你现在把他关在哪里？"
+    } ]
+  }, {
+    "tStartMs": 1716720,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "等等，什么？"
+    } ]
+  }, {
+    "tStartMs": 1719840,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "你为什么要把\n它带到我的房间？"
+    } ]
+  }, {
+    "tStartMs": 1724700,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "我的天哪，你的决策能力也太差劲了吧\n。 呃，"
+    } ]
+  }, {
+    "tStartMs": 1727940,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "现在先把他按住，\n确保房间安全。"
+    } ]
+  }, {
+    "tStartMs": 1731120,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "我正在路上。"
+    } ]
+  }, {
+    "tStartMs": 1741620,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "哇，说实话，我有点犹豫要不要\n带里乌利亚尼特工一起去，因为"
+    } ]
+  }, {
+    "tStartMs": 1746480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "你知道，他有时候会做\n一些很疯狂的事情，"
+    } ]
+  }, {
+    "tStartMs": 1748760,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "比如把这个人\n带回我的酒店，真是个糟糕的主意！"
+    } ]
+  }, {
+    "tStartMs": 1755420,
+    "dDurationMs": 10080,
+    "segs": [ {
+      "utf8": "哦，我的天哪，救救我！谁在那里？哇，没\n人去那里，大约35-45分钟。"
+    } ]
+  }, {
+    "tStartMs": 1765500,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "金童！ 你回来了！\n等着瞧我给你带了什么。"
+    } ]
+  }, {
+    "tStartMs": 1769460,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "伙计，你肯定会喜欢这个的，看看这个，"
+    } ]
+  }, {
+    "tStartMs": 1775040,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "蒂姆·多德（哔——）"
+    } ]
+  }, {
+    "tStartMs": 1777740,
+    "dDurationMs": 7260,
+    "segs": [ {
+      "utf8": "好好好好好好蒂姆·多德\n——日常宇航员。"
+    } ]
+  }, {
+    "tStartMs": 1786020,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "不得不说，里乌利亚尼探员，你\n这次真是太棒了。"
+    } ]
+  }, {
+    "tStartMs": 1791120,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "这是一个极其难以捉摸的人。"
+    } ]
+  }, {
+    "tStartMs": 1794120,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我很惊讶你能\n在不被人认出来的情况下抓住他。"
+    } ]
+  }, {
+    "tStartMs": 1797420,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "令人印象"
+    } ]
+  }, {
+    "tStartMs": 1798920,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "深刻！说实话，先生，他\n几乎立刻就认出我了"
+    } ]
+  }, {
+    "tStartMs": 1804500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "。等等！ 你是说你的身份\n暴露了吗？ 还有谁知道这件事？"
+    } ]
+  }, {
+    "tStartMs": 1807860,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "我不这么认为。 当时我\n在洛基牧场四处打听，看有没有"
+    } ]
+  }, {
+    "tStartMs": 1812720,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "人见过他。 我告诉他们我听说他来\n城里了，我只是想见见我的偶像之一，"
+    } ]
+  }, {
+    "tStartMs": 1817820,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "而且！？"
+    } ]
+  }, {
+    "tStartMs": 1818840,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "肯定有人给他\n通风报信了，因为我往窗外看去，"
+    } ]
+  }, {
+    "tStartMs": 1822620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "正好看到他逃离现场。"
+    } ]
+  }, {
+    "tStartMs": 1825740,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "幸好他穿着那条紧身牛仔裤，没办法\n轻易逃跑，你懂我的意思吧。"
+    } ]
+  }, {
+    "tStartMs": 1830300,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "更像是快步慢跑。"
+    } ]
+  }, {
+    "tStartMs": 1832040,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "这让我有时间冷静地离开，"
+    } ]
+  }, {
+    "tStartMs": 1835280,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "不引起任何恐慌，然后\n在摆脱围观者后开始追捕。"
+    } ]
+  }, {
+    "tStartMs": 1840020,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "所以我觉得其他人都没注意到……"
+    } ]
+  }, {
+    "tStartMs": 1842540,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "而且！ 由于他\n步子迈不大，"
+    } ]
+  }, {
+    "tStartMs": 1846260,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "我很快就追上了他。"
+    } ]
+  }, {
+    "tStartMs": 1849140,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "他基本上是\n自己把自己制服的[笑声]"
+    } ]
+  }, {
+    "tStartMs": 1853820,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "自我约束的紧身牛仔裤，\n你相信吗？"
+    } ]
+  }, {
+    "tStartMs": 1857180,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "我觉得我们或许真的应该给它起个新名字！"
+    } ]
+  }, {
+    "tStartMs": 1859880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "谢谢你，里乌利亚尼探员，正如我所说，\n你做得太棒了"
+    } ]
+  }, {
+    "tStartMs": 1862520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "。 现在请允许我\n和我们的新线人谈谈。"
+    } ]
+  }, {
+    "tStartMs": 1868220,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "对了，呃……我觉得我\n今晚剩下的时间会很忙，所以我想"
+    } ]
+  }, {
+    "tStartMs": 1872000,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "你需要替我去拉巴德雷的\nCrowFest 活动。 请不要闹事。"
+    } ]
+  }, {
+    "tStartMs": 1877940,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "你能应付得了吗？ 朱迪，我\n指望你别让我失望，"
+    } ]
+  }, {
+    "tStartMs": 1881540,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "那里有很多重要人物。"
+    } ]
+  }, {
+    "tStartMs": 1885800,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "哦，先生，您不必\n担心我，我不会让"
+    } ]
+  }, {
+    "tStartMs": 1889700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "您失望的。 而且……我还带了我的舞鞋。 啊哈，"
+    } ]
+  }, {
+    "tStartMs": 1893000,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "稍后再谈。"
+    } ]
+  }, {
+    "tStartMs": 1896480,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "我知道这可能看起来像是\n我们为了收集"
+    } ]
+  }, {
+    "tStartMs": 1901100,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "所需信息而采取的一种过于激进的方法。 别担心，我可以\n保证，这位普通的宇航员"
+    } ]
+  }, {
+    "tStartMs": 1905600,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "在这个过程中没有受到伤害，而且我特别\n注意确保他感到舒适。"
+    } ]
+  }, {
+    "tStartMs": 1909740,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "“你……渴了吗，蒂姆？"
+    } ]
+  }, {
+    "tStartMs": 1911780,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "” “嗯，大概吧。”"
+    } ]
+  }, {
+    "tStartMs": 1912980,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "“呃，我只有\n冰块，所以喝吧！”"
+    } ]
+  }, {
+    "tStartMs": 1917780,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "“真的吗，你给我带了冰块？”"
+    } ]
+  }, {
+    "tStartMs": 1920720,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "根据我的经验，\n最好先问一些"
+    } ]
+  }, {
+    "tStartMs": 1923540,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "基本问题，以测试\n证人的合作意愿。"
+    } ]
+  }, {
+    "tStartMs": 1927260,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "“今天我想问你一些"
+    } ]
+  }, {
+    "tStartMs": 1929840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "关于猛禽发动机，\n特别是冷却过程的问题。”"
+    } ]
+  }, {
+    "tStartMs": 1933680,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "不出所料，蒂姆立刻使出了"
+    } ]
+  }, {
+    "tStartMs": 1936740,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "许多新手\n线人常用的伎俩。"
+    } ]
+  }, {
+    "tStartMs": 1939620,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "“我得先跟你说清楚，\n我……（紧张地结巴）我"
+    } ]
+  }, {
+    "tStartMs": 1943220,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "几乎什么都不懂，我只是个YouTube\n用户。” 你知道我并不知道这个……”"
+    } ]
+  }, {
+    "tStartMs": 1946820,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "但经过一番坚持，我们最终还是从他那里\n得到了许多重要"
+    } ]
+  }, {
+    "tStartMs": 1949880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "信息。这让\n我得以补充一些缺失"
+    } ]
+  }, {
+    "tStartMs": 1953120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "的证据，从而\n得出以下结论。"
+    } ]
+  }, {
+    "tStartMs": 1956540,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "我们需要了解的第一个重要细节\n是，"
+    } ]
+  }, {
+    "tStartMs": 1960380,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "猛禽2发动机的预冷程序仅针对\n发动机的氧气侧，这"
+    } ]
+  }, {
+    "tStartMs": 1964400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "有点违反直觉，对吧？\n\n尤其是考虑到甲烷侧需要"
+    } ]
+  }, {
+    "tStartMs": 1967460,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "冷却的表面积要大得多，\n因为它必须"
+    } ]
+  }, {
+    "tStartMs": 1971360,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "先经过发动机的燃烧室才能\n到达富燃预燃室。"
+    } ]
+  }, {
+    "tStartMs": 1975020,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "我这么说是因为它应该\n与"
+    } ]
+  }, {
+    "tStartMs": 1979100,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "许多火箭发动机上使用的再生冷却系统非常相似。我认为\n最适合与之比较的是"
+    } ]
+  }, {
+    "tStartMs": 1984500,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "航天飞机和SLS火箭上使用的RS25发动机，这也是\n我需要蒂姆解释的第一件事。"
+    } ]
+  }, {
+    "tStartMs": 1989780,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "“你能告诉我\nRS25发动机的冷却方法吗？”“"
+    } ]
+  }, {
+    "tStartMs": 1997040,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "嗯，RS25是……” 再生冷却。 所以他们\n确实会让低温推进剂流经"
+    } ]
+  }, {
+    "tStartMs": 2003820,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "火箭发动机的壁面，你会注意到发动机外部会\n变得非常冷，就像真的有"
+    } ]
+  }, {
+    "tStartMs": 2008500,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "冷凝水和冰块积聚一样\n。  “但是你知道，发动机内部"
+    } ]
+  }, {
+    "tStartMs": 2012760,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "温度非常高，嗯，这就是他们防止\n炉壁和燃烧室熔化的方法。”"
+    } ]
+  }, {
+    "tStartMs": 2017740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "“所以这里面是液体还是气体？” “"
+    } ]
+  }, {
+    "tStartMs": 2020320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "炉壁内部，它可能\n在某个时刻发生相变，"
+    } ]
+  }, {
+    "tStartMs": 2023920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "因为它一开始是液态的，但\n到达主燃烧室时"
+    } ]
+  }, {
+    "tStartMs": 2028840,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "通常是气态的，不过，嗯，\n在穿过炉壁的过程中，可能发生相变，也可能不会。”"
+    } ]
+  }, {
+    "tStartMs": 2033100,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "之后，蒂姆告诉我，\n他认为"
+    } ]
+  }, {
+    "tStartMs": 2037180,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "猛禽2发动机的原理也一样，液态甲烷\n流经发动机缸体。这时我开始"
+    } ]
+  }, {
+    "tStartMs": 2041980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "意识到他是在敷衍我，\n所以我不得不追问。"
+    } ]
+  }, {
+    "tStartMs": 2045400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "“我的意思是，\n猛禽2发动机的目标是什么……你是把"
+    } ]
+  }, {
+    "tStartMs": 2049240,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "气体送到预燃器，\n还是以液态的形式送进去？”"
+    } ]
+  }, {
+    "tStartMs": 2052780,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "“我很确定它在\n预燃器里还​​是以液态的形式。”"
+    } ]
+  }, {
+    "tStartMs": 2055600,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "“你觉得呢？”"
+    } ]
+  }, {
+    "tStartMs": 2056740,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "“……我想是吧。”“"
+    } ]
+  }, {
+    "tStartMs": 2058000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "那为什么引擎不是弗罗斯蒂·蒂姆呢？”"
+    } ]
+  }, {
+    "tStartMs": 2066040,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "“嗯，有可能……[结巴]说实话，我其实\n从来没想过这个问题……"
+    } ]
+  }, {
+    "tStartMs": 2070420,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "[更加结巴]可能只是因为\n壁厚，也可能是因为环境"
+    } ]
+  }, {
+    "tStartMs": 2075820,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "条件，我不知道具体是什么……[\n结巴]我不知道，我不知道它怎么可能是……呃，"
+    } ]
+  }, {
+    "tStartMs": 2081160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "气体在到达壁之前就……因为它\n直接从……呃……穿过前面……哦，"
+    } ]
+  }, {
+    "tStartMs": 2087520,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "我得想想这个问题。”  “全速运转……”"
+    } ]
+  }, {
+    "tStartMs": 2089380,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "那一刻，我知道我已经把\n他逼到了墙角。"
+    } ]
+  }, {
+    "tStartMs": 2092920,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "无论是\n海平面版本还是更大的真空"
+    } ]
+  }, {
+    "tStartMs": 2096640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "优化版本，发动机舱口都结霜，这\n在猛禽2型发动机上都是我们从未见过的。"
+    } ]
+  }, {
+    "tStartMs": 2100000,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "我认为，当甲烷\n流经发动机舱口"
+    } ]
+  }, {
+    "tStartMs": 2103900,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "到达预燃室时，它必须已经\n完全转化为气态。"
+    } ]
+  }, {
+    "tStartMs": 2108700,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "因此，如果发动机的甲烷侧不需要"
+    } ]
+  }, {
+    "tStartMs": 2110920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "预冷，那就\n意味着所有"
+    } ]
+  }, {
+    "tStartMs": 2114280,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "含有甲烷的内部管道在启动之前都应该是空的\n。"
+    } ]
+  }, {
+    "tStartMs": 2118540,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "另一方面，正如蒂姆·\n多德在他的视频中所说，"
+    } ]
+  }, {
+    "tStartMs": 2121300,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "\n由于氧化剂涡轮泵的温度远高于"
+    } ]
+  }, {
+    "tStartMs": 2125620,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "\n甲烷涡轮泵，因此预冷氧化剂涡轮泵至关重要。"
+    } ]
+  }, {
+    "tStartMs": 2129880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这就是为什么我们看到\n液氧侧完全注满液氧，并"
+    } ]
+  }, {
+    "tStartMs": 2133480,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "像\n我们之前讨论过的泄放阀一样排出多余的氧气。"
+    } ]
+  }, {
+    "tStartMs": 2137740,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这里的目标是保持冷却……\n发动机持续运转，直到"
+    } ]
+  }, {
+    "tStartMs": 2141340,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "液氧开始从猛禽发动机的\n冷却通风口喷出——液氧最初是气态的。"
+    } ]
+  }, {
+    "tStartMs": 2145540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "一旦达到所需温度，就需要\n快速启动发动机的甲烷侧，方法"
+    } ]
+  }, {
+    "tStartMs": 2149680,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "是打开主燃料阀，然后\n使用氦气启动甲烷涡轮泵。"
+    } ]
+  }, {
+    "tStartMs": 2154600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "这会将甲烷输送到发动机的喷嘴"
+    } ]
+  }, {
+    "tStartMs": 2157000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "，返回预燃器，然后\n从主燃烧室排出。"
+    } ]
+  }, {
+    "tStartMs": 2160900,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "由于这只是一个旋转启动，而不是静态\n点火，因此不会发生点火。所以，"
+    } ]
+  }, {
+    "tStartMs": 2166240,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "\n启动完成后，必须立即使用氮气将所有甲烷排出发动机。"
+    } ]
+  }, {
+    "tStartMs": 2170200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "观察一次成功的33次发动机旋转\n启动（没有发生灾难性后果），"
+    } ]
+  }, {
+    "tStartMs": 2174040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "你就能明白我的\n意思了。正如我所说，发动机"
+    } ]
+  }, {
+    "tStartMs": 2177580,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "甲烷侧有很大的表面积\n需要排出。"
+    } ]
+  }, {
+    "tStartMs": 2180700,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "在排出过程中，显然\n"
+    } ]
+  }, {
+    "tStartMs": 2185260,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "需要向发动机内强制注入等量或更大的氮气，\n以便排出残留的甲烷。"
+    } ]
+  }, {
+    "tStartMs": 2188620,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "当这种情况发生时， 实际上，看起来\n就像发生了第二次自旋启动。"
+    } ]
+  }, {
+    "tStartMs": 2192760,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "第二次气体喷射结束后不久，\n你可以看到甲烷云开始"
+    } ]
+  }, {
+    "tStartMs": 2196780,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "迅速消散，因为氮气已经\n进入主燃烧室，"
+    } ]
+  }, {
+    "tStartMs": 2200920,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "并开始将\n发射架下方的可燃气体排出。"
+    } ]
+  }, {
+    "tStartMs": 2204700,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "这就是埃隆所说的低温\n燃料蒸发并与"
+    } ]
+  }, {
+    "tStartMs": 2209020,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "空气混合。\n当"
+    } ]
+  }, {
+    "tStartMs": 2212380,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "你使用Labpadre的热成像\n相机（也称为Predator 2.0相机）观察时，蒸发过程会更加清晰。"
+    } ]
+  }, {
+    "tStartMs": 2217420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "注意随着\n氮气开始将其排出，甲烷云消散得有多快。"
+    } ]
+  }, {
+    "tStartMs": 2221560,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "当你观察屏幕顶部时，\n可以看到烟羽从"
+    } ]
+  }, {
+    "tStartMs": 2225340,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "储罐区前方掠过，因为\n甲烷云中的热能已经足够高，使其"
+    } ]
+  }, {
+    "tStartMs": 2229060,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "温度\n高于周围环境空气。"
+    } ]
+  }, {
+    "tStartMs": 2233020,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "热成像相机通常用于\n石油和天然气行业，以寻找"
+    } ]
+  }, {
+    "tStartMs": 2237160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "天然气泄漏源。我作为\n石油行业现场工程师的经验"
+    } ]
+  }, {
+    "tStartMs": 2240880,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "可能是我注意到这一现象的唯一原因。 我\n从中得出结论。"
+    } ]
+  }, {
+    "tStartMs": 2245680,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "我这么说是因为我观看这个画面并非"
+    } ]
+  }, {
+    "tStartMs": 2248200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "为了证明SpaceX\n向空中排放了七吨甲烷，"
+    } ]
+  }, {
+    "tStartMs": 2251860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "我之所以在测试期间观看“捕食者”火箭的摄像头，\n是因为我通常通过这种方式来"
+    } ]
+  }, {
+    "tStartMs": 2255220,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "确定即将测试的发动机数量，\n然后再发布类似这样的推文。"
+    } ]
+  }, {
+    "tStartMs": 2264460,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "总之，SpaceX还需要关注几个更重要的地方，\n以防可燃"
+    } ]
+  }, {
+    "tStartMs": 2269260,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "气体积聚。首先是发射台内部，\n尤其是在此时夹具和“猛禽”火箭快速连接器都已展开的情况下，"
+    } ]
+  }, {
+    "tStartMs": 2274480,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "\n甲烷很容易通过这些开口进入发射台。"
+    } ]
+  }, {
+    "tStartMs": 2278500,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "不过，我们将在本深度调查的第二部分中详细介绍这一点\n。或许"
+    } ]
+  }, {
+    "tStartMs": 2281620,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "更值得关注的区域\n是助推器发动机裙部的内部"
+    } ]
+  }, {
+    "tStartMs": 2285700,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "。如果这里发生爆炸\n——由于甲烷和"
+    } ]
+  }, {
+    "tStartMs": 2289660,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "氧气积聚——可能会危及整个飞行器，\n进而危及"
+    } ]
+  }, {
+    "tStartMs": 2294400,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "整个发射台以及周围约\n500米的范围。"
+    } ]
+  }, {
+    "tStartMs": 2298300,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "为了防止裙部内部发生爆炸，\nSpaceX 在每个发动机舱内都安装了氮气吹扫通风口"
+    } ]
+  }, {
+    "tStartMs": 2303280,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "——你可能还记得我\n在上次的深度调查中提到过。"
+    } ]
+  }, {
+    "tStartMs": 2307300,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "外侧的 20 台发动机\n直接通过 20 个"
+    } ]
+  }, {
+    "tStartMs": 2310780,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "猛禽发动机的 QD 接口获取氮气。中间的 13 台发动机\n需要"
+    } ]
+  }, {
+    "tStartMs": 2315040,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "从其他地方获取氮气，而且它们\n不能与外侧的 20 台发动机共享。"
+    } ]
+  }, {
+    "tStartMs": 2318820,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "因此，它们很可能是\n从助推器 QD 接口获取氮气。"
+    } ]
+  }, {
+    "tStartMs": 2321760,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "如果你看过最近一\n集关于"
+    } ]
+  }, {
+    "tStartMs": 2326500,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "轨道发射台上的 FIREX 和爆震抑制系统的 CSI 星际基地特辑，\n你可能还记得我提到过，"
+    } ]
+  }, {
+    "tStartMs": 2330340,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "SpaceX 有时需要同时运行\nOLM 上的所有氮气吹扫系统"
+    } ]
+  }, {
+    "tStartMs": 2335020,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "。在自旋启动测试期间，\n我想到的就是这种情况。这样做"
+    } ]
+  }, {
+    "tStartMs": 2339940,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "不仅是为了清除\n发动机裙部内的所有甲烷，也是为了"
+    } ]
+  }, {
+    "tStartMs": 2344140,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "\n在自旋启动之前清除轨道发射台下方空间中的氧气。"
+    } ]
+  }, {
+    "tStartMs": 2348460,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "这将显著降低爆炸\n释放的能量。 气态甲烷"
+    } ]
+  }, {
+    "tStartMs": 2352600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "总能找到点火源。"
+    } ]
+  }, {
+    "tStartMs": 2356020,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "我们在"
+    } ]
+  }, {
+    "tStartMs": 2358240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "\n11月11日进行的7号助推器多引擎旋转Prime测试中首次观察到了这种情况。NASASpaceFlight提供"
+    } ]
+  }, {
+    "tStartMs": 2362320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "的这段并排对比\n视频显示了"
+    } ]
+  }, {
+    "tStartMs": 2366160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "注入水的氮气喷射器如何迅速驱散发射台\n下方的甲烷云。"
+    } ]
+  }, {
+    "tStartMs": 2369880,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "在右侧视频中，Firex\n系统启动后，可以看到"
+    } ]
+  }, {
+    "tStartMs": 2373900,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "氮气和水的混合物实际上\n加速了蒸发速度，同时"
+    } ]
+  }, {
+    "tStartMs": 2378580,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "将甲烷从\n发射台下方排出。"
+    } ]
+  }, {
+    "tStartMs": 2381760,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "需要注意的是，这次\n测试使用了大约10"
+    } ]
+  }, {
+    "tStartMs": 2384820,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "到20台猛禽发动机外侧的助推引擎。"
+    } ]
+  }, {
+    "tStartMs": 2386920,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "左侧视频显示的是33台引擎的测试，因此\n需要驱散的甲烷量更大，"
+    } ]
+  }, {
+    "tStartMs": 2392020,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "但我认为无论如何，\n该系统"
+    } ]
+  }, {
+    "tStartMs": 2394360,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "对甲烷云的影响都非常显著。"
+    } ]
+  }, {
+    "tStartMs": 2396220,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "去除氧气至关重要，因为正如\n埃隆·马斯克所说，当燃料与周围空气混合时，"
+    } ]
+  }, {
+    "tStartMs": 2401140,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "存在\n自燃或高能超音速爆炸的固有风险。 爆炸风险。"
+    } ]
+  }, {
+    "tStartMs": 2406780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "当\n空气中的氧气含量"
+    } ]
+  }, {
+    "tStartMs": 2410620,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "远高于正常水平时，这种风险会进一步放大，\n而本次事件正是如此。"
+    } ]
+  }, {
+    "tStartMs": 2413920,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "当我们再次回顾爆炸录像时\n，可以看到在旋转启动之前"
+    } ]
+  }, {
+    "tStartMs": 2418660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "，桌子下方就已经存在一大团\n气态氧云。"
+    } ]
+  }, {
+    "tStartMs": 2422860,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "旋转启动瞬间，\n气态氧云消失，因为"
+    } ]
+  }, {
+    "tStartMs": 2427480,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "它立即与\n甲烷和氧气完美混合，也就是所谓的MOX混合气。"
+    } ]
+  }, {
+    "tStartMs": 2432880,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "这个MOX混合气云\n比我们之前提到的"
+    } ]
+  }, {
+    "tStartMs": 2436420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "\n猛禽2号发动机点火时产生的混合气云要大得多。"
+    } ]
+  }, {
+    "tStartMs": 2439780,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "显而易见，这种情况是绝对不能容忍的，\nSpaceX"
+    } ]
+  }, {
+    "tStartMs": 2444820,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "必须采取措施消除最初的\n气态氧云。"
+    } ]
+  }, {
+    "tStartMs": 2449860,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "那么，SpaceX的工程师们究竟想出了什么解决方案，\n才能确保"
+    } ]
+  }, {
+    "tStartMs": 2453700,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "\n在轨道发射台上安全地继续测试7号助推器呢？"
+    } ]
+  }, {
+    "tStartMs": 2456880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "在我看来，\n事情从这里开始变得有趣起来。"
+    } ]
+  }, {
+    "tStartMs": 2463000,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "提醒一下，7号助推器…… 爆炸发生\n在2022年7月11日。三天后的7月"
+    } ]
+  }, {
+    "tStartMs": 2470320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "14日，7号助推器从发射台上被吊起\n，送回建造基地进行维修。"
+    } ]
+  }, {
+    "tStartMs": 2474400,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "在巨型货舱内，7号助推器的全部13台\n中央发动机都被拆除。起初，我们"
+    } ]
+  }, {
+    "tStartMs": 2479500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "并不清楚\n这些发动机在更换后究竟做了哪些改动，"
+    } ]
+  }, {
+    "tStartMs": 2482500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "但得益于最近的进展，\n我们现在"
+    } ]
+  }, {
+    "tStartMs": 2485860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "对这些\n猛禽2型发动机的改动有了更清晰的了解。稍后我们将对此进行更详细的介绍。"
+    } ]
+  }, {
+    "tStartMs": 2489220,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "与此同时，在发射场，\n爆炸后的第一批升级改造开始显现。"
+    } ]
+  }, {
+    "tStartMs": 2494320,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "虽然这项升级改造\n在爆炸事件发生前就已经在进行中，但"
+    } ]
+  }, {
+    "tStartMs": 2497260,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "它的到来\n时机恰到好处，不容忽视。"
+    } ]
+  }, {
+    "tStartMs": 2501280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "我指的是\nSpaceX公司最喜爱的新设备之一——"
+    } ]
+  }, {
+    "tStartMs": 2504160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "轨道发射台高空作业\n平台。之所以说它时机恰到好处，是"
+    } ]
+  }, {
+    "tStartMs": 2508240,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "因为如果没有这个高空作业平台，\n我们接下来要提到的许多操作"
+    } ]
+  }, {
+    "tStartMs": 2511900,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "将会\n耗费大量时间。 完成时间更长。"
+    } ]
+  }, {
+    "tStartMs": 2515860,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "这是我们\n在B7返回发射场之前唯一注意到的升级"
+    } ]
+  }, {
+    "tStartMs": 2519760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "。当它最终返回时，\n"
+    } ]
+  }, {
+    "tStartMs": 2523600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "由于“筷子”装置在\nB7就位准备吊装时受损，返航过程略显悲惨。"
+    } ]
+  }, {
+    "tStartMs": 2527800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "第二天，8月6日，正如你在Cosmic Perspective的视频中看到的那样，它\n被SpaceX的LR11000超级起重机吊装回了OLM（发射机舱管理平台）"
+    } ]
+  }, {
+    "tStartMs": 2533560,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\n。此时，"
+    } ]
+  }, {
+    "tStartMs": 2536620,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "中间的13台发动机尚未重新\n安装。因此，当"
+    } ]
+  }, {
+    "tStartMs": 2541060,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "SpaceX准备进行下一轮\n测试时，我不禁疑惑，"
+    } ]
+  }, {
+    "tStartMs": 2544540,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "如果中间发动机的改装尚未完成，为什么助推器7会回到OLM上\n。"
+    } ]
+  }, {
+    "tStartMs": 2549280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "但根据以往的经验，我\n感觉这不会只是一个简单的低温"
+    } ]
+  }, {
+    "tStartMs": 2553600,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "测试，仅仅是为了确保助推器7\n在爆炸事件后仍然能够正常工作。"
+    } ]
+  }, {
+    "tStartMs": 2557980,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "8月8日星期一，SpaceX开始了\n对助推器7和飞船为期一周的密集测试。  24."
+    } ]
+  }, {
+    "tStartMs": 2564040,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "这是我们首次看到"
+    } ]
+  }, {
+    "tStartMs": 2565840,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "轨道\n发射台和亚轨道发射台同时进行测试。一开始，"
+    } ]
+  }, {
+    "tStartMs": 2569860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "观众们感到非常困惑，\n因为看起来一旦"
+    } ]
+  }, {
+    "tStartMs": 2574060,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "\n轨道燃料箱开始运转，7号助推器就会率先启动发射。"
+    } ]
+  }, {
+    "tStartMs": 2577780,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "但是，在预期的燃料加注过程开始之前\n，亚轨道燃料箱也"
+    } ]
+  }, {
+    "tStartMs": 2582520,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "启动了，SpaceX迅速开始\n向24号飞船加注液氧和甲烷，进行"
+    } ]
+  }, {
+    "tStartMs": 2587920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "六引擎旋转启动测试。值得注意的是，在\n这些测试中，猛禽发动机的冷却排气口被测试台喷出的"
+    } ]
+  }, {
+    "tStartMs": 2592840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "不可见氮气流向上吹送\n。"
+    } ]
+  }, {
+    "tStartMs": 2596560,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "这可以防止\n"
+    } ]
+  }, {
+    "tStartMs": 2601060,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "\n在六引擎旋转启动测试期间，当飞船喷射出近1.3吨甲烷时，测试台下方形成潜在的混合氧化物燃料炸弹。"
+    } ]
+  }, {
+    "tStartMs": 2605980,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "这是基于\n33引擎助推器在相同过程中会"
+    } ]
+  }, {
+    "tStartMs": 2610540,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "产生7吨甲烷的假设估算得出的，正如我们之前了解到的。测试"
+    } ]
+  }, {
+    "tStartMs": 2613960,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "结束后不久，SpaceX开始\n准备另一次旋转启动测试，"
+    } ]
+  }, {
+    "tStartMs": 2617680,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "这次使用的是7号助推器。不幸的是， 我没\n能看到旋转启动测试，因为SpaceX开始给助推器加注燃料的那一刻，我"
+    } ]
+  }, {
+    "tStartMs": 2623080,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "被一件完全意想不到的事情分散了注意力\n。"
+    } ]
+  }, {
+    "tStartMs": 2627940,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "等等，那是什么？那是\n他们新的猛禽发动机冷却管吗？"
+    } ]
+  }, {
+    "tStartMs": 2633160,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "哇，我怎么会错过这个？我甚至都没看到\n它安装……它是从哪儿冒出来的？？"
+    } ]
+  }, {
+    "tStartMs": 2639040,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "这立刻\n在CSI Starbase Discord服务器上引发了一场大规模的调查。我们需要"
+    } ]
+  }, {
+    "tStartMs": 2644380,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "从轨道发射台（OLM）的另一侧获取一些详细的图像\n才能弄明白。"
+    } ]
+  }, {
+    "tStartMs": 2649000,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "但当然，第二天早上道路又封闭了，\n所以"
+    } ]
+  }, {
+    "tStartMs": 2652540,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "星舰观察员或RGV航拍的Mauricio都没办法\n前往发射场，"
+    } ]
+  }, {
+    "tStartMs": 2656320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "\n从发射台这一侧给我们拍摄一些近距离照片。"
+    } ]
+  }, {
+    "tStartMs": 2659560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "不过我并不抱怨，因为这\n是全世界星舰粉丝"
+    } ]
+  }, {
+    "tStartMs": 2663160,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "翘首以盼一年多的日子。"
+    } ]
+  }, {
+    "tStartMs": 2665140,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "\n轨道发射台上的首次静态点火测试终于要开始了。"
+    } ]
+  }, {
+    "tStartMs": 2669940,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "我必须承认，单引擎\n静态点火测试固然精彩，但……"
+    } ]
+  }, {
+    "tStartMs": 2673120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "但我当时更专注于理解\n这个新的猛禽发动机冷却排气口到底是怎么回事。"
+    } ]
+  }, {
+    "tStartMs": 2677920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "基本上，它不再像以前那样\n直接将液氧从发动机冷却排气口排出到"
+    } ]
+  }, {
+    "tStartMs": 2682480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "飞行器下方，而是被重新导向\n发射台侧面。"
+    } ]
+  }, {
+    "tStartMs": 2686920,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "不知为何，这感觉似曾相识，但\n当时我却想不明白为什么。"
+    } ]
+  }, {
+    "tStartMs": 2691420,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "在上次的 OLM 深度调查中，\n我们已经确定了"
+    } ]
+  }, {
+    "tStartMs": 2695560,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "7 号助推器上猛禽发动机冷却排气口的位置。连接\n到这个排气口并将其导向"
+    } ]
+  }, {
+    "tStartMs": 2699100,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "新的位置肯定非常\n棘手。那么他们是怎么做到的呢？"
+    } ]
+  }, {
+    "tStartMs": 2703600,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "首先，我们需要弄清楚\n这究竟是对单个猛禽发动机的测试，还是"
+    } ]
+  }, {
+    "tStartMs": 2708460,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "多个发动机都连接到同\n一根管道。从"
+    } ]
+  }, {
+    "tStartMs": 2712660,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "管道排出的流量来看，这很可能是\n多个发动机连接到同一个排气口。但"
+    } ]
+  }, {
+    "tStartMs": 2717460,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "\n第二天早上，当"
+    } ]
+  }, {
+    "tStartMs": 2720400,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "他们开始\n在发射台下方添加更多这样的管道时，我很快意识到并非如此。"
+    } ]
+  }, {
+    "tStartMs": 2724720,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "这时，一切终于真相大白了。 我突然意识到\n事情可能会变得多么疯狂。"
+    } ]
+  }, {
+    "tStartMs": 2728440,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "8月8日早上，我在推特上发文称，\n我们在OLM上看到的下一次助推器测试"
+    } ]
+  }, {
+    "tStartMs": 2731740,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "将会\n与"
+    } ]
+  }, {
+    "tStartMs": 2734320,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "以往任何测试都截然不同……\n这立刻让一些人感到困惑。"
+    } ]
+  }, {
+    "tStartMs": 2738040,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "就连RGV Aerial Photography的Mauricio当时\n也不知道"
+    } ]
+  }, {
+    "tStartMs": 2740980,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "我在说什么，而我\n每周都会和他联系好几次。"
+    } ]
+  }, {
+    "tStartMs": 2744400,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "所以，我稍微暗示了一下，猛禽发动机冷却过程\n的外观将会发生一些重大变化"
+    } ]
+  }, {
+    "tStartMs": 2748300,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "。如果\n外侧20台猛禽发动机每台都有一个这样的通风口，那么"
+    } ]
+  }, {
+    "tStartMs": 2753100,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "\n在猛禽发动机减速过程中，它看起来就像飓风眼一样。"
+    } ]
+  }, {
+    "tStartMs": 2757180,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "但令我沮丧的是，8月11日，也就是\n下一次静态点火测试当天，我却"
+    } ]
+  }, {
+    "tStartMs": 2763300,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "措手不及，猛禽发动机冷却通风口\n竟然在OLM正面消失了。"
+    } ]
+  }, {
+    "tStartMs": 2767680,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "这真是太尴尬了，我知道人们肯定会"
+    } ]
+  }, {
+    "tStartMs": 2769900,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "在推特上指责我\n搞错了。 预测。"
+    } ]
+  }, {
+    "tStartMs": 2772660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "幸运的是，这次测试最终确实\n出现了我们"
+    } ]
+  }, {
+    "tStartMs": 2776200,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "从未见过的情况，因为SpaceX\n对单台发动机进行了长时间的静态点火测试。"
+    } ]
+  }, {
+    "tStartMs": 2780880,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "所以，结果还算不错。"
+    } ]
+  }, {
+    "tStartMs": 2782740,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "第二天，毛里西奥终于\n能够前往发射场。这"
+    } ]
+  }, {
+    "tStartMs": 2786820,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "是\n自这一切混乱开始以来，我们第一次有人在现场。"
+    } ]
+  }, {
+    "tStartMs": 2790780,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "这些是我们收到的第一批照片，照片\n显示了新添加到"
+    } ]
+  }, {
+    "tStartMs": 2794620,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "工作台上的管道，助推器则\n位于发射台上。很难从"
+    } ]
+  }, {
+    "tStartMs": 2798520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "下方看到这些管道\n是如何连接到发动机的。"
+    } ]
+  }, {
+    "tStartMs": 2801520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "我们非常幸运，毛里西奥\n能够从两个发动机喇叭口之间捕捉到这一瞬间"
+    } ]
+  }, {
+    "tStartMs": 2806140,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "。当我第一次看到这张照片时，\n我感到非常困惑。"
+    } ]
+  }, {
+    "tStartMs": 2812500,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "这是怎么回事？这些管道要如何\n连接到发动机……它们是蓝牙连接吗？"
+    } ]
+  }, {
+    "tStartMs": 2820000,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "仔细观察，我注意到\n工作台裙边内侧边缘有一些"
+    } ]
+  }, {
+    "tStartMs": 2824860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "以前没有的绿色油漆线，这表明\n可能还有更多这样的管道。"
+    } ]
+  }, {
+    "tStartMs": 2829720,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "因为它们似乎是成对安装的。 我\n假设"
+    } ]
+  }, {
+    "tStartMs": 2833980,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "外侧20台发动机每台可能实际上有两根这样的\n管道，也就是说总共有40根。"
+    } ]
+  }, {
+    "tStartMs": 2839440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我之所以认为\n每台发动机有两根，是因为"
+    } ]
+  }, {
+    "tStartMs": 2842560,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "每台猛禽发动机都有四个排放口。\n根据这张猛禽发动机的示意图，"
+    } ]
+  }, {
+    "tStartMs": 2846460,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "有两个液氧\n排放口和两个甲烷排放口是合理的。当然，"
+    } ]
+  }, {
+    "tStartMs": 2851380,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "我们看到的是猛禽V1型发动机，但\n这些排放口在猛禽V2型发动机上仍然存在。"
+    } ]
+  }, {
+    "tStartMs": 2855940,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "此外，这些管道的末端看起来\n与"
+    } ]
+  }, {
+    "tStartMs": 2859300,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "排放口上的接头非常相似，而这正是\n这些管道应该连接的地方。"
+    } ]
+  }, {
+    "tStartMs": 2862540,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "它看起来确实比排放管略大一些，\n但如果不把"
+    } ]
+  }, {
+    "tStartMs": 2866740,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "它们放在一起比较，很难判断。五天后的8月\n16日，又出现了一个重要的变化。"
+    } ]
+  }, {
+    "tStartMs": 2871360,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "我们注意到SpaceX的工程师\n在桌子周围增加了一个新的圆形歧管。"
+    } ]
+  }, {
+    "tStartMs": 2876640,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "这时我们才明白，他们计划将\n其收集起来并运送到其他地方。"
+    } ]
+  }, {
+    "tStartMs": 2880540,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "这比之前的说法要合理得多。 另一种\n方法是将液氧倾倒在桌子边缘，"
+    } ]
+  }, {
+    "tStartMs": 2884980,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "这样它很可能仍然会\n在自旋启动测试期间与甲烷云混合。"
+    } ]
+  }, {
+    "tStartMs": 2890260,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "你们中的一些人可能会想……那么\n这在亚轨道发射台上难道不会也是个问题吗？"
+    } ]
+  }, {
+    "tStartMs": 2894280,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "答案是肯定的。"
+    } ]
+  }, {
+    "tStartMs": 2895540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "正如你所看到的，现有的系统\n显然不足以阻止"
+    } ]
+  }, {
+    "tStartMs": 2899680,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "液氧流向\n测试台的底部。"
+    } ]
+  }, {
+    "tStartMs": 2902920,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "幸运的是，SpaceX 正在将其升级\n为更强大的系统，称为“超强吹扫”（Ultra Purge）。"
+    } ]
+  }, {
+    "tStartMs": 2908800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "歧管\n吊装到位两天后，我们获得了一些"
+    } ]
+  }, {
+    "tStartMs": 2911680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "近距离照片，让我们能够\n看到每根管道"
+    } ]
+  }, {
+    "tStartMs": 2915040,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "\n弯曲到正确位置后将连接到的端口。"
+    } ]
+  }, {
+    "tStartMs": 2919120,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "观察歧管的右侧，你\n可以看到它向下弯曲并穿过"
+    } ]
+  }, {
+    "tStartMs": 2923140,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "助推器快速断开装置（BQD）护罩下方。在这一侧，\n一些管道已经连接好，"
+    } ]
+  }, {
+    "tStartMs": 2926320,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "管道继续\n穿过巨大的快速断开装置罩后，连接"
+    } ]
+  }, {
+    "tStartMs": 2930940,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "到一个三通接头上。\n围绕桌子的圆形歧管就完成了。"
+    } ]
+  }, {
+    "tStartMs": 2934240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "正如你所看到的，当\n歧管的两端在三通处汇合后，"
+    } ]
+  }, {
+    "tStartMs": 2938080,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "管道直径增大。\n这应该可以减少分流汇合"
+    } ]
+  }, {
+    "tStartMs": 2941860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "时可能出现的任何流动阻力\n。"
+    } ]
+  }, {
+    "tStartMs": 2945220,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "这根较大的管道​​沿着支腿向下延伸，\n进入底部的狗窝状结构。从那里，"
+    } ]
+  }, {
+    "tStartMs": 2950620,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "它从\n钢箱上钻的小孔穿出，然后向下弯曲进入"
+    } ]
+  }, {
+    "tStartMs": 2954940,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "地下。它再次出现在混凝土\n管内，该混凝土管要么用于保护外部所有部件免受"
+    } ]
+  }, {
+    "tStartMs": 2960220,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "内部爆炸的影响，要么用于\n保护内部部件免受外部爆炸的影响。"
+    } ]
+  }, {
+    "tStartMs": 2965860,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "但如果他们担心这一点，"
+    } ]
+  }, {
+    "tStartMs": 2967840,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "那么发射台上的所有管道都应该\n被覆盖，所以我认为情况并非如此。"
+    } ]
+  }, {
+    "tStartMs": 2971860,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "这是一种替代方案，\n无需像这样将大量预制涵管"
+    } ]
+  }, {
+    "tStartMs": 2975940,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "埋入地下，\n然后用混凝土覆盖。"
+    } ]
+  }, {
+    "tStartMs": 2979660,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "顺便说一句，有点跑题了，但\n这些东西几周前突然出现在"
+    } ]
+  }, {
+    "tStartMs": 2983560,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "亚轨道农场，\n这非常奇怪。绝对要"
+    } ]
+  }, {
+    "tStartMs": 2987280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "关注一下。 未来几周请密切关注，\n看看这些设施是否很快投入使用。"
+    } ]
+  }, {
+    "tStartMs": 2990160,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "总之，由于这些涵洞不需要，\n节省了很多时间，他们迅速将"
+    } ]
+  }, {
+    "tStartMs": 2994660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "管道铺设到上周刚建成的U型护堤上\n。"
+    } ]
+  }, {
+    "tStartMs": 2999940,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "几周后，\n成品就变成了这样。正如你所看到的，"
+    } ]
+  }, {
+    "tStartMs": 3004080,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "碗状池的倾斜池壁\n大约有六到八英尺"
+    } ]
+  }, {
+    "tStartMs": 3006660,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "高，这使得它成为一个相当\n不错的收集池。"
+    } ]
+  }, {
+    "tStartMs": 3009840,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "感谢Mauricio，我们可以看到它\n在"
+    } ]
+  }, {
+    "tStartMs": 3013740,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Raptor冷却过程各个阶段的运行情况。当\n液氧开始加载到增压器上时，"
+    } ]
+  }, {
+    "tStartMs": 3018240,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "来自Raptor冷却管道的气态氧就会开始\n从收集池的出口排出。"
+    } ]
+  }, {
+    "tStartMs": 3022500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "从这个空中视角，更容易\n识别出流动过渡"
+    } ]
+  }, {
+    "tStartMs": 3026580,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "到液相的时刻，因为液氧池\n开始在池内形成。Raptor"
+    } ]
+  }, {
+    "tStartMs": 3030930,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "冷却系统在整个\n液氧加载过程中保持运行，这直接影响到"
+    } ]
+  }, {
+    "tStartMs": 3035160,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "你在池内看到的景象。\n液氧注入增压器的时间"
+    } ]
+  }, {
+    "tStartMs": 3038580,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "越长，猛禽发动机的冷却过程就越长。这\n意味着这个液氧槽会持续注满更长时间。"
+    } ]
+  }, {
+    "tStartMs": 3043740,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "当测试的发动机数量增加时\n，流入该液氧槽的液氧流量"
+    } ]
+  }, {
+    "tStartMs": 3047640,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "也会增加。\n此过程的下一阶段发生在"
+    } ]
+  }, {
+    "tStartMs": 3051660,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "液氧泵停止工作，\n增压器快速接头（QD）上主注液口的蝶阀关闭"
+    } ]
+  }, {
+    "tStartMs": 3056340,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "之后。此时，你会注意到\nOLM侧面的泄放阀重新"
+    } ]
+  }, {
+    "tStartMs": 3059820,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "打开，开始\n从三叶排气口排出液氧。这是一个"
+    } ]
+  }, {
+    "tStartMs": 3063780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "重要的时刻，但我认为\n很多人并没有完全理解。"
+    } ]
+  }, {
+    "tStartMs": 3066720,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "你在这里看到的是液氧\n软管内的液体被排出。这"
+    } ]
+  }, {
+    "tStartMs": 3071700,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "很可能是为了防止\n增压器快速接头连接出现故障而采取的安全措施。"
+    } ]
+  }, {
+    "tStartMs": 3075840,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "同时，它还能减轻软管的重量，\n这对于确保BQD的"
+    } ]
+  }, {
+    "tStartMs": 3080340,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "快速断开和回缩\n机构正常工作至关重要。"
+    } ]
+  }, {
+    "tStartMs": 3084360,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "这些粗大的软管必须随着引擎盖\n机构的打开而移动。 如果软管"
+    } ]
+  }, {
+    "tStartMs": 3089460,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "保持充满状态，就会显著增加\n液压系统的压力。"
+    } ]
+  }, {
+    "tStartMs": 3096060,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "无论如何，一旦软管排空且"
+    } ]
+  }, {
+    "tStartMs": 3098100,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "泄压阀关闭，即可认为\n燃油加注过程完成。"
+    } ]
+  }, {
+    "tStartMs": 3101460,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "液氧浴 有人吗？？？"
+    } ]
+  }, {
+    "tStartMs": 3103380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "现在我们几乎了解了\n所有事情，除了外侧"
+    } ]
+  }, {
+    "tStartMs": 3106380,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "20 个发动机如何连接到\n集气歧管上的这根管道。 在此之前，"
+    } ]
+  }, {
+    "tStartMs": 3110160,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "我对它的运作方式已经有了自己的假设\n，但我需要确认一下。  8 月 23 日，"
+    } ]
+  }, {
+    "tStartMs": 3114060,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "当 7 号助推器\n"
+    } ]
+  }, {
+    "tStartMs": 3117600,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "重新安装完 13 台中心发动机后返回发射场时，\n我意识到这可能是"
+    } ]
+  }, {
+    "tStartMs": 3121500,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "我唯一一次有机会看到 SpaceX 完成\n所有这些连接工作。"
+    } ]
+  }, {
+    "tStartMs": 3125820,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "一旦被吊装到\n发射台上，监视行动就开始了。"
+    } ]
+  }, {
+    "tStartMs": 3129660,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "第二天凌晨两点左右\n，我找到了我要找的东西。"
+    } ]
+  }, {
+    "tStartMs": 3133860,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "两名工人站在高空作业车上，将大约\n40 根蓝色软管吊到"
+    } ]
+  }, {
+    "tStartMs": 3139260,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "工作平台上。 如果你从\n这一集中有所收获，请记住这一点……如果你"
+    } ]
+  }, {
+    "tStartMs": 3143640,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "\n像我一样喜欢快速下结论，那么"
+    } ]
+  }, {
+    "tStartMs": 3146340,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "请确保你也能同样迅速地\n识别出你判断错误的迹象。"
+    } ]
+  }, {
+    "tStartMs": 3150600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "当我注意到后面的工人\n举起一把红色软管时，"
+    } ]
+  }, {
+    "tStartMs": 3153840,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "我的脑海中立刻响起了警报。"
+    } ]
+  }, {
+    "tStartMs": 3156420,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "“等等，什么？为什么这些管道颜色不一样？"
+    } ]
+  }, {
+    "tStartMs": 3159780,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "难道这些管道一半\n是氧气，一半是甲烷？如果是的话，把"
+    } ]
+  }, {
+    "tStartMs": 3164760,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "它们混合到\n集气管里会很麻烦……？”"
+    } ]
+  }, {
+    "tStartMs": 3169800,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "但事实并非如此，\n这完全是另一回事。"
+    } ]
+  }, {
+    "tStartMs": 3172320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "红色软管实际上\n比蓝色软管长，而且数量也"
+    } ]
+  }, {
+    "tStartMs": 3175680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "少得多，因为他\n能够一次性举起所有红色软管。"
+    } ]
+  }, {
+    "tStartMs": 3178560,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "此后不久，我看到工人们\n开始将软管连接到外侧的 20 台"
+    } ]
+  }, {
+    "tStartMs": 3183480,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "发动机上。 我注意到，\n我看到的几乎所有传递的软管都是蓝色的。"
+    } ]
+  }, {
+    "tStartMs": 3188220,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "一个红色的都没有。"
+    } ]
+  }, {
+    "tStartMs": 3189720,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "我还注意到\n裙摆中间还有一根孤零零的管道。"
+    } ]
+  }, {
+    "tStartMs": 3193980,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "我原以为旁边应该已经安装好另一台了\n，这样每组"
+    } ]
+  }, {
+    "tStartMs": 3198420,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "两根集气管就应该分布在\n六条支腿之间，总共36根……"
+    } ]
+  }, {
+    "tStartMs": 3205320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "等等……我突然意识到"
+    } ]
+  }, {
+    "tStartMs": 3207840,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "“哦，不对，只有33根，不是40根。哇！”"
+    } ]
+  }, {
+    "tStartMs": 3212940,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "之所以这一侧有五根，而正\n对面有六根，"
+    } ]
+  }, {
+    "tStartMs": 3216240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "是因为如果每组支腿之间有五根管子\n，总共就是30根，"
+    } ]
+  }, {
+    "tStartMs": 3221580,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "这意味着有六根管子的那侧\n一定是连接三个中央发动机的管道"
+    } ]
+  }, {
+    "tStartMs": 3225780,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "。\n为了能够连接到中间的 13 台发动机，红色软管必须更长一些。"
+    } ]
+  }, {
+    "tStartMs": 3230700,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "现在我终于明白了发动机\n是如何连接到收集歧管的，这就"
+    } ]
+  }, {
+    "tStartMs": 3235500,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "更能理解为什么\n助推器 7 的发动机护罩的弯曲部分从未被更换了。"
+    } ]
+  }, {
+    "tStartMs": 3240840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "拆掉护罩可以更容易地\n接触到排水口，而排水口可能已经被"
+    } ]
+  }, {
+    "tStartMs": 3244440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "重新安置了，因为它不再需要\n直接指向地面了。"
+    } ]
+  }, {
+    "tStartMs": 3248880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "我认为，为了到达中间的 13 台"
+    } ]
+  }, {
+    "tStartMs": 3250920,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "发动机，这些发动机的软管\n也必须从相同的开口进入。"
+    } ]
+  }, {
+    "tStartMs": 3255120,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "否则，它们就必须安装在\n发动机喇叭口之间，"
+    } ]
+  }, {
+    "tStartMs": 3259500,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "考虑到它们必须\n经受住静态点火测试，这听起来像是一个糟糕的主意。当然，"
+    } ]
+  }, {
+    "tStartMs": 3263520,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "这也解释了为什么大家期待的坚固性升级\n仍然没有包括"
+    } ]
+  }, {
+    "tStartMs": 3268260,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "弧形屏蔽罩，\n自从助推器 7 决定弹射到海里后，弧形屏蔽罩就一直缺失。"
+    } ]
+  }, {
+    "tStartMs": 3273660,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "说真的，\n中间那 13 台发动机的这些软管……"
+    } ]
+  }, {
+    "tStartMs": 3277140,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "哇，我简直无法想象要把\n它们穿过那么多管道。"
+    } ]
+  }, {
+    "tStartMs": 3281640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "但两天后，我意识到\n或许真的有必"
+    } ]
+  }, {
+    "tStartMs": 3285960,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "要这样做，原因如下：  8 月 25 日，我\n第一次近距离观察了 Raptor 冷却管的"
+    } ]
+  }, {
+    "tStartMs": 3291000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "实际工作情况。我错过了第一次三重旋转\nPrime 测试，因为……呃，是的，我在上班。"
+    } ]
+  }, {
+    "tStartMs": 3297060,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "我本来可以拍到第二个，但我错过了，\n因为看完这个之后，我"
+    } ]
+  }, {
+    "tStartMs": 3302220,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "意识到我还有些工作要做。 当大多数\n观看直播的人都在"
+    } ]
+  }, {
+    "tStartMs": 3306120,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "关注从湿漉漉的发动机铃铛上滴落的雨水时，\n我却盯着这三根管子看。"
+    } ]
+  }, {
+    "tStartMs": 3311400,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "正如你所看到的，它们看起来像是\n白​​色的，而不是闪亮的银色。"
+    } ]
+  }, {
+    "tStartMs": 3315360,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "原因是\n"
+    } ]
+  }, {
+    "tStartMs": 3318180,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\n猛禽发动机内部的液氧仍在沸腾蒸发，所以发动机表面结了霜。"
+    } ]
+  }, {
+    "tStartMs": 3321240,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "真是太神奇了，光看这些管道\n就能数出有多少台发动机即将"
+    } ]
+  }, {
+    "tStartMs": 3326340,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "参与旋转启动或静态点火测试。\n如果我知道它们连接到哪些发动机，"
+    } ]
+  }, {
+    "tStartMs": 3330720,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "也许就能预测哪些\n发动机即将接受测试。"
+    } ]
+  }, {
+    "tStartMs": 3333420,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "这以后或许能派上用场。 于是我\n开始着手弄清楚"
+    } ]
+  }, {
+    "tStartMs": 3338220,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "这些管道的具体布局，首先要\n弄清楚哪一侧有六根管道"
+    } ]
+  }, {
+    "tStartMs": 3342120,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "而不是五根，这样我才能确定\n中央发动机的位置。"
+    } ]
+  }, {
+    "tStartMs": 3345000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "为了做到这一点，我们需要\n一个共同的参照点。"
+    } ]
+  }, {
+    "tStartMs": 3347880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "最好使用埃隆提供的这张照片，"
+    } ]
+  }, {
+    "tStartMs": 3350400,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "这张照片乍一看很难\n分辨它的朝向。 所以，"
+    } ]
+  }, {
+    "tStartMs": 3353940,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "我来帮你理解一下，这基本上就是\n"
+    } ]
+  }, {
+    "tStartMs": 3358260,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "从宇宙视角\n在七引擎静态点火测试期间面对助推器量子点时所处的角度看向的方向。"
+    } ]
+  }, {
+    "tStartMs": 3363240,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "既然我们知道了\n它指向哪个方向，那就让我们"
+    } ]
+  }, {
+    "tStartMs": 3366960,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "快速浏览一下。 从裙子\n另一侧往下看，我们可以看到四根管道，但这"
+    } ]
+  }, {
+    "tStartMs": 3371400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "并不是我们要找的，\n所以我们必须移到背面去。"
+    } ]
+  }, {
+    "tStartMs": 3374280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "现在我们来到这里，可以数一数\n在这个部分的歧管上焊接了多少个管件。"
+    } ]
+  }, {
+    "tStartMs": 3378720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "在最右边，我们可以看到\n第二个双组歧管的右边有一个单独的入口。"
+    } ]
+  }, {
+    "tStartMs": 3383520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "简单说明一下，在我们\n继续之前，外侧"
+    } ]
+  }, {
+    "tStartMs": 3387120,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "20 个发动机的接头应该均匀地分布在\n歧管周围。每当我们看到两根管道"
+    } ]
+  }, {
+    "tStartMs": 3391860,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "像这样并排时，就意味着\n其中一根管道通往第 10 个发动机的中心环。"
+    } ]
+  }, {
+    "tStartMs": 3395880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "这是因为它必须穿过\n最近的敞开式发动机护罩"
+    } ]
+  }, {
+    "tStartMs": 3400200,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "才能到达那里。 下一部分\n有六根管道，但我只标为五根，"
+    } ]
+  }, {
+    "tStartMs": 3404460,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "因为你会看到其中一根\n实际上是伸到桌子里面的。"
+    } ]
+  }, {
+    "tStartMs": 3407580,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "如果让我猜测，这可能是用来监测\n内部压力，或者用于其他用途，"
+    } ]
+  }, {
+    "tStartMs": 3412680,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "但我们目前还没有深入调查这部分内容\n。 接下来是一组真正的"
+    } ]
+  }, {
+    "tStartMs": 3417540,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "六台发动机，旁边还有一台，\n然后是位于"
+    } ]
+  }, {
+    "tStartMs": 3422460,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Rover 2 摄像机通常指向的两条腿之间的五台发动机\n，然后我们可以假设最后一台是六台。"
+    } ]
+  }, {
+    "tStartMs": 3427680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "一旦我确定了\n五台和六台发动机所在的组的位置，"
+    } ]
+  }, {
+    "tStartMs": 3430320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "就该弄清楚这些\n发动机是如何分组的了。"
+    } ]
+  }, {
+    "tStartMs": 3434040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "这可能是最难\n弄清楚的部分，但在与"
+    } ]
+  }, {
+    "tStartMs": 3437640,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "CSI 特工 Jax 熬夜之后，我们终于\n想出了一个合理的引擎分组方案。"
+    } ]
+  }, {
+    "tStartMs": 3442440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "接下来的部分至关重要，因为我\n需要尽可能准确地弄清楚如何正确地布置"
+    } ]
+  }, {
+    "tStartMs": 3446280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "管道，\n才能预测哪些管道正在接受测试。"
+    } ]
+  }, {
+    "tStartMs": 3450840,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "做到一半的时候，我就\n对它的复杂程度感到非常沮丧。"
+    } ]
+  }, {
+    "tStartMs": 3454380,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "一定有办法简化这一切\n。 我觉得中间的 13 台发动机"
+    } ]
+  }, {
+    "tStartMs": 3458880,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "应该通过助推器量子点\n或其他方式进行控制。 我的意思是，我知道"
+    } ]
+  }, {
+    "tStartMs": 3463020,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "为了给\n这13台发动机做一个歧管，需要增加一些管道，但也许"
+    } ]
+  }, {
+    "tStartMs": 3467460,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "可以通过……比如说，用\n增压器快速启动装置来启动中间的13台发动机？"
+    } ]
+  }, {
+    "tStartMs": 3472500,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "如果发射台负责启动\n全部 33 台发动机，而不是只负责启动外侧的 20 台，"
+    } ]
+  }, {
+    "tStartMs": 3477360,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "那么助推器只需要足够的\nCOPV 即可完成返回助推和着陆燃烧。"
+    } ]
+  }, {
+    "tStartMs": 3482880,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "根据\n助推器反燃阶段使用的发动机数量，助推器上"
+    } ]
+  }, {
+    "tStartMs": 3485640,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "所需的 COPV 总量\n可以减少一半。"
+    } ]
+  }, {
+    "tStartMs": 3490320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "我通常会把这种想法藏在心里，\n但我决定把它"
+    } ]
+  }, {
+    "tStartMs": 3493440,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "发到推特上向埃隆提问，然后我就把\n手机扔到一边，回去工作了。"
+    } ]
+  }, {
+    "tStartMs": 3497820,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "第二天早上，埃隆出人意料地回复了\n我的推文，内容如下："
+    } ]
+  }, {
+    "tStartMs": 3501960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "“同意，我们最近做出了\n这项改变以及其他许多改变。”"
+    } ]
+  }, {
+    "tStartMs": 3506880,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "哇，这真是意义重大，但\n我感到惊讶的原因是，他是在一条推文里发的："
+    } ]
+  }, {
+    "tStartMs": 3513300,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "“兄弟，我就在高速公路这边。”"
+    } ]
+  }, {
+    "tStartMs": 3517080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "我的意思是，我很感激，但他\n完全可以走过来告诉我。"
+    } ]
+  }, {
+    "tStartMs": 3521340,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "还有，这条推文的后半部分是什么意思？"
+    } ]
+  }, {
+    "tStartMs": 3523320,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "“目前正在全力以赴，力求\n在发生"
+    } ]
+  }, {
+    "tStartMs": 3527460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "快速非计划解体（RUD）时实现可靠的发动机密封，以\n保护助推器、其他发动机和发射环。”"
+    } ]
+  }, {
+    "tStartMs": 3532500,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "嗯，这\n跟我的问题好像没什么关系……"
+    } ]
+  }, {
+    "tStartMs": 3534540,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "“等等，这是在暗示什么吗？\n哦，我喜欢这种游戏！”"
+    } ]
+  }, {
+    "tStartMs": 3539340,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "我不得不把这件事搁置一段时间，因为\n我认为他是在试图分散我对"
+    } ]
+  }, {
+    "tStartMs": 3543060,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "这项调查的注意力。 我终于完成了\n我的图表，它看起来是这样的。"
+    } ]
+  }, {
+    "tStartMs": 3547620,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "很棒吧？ 我称之为超浓稠\n意面特餐。 这是特别的，因为"
+    } ]
+  }, {
+    "tStartMs": 3552240,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "它只在这里停留一段时间，因为\n助推器不能像这样发射。 没有办法，"
+    } ]
+  }, {
+    "tStartMs": 3558060,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "但在我们去担心\n永久解决方案需要是什么样子之前，"
+    } ]
+  }, {
+    "tStartMs": 3560520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "让我们好好\n享受当下，尽情玩乐吧。"
+    } ]
+  }, {
+    "tStartMs": 3564420,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "现在是时候将我们\n自调查开始以来所学到的一切付诸"
+    } ]
+  }, {
+    "tStartMs": 3568380,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "实践了，首先就是这段\n8 月 31 日 7 号助推器单引擎静态点火测试的视频。"
+    } ]
+  }, {
+    "tStartMs": 3573660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "为了达到效果，高速播放这段视频，\n如果你观察"
+    } ]
+  }, {
+    "tStartMs": 3577860,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "腿部左侧的歧管，你可以看到\n猛禽冷却开始时会发生什么。"
+    } ]
+  }, {
+    "tStartMs": 3582240,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "整个歧管开始结霜。\n请注意，它从"
+    } ]
+  }, {
+    "tStartMs": 3586980,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "T 字形弯道左侧开始，然后迅速沿着\nOLM 的腿向下延伸。"
+    } ]
+  }, {
+    "tStartMs": 3591060,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "与此同时，它开始向\nT 型接头的右侧移动"
+    } ]
+  }, {
+    "tStartMs": 3594480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "，在这里你可以很快看到，\n突然间很难看出它"
+    } ]
+  }, {
+    "tStartMs": 3598560,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "移动的方向，因为\n整个管道同时结霜了。"
+    } ]
+  }, {
+    "tStartMs": 3602760,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "如果我们放大，就能看到\n它为什么会这样了。 屏幕正"
+    } ]
+  }, {
+    "tStartMs": 3606300,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "中间的猛禽冷却管\n"
+    } ]
+  }, {
+    "tStartMs": 3609180,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "与\nT 形左侧的第一个发动机同时充入液氧。"
+    } ]
+  }, {
+    "tStartMs": 3612480,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "从这个角度我们无法确定哪个引擎是哪个\n，但我们可以确定二号引擎是哪个。"
+    } ]
+  }, {
+    "tStartMs": 3617340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "基于我们\n从这个角度观察的事实，"
+    } ]
+  }, {
+    "tStartMs": 3619800,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "我认为我们应该\n在这里看到这台发动机。"
+    } ]
+  }, {
+    "tStartMs": 3623280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "从静态点火测试来看，结果似乎\n吻合得很好，但如果"
+    } ]
+  }, {
+    "tStartMs": 3627600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "没有其他帮助，很难确定。当然，\n在这种情况下，唯一"
+    } ]
+  }, {
+    "tStartMs": 3631800,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "能够确切告诉我们\n究竟是哪台发动机在点火的人之一就是瑞安·汉森航天公司。"
+    } ]
+  }, {
+    "tStartMs": 3636420,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "因此，在他的帮助下，我想\n在下一次重大测试活动中验证我的理论。"
+    } ]
+  }, {
+    "tStartMs": 3640980,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "多亏了 Ryan，我们才能\n得到一份测试过的发动机图表，"
+    } ]
+  }, {
+    "tStartMs": 3643500,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "这样我们就可以回头看看\n它们与我的分组是否吻合。"
+    } ]
+  }, {
+    "tStartMs": 3647760,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "这次测试我们只有一个好角度，镜头\n放大到足以看到磨砂管道，所以我们"
+    } ]
+  }, {
+    "tStartMs": 3652740,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "肯定能看到这里的一根，然后另\n一边还有一根，这应该"
+    } ]
+  }, {
+    "tStartMs": 3658620,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "与这里突出显示的两台发动机相对应。\n根据瑞恩的图示，这完全吻合。"
+    } ]
+  }, {
+    "tStartMs": 3664320,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "右侧还有一个，\n也是磨砂质感的"
+    } ]
+  }, {
+    "tStartMs": 3667080,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "，我相信它与\n猛禽增压发动机在这里的位置吻合。"
+    } ]
+  }, {
+    "tStartMs": 3670260,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "这张图可能并不完美，但\n重点是，现在你至少知道"
+    } ]
+  }, {
+    "tStartMs": 3674880,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "在观看这些测试时应该注意什么，\n如果你使用实验室的 Padres"
+    } ]
+  }, {
+    "tStartMs": 3679020,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Predator 摄像机（我最喜欢的\n观看静态火力测试的摄像机），那就更容易了。"
+    } ]
+  }, {
+    "tStartMs": 3682680,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "这就是三引擎飞机\n即将发生静态火灾时的样子。 从歧管上斑驳的痕迹可以看出，"
+    } ]
+  }, {
+    "tStartMs": 3687540,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "发动机数量很少，\n而且只有部分区域是蓝色的。 当你"
+    } ]
+  }, {
+    "tStartMs": 3692520,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "看到蓝色的超冷管道时，这意味着\n附近有一台发动机正在冷却模式下运行。 在这个例子中，"
+    } ]
+  }, {
+    "tStartMs": 3697800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "我们正前方的发动机组\n将完全不会被测试。"
+    } ]
+  }, {
+    "tStartMs": 3702780,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "另一方面，\n当 SpaceX 准备进行 33 台发动机测试时，场面是这样的。"
+    } ]
+  }, {
+    "tStartMs": 3708420,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "你可以看到集水歧管\n发出蓝光，并且"
+    } ]
+  }, {
+    "tStartMs": 3712200,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "从\n各个集水管的位置垂下黑色的线条。"
+    } ]
+  }, {
+    "tStartMs": 3716640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "从这个距离看，有些\n管道靠得太近，"
+    } ]
+  }, {
+    "tStartMs": 3719400,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "无法区分，所以\n它们看起来像一条黑线。"
+    } ]
+  }, {
+    "tStartMs": 3724500,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 3727560,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "如果看不到\n发射架背面，那么在寻找霜冻冷却线时就会有一些明显的局限性，因为"
+    } ]
+  }, {
+    "tStartMs": 3730620,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "我们实际上只能看到大约一半的\n猛禽冷却线。"
+    } ]
+  }, {
+    "tStartMs": 3733320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "因此，要真正确定\n桌子上每个发动机的位置，需要所有"
+    } ]
+  }, {
+    "tStartMs": 3738000,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "\n能够清晰看到发射架的直播摄像头进行协调，"
+    } ]
+  }, {
+    "tStartMs": 3742020,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "它们都需要\n同时放大画面来寻找目标。"
+    } ]
+  }, {
+    "tStartMs": 3747300,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "总之，尽管这很酷，但我们现在\n看到的并不是一件好事。"
+    } ]
+  }, {
+    "tStartMs": 3751740,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "我想我们都能同意，这只是一个\n临时解决方案，SpaceX 不能"
+    } ]
+  }, {
+    "tStartMs": 3755700,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "就这样发射，发动机裙内还连接着 33 个手动断开装置\n。"
+    } ]
+  }, {
+    "tStartMs": 3759660,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "那他们打算怎么办？"
+    } ]
+  }, {
+    "tStartMs": 3761160,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "我们还没看到他们着手研究\n其他永久性解决方案，对吧？"
+    } ]
+  }, {
+    "tStartMs": 3763620,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "如果我告诉你SpaceX可能\n已经有了解决这个问题的方法，但由于"
+    } ]
+  }, {
+    "tStartMs": 3768120,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "某种原因他们却没有采用，你会怎么想？ 说实话\n，我觉得他们可能甚至有点害怕它……"
+    } ]
+  }, {
+    "tStartMs": 3774840,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "我得小声点说，因为我\n非常确定这座塔能听到我说话。"
+    } ]
+  }, {
+    "tStartMs": 3778320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "这是轨道发射台上唯一一个\n我从未亲眼见过其运行的系统。"
+    } ]
+  }, {
+    "tStartMs": 3782880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "我想提醒大家，我接下来\n要说的内容纯属推测。"
+    } ]
+  }, {
+    "tStartMs": 3786600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "\n你即将听到的一些信息很可能"
+    } ]
+  }, {
+    "tStartMs": 3789120,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "是不正确的。 正如你\n所看到的，轨道发射台"
+    } ]
+  }, {
+    "tStartMs": 3792660,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "是一台极其复杂的机器，所以对于\n我说的一切，都不要全信。"
+    } ]
+  }, {
+    "tStartMs": 3797640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "很遗憾，我们得等到\n本次深度调查的第二部分"
+    } ]
+  }, {
+    "tStartMs": 3801480,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "才能回答这些问题。 这或许\n看起来包含了你可能需要的所有信息，"
+    } ]
+  }, {
+    "tStartMs": 3805080,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "但相信我，我们还有很多\n内容要讲，你绝对不想错过。"
+    } ]
+  }, {
+    "tStartMs": 3809640,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "所以，\n如果你还没有订阅频道，请务必订阅，"
+    } ]
+  }, {
+    "tStartMs": 3811440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "并点击提醒图标，\n这样你就不会错过下一次首播。"
+    } ]
+  }, {
+    "tStartMs": 3815340,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "希望各位老\n观众能够看出，我这次真的"
+    } ]
+  }, {
+    "tStartMs": 3818400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "竭尽全力为大家打造了一次与众不同的体验。\n我知道很多人更喜欢"
+    } ]
+  }, {
+    "tStartMs": 3822960,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "这种身临其境的星际基地现场拍摄形式，\n而不是绿幕拍摄。"
+    } ]
+  }, {
+    "tStartMs": 3827220,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "如果您想看到更多此类\n深度调查，并希望"
+    } ]
+  }, {
+    "tStartMs": 3830940,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "帮助\n我更频繁地进行此类调查，请考虑"
+    } ]
+  }, {
+    "tStartMs": 3834720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "加入频道成为 YouTube 会员\n或在 Patreon 上成为月度支持者。根据级别不同，这"
+    } ]
+  }, {
+    "tStartMs": 3839220,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "两种方式都将使您能够访问 CSI\nStarbase Discord 服务器。"
+    } ]
+  }, {
+    "tStartMs": 3844560,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "如果您想立即产生\n影响并向电影摄影机"
+    } ]
+  }, {
+    "tStartMs": 3848100,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "基金捐款，以便我们能够大幅提高\n这些小品和过场动画的质量，您"
+    } ]
+  }, {
+    "tStartMs": 3851700,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "可以\n通过使用说明中的链接在 PayPal 上向 CSI Starbase 捐款。"
+    } ]
+  }, {
+    "tStartMs": 3855780,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "我们已经完成了一半多一点，所以我要\n衷心感谢所有"
+    } ]
+  }, {
+    "tStartMs": 3860160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "支持这个频道的人，希望我\n没有在鸣谢名单中遗漏你们任何人的名字，"
+    } ]
+  }, {
+    "tStartMs": 3864120,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "如果遗漏了，请随时\n在 Patreon 上联系我并告诉我。"
+    } ]
+  }, {
+    "tStartMs": 3868260,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "最后，我要再次\n大力感谢 Marcus House、"
+    } ]
+  }, {
+    "tStartMs": 3871500,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "StarshipGazer 和 Tim Dodd\n对本集节目的直接贡献，"
+    } ]
+  }, {
+    "tStartMs": 3875820,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "还要感谢今天节目中使用的摄影师和 3D 取证\n人员的拍摄素材。"
+    } ]
+  }, {
+    "tStartMs": 3880560,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "没有他们，这一切都不可能实现。\n如果您想支持这些"
+    } ]
+  }, {
+    "tStartMs": 3884580,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "艺术家，可以\n在简介中找到他们各个平台的链接。"
+    } ]
+  }, {
+    "tStartMs": 3887640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "但我希望让大家知道，\n通过支持 CSI Starbase，你们"
+    } ]
+  }, {
+    "tStartMs": 3891480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "也同时支持了这些摄影师和 3D\n艺术家。我这样说的原因是，我们"
+    } ]
+  }, {
+    "tStartMs": 3895320,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "承诺将 Patreon 收入的三分之二重新投入\n到这些内容创作者身上。"
+    } ]
+  }, {
+    "tStartMs": 3900240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "正如我所说，我们确实需要他们才能\n继续在这里开展我们的工作。"
+    } ]
+  }, {
+    "tStartMs": 3904080,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "再次感谢大家观看\n本次深度调查的第一部分，别忘了"
+    } ]
+  }, {
+    "tStartMs": 3907980,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 3911580,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "每周六中午（中部时间）收看由 RGV 航拍公司主持的 Starbase 每周直播。"
+    } ]
+  }, {
+    "tStartMs": 3914340,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "我不可能每次都讲到\n所有"
+    } ]
+  }, {
+    "tStartMs": 3916680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "内容，所以有很多东西你\n只能在直播中听到。"
+    } ]
+  }, {
+    "tStartMs": 3920700,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "还有一样东西只有在 RGV Aerial 才能买到，那\n就是这件印有 Starship TPS 图案的超棒 T 恤。"
+    } ]
+  }, {
+    "tStartMs": 3925680,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "如果你想给\n自己或你生命中特别的人买一件，"
+    } ]
+  }, {
+    "tStartMs": 3929580,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "那就去看看 RGV 周边商店吧，\n链接就在简介里。"
+    } ]
+  }, {
+    "tStartMs": 3933420,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "看来我的时间到了，我们\n下期调查的第二部分再见。"
+    } ]
+  }, {
+    "tStartMs": 3937800,
+    "dDurationMs": 3219,
+    "segs": [ {
+      "utf8": "在此之前，StageZeroZack 告别 [音乐]"
+    } ]
+  } ]
+}
