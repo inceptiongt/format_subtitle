@@ -87,7 +87,7 @@ format-subtitle input.zh-Hans-en.json3 -m
 
 ## 获得字幕文件：yt-dlp
 
-`~/Documents/yt-dlp_macos URL --skip-download --write-info-json --sub-langs 'en,zh-Hans-en' --sub-format json3 --write-subs --write-auto-subs -o '%(fulltitle)s - %(channel)s'` 
+`~/Documents/yt-dlp_macos URL --skip-download --write-info-json --sub-langs 'en,zh-Hans-en' --sub-format json3 --write-subs --write-auto-subs -o '%(fulltitle)s - %(channel)s - %(upload_date)s'` 
 
 - `--skip-download`: 跳过视频下载，只下载字幕和元数据
 - `--write-info-json`: 下载视频的元数据并保存为 JSON 文件，info.json
@@ -95,7 +95,7 @@ format-subtitle input.zh-Hans-en.json3 -m
 - `--sub-format json3`: 指定字幕格式为 JSON3 格式
 - `--write-subs`: 下载视频的字幕，保存为文件
 - `--write-auto-subs`: 下载自动生成的字幕，保存为文件
-- `-o '%(fulltitle)s - %(channel)s'`: 设置输出文件名格式，使用视频标题和频道名称
+- `-o '%(fulltitle)s - %(channel)s - %(upload_date)s'`: 设置输出文件名格式，使用视频标题+频道名称+上传时间
 
 
 ## 优化
