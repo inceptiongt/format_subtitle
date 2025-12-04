@@ -138,11 +138,11 @@ export const subArr2Md = (json: subtitle_item[], chapters?: chapter_item[], json
     }
 
     // Add Chinese content
-    currentChapterContent += item.segs[0].utf8.replace(/\n/g, '');
+    currentChapterContent += item.segs.map(i => i.utf8).join('').replace(/\n/g, '');
     
     // Add corresponding English content if available
     if (json_english && json_english[index]) {
-      currentChapterEnglishContent += json_english[index].segs[0].utf8.replace(/\n/g, '').replace(/\s*$/, ' ');
+      currentChapterEnglishContent += json_english[index].segs.map(i => i.utf8).join('').replace(/\n/g, '').replace(/\s*$/, ' ');
     }
   });
 

@@ -123,7 +123,7 @@ export const format_subtitle = (subtitle: subtitle_item[]) => {
 
   for (const item of subtitle) {
     const {tStartMs,dDurationMs} = item
-    const iChar = cleanText(item.segs[0].utf8)
+    const iChar = cleanText(item.segs.map(i => i.utf8).join(''))
 
     // 如果字幕为空，则跳过
     if(iChar === ''){
